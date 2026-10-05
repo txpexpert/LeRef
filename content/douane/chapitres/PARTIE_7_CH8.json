@@ -1,0 +1,245 @@
+[
+ {
+  "id": "7-070",
+  "p": 7,
+  "ch": "7.8",
+  "c": "Zones d'accélération industrielle",
+  "t": "Zones d'accélération industrielle (ZAI) : statut douanier, extraterritorialité et surveillance permanente",
+  "enbref": "Les zones d'accélération industrielle font partie du territoire douanier mais sont exclues du territoire assujetti : les marchandises qui y entrent depuis l'étranger ne sont pas importées au sens du CDII, et celles qui en sortent vers le reste du Maroc le sont. La douane y exerce une surveillance permanente sur les personnes, les moyens de transport et les marchandises.",
+  "textes": [
+   "CDII, art. 1er",
+   "CDII, art. 166 quater",
+   "Circulaire ADII n° 6398/210 du 29/12/2022 (LF 2023)",
+   "Arrêté n° 1319-77, art. 17 terdecies"
+  ],
+  "principe": "Le CDII définit les ZAI comme des zones du territoire douanier soustraites à tout ou partie des lois et règlements douaniers ; elles sont exclues du « territoire assujetti », qui comprend la partie terrestre du territoire douanier, les ports, rades et installations en eaux territoriales (CDII, art. 1er). Par voie de conséquence, l'« importation » désigne l'entrée sur le territoire assujetti de marchandises venant de l'étranger ou des ZAI, et l'« exportation » la sortie de ce territoire (art. 1er). Les accès aux ZAI sont placés sous la surveillance permanente du service des douanes : les personnes et moyens de transport qui y entrent ou en sortent sont soumis au contrôle douanier, et le service peut contrôler à tout moment l'entrée, la sortie et le séjour des marchandises (art. 166 quater). Les entrées et sorties se font sous une déclaration dont la forme est fixée par arrêté (arrêté n° 1319-77, art. 17 terdecies).",
+  "admin": "La circulaire n° 6398/210 présente le titre VI ter « Zones d'accélération industrielle » ajouté au CDII par la loi de finances 2023 (art. 166 quater à 166 sexies) : surveillance permanente des accès, sort des marchandises à la sortie et règles de mise à la consommation sur le territoire assujetti.",
+  "donnees": [
+   [
+    "Statut",
+    "Territoire douanier, hors territoire assujetti (CDII, art. 1er)"
+   ],
+   [
+    "Entrée sur le territoire assujetti depuis une ZAI",
+    "Importation (CDII, art. 1er)"
+   ],
+   [
+    "Surveillance",
+    "Permanente aux accès ; contrôle des personnes, véhicules et marchandises (CDII, art. 166 quater)"
+   ],
+   [
+    "Base légale du titre ZAI",
+    "Loi de finances 2023 (circ. 6398/210 du 29/12/2022)"
+   ],
+   [
+    "Déclaration d'entrée et de sortie",
+    "Modèle de l'annexe X (arrêté n° 1319-77, art. 17 terdecies)"
+   ]
+  ],
+  "cas": "Atlas Câblage SA, société fictive, s'installe dans la ZAI de Kénitra pour fabriquer des faisceaux électriques destinés à des constructeurs européens. Ses bobines de cuivre arrivent d'Espagne : leur entrée en ZAI n'est pas une importation au sens du CDII et ne donne pas lieu à mise à la consommation (CDII, art. 1er). En revanche, si un client marocain lui commande des faisceaux, leur sortie de la ZAI vers le reste du Maroc constituera une importation. Erreur à éviter : livrer un client situé hors de la zone comme s'il s'agissait d'un simple transfert interne ; l'opération relève du dédouanement à l'importation.",
+  "juris": "",
+  "conseil": "Raisonnez toujours en flux : chaque passage de la barrière de la ZAI, dans un sens ou dans l'autre, a une qualification douanière. Intégrez dès l'implantation les contrôles d'accès dans l'organisation logistique : badges, plannings de chargement et scellés. Pour les achats auprès de fournisseurs marocains, prévoyez qu'ils déclarent leurs livraisons à l'exportation vers la zone.",
+  "faq": [
+   [
+    "Une ZAI fait-elle partie du territoire douanier marocain ?",
+    "Oui, mais elle est exclue du territoire assujetti ; les marchandises qui en sortent vers le reste du Maroc sont importées (CDII, art. 1er)."
+   ],
+   [
+    "La douane peut-elle contrôler les stocks à l'intérieur d'une ZAI ?",
+    "Oui, le service peut contrôler à tout moment l'entrée, la sortie et le séjour des marchandises (CDII, art. 166 quater)."
+   ]
+  ],
+  "renvois": [
+   "1-010",
+   "1-012",
+   "7-071",
+   "7-072",
+   "7-073"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-071",
+  "p": 7,
+  "ch": "7.8",
+  "c": "Zones d'accélération industrielle",
+  "t": "Entrées et sorties de marchandises en ZAI avec l'étranger et entre zones : transit 855, 856 et 866 et circuit d'acheminement",
+  "enbref": "Les marchandises venant de l'étranger rejoignent la ZAI en transit sous le régime 855 ; celles qui partent vers l'étranger ou une autre zone circulent sous les régimes 866 et 856. Depuis 2021, l'acheminement sous scellés part sans attendre la confirmation d'entrée, l'autorisation étant donnée à la porte de sortie de la zone.",
+  "textes": [
+   "CDII, art. 166 quater et 166 quinquies",
+   "Circulaire ADII n° 6047/312 du 20/05/2020",
+   "Circulaire ADII n° 6191/312 du 11/05/2021",
+   "Circulaire ADII n° 6571/313 du 12/06/2024",
+   "Circulaire ADII n° 6190/313 du 05/05/2021",
+   "Circulaire ADII n° 6707/313 du 31/12/2025"
+  ],
+  "principe": "Les marchandises sortant des ZAI peuvent être exportées ou réexportées hors du territoire assujetti (CDII, art. 166 quinquies). Leur entrée, leur séjour et leur sortie sont contrôlés par le service des douanes (art. 166 quater). Entre le port ou l'aéroport et la zone, la marchandise traverse le territoire assujetti : elle circule donc en transit, sous douane.",
+  "admin": "La circulaire n° 6047/312 attribue les codes 855 (transit import de l'étranger vers une zone), 856 (transit entre zones non portuaires ni aéroportuaires) et 866 (transit export d'une zone vers l'étranger). La circulaire n° 6191/312 simplifie le circuit des régimes 856 et 866 : après signature de la déclaration et pose des scellés, la marchandise est acheminée vers la porte de sortie de la zone sans attendre l'autorisation ; l'agent y consulte BADR, qui décide l'autorisation ou une visite ; le bureau de destination confirme l'arrivée et donne le « vu embarquer » pour le régime 866. La circulaire n° 6571/313 permet un état de chargement sans transit pour les déclarations 856 et 866. La circulaire n° 6190/313 impose la valeur brute pour le transit à l'export depuis les zones. La circulaire n° 6707/313 prévoit un cautionnement sur engagement pour les exportateurs en ZAI, couvrant le transit depuis, vers et entre ZAI.",
+  "donnees": [
+   [
+    "Codes régimes",
+    "855 import vers zone ; 856 entre zones ; 866 zone vers étranger (circ. 6047/312)"
+   ],
+   [
+    "Autorisation d'acheminement",
+    "À la porte de sortie de la ZAI, sur BADR (circ. 6191/312 du 11/05/2021)"
+   ],
+   [
+    "Apurement du 866",
+    "Confirmation d'arrivée et « vu embarquer » (circ. 6191/312)"
+   ],
+   [
+    "Valeur déclarée en transit export",
+    "Valeur brute (circ. 6190/313 du 05/05/2021)"
+   ],
+   [
+    "Garantie du transit",
+    "Cautionnement sur engagement des exportateurs en ZAI (circ. 6707/313 du 31/12/2025)"
+   ]
+  ],
+  "cas": "Atlas Câblage SA, société fictive installée dans la ZAI de Kénitra, expédie un camion de faisceaux vers l'Allemagne par Tanger Med. Elle signe une déclaration sous le régime 866, les scellés sont posés et le camion part vers la porte de sortie sans attendre ; l'agent y obtient de BADR l'autorisation d'acheminement (circ. 6191/312). À Tanger Med, le bureau confirme l'arrivée et donne le « vu embarquer ». La déclaration porte la valeur brute des faisceaux, cuivre compris (circ. 6190/313). Erreur à éviter : rompre les scellés pour ajouter une palette en route ; tout incident affectant les scellements doit être signalé au bureau le plus proche (décret n° 2-77-862, art. 171).",
+  "juris": "",
+  "conseil": "Sollicitez dès l'implantation le cautionnement sur engagement réservé aux exportateurs en ZAI : sans lui, chaque transit mobilise une caution bancaire. Organisez vos chargements pour sceller une seule fois et regroupez vos déclarations 866 par état de chargement lorsque c'est possible. Vérifiez que la valeur déclarée intègre les intrants, faute de quoi les statistiques d'exportation et votre position seront faussées.",
+  "faq": [
+   [
+    "Faut-il attendre la confirmation d'entrée avant d'acheminer un transit 866 ?",
+    "Non, depuis la circulaire n° 6191/312 la marchandise part sous scellés et l'autorisation est donnée à la porte de sortie de la ZAI."
+   ],
+   [
+    "Quelle valeur déclarer pour des produits exportés depuis une ZAI ?",
+    "La valeur brute, intégrant les intrants et la valeur ajoutée (circ. 6190/313 du 05/05/2021)."
+   ]
+  ],
+  "renvois": [
+   "7-070",
+   "7-072",
+   "6-001",
+   "6-002",
+   "6-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "7-072",
+  "p": 7,
+  "ch": "7.8",
+  "c": "Zones d'accélération industrielle",
+  "t": "Échanges entre ZAI et territoire assujetti : livraisons vers la zone et mise à la consommation des produits sortis de ZAI",
+  "enbref": "Les livraisons du territoire assujetti vers une ZAI sont traitées comme des exportations, et les sorties de la ZAI vers le reste du Maroc comme des importations. La mise à la consommation de marchandises issues d'une ZAI n'est autorisée que si leur exportation est impossible pour raisons commerciales justifiées ; elle se taxe au jour de la déclaration, en déduisant la valeur des intrants marocains.",
+  "textes": [
+   "CDII, art. 1er, 166 quinquies et 166 sexies",
+   "Circulaire ADII n° 6398/210 du 29/12/2022",
+   "Circulaire ADII n° 6047/312 du 20/05/2020",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021"
+  ],
+  "principe": "La sortie d'un bien du territoire assujetti vers une ZAI est une exportation, son entrée sur ce territoire depuis une ZAI une importation (CDII, art. 1er). Les marchandises sortant d'une ZAI peuvent être introduites sur le territoire assujetti sous un régime douanier ; leur mise à la consommation n'est toutefois autorisée que lorsque, pour des raisons commerciales justifiées, elles ne peuvent être exportées (art. 166 quinquies). Elle se fait d'après l'espèce tarifaire et la valeur reconnues au jour de l'enregistrement de la déclaration, aux taux en vigueur ce jour, sous réserve du régime de l'article 164 bis-1°-i ; la valeur des produits d'origine marocaine ou nationalisés incorporés est déduite de la base taxable (art. 166 sexies).",
+  "admin": "La circulaire n° 6047/312 prévoit des codes propres aux flux vers les zones : exportation simple (761), en suite d'ATPA (762), d'AT (763), d'entrepôt (764), exportation temporaire (765), ETPP (766), en suite de TSD (767) ou d'EIF (768), et mise à la consommation de marchandises provenant des zones (050). La note D885/21/ADII/100 précise que l'ETPP vers les ZAI bénéficie d'une autorisation permanente du département de l'industrie.",
+  "donnees": [
+   [
+    "Livraison vers une ZAI",
+    "Exportation ; codes 761 à 768 (CDII, art. 1er ; circ. 6047/312)"
+   ],
+   [
+    "Sortie de ZAI vers le territoire assujetti",
+    "Importation (CDII, art. 1er)"
+   ],
+   [
+    "Condition de la mise à la consommation",
+    "Exportation impossible pour raisons commerciales justifiées (CDII, art. 166 quinquies)"
+   ],
+   [
+    "Base taxable",
+    "Espèce et valeur du jour, moins la valeur des intrants marocains ou nationalisés (CDII, art. 166 sexies)"
+   ],
+   [
+    "Code de mise à la consommation",
+    "050 (circ. 6047/312)"
+   ],
+   [
+    "ETPP vers une ZAI",
+    "Autorisation permanente du département de l'industrie (note D885/21/ADII/100)"
+   ]
+  ],
+  "cas": "Atlas Câblage SA, société fictive installée en ZAI, achète des connecteurs à un fabricant marocain de Casablanca, qui les déclare à l'exportation vers la zone sous le code 761. Plus tard, un lot de 10 000 faisceaux d'une valeur de 3 000 000 DH, refusé par son client allemand pour un changement de modèle, ne trouve aucun acheteur à l'étranger. Pour raisons commerciales justifiées, elle le met à la consommation au Maroc sous le code 050 (CDII, art. 166 quinquies) : la valeur des connecteurs marocains incorporés, 400 000 DH, est déduite de la base taxable (art. 166 sexies). Erreur à éviter : vendre au marché local une production exportable sans justification ; la mise à la consommation serait refusée.",
+  "juris": "",
+  "conseil": "Avant toute vente locale, constituez le dossier qui démontre l'impossibilité d'exporter : annulation de commande, refus du client, absence de débouché. Tenez la traçabilité des intrants marocains incorporés, avec les déclarations de livraison vers la zone : c'est elle qui permet la déduction de leur valeur. Pour des ventes locales régulières, examinez le régime fiscal de faveur conventionnel.",
+  "faq": [
+   [
+    "Une entreprise en ZAI peut-elle vendre librement sur le marché marocain ?",
+    "Non, la mise à la consommation n'est autorisée que si l'exportation est impossible pour raisons commerciales justifiées (CDII, art. 166 quinquies), sauf régime conventionnel particulier."
+   ],
+   [
+    "Les composants achetés au Maroc sont-ils taxés à nouveau à la mise à la consommation ?",
+    "Non, la valeur des produits d'origine marocaine ou nationalisés incorporés est déduite de la base taxable (CDII, art. 166 sexies)."
+   ]
+  ],
+  "renvois": [
+   "7-070",
+   "7-071",
+   "7-073",
+   "7-031",
+   "4-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "7-073",
+  "p": 7,
+  "ch": "7.8",
+  "c": "Zones d'accélération industrielle",
+  "t": "Régime fiscal de faveur des produits fabriqués en ZAI mis à la consommation : droit minimum de 2,5 % sous convention",
+  "enbref": "Les produits fabriqués en ZAI peuvent être mis à la consommation sur le territoire assujetti au droit d'importation minimum de 2,5 %, dans le cadre d'une convention conclue avec l'État. La convention fixe un plafond de valeur et une durée, et le bénéfice est suivi chaque année.",
+  "textes": [
+   "CDII, art. 164 bis-1°-i et 166 sexies-1°",
+   "Note ADII n° D232/2025/ADII/AC/100 du 29/09/2025"
+  ],
+  "principe": "La mise à la consommation de marchandises issues d'une ZAI se fait aux taux en vigueur au jour de la déclaration, sous réserve des dispositions de l'article 164 bis-1°-i du CDII (art. 166 sexies-1°). Cette disposition permet d'appliquer un droit d'importation minimum de 2,5 % aux marchandises fabriquées dans les ZAI et mises à la consommation, dans le cadre d'une convention conclue entre l'État et l'entreprise (note D232/2025/ADII/AC/100).",
+  "admin": "La note D232/2025/ADII/AC/100 rappelle que ce régime découle de la circulaire n° 5322/210 du 18/05/2012, modifiée par la circulaire n° 5740/200 du 28/12/2017. Elle en précise l'application à une convention signée le 03/09/2025 : plafond égal à 10 % du chiffre d'affaires à l'exportation de 2024, durée de trois ans à compter de la signature, attestation annuelle du ministère de l'industrie fixant la valeur admise d'après le chiffre d'affaires export de l'exercice précédent, et code franchise 1084 « MAC de certaines marchandises en provenance des ZAI » sur BADR.",
+  "donnees": [
+   [
+    "Taux",
+    "Droit d'importation minimum de 2,5 % (CDII, art. 164 bis-1°-i ; note D232/2025)"
+   ],
+   [
+    "Condition",
+    "Convention entre l'État et l'entreprise (note D232/2025)"
+   ],
+   [
+    "Plafond (convention de 2025)",
+    "10 % du CA export de l'année de référence (note D232/2025)"
+   ],
+   [
+    "Durée (convention de 2025)",
+    "3 ans à compter de la signature (note D232/2025)"
+   ],
+   [
+    "Code franchise BADR",
+    "1084 (note D232/2025)"
+   ]
+  ],
+  "cas": "Atlas Câblage SA, société fictive installée en ZAI, a réalisé 200 000 000 DH de chiffre d'affaires à l'export. Elle négocie une convention avec l'État lui ouvrant le droit minimum de 2,5 % pour une partie de ses ventes au Maroc. Si la convention reprend les paramètres de la note D232/2025, elle pourra mettre à la consommation jusqu'à 20 000 000 DH de faisceaux par an (10 %), sur présentation de l'attestation annuelle du ministère de l'industrie, le code franchise 1084 étant porté sur la déclaration. Erreur à éviter : dépasser le plafond annuel ; l'excédent relève du droit commun.",
+  "juris": "",
+  "conseil": "Négociez la convention avec un plan de ventes locales réaliste, car le plafond est calé sur le chiffre d'affaires à l'exportation de l'année précédente. Suivez mensuellement la consommation du plafond et demandez l'attestation annuelle dès la clôture de l'exercice. Vérifiez sur chaque déclaration la présence du code franchise.",
+  "faq": [
+   [
+    "Toute entreprise en ZAI bénéficie-t-elle du droit de 2,5 % ?",
+    "Non, le régime de faveur suppose une convention conclue avec l'État, qui en fixe les conditions (note D232/2025/ADII/AC/100)."
+   ],
+   [
+    "Comment le plafond est-il fixé chaque année ?",
+    "Dans la convention de 2025 étudiée, par une attestation annuelle du ministère de l'industrie fondée sur le chiffre d'affaires export de l'exercice précédent (note D232/2025/ADII/AC/100)."
+   ]
+  ],
+  "renvois": [
+   "7-070",
+   "7-072",
+   "4-030",
+   "4-031"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

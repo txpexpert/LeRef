@@ -1,0 +1,187 @@
+[
+ {
+  "id": "7-050",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Transformation sous douane",
+  "t": "Transformation sous douane (TSD) : principe, conditions d'accès et durée de séjour",
+  "enbref": "La transformation sous douane permet d'importer en suspension des droits des marchandises destinées à être transformées au Maroc, pour mettre à la consommation les produits obtenus, lorsque ces produits bénéficient d'une exonération totale ou partielle. Elle suppose un outillage adapté, des marchandises identifiables dans les produits transformés et l'avis favorable du département ministériel concerné ; le séjour ne dépasse pas un an.",
+  "textes": [
+   "CDII, art. 163 bis, 163 ter, 163 quater et 163 quinquies",
+   "Décret n° 2-77-862, art. 172 bis à 172 septies",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexes I et II",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+   "Circulaire ADII n° 6538/313 du 06/02/2024"
+  ],
+  "principe": "Le régime permet d'importer en suspension des droits des marchandises qui subissent des opérations modifiant leur espèce ou leur état, en vue de mettre à la consommation les « produits transformés » qui en résultent (CDII, art. 163 bis). Seules en bénéficient les personnes disposant de l'outillage nécessaire, à trois conditions : les produits transformés bénéficient d'une exonération totale ou partielle des droits à l'importation ; le régime ne sert pas à contourner les restrictions quantitatives ; les marchandises restent identifiables dans les produits transformés (art. 163 ter). Il est accordé par décision du directeur, après avis du ministre chargé de la ressource ; les produits et marchandises peuvent être cédés à un cessionnaire remplissant les mêmes conditions, ou sous-traités sous la responsabilité du soumissionnaire (art. 163 quater). Le séjour maximal est d'un an à compter de la déclaration d'entrée, sauf dérogation ministérielle (art. 163 quinquies-1°) : trois mois initiaux, prorogeables de neuf mois au plus (décret n° 2-77-862, art. 172 septies). L'entrée se fait sous acquit à caution dans les bureaux ouverts aux régimes économiques (art. 172 bis à 172 quater).",
+  "admin": "La circulaire n° 6164/313 supprime l'autorisation douanière préalable pour la TSD (codes 241, 242 et 243), les conditions d'exonération et l'avis favorable du département concerné restant exigés (annexe II) ; la note D885/21/ADII/100 demande au service de vérifier cet avis et l'exonération du produit obtenu. La circulaire n° 6348/313 a toutefois rétabli l'autorisation préalable pour le régime 241 (importation fractionnée). Depuis le 15/02/2024, une nouvelle société qui veut opérer en TSD doit obtenir une autorisation après enquête d'outillage (circ. 6538/313).",
+  "donnees": [
+   [
+    "Condition de fond",
+    "Produit transformé exonéré totalement ou partiellement (CDII, art. 163 ter)"
+   ],
+   [
+    "Avis préalable",
+    "Ministre ou département chargé de la ressource (CDII, art. 163 quater ; note D885/21/ADII/100)"
+   ],
+   [
+    "Séjour",
+    "3 mois prorogeables de 9 mois, 1 an au plus (décret, art. 172 septies ; CDII, art. 163 quinquies)"
+   ],
+   [
+    "Codes régimes",
+    "241 importation fractionnée, 242 papier d'édition, 243 autres (circ. 6164/313 ; circ. 6047/312)"
+   ],
+   [
+    "Nouvelles sociétés",
+    "Autorisation après enquête d'outillage (circ. 6538/313 du 06/02/2024)"
+   ]
+  ],
+  "cas": "Imprimerie du Sud SARL, société fictive d'Agadir, importe du papier destiné à l'impression de livres scolaires. Le livre imprimé bénéficiant d'une franchise, elle place le papier sous TSD (code 242) au vu de l'avis favorable du département concerné : les droits du papier sont suspendus, et les livres sont mis à la consommation en franchise. Erreur à éviter : utiliser une partie du papier pour imprimer des catalogues publicitaires non exonérés ; la condition d'exonération du produit transformé n'est alors pas remplie et les droits du papier sont dus.",
+  "juris": "",
+  "conseil": "Avant d'opter pour la TSD, vérifiez l'exonération dont bénéficie le produit fini : c'est elle qui donne tout son intérêt au régime. Obtenez l'avis du département ressource avant la première importation et conservez-le dans le dossier de chaque compte. Si une partie de la production risque de sortir du champ de l'exonération, préférez un autre régime ou isolez les flux dès l'origine.",
+  "faq": [
+   [
+    "Quel intérêt présente la TSD par rapport à l'importation directe ?",
+    "Elle permet de payer les droits, le cas échéant, sur le produit transformé, qui bénéficie d'une exonération totale ou partielle, plutôt que sur les intrants (CDII, art. 163 bis et 163 ter)."
+   ],
+   [
+    "Une autorisation douanière préalable est-elle exigée ?",
+    "Non pour les codes 242 et 243, mais l'avis favorable du département concerné reste requis (circ. 6164/313, annexe II) ; elle est exigée pour le code 241 (circ. 6348/313) et pour les nouvelles sociétés (circ. 6538/313)."
+   ]
+  ],
+  "renvois": [
+   "7-001",
+   "7-002",
+   "7-051",
+   "7-052",
+   "7-011",
+   "4-030"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-051",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Transformation sous douane",
+  "t": "Importation de matériels d'investissement démontés en envois fractionnés sous transformation sous douane (régime 241)",
+  "enbref": "Un investisseur peut importer un matériel à l'état démonté ou non monté en plusieurs envois, sous transformation sous douane, en le classant d'emblée à la position tarifaire du matériel monté ; la mise à la consommation intervient après montage. Ce régime 241 reste soumis à autorisation préalable, et le délai de trois mois peut être porté à douze mois dans les cas justifiés.",
+  "textes": [
+   "CDII, art. 163 bis et 163 septies",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexes 5 et 6",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, corps et annexe II",
+   "Circulaire ADII n° 6047/312 du 20/05/2020"
+  ],
+  "principe": "L'importation par envois fractionnés permet aux investisseurs d'importer à l'état démonté ou non monté, en plusieurs envois, certains matériels et biens d'équipement, en les déclarant sous le régime de la transformation sous douane selon un classement tarifaire simplifié correspondant à la position du matériel monté ; la mise à la consommation intervient après montage ou assemblage, suivant l'espèce tarifaire du matériel monté (note D7106/16/ADII/100, annexe 5). Elle s'appuie sur le régime de l'article 163 bis du CDII, les droits étant liquidés sur l'espèce et les quantités du produit transformé, c'est-à-dire du matériel monté (art. 163 septies-a). Elle évite ainsi que chaque envoi de pièces soit classé et taxé séparément.",
+  "admin": "La circulaire n° 6348/313 rétablit l'autorisation préalable pour le régime 241 « Transformation sous douane – Importation fractionnée », en raison des difficultés d'application, dans l'attente d'une déclaration globale dématérialisée. Son annexe II confie aux directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations l'autorisation d'importer des matériels d'investissement par envois fractionnés et la décision de porter le délai de trois à douze mois pour les matériels démontés. La note D7106/16/ADII/100 confiait l'importation au chef de circonscription et l'extension du délai au directeur régional (note n° 23384/412 du 20/11/1998).",
+  "donnees": [
+   [
+    "Code régime",
+    "241 (circ. 6047/312 ; circ. 6348/313)"
+   ],
+   [
+    "Autorisation préalable",
+    "Rétablie (circ. 6348/313 du 06/07/2022)"
+   ],
+   [
+    "Autorité",
+    "Directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313, annexe II)"
+   ],
+   [
+    "Délai d'importation",
+    "3 mois, portable à 12 mois dans les cas justifiés (circ. 6348/313, annexe II)"
+   ],
+   [
+    "Classement",
+    "Position du matériel monté (note D7106/16/ADII/100, annexe 5)"
+   ]
+  ],
+  "cas": "Laiterie de l'Atlas SA, société fictive, achète en Italie une ligne de conditionnement livrée en quatorze conteneurs étalés sur cinq mois. Elle obtient l'autorisation du régime 241 et, compte tenu du calendrier du fournisseur, l'extension du délai de trois à douze mois (circ. 6348/313). Chaque conteneur est déclaré sous la position de la ligne montée. Après montage, la ligne est mise à la consommation en une fois, à l'espèce tarifaire du matériel monté (note D7106/16/ADII/100). Erreur à éviter : laisser le premier conteneur arriver avant l'autorisation ; les pièces seraient alors classées et taxées une à une.",
+  "juris": "",
+  "conseil": "Demandez l'autorisation dès la signature du contrat, avec le planning d'expédition du fournisseur et la liste de colisage complète : elle servira à rattacher chaque envoi au matériel monté. Si la livraison doit dépasser trois mois, sollicitez l'extension du délai en même temps. Faites constater le montage complet avant la déclaration de mise à la consommation.",
+  "faq": [
+   [
+    "Faut-il une autorisation pour importer une machine démontée en plusieurs envois ?",
+    "Oui, l'autorisation préalable a été rétablie pour le régime 241 (circ. 6348/313 du 06/07/2022)."
+   ],
+   [
+    "Combien de temps ai-je pour faire arriver tous les envois ?",
+    "Trois mois, portables à douze mois dans les cas dûment justifiés (circ. 6348/313, annexe II)."
+   ]
+  ],
+  "renvois": [
+   "7-050",
+   "7-052",
+   "2-004",
+   "4-031"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-052",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Transformation sous douane",
+  "t": "Apurement du compte de transformation sous douane : taux d'apurement, mise à la consommation des produits transformés et déchets",
+  "enbref": "Le compte de TSD s'apure principalement par la mise à la consommation des produits transformés, selon les taux d'apurement fixés dans la décision d'octroi. Les droits sont ceux du jour de la déclaration de mise à la consommation, appliqués à l'espèce et aux quantités du produit transformé, sur la valeur des marchandises à leur entrée sous le régime.",
+  "textes": [
+   "CDII, art. 163 quinquies-3°, 163 sexies, 163 septies et 163 octies",
+   "Décret n° 2-77-862, art. 172 octies à 172 terdecies",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, annexe I",
+   "Circulaire ADII n° 6325/313 du 18/05/2022"
+  ],
+  "principe": "Les taux d'apurement sont fixés dans la décision d'octroi, selon les conditions réelles de la transformation (CDII, art. 163 sexies). Les produits transformés mis à la consommation sont taxés aux droits en vigueur à la date d'enregistrement de la déclaration, d'après l'espèce et les quantités du produit transformé, la valeur retenue étant celle des marchandises à la date d'entrée sous le régime (art. 163 septies). Si les marchandises sont mises à la consommation en l'état ou à un stade intermédiaire, les droits suivent l'espèce et les quantités des marchandises placées sous le régime, au tarif du jour de la déclaration de TSD, avec intérêt de retard s'ils n'étaient pas consignés (art. 163 octies). À l'expiration du délai, les droits deviennent immédiatement exigibles, sauf exportation autorisée (art. 163 quinquies-3°). Des fiches d'imputation sont jointes aux déclarations de mise à la consommation (décret n° 2-77-862, art. 172 octies) ; l'apurement est global ou partiel et la décharge délivrée par le bureau de souscription (art. 172 nonies et 172 decies). Les déchets sont exportés, mis à la consommation aux conditions du jour, abandonnés ou détruits (art. 172 duodecies et 172 terdecies).",
+  "admin": "La circulaire n° 6348/313 (annexe I) supprime l'autorisation préalable de l'exportation en suite de TSD (codes 700 et 767), le déclarant précisant en case 38 s'il exporte les intrants en l'état ou les produits transformés. Selon la circulaire n° 6325/313, la mise à la consommation en suite de TSD (code 430) reste liquidée manuellement, mode de taxation « Autres ».",
+  "donnees": [
+   [
+    "Taux d'apurement",
+    "Fixés par la décision d'octroi selon les conditions réelles (CDII, art. 163 sexies)"
+   ],
+   [
+    "Produits transformés",
+    "Droits du jour de la mise à la consommation, valeur à l'entrée (CDII, art. 163 septies)"
+   ],
+   [
+    "Marchandises en l'état ou en cours",
+    "Tarif du jour de la déclaration de TSD, plus intérêt de retard (CDII, art. 163 octies)"
+   ],
+   [
+    "Exportation en suite de TSD",
+    "Codes 700 et 767, motif en case 38 (circ. 6348/313, annexe I)"
+   ],
+   [
+    "Liquidation BADR",
+    "Manuelle pour le code 430 (circ. 6325/313)"
+   ],
+   [
+    "Échéance non respectée",
+    "Droits immédiatement exigibles, sauf exportation autorisée (CDII, art. 163 quinquies-3°)"
+   ]
+  ],
+  "cas": "Irrigation Moderne SARL, société fictive, importe sous TSD des tubes et raccords d'une valeur de 900 000 DH pour assembler des kits d'irrigation goutte-à-goutte exonérés. La décision d'octroi fixe le taux d'apurement : un kit consomme 40 mètres de tube et 25 raccords. Elle met à la consommation 2 000 kits, ce qui impute 80 000 mètres de tube et 50 000 raccords, taxés selon l'espèce du kit, au tarif du jour de la déclaration (CDII, art. 163 septies). Un lot de raccords inutilisé est vendu en l'état à un quincaillier : les droits des raccords sont dus au tarif du jour de la déclaration de TSD, avec intérêt de retard (art. 163 octies). Erreur à éviter : appliquer à ces raccords le régime du kit exonéré.",
+  "juris": "",
+  "conseil": "Faites fixer dans la décision d'octroi des taux d'apurement réalistes, testés en production : ils déterminent l'imputation de chaque déclaration. Rapprochez chaque mois les quantités imputées de la comptabilité matières. Anticipez le sort des reliquats avant l'échéance d'un an.",
+  "faq": [
+   [
+    "Sur quelle valeur sont taxés les produits transformés ?",
+    "Sur la valeur des marchandises à la date de leur entrée sous le régime, avec l'espèce et les quantités du produit transformé et les droits du jour de la mise à la consommation (CDII, art. 163 septies)."
+   ],
+   [
+    "Puis-je exporter les intrants non utilisés ?",
+    "Oui, l'exportation en suite de TSD n'exige plus d'autorisation préalable ; le déclarant précise en case 38 s'il s'agit des intrants en l'état (circ. 6348/313, annexe I)."
+   ]
+  ],
+  "renvois": [
+   "7-004",
+   "7-050",
+   "7-051",
+   "7-012",
+   "9-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ }
+]

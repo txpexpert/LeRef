@@ -1,0 +1,188 @@
+[
+ {
+  "id": "8-010",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Domiciliation et dédouanement à domicile",
+  "t": "Bureau de domiciliation : centraliser ses opérations douanières dans un bureau choisi et recourir à la déclaration combinée",
+  "enbref": "Le bureau de domiciliation permet à l'opérateur de centraliser, dans un bureau de son choix, le paiement des droits, le suivi de ses comptes sous régimes économiques et le traitement de ses opérations engagées dans d'autres bureaux. Il s'appuie sur la déclaration combinée, qui couvre sur un seul document le transit et le régime définitif, sous réserve d'une garantie adaptée.",
+  "textes": [
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016",
+   "Circulaire ADII n° 4782/312 du 14/06/2002 (déclaration combinée)",
+   "Circulaire ADII n° 5517/313 (opérateur économique agréé)"
+  ],
+  "principe": "La domiciliation consiste, pour un opérateur, à rattacher ses opérations à un bureau de douane qu'il choisit, même lorsque les marchandises entrent ou sortent par un autre bureau. Selon la note n° D7106/16, le bureau de domiciliation lui permet de centraliser :\n- le paiement des droits et taxes ;\n- le suivi de ses comptes sous régimes économiques en douane (RED) ;\n- le traitement complet d'opérations engagées dans d'autres bureaux, au moyen de la déclaration combinée.\n\nLa déclaration combinée réunit sur un même document le transit et le régime définitif ou suspensif de destination (circ. n° 4782/312). D'abord conçue pour les RED, elle a été étendue à la mise à la consommation et à l'exportation simple. La garantie varie selon le régime de destination (circ. n° 4782/312) :\n- RED : soumission cautionnée agréée ;\n- mise à la consommation : caution bancaire ou crédit d'enlèvement ;\n- exportation : engagement de l'exportateur.\n\nÀ l'exportation, la déclaration combinée est déposée au bureau de domiciliation. Après scellement, l'autorisation d'embarquement vaut mainlevée et exemplaire d'accompagnement ; le bureau de sortie y appose la mention « vu embarquer » et renvoie l'exemplaire au bureau domiciliataire, qui apure l'opération (circ. n° 4782/312).",
+  "admin": "L'ADII présente la domiciliation comme un outil d'accompagnement des opérateurs : pour l'opérateur économique agréé, le bureau de domiciliation est l'interlocuteur qui assure le suivi de ses opérations (brochure OEA ; circ. n° 5517/313).",
+  "donnees": [
+   [
+    "Fonctions du bureau",
+    "Paiement des droits, suivi des comptes RED, traitement des opérations d'autres bureaux (note n° D7106/16)"
+   ],
+   [
+    "Support",
+    "Déclaration combinée transit + régime de destination (circ. n° 4782/312)"
+   ],
+   [
+    "Garantie RED",
+    "Soumission cautionnée agréée (circ. n° 4782/312)"
+   ],
+   [
+    "Garantie mise à la consommation",
+    "Caution bancaire ou crédit d'enlèvement (circ. n° 4782/312)"
+   ],
+   [
+    "Apurement à l'export",
+    "Mention « vu embarquer » au bureau de sortie (circ. n° 4782/312)"
+   ]
+  ],
+  "cas": "La société fictive Fès Textile, installée à Fès, exporte chaque semaine des conteneurs de vêtements par Tanger Med. Domiciliée au bureau de Fès, elle y dépose une déclaration combinée d'exportation, garantie par son engagement d'exportateur. Le conteneur est scellé dans ses locaux et l'autorisation d'embarquement vaut mainlevée. À Tanger Med, le bureau de sortie appose « vu embarquer » et renvoie l'exemplaire à Fès. L'erreur fréquente : laisser le conteneur quitter le site sans scellement, ce qui oblige à reprendre la procédure au port.",
+  "juris": "",
+  "conseil": "Choisissez comme bureau de domiciliation celui qui connaît le mieux votre activité et votre comptabilité matières, souvent le bureau le plus proche de votre site. Suivez le retour des exemplaires « vu embarquer » : un exemplaire non revenu laisse l'opération non apurée et la garantie engagée. Assurez-vous que votre crédit d'enlèvement ou votre caution couvre le volume des déclarations combinées en cours.",
+  "faq": [
+   [
+    "Peut-on payer au bureau de domiciliation les droits d'une marchandise arrivée par un autre port ?",
+    "Oui, la centralisation du paiement des droits est l'une des fonctions du bureau de domiciliation (note n° D7106/16)."
+   ],
+   [
+    "Quelle garantie exige une déclaration combinée de mise à la consommation ?",
+    "Une caution bancaire ou un crédit d'enlèvement (circ. n° 4782/312)."
+   ]
+  ],
+  "renvois": [
+   "8-011",
+   "8-012",
+   "6-001",
+   "6-003",
+   "4-041",
+   "4-042",
+   "8-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "8-011",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Domiciliation et dédouanement à domicile",
+  "t": "Dédouanement à domicile : vérification, visa et mainlevée des marchandises dans les locaux de l'entreprise",
+  "enbref": "Le dédouanement à domicile permet d'accomplir dans les locaux de l'entreprise les formalités habituellement faites au bureau : vérification, annotation, visa, prélèvement d'échantillons et mainlevée. Accordé par les responsables locaux, il vise les opérations répétitives et stables ; la contrepartie est un contrôle a posteriori renforcé.",
+  "textes": [
+   "Circulaire ADII n° 4198/3.1.3 du 07/04/1992",
+   "Circulaire ADII n° 3744/311 du 08/06/1982",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016",
+   "Circulaire ADII n° 5087/313 (catégorisation des entreprises)",
+   "Circulaire ADII n° 5517/313 (opérateur économique agréé)"
+  ],
+  "principe": "Le dédouanement à domicile couvre les formalités accomplies à l'intérieur de l'entreprise : vérification, annotation, visa, prélèvement d'échantillons et mainlevée. Il peut être accordé de façon permanente par la direction régionale (note n° D7106/16).\n\nInstitué par la circulaire n° 3744/311 du 08/06/1982, le régime a été déconcentré par la circulaire n° 4198/3.1.3 du 07/04/1992 : les chefs des services locaux l'accordent à l'importation comme à l'exportation. Sont visés :\n- les exportations ;\n- les opérations sous régimes économiques en douane ;\n- les biens d'investissement ;\n- les pièces de rechange de maintenance ;\n- les opérations répétitives et stables, comme les collections CKD/SKD ou des gammes de produits connues.\n\nLa même circulaire précise que la fraude est combattue par les contrôles a posteriori et que des antennes douanières peuvent être installées dans les zones industrielles.\n\nLe dédouanement à domicile figure aussi parmi les avantages accordés aux entreprises catégorisées A et B, avec un traitement prioritaire et une mainlevée éditée chez l'opérateur (circ. n° 5087/313), puis parmi ceux de l'opérateur économique agréé « simplifications douanières » (circ. n° 5517/313).",
+  "admin": "La circulaire n° 5087/313 de 2008 rattache le dédouanement à domicile à la catégorisation A et B, tandis que la circulaire n° 5517/313 le rattache au statut d'OEA.",
+  "donnees": [
+   [
+    "Autorité compétente",
+    "Chefs des services locaux (circ. n° 4198/3.1.3) ; direction régionale pour l'octroi permanent (note n° D7106/16)"
+   ],
+   [
+    "Formalités concernées",
+    "Vérification, annotation, visa, échantillons, mainlevée (note n° D7106/16)"
+   ],
+   [
+    "Opérations visées",
+    "Export, RED, investissement, pièces de maintenance, opérations répétitives (circ. n° 4198/3.1.3)"
+   ],
+   [
+    "Bénéficiaires prioritaires",
+    "Entreprises A et B (circ. n° 5087/313) ; OEA (circ. n° 5517/313)"
+   ],
+   [
+    "Contrepartie",
+    "Contrôle a posteriori (circ. n° 4198/3.1.3)"
+   ]
+  ],
+  "cas": "La société fictive Kénitra Câblage assemble des faisceaux électriques sous admission temporaire et reçoit chaque semaine des collections de composants identiques. Elle obtient le dédouanement à domicile : l'agent vérifie les colis sur son site, prélève au besoin des échantillons et donne la mainlevée sur place. L'entreprise tient une comptabilité matières précise, que le service contrôle a posteriori. L'erreur fréquente : ouvrir et répartir les colis en production avant l'intervention de l'agent.",
+  "juris": "",
+  "conseil": "Réservez une zone de réception séparée, signalée et accessible à l'agent, où les marchandises attendent la mainlevée. Préparez pour chaque arrivage la liste de colisage et la déclaration avant la visite. Une comptabilité matières rigoureuse est la meilleure garantie de conserver le régime lors des contrôles a posteriori.",
+  "faq": [
+   [
+    "Qui accorde le dédouanement à domicile ?",
+    "Les chefs des services locaux, selon la circulaire n° 4198/3.1.3 ; la note n° D7106/16 indique qu'il peut être accordé de façon permanente par la direction régionale."
+   ],
+   [
+    "Faut-il être OEA pour en bénéficier ?",
+    "Il figure parmi les avantages de l'OEA (circ. n° 5517/313), mais la circulaire n° 4198/3.1.3 le prévoit plus largement pour les opérations répétitives ; le régime actuel reste à confirmer."
+   ]
+  ],
+  "renvois": [
+   "8-010",
+   "8-012",
+   "8-002",
+   "8-005",
+   "7-010",
+   "3-031",
+   "9-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "8-012",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Domiciliation et dédouanement à domicile",
+  "t": "Mainlevée à domicile sur BADR : conditions, paiement par crédit d'enlèvement ou au comptant, et dépôt de la déclaration sous 8 jours",
+  "enbref": "La mainlevée à domicile permet d'obtenir la mainlevée électronique sur BADR sans passer par le bureau, puis de déposer physiquement la déclaration dans les 8 jours. D'abord réservée aux entreprises catégorisées A ou B disposant d'un crédit d'enlèvement ou d'une caution, elle a été ouverte en 2020 au paiement au comptant. Un retard de dépôt entraîne la suspension immédiate de la facilité.",
+  "textes": [
+   "Circulaire ADII n° 5296/312 du 05/12/2011",
+   "Circulaire ADII n° 6062/312 du 22/06/2020",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016",
+   "Notes ADII n° 15660/312 et n° 2701/312"
+  ],
+  "principe": "La circulaire n° 5296/312 a créé la mainlevée à domicile, appliquée d'abord au bureau de Casablanca-Port à compter du 12/12/2011. Elle est réservée aux entreprises catégorisées A ou B disposant d'un crédit d'enlèvement ou d'une soumission cautionnée agréée. Elle ne vise que :\n- les DUM simples, à l'exclusion des déclarations provisoires, couplées ou combinées ;\n- les marchandises non soumises à une réglementation particulière ;\n- les marchandises ne bénéficiant pas d'une franchise.\n\nLe circuit se déroule sur BADR (circ. n° 5296/312) :\n- le déclarant utilise le menu « Délivrer la mainlevée à domicile » ;\n- la liquidation est automatique, le montant est imputé sur le crédit d'enlèvement et la mainlevée est annotée ;\n- l'agent du magasin vérifie la mainlevée sur BADR avant la sortie ;\n- la déclaration est déposée physiquement à l'ordonnancement dans les 8 jours, faute de quoi la facilité est suspendue immédiatement.\n\nLa circulaire n° 6062/312 du 22/06/2020 l'a étendue au paiement au comptant, sans caution ni crédit d'enlèvement : la mainlevée est automatique à la signature électronique et devient définitive au paiement.\n\nLa note n° D7106/16 rappelle la régularisation sous 8 jours et l'exclusion des marchandises soumises à réglementation particulière, en renvoyant aux notes n° 15660/312 et n° 2701/312.",
+  "admin": "L'administration traite le délai de 8 jours comme la condition centrale de la facilité : son non-respect entraîne la suspension immédiate (circ. n° 5296/312).",
+  "donnees": [
+   [
+    "Bénéficiaires (2011)",
+    "Entreprises A ou B avec crédit d'enlèvement ou caution (circ. n° 5296/312)"
+   ],
+   [
+    "Extension (2020)",
+    "Paiement au comptant sans garantie (circ. n° 6062/312)"
+   ],
+   [
+    "Déclarations admises",
+    "DUM simple uniquement (circ. n° 5296/312)"
+   ],
+   [
+    "Dépôt physique",
+    "8 jours à l'ordonnancement (circ. n° 5296/312)"
+   ],
+   [
+    "Sanction du retard",
+    "Suspension immédiate (circ. n° 5296/312)"
+   ]
+  ],
+  "cas": "La société fictive Rabat Bureautique importe des cartouches d'encre, non soumises à réglementation particulière. Son transitaire dépose une DUM simple et sélectionne « Délivrer la mainlevée à domicile » : la liquidation est imputée sur le crédit d'enlèvement et le magasinier libère le conteneur après contrôle sur BADR. Le dossier papier n'est déposé que le 11e jour : la facilité est suspendue pour tous ses arrivages. L'erreur fréquente : oublier le dépôt physique, une fois la marchandise sortie.",
+  "juris": "",
+  "conseil": "Mettez en place un suivi des mainlevées à domicile avec une alerte au 5e jour pour le dépôt à l'ordonnancement. Vérifiez avant chaque déclaration que la marchandise n'est soumise à aucun contrôle technique ou titre d'importation, et qu'elle ne relève d'aucune franchise. En paiement au comptant, réglez rapidement : la mainlevée ne devient définitive qu'au paiement.",
+  "faq": [
+   [
+    "Une déclaration provisoire peut-elle bénéficier de la mainlevée à domicile ?",
+    "Non, seules les DUM simples sont admises, à l'exclusion des déclarations provisoires, couplées ou combinées (circ. n° 5296/312)."
+   ],
+   [
+    "Faut-il un crédit d'enlèvement ?",
+    "Plus nécessairement : depuis la circulaire n° 6062/312 du 22/06/2020, la mainlevée à domicile est ouverte au paiement au comptant."
+   ]
+  ],
+  "renvois": [
+   "8-011",
+   "8-010",
+   "8-020",
+   "3-033",
+   "3-020",
+   "4-040",
+   "4-041"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

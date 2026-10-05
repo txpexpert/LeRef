@@ -1,0 +1,245 @@
+[
+ {
+  "id": "3-010",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Dépôt temporaire et MEAD",
+  "t": "Séjour des marchandises en attente de déclaration en détail (dépôt temporaire) : lieux de stockage et délai de 45 jours",
+  "enbref": "Entre son arrivée et le dépôt de la déclaration en détail, la marchandise reste sous douane, dans un MEAD ou dans les locaux de l'administration. L'importateur dispose de 45 jours à compter de l'arrivée au bureau pour lui assigner un régime. Passé ce délai, la marchandise est considérée comme abandonnée en douane et peut être cédée.",
+  "textes": [
+   "CDII, art. 62-5°, 66-3°, 103 à 106",
+   "Arrêté du ministre des finances n° 1318-77 du 31/10/1977, art. 2 et 2 bis",
+   "Décret n° 2-77-862, art. 69 à 72",
+   "Circulaire ADII n° 5655/312 du 24/01/2017 (cahier des charges MEAD, art. 14)"
+  ],
+  "principe": "Les textes marocains n'emploient pas l'expression « dépôt temporaire » : ils organisent le séjour sous douane de la marchandise prise en charge par une déclaration sommaire, en attendant qu'un régime lui soit assigné.\n\nCe séjour a lieu soit dans un magasin ou une aire de dédouanement (MEAD), où la durée maximale de séjour court depuis la déclaration sommaire d'entrée (CDII, art. 62-5°), soit dans les locaux de l'administration, où demeurent les marchandises qui doivent rester sous sa main (art. 103). Dans ce second cas, les marchandises restent aux risques des propriétaires, les frais de séjour sont à leur charge et une taxe de magasinage est perçue (art. 104).\n\nLe délai de dépôt de la déclaration en détail est de 45 jours à compter de l'arrivée des marchandises au bureau ; le jour d'arrivée et le jour d'échéance sont comptés, les jours fériés légaux ne le sont pas, le samedi l'est (arrêté n° 1318-77, art. 2). Passé ce délai, la déclaration est irrecevable, sauf dérogation (CDII, art. 66-3°) : un dépôt tardif peut être autorisé, dans des cas dûment justifiés, tant que la marchandise n'a pas été cédée (arrêté n° 1318-77, art. 2 bis). Le dépôt anticipé est traité au paragraphe 3-022.\n\nDans les locaux de l'administration, la taxe de magasinage s'applique après trois jours de franchise : 4 % ad valorem du 4e au 20e jour, 7 % du 21e au 30e, 14 % du 31e au 45e ; toute période commencée est due, et les retards imputables à l'administration ne sont pas comptés (décret n° 2-77-862, art. 69 à 71). À l'expiration des 45 jours, les marchandises non déclarées sont cédées (art. 72 ; CDII, art. 106 et 107).",
+  "admin": "Le cahier des charges des MEAD considère comme abandonnées les marchandises non déclarées sous un régime définitif après « 45 jours ouvrables » (circ. n° 5655/312, art. 14). Cette formulation diffère du mode de calcul de l'arrêté n° 1318-77, qui exclut seulement les jours fériés légaux et compte le samedi.",
+  "donnees": [
+   [
+    "Délai de déclaration en détail",
+    "45 jours à compter de l'arrivée (arrêté n° 1318-77, art. 2)"
+   ],
+   [
+    "Dépôt tardif",
+    "Possible si non cédée, cas justifiés (arrêté n° 1318-77, art. 2 bis)"
+   ],
+   [
+    "Franchise de magasinage",
+    "3 jours (décret n° 2-77-862, art. 69)"
+   ],
+   [
+    "Taxe de magasinage",
+    "4 %, 7 %, puis 14 % ad valorem jusqu'au 45e jour (décret, art. 70)"
+   ],
+   [
+    "Effet du dépassement",
+    "Marchandise abandonnée en douane (CDII, art. 106)"
+   ]
+  ],
+  "cas": "La société fictive Tadla Équipements reçoit à Casablanca, le 2 mars, un conteneur de pompes agricoles, mais attend encore le certificat d'origine de son fournisseur. Son transitaire compte les 45 jours à partir du 2 mars, jour d'arrivée inclus, en écartant les jours fériés légaux et en comptant les samedis. Il dépose la déclaration avant l'échéance. L'erreur fréquente : attendre le document manquant et laisser filer le délai, ce qui fait basculer le conteneur parmi les marchandises abandonnées.",
+  "juris": "",
+  "conseil": "Calculez l'échéance des 45 jours dès la prise en charge et programmez une alerte à J-10. Si l'échéance est dépassée, demandez sans attendre la dérogation de l'article 2 bis, avec justificatifs, tant que la marchandise n'est pas cédée.",
+  "faq": [
+   [
+    "À partir de quand court le délai de 45 jours ?",
+    "À compter de l'arrivée des marchandises au bureau de douane, ce jour étant compté (arrêté n° 1318-77, art. 2)."
+   ],
+   [
+    "Peut-on déclarer après 45 jours ?",
+    "Oui, dans des cas dûment justifiés et tant que la marchandise n'a pas été cédée (arrêté n° 1318-77, art. 2 bis)."
+   ]
+  ],
+  "renvois": [
+   "3-002",
+   "3-011",
+   "3-012",
+   "3-013",
+   "3-020",
+   "3-022"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "3-011",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Dépôt temporaire et MEAD",
+  "t": "Magasins et aires de dédouanement (MEAD) : agrément, conditions d'exploitation et responsabilité de l'exploitant",
+  "enbref": "Un MEAD ne peut être créé que par une personne morale dont l'activité principale est la logistique ou le transport international, sur agrément de l'ADII. L'exploitant signe un cahier des charges, fournit une soumission générale cautionnée et répond des marchandises de la déclaration sommaire jusqu'à la mainlevée. Les manquants sont à sa charge.",
+  "textes": [
+   "CDII, art. 61, 62 et 63",
+   "Circulaire ADII n° 5655/312 du 24/01/2017 (et cahier des charges annexé)",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016"
+  ],
+  "principe": "Les MEAD permettent le stockage, à l'importation et à l'exportation, des marchandises conduites en douane (CDII, art. 62-1°). Leur création et leur gestion sont réservées aux personnes morales dont l'activité principale est la logistique ou le transport international, sur autorisation préalable de l'administration, qui agrée l'emplacement et l'aménagement (art. 61-1°).\n\nLe MEAD est sous contrôle permanent de la douane et entouré d'une clôture à ouverture unique, sauf autorisation (art. 62-2°). Il est ouvert à tout destinataire ou expéditeur (art. 62-4°). Les marchandises en mauvais état de conservation et les marchandises prohibées de l'article 115 en sont exclues (art. 62-3°).\n\nL'exploitation est subordonnée à un cahier des charges et à une soumission générale cautionnée par laquelle l'exploitant s'engage à présenter les marchandises à réquisition, à acquitter droits, taxes et pénalités sur les manquants, et à remettre à l'administration les marchandises abandonnées (art. 63-1°). Sa responsabilité prend effet à l'enregistrement de la déclaration sommaire d'entrée ou à son engagement exprès, et cesse à la mainlevée ou à la remise des marchandises à l'administration (art. 63-4°).",
+  "admin": "La circulaire n° 5655/312 distingue trois types d'agrément : MD (local clos en dur), AD (aire non bâtie, clôturée) et MAD (mixte). Hors zones portuaires et aéroportuaires, les superficies minimales sont de 750 m² (MD), 2 000 m² (AD) et 1 000 m² dont 750 m² en dur (MAD) ; dans le Grand Casablanca, l'implantation se fait dans un centre logistique d'au moins 5 MEAD ou sur un terrain d'au moins 3 000 m² en zone logistique. Le cahier des charges exige notamment un capital social minimum de 2 000 000 DH (art. 4), la vidéosurveillance accessible à l'ADII et une comptabilité matières informatisée (art. 7 et 10) ; l'agrément suppose aussi une assurance d'au moins 2 000 000 DH sur les marchandises stockées. L'agrément peut être suspendu ou retiré, avec recours devant la commission consultative et de recours (art. 17 à 19).",
+  "donnees": [
+   [
+    "Exploitant",
+    "Personne morale, activité principale logistique ou transport international (CDII, art. 61-1°)"
+   ],
+   [
+    "Capital social minimum",
+    "2 000 000 DH (circ. n° 5655/312, CDC art. 4)"
+   ],
+   [
+    "Assurance minimale",
+    "2 000 000 DH (circ. n° 5655/312)"
+   ],
+   [
+    "Accord de principe",
+    "30 jours après dépôt du dossier (circ. n° 5655/312)"
+   ],
+   [
+    "Fin de responsabilité",
+    "Mainlevée ou remise à l'administration (CDII, art. 63-4°)"
+   ]
+  ],
+  "cas": "La société fictive Souss Logistic Hub, transporteur international au capital de 3 000 000 DH, veut ouvrir un MAD à Agadir, hors zone portuaire, sur 1 200 m² dont 600 m² bâtis. Son dossier sera refusé : un MAD doit comporter au moins 750 m² de local en dur. Elle agrandit le bâtiment, dépose le dossier au service central, obtient l'accord de principe, puis signe le cahier des charges avec la soumission cautionnée et l'avenant d'assurance.",
+  "juris": "",
+  "conseil": "Avant d'acheter ou de louer un terrain, vérifiez les seuils de superficie et de construction du type de MEAD visé : c'est le motif de refus le plus fréquent. Rappelez-vous que la sous-location est interdite (CDC, art. 4). Une fois agréé, rapprochez chaque mois votre comptabilité matières du stock physique : chaque manquant vous est imputé en droits et taxes.",
+  "faq": [
+   [
+    "Une société commerciale peut-elle exploiter un MEAD pour ses propres importations ?",
+    "Non, si son activité principale n'est pas la logistique ou le transport international (CDII, art. 61-1°)."
+   ],
+   [
+    "Qui paie les droits sur une marchandise manquante en MEAD ?",
+    "L'exploitant, au titre de sa soumission générale cautionnée (CDII, art. 63-1°)."
+   ]
+  ],
+  "renvois": [
+   "3-010",
+   "3-012",
+   "3-013",
+   "3-001",
+   "8-002",
+   "9-050"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "3-012",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Dépôt temporaire et MEAD",
+  "t": "Marchandises abandonnées en douane (marchandises en souffrance) : définition, cession et sort du produit de la vente",
+  "enbref": "Une marchandise non déclarée dans le délai de 45 jours, ou déclarée mais non enlevée dans le mois sans paiement ni garantie des droits, est considérée comme abandonnée en douane. L'ADII peut la vendre, droits compris, ou la détruire si elle est impropre. Le reliquat du prix est consigné quatre ans au profit de l'ayant droit, puis revient à l'État.",
+  "textes": [
+   "CDII, art. 62-5°, 106 à 110",
+   "Arrêté n° 1318-77 du 31/10/1977, art. 2 bis",
+   "Décret n° 2-77-862, art. 72 et 214 bis à 214 quinquies",
+   "Circulaire ADII n° 4389/120 du 27/06/1995",
+   "Circulaire ADII n° 5655/312 du 24/01/2017 (cahier des charges MEAD, art. 14)"
+  ],
+  "principe": "Le CDII ne parle pas de « marchandises en souffrance » mais de marchandises considérées comme abandonnées en douane. Sont visées les marchandises non déclarées en détail dans le délai de l'article 66-3°, et celles déclarées mais non enlevées dans le mois suivant l'enregistrement, en l'absence de litige, lorsque les droits n'ont été ni payés ni garantis ; les contenants (conteneurs, remorques, citernes) n'appartenant pas au propriétaire des marchandises sont exclus (CDII, art. 106).\n\nCes marchandises peuvent être cédées par l'administration ou, si elles sont impropres à la consommation ou à l'usage, détruites après information des services concernés (art. 107-1°). En MEAD, l'exploitant doit les mettre à la disposition de l'administration (art. 62-5°). Elles sont cédées droits et taxes compris dans le prix, l'acquéreur pouvant leur donner toute destination légale (art. 108).\n\nLe produit de la vente est affecté, dans l'ordre, aux droits de timbre et d'enregistrement du procès-verbal, aux droits et taxes, aux taxes d'aconage, de transport et de magasinage et autres frais, puis aux sommes dues pour le transport ; le reliquat est consigné pendant quatre ans au profit de l'ayant droit, puis revient à l'État, sauf s'il est inférieur à 500 DH (art. 109). Tant que la marchandise n'est pas cédée, un dépôt tardif de la déclaration peut être autorisé dans des cas justifiés (arrêté n° 1318-77, art. 2 bis).\n\nLa vente se fait aux enchères, sur appel d'offres ou de gré à gré (décret n° 2-77-862, art. 214 ter à 214 quinquies).",
+  "admin": "La circulaire n° 4389/120 demande de vendre les marchandises abandonnées par affaire, afin de faciliter la gestion du produit revenant à chaque ayant droit, dans un délai maximum d'un mois à compter de l'expiration du délai réglementaire. En MEAD, l'exploitant assure leur gardiennage jusqu'au dédouanement, à la destruction ou à la cession, et les frais de manipulation pour la vente sont à sa charge (circ. n° 5655/312, CDC art. 14).",
+  "donnees": [
+   [
+    "Non-déclaration",
+    "Délai de 45 jours (CDII, art. 106 ; arrêté n° 1318-77, art. 2)"
+   ],
+   [
+    "Non-enlèvement",
+    "1 mois après enregistrement, droits non payés ni garantis (CDII, art. 106)"
+   ],
+   [
+    "Consignation du reliquat",
+    "4 ans, puis acquis à l'État (CDII, art. 109-2°)"
+   ],
+   [
+    "Reliquat inférieur à 500 DH",
+    "Pris immédiatement en recette (CDII, art. 109-2°)"
+   ],
+   [
+    "Délai de mise en vente",
+    "1 mois après l'expiration du délai (circ. n° 4389/120)"
+   ]
+  ],
+  "cas": "La société fictive Rif Textiles a déclaré un lot de tissus le 10 juin, mais, faute de trésorerie, ne paie ni ne garantit les droits. Le 11 juillet, sans litige en cours, le lot est considéré comme abandonné. Le conteneur, propriété de l'armateur, n'est pas concerné. La bonne démarche avant l'échéance : solliciter une garantie des droits ou un crédit d'enlèvement. Après vente, la société peut encore réclamer le reliquat consigné pendant quatre ans.",
+  "juris": "",
+  "conseil": "Une marchandise abandonnée n'est pas perdue tant qu'elle n'est pas cédée : demandez sans délai l'autorisation de dépôt tardif ou réglez les droits. Après la vente, réclamez le reliquat auprès du receveur, avec le procès-verbal de vente et vos justificatifs de propriété.",
+  "faq": [
+   [
+    "Le conteneur est-il vendu avec la marchandise abandonnée ?",
+    "Non, si le contenant n'appartient pas au propriétaire des marchandises (CDII, art. 106)."
+   ],
+   [
+    "Que devient le prix de vente en excédent ?",
+    "Il est consigné quatre ans au profit de l'ayant droit, puis revient à l'État (CDII, art. 109-2°)."
+   ],
+   [
+    "Une marchandise périmée peut-elle être vendue ?",
+    "Non, elle peut être détruite si elle est impropre à la consommation ou à l'usage (CDII, art. 107-1°)."
+   ]
+  ],
+  "renvois": [
+   "3-010",
+   "3-011",
+   "3-033",
+   "4-041",
+   "9-021"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "3-013",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Dépôt temporaire et MEAD",
+  "t": "Acheminement et prise en charge des marchandises au MEAD : DS MEAD, transit et dépotage",
+  "enbref": "Depuis 2025, l'exploitant du MEAD enregistre sur BADR une seule déclaration, la DS MEAD, qui couvre à la fois l'acheminement depuis le bureau d'importation et l'entrée au MEAD. Elle vaut acquit à caution et est garantie par sa soumission générale cautionnée. Le transport jusqu'au MEAD se fait sous sa responsabilité, dans le délai et sur l'itinéraire fixés.",
+  "textes": [
+   "CDII, art. 63-3° et 156-3°",
+   "Arrêté n° 2857-19 du 11/10/2019 modifiant l'arrêté n° 1035-03",
+   "Circulaires ADII n° 6636/312 du 10/02/2025, n° 5934/300 du 09/05/2019, n° 5991/300 du 18/12/2019 et n° 6522/210 du 29/12/2023",
+   "Circulaire ADII n° 5655/312 du 24/01/2017 (CDC, art. 10 et 12)"
+  ],
+  "principe": "L'entrée des marchandises dans un MEAD est subordonnée au dépôt préalable d'une déclaration sommaire valant acquit à caution, dont la forme est fixée par arrêté (CDII, art. 63-3°). La loi de finances 2019 a consacré à ce titre la DS MEAD, dont la formule a été fixée par l'arrêté n° 2857-19 modifiant l'arrêté n° 1035-03 (circ. n° 6636/312). Elle remplace l'acquit à caution de transit, l'ancienne déclaration sommaire MEAD et l'état de dépotage.\n\nL'administration fixe le délai et, le cas échéant, l'itinéraire du transit (CDII, art. 156-3°). L'exploitant assure, sous sa responsabilité et par ses propres moyens, la conduite des marchandises du bureau d'arrivée au MEAD ; s'il recourt à un transporteur, un contrat est remis au bureau de domiciliation (circ. n° 5934/300).\n\nÉtapes de la DS MEAD (circ. n° 6636/312) :\n- enregistrement sur BADR avant la sortie du bureau de départ, avec le titre de transport et le manifeste commercial détaillé ;\n- sélectivité, contrôle de transit, scellés et écor au départ ;\n- acheminement sous couvert de l'extrait de la DS MEAD ;\n- confirmation de réception par l'agent affecté au MEAD, qui décharge le compte de transit ;\n- apurement par les mainlevées des déclarations en détail.",
+  "admin": "Le transit de chargements complets vers un MEAD exploité par un OEA est autorisé d'office ; dans les autres cas, le titre de transport doit être au nom de l'exploitant et certaines marchandises sont exclues, notamment les marchandises dangereuses, le tabac, les alcools et les pièces d'occasion (circ. n° 5934/300). Au MEAD de type MD, le dépotage se fait à l'arrivée en présence du service (CDC, art. 12). Les exploitants OEA sécurité-sûreté peuvent dépoter hors des heures légales sans présence douanière, après contrôle des scellés et déclaration de réception sur BADR (circ. n° 5991/300). À l'export, l'acheminement du MEAD au bureau de sortie est couvert par une déclaration simplifiée depuis le 01/01/2024 (circ. n° 6522/210).",
+  "donnees": [
+   [
+    "Document unique",
+    "DS MEAD valant acquit à caution (CDII, art. 63-3° ; circ. n° 6636/312)"
+   ],
+   [
+    "Garantie",
+    "Caution de type S, à défaut caution globale G (circ. n° 6636/312)"
+   ],
+   [
+    "Redevance informatique",
+    "150 DH (circ. n° 6677/312 du 18/08/2025, citée par circ. n° 6636/312)"
+   ],
+   [
+    "Délai et itinéraire",
+    "Fixés par l'administration (CDII, art. 156-3°)"
+   ]
+  ],
+  "cas": "La société fictive Bouregreg Freight exploite un MAD à Rabat et reçoit à Tanger Med un conteneur de groupage pour douze importateurs. Elle enregistre une DS MEAD sur BADR avant la sortie du port, avec le connaissement et le manifeste détaillé par ligne. Le conteneur est scellé et acheminé avec l'extrait de la DS MEAD par son propre camion. Erreur à éviter : confier le transport à un sous-traitant sans contrat déposé au bureau de domiciliation.",
+  "juris": "",
+  "conseil": "Vérifiez que le manifeste commercial mentionne pour chaque ligne l'ICE et la raison sociale du destinataire : sans eux, l'enregistrement de la DS MEAD bloque. Contrôlez le délai de transit fixé avant le départ et l'intégrité des scellés à l'arrivée. En cas d'anomalie sur les scellés, ne dépotez pas : signalez-la et sécurisez le chargement.",
+  "faq": [
+   [
+    "Qui dépose la DS MEAD ?",
+    "L'exploitant du MEAD ou son représentant mandaté, au bureau d'entrée (circ. n° 6636/312)."
+   ],
+   [
+    "Comment la DS MEAD est-elle apurée ?",
+    "Par les mainlevées des déclarations en détail des marchandises qu'elle couvre, ou par une autre DS MEAD en cas de groupage (circ. n° 6636/312)."
+   ]
+  ],
+  "renvois": [
+   "3-011",
+   "3-010",
+   "3-002",
+   "6-001",
+   "6-003",
+   "8-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

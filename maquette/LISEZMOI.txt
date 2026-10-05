@@ -1,0 +1,38 @@
+PLATEFORME DE GUIDES PRATIQUES — MAQUETTE HTML
+Version de démonstration — octobre 2026
+
+OUVRIR
+Décompressez le dossier puis double-cliquez sur index.html.
+Fonctionne hors ligne, sans serveur (polices Google si connexion disponible).
+
+CHANGER DE POINT DE VUE
+La barre jaune en haut de chaque page permet de voir le site en tant que :
+- Visiteur : sommaire visible, paragraphes verrouillés sauf l'accès libre (7-001)
+- Abonné (Karim Alami, Transit Atlas SARL) : lecture complète, filigranes, compte client
+- Administrateur : paiements, clients, surveillance, montages, identification des copies
+
+PAGES (22)
+Public       index, tarifs, guide (sommaire), parcours, connexion, inscription, legal
+Lecture      lecture (?id=7-005 montre le gabarit complet), recherche, texte (texte source)
+Compte       compte, favoris, abonnement, factures, facture, membres
+Admin        admin, admin-paiements, admin-clients, admin-surveillance,
+             admin-montages, admin-filigrane
+
+À ESSAYER
+- Abonnement > « Recevoir la facture proforma » : une proforma numérotée est émise
+- Administration > Paiements : saisir une référence de virement et valider
+- Administration > Identifier une copie > « Coller un exemple » puis « Analyser »
+- Lecture : copier un passage puis le coller ailleurs (la source est ajoutée)
+- Inscription avec une adresse en gov.ma : refusée
+- Utilisateurs : ajouter des collaborateurs jusqu'à la limite de la formule
+
+CONTENU
+Le plan complet (9 parties, 45 chapitres) et les 171 paragraphes de l'édition 2026.
+Logigrammes et modèles d'actes : voir le site (npm run dev), dans Annexes.
+Le paragraphe 7-005 est complété (en bref, données clés, cas pratique, FAQ) pour
+montrer le gabarit enrichi. Entreprises, personnes, montants et virements sont fictifs.
+
+DIFFÉRENCE AVEC LE SITE RÉEL
+Ici, les protections sont simulées dans le navigateur. Sur le site réel (Next.js +
+Supabase), elles sont appliquées par le serveur : le contenu n'est jamais envoyé
+à un visiteur non autorisé.

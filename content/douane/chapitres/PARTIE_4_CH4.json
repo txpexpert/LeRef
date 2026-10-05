@@ -1,0 +1,238 @@
+[
+ {
+  "id": "4-030",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Exonérations et suspensions",
+  "t": "Franchises de droits à l'importation (article 164 du CDII) : bénéficiaires, conditions, justificatifs et surveillance de la destination",
+  "enbref": "L'article 164 du CDII énumère limitativement les marchandises importées en franchise totale des droits de douane et des autres droits et taxes. On y trouve notamment les envois diplomatiques, les dons humanitaires, les marchandises en retour, la Défense nationale, les médicaments listés et certaines fondations. Chaque franchise exige un justificatif précis, et les biens restent sous surveillance douanière tant que dure la condition de destination.",
+  "textes": [
+   "CDII, art. 164-1° et 2°, 166 ter",
+   "Décret n° 2-77-862, art. 174 à 182 ter, 190 et 190 ter",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016 (annexe 6)",
+   "Circulaires ADII n° 6398/210 du 29/12/2022, n° 6522/210 du 29/12/2023 et n° 6619/210 (LF 2025)"
+  ],
+  "principe": "Par dérogation aux articles 3 et 5 du CDII, l'article 164-1° énumère les marchandises importées en franchise, dont les modalités sont fixées par décret ou voie réglementaire (art. 164-2°).\n\nPrincipales franchises et justificatifs :\n- marchandises en retour, originaires ou nationalisées, importées dans les deux ans de leur exportation (art. 164-1°-b ; décret, art. 174 à 176) ;\n- envois aux ambassadeurs, services diplomatiques et chefs de mission d'organismes internationaux, sur bon de franchise du ministère des affaires étrangères (art. 164-1°-c ; décret, art. 177 et 178) ;\n- dons aux œuvres de bienfaisance, après avis de l'Entraide nationale (art. 164-1°-d ; décret, art. 179) ;\n- envois non commerciaux : mobilier de changement de résidence, sur certificat et inventaire, effets des Marocains résidant à l'étranger (art. 164-1°-e ; décret, art. 180 à 182 ter) ;\n- objets éducatifs, scientifiques et culturels UNESCO (art. 164-1°-x) ;\n- médicaments et produits pharmaceutiques des positions listées du chapitre 30 (art. 164-1°-y ; circ. n° 6398/210) ;\n- biens importés par les représentations de la FIFA au Maroc, code franchise 1096 (art. 164-1°-z ; circ. n° 6619/210).\n\nToute franchise liée à une destination ou utilisation déterminée reste sous contrôle de l'administration. Un détournement entraîne le paiement immédiat des droits, majorés de l'intérêt de retard depuis l'enregistrement de la déclaration. Les franchises au profit du Roi, des marchandises en retour et de la Défense en sont exclues (art. 166 ter).",
+  "admin": "La note D7106/16 répartit la compétence d'octroi : le chef de circonscription pour les franchises UNESCO et les dons à l'État, aux collectivités et aux associations reconnues d'utilité publique ; l'ordonnateur pour les œuvres de bienfaisance et les fondations. Elle rappelle que certaines franchises ne couvrent qu'une partie des droits : Bank Al-Maghrib et l'Université Al Akhawayn restent passibles du droit d'importation de 2,5 % et de la TPI.",
+  "donnees": [
+   [
+    "Marchandises en retour",
+    "Réimportation dans les 2 ans (décret, art. 174)"
+   ],
+   [
+    "Diplomates",
+    "Bon de franchise des affaires étrangères (décret, art. 178)"
+   ],
+   [
+    "Œuvres de bienfaisance",
+    "Avis de l'Entraide nationale (décret, art. 179)"
+   ],
+   [
+    "Détournement de destination",
+    "Droits + intérêt de retard (CDII, art. 166 ter)"
+   ],
+   [
+    "FIFA",
+    "Code franchise 1096 (circ. n° 6619/210)"
+   ]
+  ],
+  "cas": "La société fictive Oujda Industries réimporte, quinze mois après son exportation, une machine renvoyée par un client étranger mécontent, sans transformation à l'étranger. Elle la déclare en franchise comme marchandise en retour, avec la déclaration d'exportation d'origine. Si la machine avait été exportée en décharge d'un compte d'admission temporaire, la franchise aurait été subordonnée au paiement des droits sur les matières étrangères. L'erreur fréquente : laisser passer le délai de deux ans.",
+  "juris": "",
+  "conseil": "Avant toute importation en franchise, identifiez le point exact de l'article 164 et le justificatif exigé ; sans lui, le service liquide les droits. Conservez un registre des biens importés sous condition de destination : leur cession ou leur changement d'usage rend les droits exigibles avec intérêts. Pour les retours de marchandises, archivez la déclaration d'exportation et les preuves d'identité de la marchandise.",
+  "faq": [
+   [
+    "Une marchandise exportée puis renvoyée par le client paie-t-elle des droits ?",
+    "Non, si elle est réimportée dans les deux ans, sans transformation et par l'exportateur (décret n° 2-77-862, art. 174)."
+   ],
+   [
+    "Que se passe-t-il si un bien exonéré change d'usage ?",
+    "Les droits deviennent immédiatement exigibles, avec intérêt de retard (CDII, art. 166 ter)."
+   ]
+  ],
+  "renvois": [
+   "4-031",
+   "4-032",
+   "4-033",
+   "4-012",
+   "4-021",
+   "7-032"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "4-031",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Exonérations et suspensions",
+  "t": "Régime douanier de l'investissement : exonération des biens d'équipement sous convention (article 164-1°-p), délai de 36 mois et prorogation",
+  "enbref": "Les biens d'équipement, matériels et outillages importés par une entreprise qui s'engage, par convention avec le gouvernement, à réaliser un programme d'investissement d'au moins 50 millions de DH sont exonérés des droits de douane et des autres droits et taxes. L'exonération court 36 mois à compter de la première importation et peut être prorogée de 24 mois. Ces importations échappent aux mesures de défense commerciale.",
+  "textes": [
+   "CDII, art. 164-1°-p) et 166 ter",
+   "CGI, art. 123-22°-b) (cité par les circulaires)",
+   "Circulaires ADII n° 6255/210 du 24/12/2021 (LF 2022), n° 6398/210 du 29/12/2022 (LF 2023), n° 6702/210 du 26/12/2025 (LF 2026) et n° 6619/210 (LF 2025)"
+  ],
+  "principe": "L'article 164-1°-p) du CDII exonère des droits de douane et des autres droits et taxes les biens d'équipement, matériels et outillages nécessaires à un programme d'investissement réalisé par une entreprise dans le cadre d'une convention conclue avec le gouvernement (circ. n° 6255/210).\n\nConditions et durée :\n- seuil : 50 millions de DH depuis la LF 2022, au lieu de 100 millions (circ. n° 6255/210) ;\n- durée : 36 mois à compter de la première importation réalisée dans le cadre de la convention en cours de validité ;\n- prorogation : délai supplémentaire de 24 mois depuis la LF 2023, aligné sur l'article 123-22°-b) du CGI pour la TVA (circ. n° 6398/210) ;\n- défense commerciale : ces importations ne sont pas soumises aux mesures de la loi n° 15-09 (circ. n° 6255/210).\n\nToutes les exonérations du droit d'importation liées à l'investissement ont été regroupées à l'article 164 du CDII, l'ancien article 7-I-1° de la loi de finances n° 12-98 étant abrogé (circ. n° 6255/210). La même logique couvre les projets structurants : la LF 2025 a exonéré les biens d'équipement du projet de Gazoduc Africain-Atlantique, code franchise 1095 (art. 164-1°-z ; circ. n° 6619/210).\n\nLes biens restent affectés au programme : leur cession ou leur détournement rend les droits exigibles avec intérêt de retard (CDII, art. 166 ter).",
+  "admin": "Pour la TVA, la LF 2026 a unifié la prorogation : 24 mois sur demande électronique déposée avant l'expiration du délai de 36 mois, au vu de la décision de la DGI (circ. n° 6702/210). Les circulaires de 2022 et 2023 fixent ce seuil à 50 millions de DH ; certaines versions consolidées du CDII portent le chiffre manifestement erroné de « 50 000 000 000 de dirhams ».",
+  "donnees": [
+   [
+    "Seuil d'investissement",
+    "50 millions de DH (circ. n° 6255/210)"
+   ],
+   [
+    "Durée",
+    "36 mois depuis la 1re importation (circ. n° 6398/210)"
+   ],
+   [
+    "Prorogation",
+    "24 mois (circ. n° 6398/210)"
+   ],
+   [
+    "Défense commerciale",
+    "Non applicable (circ. n° 6255/210)"
+   ],
+   [
+    "Gazoduc Africain-Atlantique",
+    "Code franchise 1095 (circ. n° 6619/210)"
+   ]
+  ],
+  "cas": "La société fictive Lixus Automotive signe en 2025 une convention pour une usine de 120 millions de DH. Sa première importation d'équipements a lieu le 1er mars 2025 : l'exonération court jusqu'au 28 février 2028. Une presse importée de Chine fait l'objet d'un droit antidumping : il ne s'applique pas, l'importation relevant de la convention. L'erreur à éviter : importer des équipements non prévus dans le programme, puis les revendre, ce qui rend les droits exigibles avec intérêts.",
+  "juris": "",
+  "conseil": "Annexez à la convention une liste précise des biens d'équipement : elle facilite le contrôle au dédouanement. Datez la première importation et suivez l'échéance des 36 mois. Ne cédez aucun bien exonéré sans accord et paiement préalable des droits.",
+  "faq": [
+   [
+    "Quel est le seuil d'investissement pour l'exonération conventionnelle ?",
+    "50 millions de DH depuis la LF 2022 (circ. n° 6255/210)."
+   ],
+   [
+    "Les droits antidumping s'appliquent-ils à ces importations ?",
+    "Non, elles sont exclues des mesures de défense commerciale (circ. n° 6255/210)."
+   ]
+  ],
+  "renvois": [
+   "4-030",
+   "4-013",
+   "4-032",
+   "5-010",
+   "7-050"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "4-032",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Exonérations et suspensions",
+  "t": "Suspensions temporaires du droit d'importation : base légale, contingents, demande de franchise et durée limitée",
+  "enbref": "Le droit d'importation peut être suspendu temporairement par la loi de finances ou, en cas d'urgence, par le gouvernement. Les suspensions récentes visent surtout les produits alimentaires et les animaux vivants, dans la limite de contingents et pour une durée limitée. Le bénéfice est accordé au vu d'une demande de franchise douanière jointe à la déclaration, jusqu'à épuisement du contingent.",
+  "textes": [
+   "CDII, art. 5",
+   "Loi de finances 2025, art. 6 ; loi de finances 2026 (loi n° 50-25), art. 5 bis",
+   "Circulaires ADII n° 6619/210 (LF 2025) et n° 6702/210 du 26/12/2025 (LF 2026)",
+   "Circulaire ADII n° 6035/200 du 09/04/2020"
+  ],
+  "principe": "En cas d'urgence, le gouvernement peut modifier ou suspendre les quotités du droit d'importation et des autres droits et taxes, sur habilitation législative (CDII, art. 5). Les lois de finances prévoient aussi des suspensions temporaires ciblées.\n\nSuspensions 2026 (LF 2026, art. 5 bis ; circ. n° 6702/210), du 01/01 au 31/12/2026 :\n- bovins domestiques vivants : contingent de 300 000 têtes ;\n- camélidés domestiques vivants : contingent de 10 000 têtes.\nLa TVA à l'importation est suspendue dans les mêmes limites (art. 247 du CGI).\n\nSuspensions 2025 (LF 2025, art. 6 ; circ. n° 6619/210), du 01/01 au 31/12/2025 :\n- animaux vivants : bovins (150 000 têtes), ovins (700 000), caprins (20 000), camélidés (15 000) ;\n- velles reproductrices et génisses : 20 000 têtes chacune ;\n- viandes et abats : 100 000 tonnes ;\n- riz cargo importé par les industriels : 55 000 tonnes ;\n- huiles d'olive vierges : 20 000 tonnes.\n\nDans tous les cas, le bénéfice est accordé au vu d'une demande de franchise douanière présentée par l'importateur à l'appui de sa déclaration d'importation (circ. n° 6619/210 et 6702/210).",
+  "admin": "Les demandes de franchise douanière au titre des contingents tarifaires sont traitées via PortNet ; celles qui ne peuvent l'être sont scannées et jointes à la DUM sur BADR (circ. n° 6035/200).",
+  "donnees": [
+   [
+    "Base légale d'urgence",
+    "Gouvernement sur habilitation (CDII, art. 5)"
+   ],
+   [
+    "Bovins 2026",
+    "300 000 têtes (circ. n° 6702/210)"
+   ],
+   [
+    "Camélidés 2026",
+    "10 000 têtes (circ. n° 6702/210)"
+   ],
+   [
+    "Période 2026",
+    "01/01 au 31/12/2026 (circ. n° 6702/210)"
+   ],
+   [
+    "Justificatif",
+    "Demande de franchise douanière (circ. n° 6702/210)"
+   ]
+  ],
+  "cas": "La société fictive Saïss Élevage importe en novembre 2026 un lot de 500 bovins vivants d'Espagne. Elle dépose sa demande de franchise via PortNet et la joint à sa déclaration ; le contingent de 300 000 têtes n'étant pas épuisé, le droit d'importation et la TVA sont suspendus. Un lot arrivé en janvier 2027 ne bénéficiera pas de la mesure, sauf reconduction par la loi de finances 2027. L'erreur fréquente : prévoir des arrivages après le 31 décembre en tablant sur la suspension.",
+  "juris": "",
+  "conseil": "Suivez la consommation des contingents et déposez la demande de franchise dès l'embarquement : la règle est celle de l'épuisement. Calez vos arrivages avant le 31 décembre. Vérifiez chaque année, dans la circulaire de loi de finances, si la suspension est reconduite et à quels volumes.",
+  "faq": [
+   [
+    "Comment bénéficier de la suspension du droit d'importation ?",
+    "En joignant une demande de franchise douanière à la déclaration d'importation (circ. n° 6702/210)."
+   ],
+   [
+    "La suspension 2026 couvre-t-elle aussi la TVA ?",
+    "Oui, dans les mêmes contingents de bovins et de camélidés (circ. n° 6702/210)."
+   ]
+  ],
+  "renvois": [
+   "4-002",
+   "4-003",
+   "4-012",
+   "4-030",
+   "3-024"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "4-033",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Exonérations et suspensions",
+  "t": "Taux réduit de 2,5 % du droit d'importation (article 164 bis) : bénéficiaires, produits contingentés et conditions",
+  "enbref": "L'article 164 bis du CDII applique un droit d'importation réduit de 2,5 % à une liste limitative de marchandises et d'organismes. Il vise notamment les engins de pêche, le matériel d'irrigation, l'Entraide nationale, le Croissant-Rouge, certains produits contingentés et plusieurs fondations. Le bénéfice suppose des justificatifs propres à chaque cas, par exemple une liste visée et un constat d'installation pour l'irrigation.",
+  "textes": [
+   "CDII, art. 164 bis-1°",
+   "Décret n° 2-77-862, art. 205 bis et 205 ter",
+   "Circulaires ADII n° 6522/210 du 29/12/2023 (LF 2024) et n° 6619/210 (LF 2025)",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016"
+  ],
+  "principe": "Par dérogation aux articles 3 et 5, l'article 164 bis du CDII soumet au taux réduit de 2,5 % du droit d'importation une liste limitative de marchandises.\n\nPrincipaux cas :\n- rogues de morue, appâts et engins de pêche de la liste réglementaire (164 bis-1°-a ; décret, art. 205 bis) ;\n- appareils de protection aérotoxique (b) ;\n- marchandises de l'Entraide nationale et du Croissant-Rouge marocain (c et d) ;\n- matériel d'irrigation de la liste réglementaire (f ; décret, art. 205 ter) ;\n- certains produits laitiers, céréaliers et sucriers, dans la limite de contingents annuels (h) ;\n- produits des zones d'accélération industrielle mis à la consommation dans la limite de 30 % du chiffre d'affaires export annuel (i) ;\n- biens importés par les fondations et institutions listées dans le cadre de leurs missions (j).\n\nLa liste évolue avec les lois de finances : la LF 2024 a ajouté la Fondation Mohammed VI des Sciences et de la Santé (circ. n° 6522/210) ; la LF 2025 a retiré la Ligue nationale de lutte contre les maladies cardio-vasculaires, dissoute par la loi n° 32-24 (circ. n° 6619/210).",
+  "admin": "Pour le matériel d'irrigation, le taux réduit suppose le visa préalable d'une liste quantitative par les autorités de l'industrie et de l'agriculture, puis la production, dans les six mois suivant la livraison, d'un constat d'installation des services régionaux de l'agriculture (décret, art. 205 ter). Pour Bank Al-Maghrib et l'Université Al Akhawayn, la note D7106/16 confirme le droit de 2,5 % et la TPI de 0,25 %.",
+  "donnees": [
+   [
+    "Taux",
+    "2,5 % (CDII, art. 164 bis)"
+   ],
+   [
+    "Irrigation",
+    "Liste visée et constat d'installation sous 6 mois (décret, art. 205 ter)"
+   ],
+   [
+    "Produits des ZAI",
+    "Dans la limite de 30 % du CA export (CDII, art. 164 bis-1°-i)"
+   ],
+   [
+    "Ajout LF 2024",
+    "Fondation Mohammed VI des Sciences et de la Santé (circ. n° 6522/210)"
+   ]
+  ],
+  "cas": "La société fictive Haouz Irrigation importe des goutteurs et des filtres pour un projet d'exploitation agricole. Elle fait viser la liste quantitative avant l'importation, déclare au taux de 2,5 %, puis transmet sous six mois le constat d'installation des services agricoles. L'erreur fréquente : oublier le constat d'installation, ce qui expose au rappel des droits au taux normal.",
+  "juris": "",
+  "conseil": "Vérifiez que chaque article figure exactement sur la liste réglementaire : les listes de l'irrigation et de la pêche sont limitatives. Programmez dès l'importation le rappel du constat d'installation à six mois. Pour les contingents, vérifiez le solde disponible avant l'arrivée.",
+  "faq": [
+   [
+    "Le matériel d'irrigation bénéficie-t-il d'un taux réduit ?",
+    "Oui, 2,5 %, sous réserve de la liste visée et du constat d'installation sous six mois (décret n° 2-77-862, art. 205 ter)."
+   ],
+   [
+    "Le taux réduit de 2,5 % exclut-il la TPI ?",
+    "Non, la TPI reste due lorsque le droit d'importation n'est pas totalement exonéré (note D7106/16 ; circ. n° 5970/211)."
+   ]
+  ],
+  "renvois": [
+   "4-030",
+   "4-031",
+   "4-021",
+   "4-002",
+   "7-070"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ }
+]

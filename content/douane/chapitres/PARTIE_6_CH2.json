@@ -1,0 +1,122 @@
+[
+ {
+  "id": "6-010",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Cabotage",
+  "t": "Cabotage (transport maritime intérieur) : transport par mer entre deux ports marocains, marchandises admises et déclaration en détail",
+  "enbref": "Le code des douanes permet de transporter par mer, entre deux points du territoire assujetti, des marchandises marocaines ou étrangères déjà en libre pratique, ainsi que des marchandises importées non encore déclarées, rechargées sur un autre navire. Sous réserve d'un transport direct et de la justification de l'origine, ces marchandises échappent aux droits et prohibitions. Chaque transport fait l'objet d'une déclaration en détail.",
+  "textes": [
+   "CDII, art. 52, 60-2°, 74 et 166 bis",
+   "Arrêté du ministre des finances n° 1319-77 du 31/10/1977 relatif aux déclarations en douane autres que sommaires"
+  ],
+  "principe": "Le code des douanes n'emploie pas le mot « cabotage » : il traite de cette opération sous l'intitulé « Transport maritime intérieur » (CDII, titre VI, chapitre IV, art. 166 bis).\n\nPeuvent être transportés par mer entre deux points du territoire assujetti (art. 166 bis-1°) :\n- les produits d'origine marocaine et les produits étrangers en libre pratique ;\n- les produits importés non encore déclarés, transportés sur un autre navire que celui qui les a importés.\n\nCes produits ne supportent ni les droits ni les prohibitions de sortie et d'entrée, à deux conditions : le transport doit être direct, et leur origine doit être justifiée. Les produits étrangers non déclarés restent soumis, au port d'arrivée, au dédouanement et aux formalités du contrôle du commerce extérieur (art. 166 bis-1°). Le cabotage de ces marchandises ne fait donc que déplacer le lieu de leur dédouanement.\n\nChaque transport fait l'objet d'une déclaration en détail (art. 166 bis-2°), dont la forme, les énonciations et les documents annexes sont fixés par arrêté (art. 74-3° ; arrêté n° 1319-77). Le chargement et le déchargement ne peuvent avoir lieu que dans l'enceinte des ports dotés d'un bureau de douane, sauf dérogation, avec l'autorisation et en présence des agents, aux heures fixées par le directeur (art. 52 et 60-2°).",
+  "admin": "La règle du transport direct et la distinction entre marchandises en libre pratique et marchandises non encore déclarées découlent du seul article 166 bis du code.",
+  "donnees": [
+   [
+    "Base légale",
+    "CDII, art. 166 bis (transport maritime intérieur)"
+   ],
+   [
+    "Marchandises admises",
+    "Origine marocaine, libre pratique, ou importées non déclarées sur un autre navire (art. 166 bis-1°)"
+   ],
+   [
+    "Conditions",
+    "Transport direct et justification de l'origine (art. 166 bis-1°)"
+   ],
+   [
+    "Document",
+    "Déclaration en détail (art. 166 bis-2° et 74-3°)"
+   ],
+   [
+    "Lieu de chargement",
+    "Port doté d'un bureau de douane, sauf dérogation (art. 52 et 60-2°)"
+   ]
+  ],
+  "cas": "La société fictive Sud Matériaux expédie de Casablanca à Laâyoune, par navire, 2 000 tonnes de ciment fabriqué au Maroc. Son transitaire dépose une déclaration en détail de transport maritime intérieur, avec la preuve de l'origine marocaine, et le chargement a lieu dans l'enceinte portuaire en présence des agents. À Laâyoune, la marchandise est reçue sans droits. Pour un lot de rond à béton importé en Espagne et non encore dédouané, rechargé à Casablanca sur un autre navire, le dédouanement et les formalités du commerce extérieur se feront à Laâyoune. L'erreur fréquente : charger sans déclaration, au motif que la marchandise ne quitte pas le Maroc.",
+  "juris": "",
+  "conseil": "Constituez dès le départ le dossier de preuve de l'origine ou de la libre pratique : facture du fabricant marocain, déclaration de mise à la consommation antérieure. Évitez toute escale à l'étranger, qui romprait le transport direct. Pour des marchandises importées non dédouanées, préparez au port d'arrivée les titres de commerce extérieur et les contrôles techniques qui y seront exigés.",
+  "faq": [
+   [
+    "Faut-il une déclaration pour envoyer par mer des marchandises marocaines d'un port à un autre ?",
+    "Oui, le transport maritime intérieur fait l'objet d'une déclaration en détail (CDII, art. 166 bis-2°)."
+   ],
+   [
+    "Des marchandises étrangères non dédouanées peuvent-elles être transportées entre deux ports marocains ?",
+    "Oui, sur un autre navire que celui d'importation ; elles sont dédouanées et soumises au contrôle du commerce extérieur au port d'arrivée (CDII, art. 166 bis-1°)."
+   ]
+  ],
+  "renvois": [
+   "6-011",
+   "6-001",
+   "3-001",
+   "3-003",
+   "3-020",
+   "4-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "6-011",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Cabotage",
+  "t": "Transbordement de marchandises entre navires ou aéronefs dans l'enceinte douanière : suspension des prohibitions et conditions",
+  "enbref": "Le transbordement est le passage direct de marchandises d'un navire ou d'un aéronef à un autre dans l'enceinte d'un bureau de douane. Il suspend, sauf disposition contraire, les prohibitions et restrictions quantitatives, à l'exception des prohibitions absolues de l'article 115. Il n'a lieu que dans les ports et aérodromes dotés d'un bureau de douane, avec l'autorisation et sous le contrôle des agents.",
+  "textes": [
+   "CDII, art. 19-1°, 52, 59, 60-2°, 115 et 166",
+   "Note ADII n° 23605/320 du 23/11/1998",
+   "Circulaire ADII n° 6672/311 du 08/08/2025",
+   "Circulaire conjointe ADII-MIC n° 2 du 23/03/2023"
+  ],
+  "principe": "Le transbordement de marchandises entre navires ou aéronefs, dans l'enceinte des bureaux de douane, suspend les restrictions quantitatives et les prohibitions, sauf disposition contraire et à l'exception des prohibitions absolues de l'article 115 (CDII, art. 166). Les stupéfiants, armes de guerre hors exceptions légales, écrits pornographiques et produits contrefaisant l'effigie royale, les emblèmes nationaux ou l'origine marocaine ne peuvent donc pas être transbordés.\n\nLe transbordement ne peut avoir lieu que dans l'enceinte des ports ou aérodromes dotés d'un bureau de douane, aux heures et conditions fixées par le directeur (art. 60-2°), avec autorisation écrite et en présence des agents (art. 52) ; ces règles s'appliquent aussi au transport aérien (art. 59).\n\nUn transbordement dans un pays tiers ne confère pas à la marchandise la provenance de ce pays, sauf si sa durée excède le temps normal de transbordement (art. 19-1°). Cette règle compte pour le transport direct exigé par les accords préférentiels.\n\nPlusieurs usages pratiques se rencontrent :\n- commerce triangulaire sans transfert de contre-valeur : lorsque la marchandise ne quitte pas l'enceinte douanière, l'opération peut être réalisée sous le régime du transbordement, sans admission temporaire (note n° 23605/320) ;\n- marchandises refoulées après un contrôle technique non conforme : leur réexportation peut se faire sous scellés vers le bureau de transbordement (circ. conjointe n° 2) ;\n- matériels de défense et de sécurité des catégories A et B : le transbordement dans les ports et aéroports est autorisé par l'ADII, avec copie à l'autorité de l'Intérieur (circ. n° 6672/311).",
+  "admin": "Les demandes de transbordement de matériels de défense et de sécurité sont traitées au niveau de l'administration centrale de l'ADII ; le séjour de ces matériels est limité à 72 heures dans les ports et 24 heures dans les aéroports, sauf force majeure (circ. n° 6672/311).",
+  "donnees": [
+   [
+    "Effet",
+    "Suspension des prohibitions et restrictions, sauf art. 115 (CDII, art. 166)"
+   ],
+   [
+    "Lieu",
+    "Enceinte d'un port ou aérodrome doté d'un bureau (CDII, art. 60-2°)"
+   ],
+   [
+    "Conditions",
+    "Autorisation écrite et présence des agents (CDII, art. 52)"
+   ],
+   [
+    "Provenance",
+    "Non modifiée par un transbordement de durée normale (CDII, art. 19-1°)"
+   ],
+   [
+    "Matériels de défense A et B",
+    "Autorisation ADII ; 72 h au port (circ. n° 6672/311)"
+   ]
+  ],
+  "cas": "La société fictive Med Trading achète en Asie des pneumatiques qu'elle revend à un client mauritanien, sans paiement sortant du Maroc. Le conteneur arrive à Tanger Med et doit être rechargé sur un navire pour Nouakchott. Comme la marchandise ne quitte pas l'enceinte portuaire, l'opération peut se faire sous transbordement, les prohibitions et restrictions étant suspendues. L'erreur fréquente : sortir le conteneur de l'enceinte pour le regrouper avec d'autres lots, ce qui fait perdre le bénéfice du transbordement.",
+  "juris": "",
+  "conseil": "Organisez le transbordement avec l'agent maritime avant l'arrivée : le délai de correspondance entre les deux navires détermine le stockage en zone portuaire. Vérifiez qu'aucune prohibition absolue ne vise la marchandise. Pour un produit originaire bénéficiant d'un accord, conservez la preuve que le transbordement intermédiaire n'a pas excédé la durée normale.",
+  "faq": [
+   [
+    "Une marchandise soumise à licence peut-elle être transbordée au Maroc ?",
+    "Oui, le transbordement suspend les prohibitions et restrictions, sauf disposition contraire et sauf les prohibitions absolues de l'article 115 (CDII, art. 166)."
+   ],
+   [
+    "Un transbordement en Espagne fait-il perdre l'origine préférentielle ?",
+    "Il ne confère pas la provenance espagnole si sa durée n'excède pas le temps normal de transbordement (CDII, art. 19-1°) ; les règles de transport direct de chaque accord restent à vérifier."
+   ]
+  ],
+  "renvois": [
+   "6-010",
+   "6-002",
+   "5-001",
+   "5-002",
+   "5-033",
+   "4-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

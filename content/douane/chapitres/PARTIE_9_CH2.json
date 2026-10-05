@@ -1,0 +1,302 @@
+[
+ {
+  "id": "9-010",
+  "p": 9,
+  "ch": "9.2",
+  "c": "Infractions douanières",
+  "t": "Classification des infractions douanières : deux classes de délits, quatre classes de contraventions, peines et mesures de sûreté",
+  "enbref": "Le code distingue les délits douaniers, en deux classes, passibles d'emprisonnement, et les contraventions douanières, en quatre classes, punies d'amendes et de confiscations. La tentative est punie comme l'infraction. Les amendes sont des réparations civiles, calculées depuis la LF 2022 sur les droits et taxes effectivement compromis ou éludés.",
+  "textes": [
+   "CDII, art. 204, 206, 208 à 217, 219, 220 et 279",
+   "Circulaire ADII n° 6255/210 du 24/12/2021 (LF 2022, section I.3)",
+   "Circulaire ADII n° 6619/210 du 26/12/2024 (LF 2025)"
+  ],
+  "principe": "L'infraction douanière est tout acte ou abstention contraire aux lois et règlements douaniers et réprimé par eux (CDII, art. 204). La tentative est assimilée à l'infraction, même si le commencement d'exécution a eu lieu hors du territoire assujetti (art. 206).\n\nLes infractions se répartissent en (art. 279) :\n- délits douaniers de première classe (art. 279 ter) et de deuxième classe (art. 281) ;\n- contraventions douanières de première classe (art. 285), deuxième classe (art. 294), troisième classe (art. 297) et quatrième classe (art. 298 et 299).\n\nLes peines sont l'emprisonnement, la confiscation des marchandises de fraude, des marchandises masquant la fraude et des moyens de transport, et l'amende fiscale (art. 208). La confiscation des marchandises prohibées est une mesure de sûreté, celle des autres marchandises une réparation civile (art. 210). Les amendes fiscales sont des réparations civiles prononcées même sans préjudice matériel pour l'État (art. 214). Une amende unique est prononcée contre tous les participants à une même infraction (art. 216) ; en cas de concours d'infractions sur une même marchandise, seule la condamnation la plus grave s'applique (art. 215). L'amende calculée sur la valeur retient la valeur en douane au moment de la fraude (art. 219).\n\nDes mesures de sûreté personnelles peuvent être prises par décision judiciaire ou administrative (art. 220) : interdiction d'accès aux bureaux et magasins, retrait de l'agrément de transitaire, exclusion des régimes économiques, interdiction d'accès aux systèmes informatiques, retrait de l'autorisation d'exploiter un MEAD.",
+  "admin": "La LF 2022 a rationalisé le régime répressif : amendes réduites et assises sur les droits et taxes effectivement compromis ou éludés, infractions définies avant leurs sanctions, regroupement en troisième classe des infractions ne portant pas directement sur des marchandises (circ. n° 6255/210). La LF 2025 a ramené de deux fois à une fois la valeur l'amende de certains délits, pour faciliter le recouvrement des restes à recouvrer (circ. n° 6619/210).",
+  "donnees": [
+   [
+    "Délits",
+    "2 classes, emprisonnement possible (art. 279)"
+   ],
+   [
+    "Contraventions",
+    "4 classes, amendes et confiscations (art. 279)"
+   ],
+   [
+    "Nature de l'amende",
+    "Réparation civile (art. 214)"
+   ],
+   [
+    "Assiette depuis LF 2022",
+    "Droits et taxes compromis ou éludés (circ. n° 6255/210)"
+   ],
+   [
+    "Valeur de référence",
+    "Valeur en douane au moment de la fraude (art. 219)"
+   ]
+  ],
+  "cas": "La société fictive Casa Électro déclare des téléviseurs sous une position tarifaire moins taxée. Ce n'est pas une contrebande mais une fausse déclaration éludant des droits : une contravention, non un délit, sanctionnée par une amende calculée sur les droits éludés. Si les mêmes téléviseurs avaient été dissimulés dans une cachette aménagée du camion, l'infraction serait un délit de contrebande, passible d'emprisonnement. L'erreur fréquente : qualifier toute irrégularité de fraude pénale, ou à l'inverse sous-estimer une dissimulation.",
+  "juris": "",
+  "conseil": "Avant toute discussion avec le service contentieux, faites qualifier précisément l'infraction (article et alinéa) : la classe détermine la peine, la possibilité de transaction et les mesures de sûreté. Vérifiez aussi l'assiette retenue, droits compromis et non totalité des droits.",
+  "faq": [
+   [
+    "Une tentative de fraude est-elle punie ?",
+    "Oui, la tentative est assimilée à l'infraction (CDII, art. 206)."
+   ],
+   [
+    "Mon agrément de transitaire peut-il être retiré à la suite d'une infraction ?",
+    "Oui, le retrait de l'agrément figure parmi les mesures de sûreté de l'article 220 du CDII."
+   ]
+  ],
+  "renvois": [
+   "9-011",
+   "9-012",
+   "9-013",
+   "9-014",
+   "9-030",
+   "9-020"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "9-011",
+  "p": 9,
+  "ch": "9.2",
+  "c": "Infractions douanières",
+  "t": "Délits douaniers : stupéfiants (1re classe), contrebande et fraudes graves (2e classe), emprisonnement, amendes et confiscation",
+  "enbref": "Les délits de première classe visent les stupéfiants et psychotropes ; ceux de deuxième classe visent notamment la contrebande, la fraude informatique, l'importation de marchandises prohibées et l'usage frauduleux de scellés. Ils sont punis d'emprisonnement, d'amendes calculées sur les droits ou la valeur et de la confiscation des marchandises et moyens de transport.",
+  "textes": [
+   "CDII, art. 279 ter, 279 quater, 281, 282, 282 bis et 283",
+   "Circulaire ADII n° 6522/210 du 29/12/2023 (LF 2024, art. 282)",
+   "Circulaire ADII n° 6619/210 du 26/12/2024 (LF 2025, art. 279 quater, 281-10° et 282 bis)"
+  ],
+  "principe": "Délits de première classe (art. 279 ter) : importation ou exportation, même tentée, de stupéfiants et psychotropes sans autorisation ni déclaration ou sous fausse déclaration ; détention non justifiée ; présence en entrepôt ou en MEAD. Peines : un à trois ans d'emprisonnement, amende égale à une fois la valeur des marchandises, doublée en cas de circonstances aggravantes, et confiscation (art. 279 quater).\n\nDélits de deuxième classe (art. 281), notamment :\n- la contrebande (art. 282) : importation ou exportation hors bureaux, chargement ou transbordement hors enceinte portuaire ou aéroportuaire, cachettes spécialement aménagées, altération des identifiants d'un moyen de transport, détention non justifiée de marchandises de l'article 181 ;\n- les excédents non justifiés en entrepôt et les infractions aux manifestes ;\n- les actes informatiques visant à éluder un droit ou obtenir un avantage indu ;\n- l'importation ou l'exportation de marchandises prohibées de l'article 23-1°-a sans déclaration ou sous fausse déclaration ;\n- la détention, la fourniture ou l'utilisation irrégulière de scellés douaniers (10°, depuis le 01/01/2025).\nPeines (art. 282 bis) : un mois à un an d'emprisonnement ; amende de trois fois les droits et taxes (1° à 7°), d'une fois la valeur (8°, 9° et usage de scellés) ou de 100 000 à 200 000 DH (détention ou fourniture de scellés) ; amendes doublées en cas d'incidence sur la sécurité, la santé ou l'environnement ou de circonstances aggravantes ; confiscation. Les détenteurs et transporteurs qui connaissaient l'irrégularité des justificatifs encourent les mêmes peines (art. 283).",
+  "admin": "La LF 2024 a étendu la contrebande à la fabrication, la détention ou l'utilisation de moyens modifiant les caractéristiques et identifiants des moyens de transport (circ. n° 6522/210). La LF 2025 a créé le délit relatif aux scellés et ramené de deux fois à une fois la valeur l'amende des délits de première classe et de l'article 282 bis-2°-b (circ. n° 6619/210).",
+  "donnees": [
+   [
+    "1re classe, emprisonnement",
+    "1 à 3 ans (art. 279 quater)"
+   ],
+   [
+    "1re classe, amende",
+    "1 fois la valeur, depuis le 01/01/2025 (circ. n° 6619/210)"
+   ],
+   [
+    "2e classe, emprisonnement",
+    "1 mois à 1 an (art. 282 bis)"
+   ],
+   [
+    "2e classe, amende",
+    "3 fois les droits (281-1° à 7°) ou 1 fois la valeur (art. 282 bis)"
+   ],
+   [
+    "Scellés",
+    "100 000 à 200 000 DH, depuis le 01/01/2025 (art. 282 bis ; circ. n° 6619/210)"
+   ]
+  ],
+  "cas": "Lors d'un contrôle à Bab Sebta, les agents découvrent dans le double fond d'une camionnette de la société fictive Nord Négoce des téléphones non déclarés. La dissimulation dans une cachette spécialement aménagée qualifie la contrebande, délit de deuxième classe : emprisonnement d'un mois à un an, amende de trois fois les droits et taxes, confiscation des téléphones et du véhicule. L'erreur fréquente : croire qu'une marchandise non prohibée ne peut constituer qu'une contravention.",
+  "juris": "",
+  "conseil": "Ne laissez jamais un véhicule de l'entreprise subir des modifications non documentées : la présence d'une cachette suffit à qualifier la contrebande. Contrôlez l'accès aux codes BADR de vos déclarants, car la manipulation informatique est un délit. Tenez un registre des scellés reçus et utilisés.",
+  "faq": [
+   [
+    "La contrebande vise-t-elle seulement les marchandises prohibées ?",
+    "Non, elle couvre aussi les marchandises non prohibées introduites hors bureau ou dissimulées dans des cachettes aménagées (CDII, art. 282)."
+   ],
+   [
+    "L'amende peut-elle être doublée ?",
+    "Oui, en cas d'incidence sur la sécurité, la moralité, la santé ou l'environnement, ou de circonstances aggravantes (CDII, art. 282 bis)."
+   ]
+  ],
+  "renvois": [
+   "9-010",
+   "9-012",
+   "9-013",
+   "9-021",
+   "5-001",
+   "5-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "9-012",
+  "p": 9,
+  "ch": "9.2",
+  "c": "Infractions douanières",
+  "t": "Contraventions douanières de première et deuxième classes : fausses déclarations, abus de régimes suspensifs et non-présentation des marchandises",
+  "enbref": "Les contraventions de première classe sanctionnent notamment l'importation sans déclaration, l'enlèvement sans mainlevée, la non-présentation et l'abus des régimes suspensifs, par une amende de deux fois les droits compromis. Celles de deuxième classe visent surtout les fausses déclarations et les défauts de régularisation, punis d'une fois et demie les droits ou d'une amende fixe.",
+  "textes": [
+   "CDII, art. 285, 286, 287, 287 bis, 294, 294 bis et 295",
+   "Circulaire ADII n° 6255/210 du 24/12/2021 (LF 2022)"
+  ],
+  "principe": "Contraventions de première classe (art. 285), notamment :\n- importation ou exportation sans déclaration de marchandises prohibées (23-1°-b) ou éludant un droit ;\n- défaut de déclaration complémentaire et enlèvement sans mainlevée ;\n- non-présentation à réquisition des marchandises en MEAD, entrepôt, transit ou entrepôt industriel franc ;\n- abus volontaire des régimes suspensifs : vente, cession, substitution, détournement d'usage ou décharge abusive (art. 286) ;\n- importation de marchandises à marque contrefaite ;\n- excédent non déclaré dépassant 20 % du poids, de la quantité ou de la valeur ;\n- défaut de conservation des documents (art. 42-2°).\nL'abus est présumé lorsque les marchandises sous régime suspensif ne peuvent être présentées (art. 287). Peines : deux fois les droits et taxes compromis, la moitié de la valeur pour l'exportation prohibée, la valeur des marchandises pour le défaut de conservation des documents, et confiscation (art. 287 bis).\n\nContraventions de deuxième classe (art. 294), notamment : manipulation ou mutation d'entrepôt non autorisée ; défaut d'exportation ou de régularisation dans les délais sous ATPA, AT, entrepôt, transit ou transformation ; fausse déclaration ou manœuvre éludant un droit ; infractions aux formalités de conduite ; déclaration inexacte sans droit éludé ; importation sans autorisation de marchandises prohibées déclarées ; fausse déclaration pour obtenir un avantage à l'exportation. Peines (art. 294 bis) : une fois et demie les droits (1° à 4° et 6° bis), 3 000 à 30 000 DH (5°, 6°, 6° ter, 8°), la moitié de la valeur (exportation prohibée) ou le montant des avantages (11°). Le juge confisque sur requête les marchandises qui ne peuvent être mises à la consommation sans autorisation (art. 295).",
+  "admin": "Depuis la LF 2022, ces amendes sont assises sur les droits et taxes effectivement compromis ou éludés, et non sur la totalité des droits exigibles (circ. n° 6255/210).",
+  "donnees": [
+   [
+    "1re classe",
+    "2 fois les droits compromis (art. 287 bis)"
+   ],
+   [
+    "Excédent non déclaré",
+    "Plus de 20 % : 1re classe (art. 285-13°)"
+   ],
+   [
+    "Défaut de conservation des documents",
+    "Valeur des marchandises (art. 287 bis)"
+   ],
+   [
+    "2e classe, fausse déclaration",
+    "1,5 fois les droits éludés (art. 294 bis)"
+   ],
+   [
+    "2e classe, sans droit éludé",
+    "3 000 à 30 000 DH (art. 294 bis)"
+   ]
+  ],
+  "cas": "La société fictive Fès Cuir, sous admission temporaire pour perfectionnement actif, vend sur le marché local une partie des peaux importées au lieu de les transformer. Ne pouvant les présenter lors d'un recensement, elle est présumée avoir abusé du régime : contravention de première classe, amende de deux fois les droits compromis et confiscation. Si elle avait seulement dépassé le délai d'apurement sans détourner les peaux, l'infraction relèverait de la deuxième classe. L'erreur fréquente : traiter un simple retard d'apurement et un détournement comme équivalents.",
+  "juris": "",
+  "conseil": "Rapprochez chaque mois vos stocks sous régime suspensif de la comptabilité matières : l'impossibilité de présenter les marchandises fait présumer l'abus. Pesez les lots avant déclaration : au-delà de 20 % d'excédent, l'infraction change de classe. Demandez une prorogation avant l'échéance plutôt que de régulariser après.",
+  "faq": [
+   [
+    "Que risque-t-on pour une erreur d'espèce tarifaire sans intention de frauder ?",
+    "Une fausse déclaration éludant un droit relève de la deuxième classe : une fois et demie les droits éludés (CDII, art. 294-4° et 294 bis)."
+   ],
+   [
+    "Le défaut de conservation des documents est-il sanctionné ?",
+    "Oui, en contravention de première classe, par une amende égale à la valeur des marchandises (CDII, art. 285-15° et 287 bis)."
+   ]
+  ],
+  "renvois": [
+   "9-010",
+   "9-014",
+   "9-013",
+   "7-004",
+   "7-014",
+   "9-002",
+   "5-032"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "9-013",
+  "p": 9,
+  "ch": "9.2",
+  "c": "Infractions douanières",
+  "t": "Personnes responsables des infractions douanières : auteurs, complices, intéressés à la fraude, présomptions, personnes morales et transitaire de bonne foi",
+  "enbref": "Les co-auteurs, complices et personnes intéressées à la fraude encourent les mêmes peines que l'auteur. Le détenteur ou le transporteur de marchandises de fraude est présumé responsable, sauf preuve d'avoir rempli ses obligations ou de force majeure. Le signataire de la déclaration répond des inexactitudes, mais le transitaire qui a fidèlement reproduit les informations de son mandant échappe à l'emprisonnement.",
+  "textes": [
+   "CDII, art. 88 bis, 221 à 224, 226 à 229 bis"
+  ],
+  "principe": "Co-auteurs et complices sont passibles des mêmes peines et mesures de sûreté que les auteurs principaux, comme les personnes intéressées à la fraude (CDII, art. 221). Sont complices, s'ils agissent en connaissance de cause, ceux qui incitent ou facilitent la fraude, achètent ou détiennent des marchandises de fraude, ou couvrent les fraudeurs. Sont intéressés à la fraude les pourvoyeurs de fonds en connaissance de cause et les propriétaires des marchandises de fraude.\n\nSont pénalement responsables (art. 222) : les signataires des déclarations pour les omissions et inexactitudes ; les commettants du fait de leurs employés ; les soumissionnaires pour l'inexécution de leurs engagements. L'emprisonnement ne s'applique aux signataires et commettants qu'en cas de faute personnelle et intentionnelle, et jamais au transitaire qui a reproduit fidèlement les informations de son mandant sans raison d'en douter.\n\nLe détenteur et le transporteur de marchandises de fraude, ainsi que le capitaine pour les manifestes et les infractions à bord, sont présumés responsables (art. 223). Ils sont déchargés s'ils justifient avoir rempli leurs obligations professionnelles : dissimulation par autrui hors de leur contrôle, envoi apparemment licite, identification des véritables auteurs. Sinon, la présomption ne cède que devant la force majeure (art. 224), et l'emprisonnement suppose une faute intentionnelle (art. 226).\n\nLa personne morale peut être poursuivie elle-même, indépendamment de ses dirigeants (art. 227). Les mineurs de moins de 18 ans et les aliénés ne répondent que des confiscations et amendes (art. 228). Les propriétaires de marchandises et de moyens de transport sont civilement responsables du fait de leurs employés (art. 229).",
+  "admin": "Sur le plan financier, le transitaire agréé n'est poursuivi qu'après épuisement des voies de recouvrement contre le redevable principal et n'est pas redevable, sauf complicité, des créances nées du contrôle a posteriori ou des régimes économiques (art. 88 bis). Le propriétaire de bonne foi d'un moyen de transport sans cachette obtient la mainlevée sans caution (art. 229 bis).",
+  "donnees": [
+   [
+    "Complices",
+    "Mêmes peines que l'auteur (art. 221)"
+   ],
+   [
+    "Transitaire de bonne foi",
+    "Pas d'emprisonnement (art. 222)"
+   ],
+   [
+    "Détenteur ou transporteur",
+    "Présumé responsable (art. 223)"
+   ],
+   [
+    "Personne morale",
+    "Poursuivie elle-même (art. 227)"
+   ],
+   [
+    "Mineur de moins de 18 ans",
+    "Confiscations et amendes seulement (art. 228)"
+   ]
+  ],
+  "cas": "Le transitaire fictif Atlas Transit dédouane pour la société Sud Import des pièces détachées sur la base d'une facture minorée par le fournisseur. Le contrôle a posteriori révèle la fausse valeur. Atlas Transit, signataire, est mis en cause, mais il a fidèlement reproduit la facture sans raison d'en douter : il échappe à l'emprisonnement et n'est pas redevable des droits redressés. Sud Import, propriétaire des marchandises, est réputée intéressée à la fraude. L'erreur fréquente : déclarer sans conserver la trace des documents reçus du client.",
+  "juris": "",
+  "conseil": "Pour le transitaire, la protection de l'article 222 suppose la preuve de la bonne foi : archivez les instructions et documents reçus du mandant et signalez par écrit toute incohérence. Pour le transporteur, vérifiez la cohérence entre documents et chargement et notez toute anomalie avant le départ.",
+  "faq": [
+   [
+    "Le transitaire peut-il être emprisonné pour une fausse déclaration de son client ?",
+    "Non s'il s'est limité à reproduire fidèlement les informations du mandant sans raison d'en douter (CDII, art. 222)."
+   ],
+   [
+    "Une société peut-elle être poursuivie en plus de son gérant ?",
+    "Oui, la personne morale peut être poursuivie indépendamment de ses dirigeants, avec peines pécuniaires et mesures de sûreté (CDII, art. 227)."
+   ]
+  ],
+  "renvois": [
+   "9-010",
+   "9-011",
+   "9-012",
+   "9-003",
+   "1-031",
+   "1-033",
+   "9-021"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "9-014",
+  "p": 9,
+  "ch": "9.2",
+  "c": "Infractions douanières",
+  "t": "Contraventions douanières de troisième et quatrième classes : opposition aux agents, refus de communication, transitaire non agréé, capitaux non déclarés",
+  "enbref": "La troisième classe regroupe les infractions qui ne portent pas directement sur des marchandises : opposition aux agents, refus de communication, scellés, exercice sans agrément, manquements des MEAD, capitaux non déclarés, défaut de documents et faux lieu de stockage. Elles sont punies d'amendes fixes. La quatrième classe est la catégorie résiduelle, punie de 500 à 2 500 DH.",
+  "textes": [
+   "CDII, art. 297, 297 bis, 298, 299, 299 bis et 302",
+   "Circulaire ADII n° 6255/210 du 24/12/2021 (LF 2022)",
+   "Circulaire ADII n° 6702/210 (LF 2026, art. 297-9°)"
+  ],
+  "principe": "Contraventions de troisième classe (art. 297) et amendes (art. 297 bis) :\n- opposition aux agents (1°) et altération ou enlèvement de scellés (3°) : 3 000 à 30 000 DH ;\n- non-soumission aux injonctions (2°) et exercice de la profession de transitaire sans agrément ou déclaration pour autrui sans autorisation (6°) : 80 000 à 100 000 DH ;\n- refus de communication (4°) et fausse déclaration du lieu de stockage ou de transformation (9°, depuis le 01/01/2026) : 30 000 à 60 000 DH ;\n- inexécution du cahier des charges par l'exploitant de MEAD (5°) : 200 000 à 400 000 DH ;\n- infraction à l'obligation de déclarer les capitaux (art. 66 bis) (7°) : le montant non déclaré ;\n- défaut d'annexion des documents exigés (8°) : 10 000 à 50 000 DH.\nL'amende pour opposition aux fonctions est prononcée individuellement, et le tribunal confisque les véhicules dont les conducteurs n'ont pas obtempéré dans le périmètre douanier des ports (art. 302).\n\nLes contraventions de quatrième classe (art. 298 et 299) forment la catégorie résiduelle des infractions aux lois et règlements douaniers non autrement réprimées ; elles sont punies d'une amende de 500 à 2 500 DH (art. 299 bis).",
+  "admin": "La LF 2022 a regroupé en troisième classe les infractions ne portant pas directement sur des marchandises et créé la sanction des manquements des exploitants de MEAD (circ. n° 6255/210). La LF 2026 y a ajouté la fausse déclaration du lieu de stockage ou de transformation (circ. n° 6702/210).",
+  "donnees": [
+   [
+    "Transitaire non agréé",
+    "80 000 à 100 000 DH (art. 297 bis)"
+   ],
+   [
+    "Refus de communication",
+    "30 000 à 60 000 DH (art. 297 bis)"
+   ],
+   [
+    "Exploitant de MEAD",
+    "200 000 à 400 000 DH (art. 297 bis)"
+   ],
+   [
+    "Défaut de documents annexés",
+    "10 000 à 50 000 DH (art. 297 bis)"
+   ],
+   [
+    "4e classe",
+    "500 à 2 500 DH (art. 299 bis)"
+   ]
+  ],
+  "cas": "Un commerçant fictif, M. Karim, dépose lui-même sur BADR des déclarations pour le compte de plusieurs voisins importateurs, contre rémunération, sans être transitaire agréé. Il commet une contravention de troisième classe punie de 80 000 à 100 000 DH, quelle que soit la régularité des déclarations. L'erreur fréquente : penser que déclarer pour un proche ou un client occasionnel est toléré.",
+  "juris": "",
+  "conseil": "Vérifiez que chaque déclarant de votre entreprise agit pour son propre compte ou dispose d'une autorisation. Joignez systématiquement à la DUM tous les documents exigés : l'oubli est sanctionné indépendamment de toute fraude. Mettez à jour vos adresses de stockage auprès de la douane à chaque déménagement.",
+  "faq": [
+   [
+    "Le défaut d'un document annexé est-il sanctionné même si les droits sont payés ?",
+    "Oui, en contravention de troisième classe, de 10 000 à 50 000 DH (CDII, art. 297-8° et 297 bis)."
+   ],
+   [
+    "Quelle est l'amende pour une infraction mineure non classée ?",
+    "500 à 2 500 DH, au titre de la quatrième classe (CDII, art. 299 bis)."
+   ]
+  ],
+  "renvois": [
+   "9-010",
+   "9-012",
+   "9-001",
+   "9-002",
+   "1-031",
+   "3-011",
+   "5-040"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

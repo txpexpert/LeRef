@@ -1,0 +1,305 @@
+[
+ {
+  "id": "8-001",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Opérateur économique agréé",
+  "t": "Opérateur économique agréé (OEA) : conditions d'octroi et statuts « Simplifications douanières » (A ou B) et « Sécurité et Sûreté »",
+  "enbref": "Le statut d'OEA est accordé, sur demande volontaire, aux entreprises établies au Maroc et liées au commerce international qui remplissent quatre conditions cumulatives : absence d'antécédents contentieux graves, gestion transparente des écritures et des stocks, solvabilité financière, respect des normes de sécurité et de sûreté. Il existe deux statuts : « Simplifications douanières », en catégorie A ou B, et « Sécurité et Sûreté », réservé aux entreprises déjà classées en catégorie A.",
+  "textes": [
+   "CDII, art. 73 bis",
+   "Décret n° 2-77-862 du 09/10/1977, art. 53 bis à 53 quinquies (complété par le décret n° 2-10-121 du 06/07/2010)",
+   "Arrêtés n° 690.11 et n° 691.11 du 22/07/2011",
+   "Circulaire ADII n° 5517/313 du 17/02/2015",
+   "Brochure ADII « Le statut d'Opérateur Economique Agréé » (2023)"
+  ],
+  "principe": "L'administration accorde le statut d'OEA selon des critères fixés par voie réglementaire, qui déterminent aussi les cas de retrait (CDII, art. 73 bis). Le décret pose les conditions : la société doit être établie au Maroc et exercer une activité liée au commerce international ; elle doit en outre (décret, art. 53 bis) :\n- ne pas avoir d'antécédents contentieux douaniers graves ;\n- disposer d'une gestion transparente des écritures commerciales et des stocks ;\n- justifier d'une situation financière solvable ;\n- répondre au référentiel de sécurité et de sûreté de l'administration.\nL'administration peut exiger d'autres critères selon l'activité. La brochure de l'ADII précise que la solvabilité s'apprécie sur les trois dernières années.\n\nLe statut est ouvert à toute entreprise industrielle, commerciale ou de services de la chaîne logistique internationale (brochure ADII). Les catégories et la procédure ont été fixées par l'arrêté n° 690.11, et la commission d'agrément par l'arrêté n° 691.11 (circ. n° 5517/313).\n\nDeux statuts coexistent :\n- « OEA-Simplifications douanières », délivré en catégorie A ou B selon le degré de conformité douanière, notamment en matière d'archivage des écritures et de solvabilité ;\n- « OEA-Sécurité et Sûreté », réservé aux titulaires de la catégorie A qui appliquent en outre les normes de sécurité et de sûreté de la chaîne logistique.\nLe second est un certificat cumulatif, qui confère au titulaire une responsabilité accrue dans la prévention de la fraude ; il est aussi le préalable aux accords de reconnaissance mutuelle avec les douanes étrangères (circ. n° 5517/313).",
+  "admin": "Le programme marocain s'inscrit dans le cadre de normes SAFE de l'Organisation mondiale des douanes, auquel l'ADII a adhéré dès juin 2005 (circ. n° 5517/313). La demande est une démarche volontaire (brochure ADII).",
+  "donnees": [
+   [
+    "Base légale",
+    "CDII, art. 73 bis ; décret, art. 53 bis"
+   ],
+   [
+    "Conditions cumulatives",
+    "4 : contentieux, écritures, solvabilité, sécurité (décret, art. 53 bis)"
+   ],
+   [
+    "Solvabilité",
+    "Appréciée sur les 3 dernières années (brochure ADII)"
+   ],
+   [
+    "Statuts",
+    "Simplifications douanières (A ou B) ; Sécurité et Sûreté (circ. n° 5517/313)"
+   ],
+   [
+    "Accès à la Sécurité et Sûreté",
+    "Titulaires de la catégorie A (circ. n° 5517/313)"
+   ]
+  ],
+  "cas": "La société fictive Sud Agrumes, exportatrice d'agrumes depuis six ans, souhaite le statut OEA. Son historique ne comporte qu'une infraction mineure réglée par transaction, sa comptabilité de stocks est informatisée et ses comptes sont bénéficiaires depuis trois ans. Elle vise d'abord la catégorie A des Simplifications douanières, puis la Sécurité et Sûreté pour bénéficier de la reconnaissance mutuelle sur ses marchés européens. L'erreur fréquente : demander directement la Sécurité et Sûreté, qui suppose d'avoir déjà la catégorie A.",
+  "juris": "",
+  "conseil": "Avant de déposer, faites un pré-diagnostic interne sur les quatre conditions : relevé de vos contentieux, traçabilité des stocks, ratios financiers sur trois ans, procédures de sûreté. Régularisez tout contentieux ou reste à recouvrer en cours. Visez la catégorie A dès la première demande : c'est elle qui ouvre l'accès au statut Sécurité et Sûreté.",
+  "faq": [
+   [
+    "Une PME peut-elle obtenir le statut OEA ?",
+    "Oui, le statut est ouvert à toute entreprise établie au Maroc et liée au commerce international, sans condition de taille (brochure ADII ; décret, art. 53 bis)."
+   ],
+   [
+    "Quelle différence entre les catégories A et B ?",
+    "Elles traduisent le degré de conformité douanière, notamment en matière d'archivage et de solvabilité ; seule la catégorie A permet d'accéder au statut Sécurité et Sûreté (brochure ADII)."
+   ]
+  ],
+  "renvois": [
+   "8-002",
+   "8-003",
+   "8-004",
+   "8-005",
+   "9-010"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "8-002",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Opérateur économique agréé",
+  "t": "Avantages du statut OEA : allègement des contrôles, traitement prioritaire, facilités de cautionnement et de transit, reconnaissance mutuelle",
+  "enbref": "Le statut OEA donne un accès plus rapide aux simplifications douanières : allègement des contrôles, passage plus rapide en douane, traitement prioritaire, accès au statut d'exportateur agréé. Le statut Sécurité et Sûreté y ajoute le passage systématique en circuit vert, le dédouanement à domicile, des facilités pour les MEAD et la reconnaissance mutuelle à l'étranger. Les facilités sont fixées dans la convention signée avec l'ADII.",
+  "textes": [
+   "Circulaire ADII n° 5517/313 du 17/02/2015",
+   "Brochure ADII « Le statut d'Opérateur Economique Agréé » (2023)",
+   "Circulaires ADII n° 5933/310 et n° 5934/300 du 09/05/2019",
+   "Circulaire ADII n° 6636/312 du 10/02/2025",
+   "Circulaire ADII n° 6707/313 du 31/12/2025",
+   "Circulaire ADII n° 5542/314 du 18/09/2015"
+  ],
+  "principe": "OEA-Simplifications douanières. Selon la catégorie (A ou B) et le rôle de l'entreprise dans la chaîne logistique, le titulaire bénéficie d'un accès plus rapide aux facilités : allègement du contrôle, passage en douane plus rapide, traitement personnalisé fondé sur la confiance. S'y ajoutent l'accès au statut d'exportateur agréé, un accompagnement personnalisé et le traitement prioritaire des demandes. La liste exhaustive des facilités est publiée sur le site informationnel OEA de l'ADII (brochure ADII), et les facilités consenties figurent dans la convention d'agrément.\n\nOEA-Sécurité et Sûreté. Le titulaire bénéficie, en plus (circ. n° 5517/313 ; brochure ADII) :\n- du passage systématique au circuit vert ;\n- de la simplification des procédures et de la réduction des contrôles, à l'importation, à l'exportation, en transit et pour les cessions sous régimes économiques ;\n- du traitement prioritaire de tous ses dossiers ;\n- du dédouanement à domicile ;\n- des avantages accordés par les douanes étrangères dans le cadre des accords de reconnaissance mutuelle.\n\nFacilités prévues par d'autres textes :\n- transit de chargements complets autorisé d'office vers un MEAD exploité par un OEA (circ. n° 5934/300) ;\n- pour les MEAD exploités par un OEA Sécurité et Sûreté : soumission générale cautionnée fixée à 2 MDH (1 MDH en enceinte portuaire ou aéroportuaire), sortie sous acquit de transit sans limitation d'horaire, rectification sans contentieux du poids et du nombre de colis sur justificatifs (circ. n° 5933/310), et confirmation d'arrivée sur la base de leur pré-confirmation (circ. n° 6636/312) ;\n- plafond illimité du cautionnement sur engagement des entreprises exportatrices pour les OEA Sécurité et Sûreté et les OEA Simplifications douanières de classe A (circ. n° 6707/313).",
+  "admin": "En contrepartie, l'OEA Sécurité et Sûreté, par son responsable désigné, doit informer la douane de toute tentative de fraude et de tout comportement suspect ou illicite constaté dans ses opérations (circ. n° 5517/313). Le titulaire de la catégorisation commune ADII-DGI bénéficie en outre des facilités fiscales de la classe équivalente (circ. n° 5542/314).",
+  "donnees": [
+   [
+    "Circuit vert systématique",
+    "OEA Sécurité et Sûreté (circ. n° 5517/313)"
+   ],
+   [
+    "Transit vers MEAD OEA",
+    "Chargements complets autorisés d'office (circ. n° 5934/300)"
+   ],
+   [
+    "Soumission MEAD OEA-SS",
+    "2 MDH ; 1 MDH en enceinte portuaire ou aéroportuaire (circ. n° 5933/310)"
+   ],
+   [
+    "Cautionnement exportateurs",
+    "Plafond illimité : OEA-SS ou classe A (circ. n° 6707/313)"
+   ],
+   [
+    "Reconnaissance mutuelle",
+    "OEA Sécurité et Sûreté (circ. n° 5517/313)"
+   ]
+  ],
+  "cas": "La société fictive Tanger Auto Parts, OEA Sécurité et Sûreté, importe des composants sous admission temporaire et exporte des faisceaux vers l'Europe. Ses déclarations passent en circuit vert, elle dédouane dans ses locaux et bénéficie d'un cautionnement sur engagement sans plafond. Chez son client européen, son statut est reconnu au titre de la reconnaissance mutuelle. L'erreur fréquente : relâcher ses procédures internes une fois le statut obtenu.",
+  "juris": "",
+  "conseil": "Lisez votre convention d'agrément : c'est elle, et non la brochure, qui fixe les facilités qui vous sont effectivement accordées. Faites activer chaque facilité auprès de votre bureau de domiciliation. Pour un MEAD, le statut Sécurité et Sûreté réduit fortement le coût de la garantie et lève les conditions d'éligibilité au transit.",
+  "faq": [
+   [
+    "Un OEA est-il dispensé de contrôle ?",
+    "Non : il bénéficie d'un allègement des contrôles et, pour la Sécurité et Sûreté, du circuit vert systématique, mais la douane conserve son pouvoir de contrôle (circ. n° 5517/313)."
+   ],
+   [
+    "Le statut OEA permet-il de devenir exportateur agréé ?",
+    "Oui, l'accès au statut d'exportateur agréé fait partie des avantages du statut OEA-Simplifications douanières (brochure ADII)."
+   ]
+  ],
+  "renvois": [
+   "8-001",
+   "8-004",
+   "8-010",
+   "8-011",
+   "8-020",
+   "3-030",
+   "6-004",
+   "7-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "8-003",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Opérateur économique agréé",
+  "t": "Procédure de demande du statut OEA : dépôt sur diw@nati, étude d'éligibilité, audit et convention d'agrément",
+  "enbref": "La demande d'OEA-Simplifications douanières est déposée en ligne sur diw@nati ; l'éligibilité est notifiée dans un délai d'un mois, puis l'entreprise fait réaliser un audit par un cabinet externe. La demande de Sécurité et Sûreté s'appuie sur un questionnaire d'auto-évaluation en 13 volets, suivi d'un audit par les auditeurs douaniers. Dans les deux cas, le statut est accordé sur avis de la commission d'agrément et matérialisé par une convention.",
+  "textes": [
+   "Décret n° 2-77-862 du 09/10/1977, art. 53 ter",
+   "Circulaire ADII n° 5517/313 du 17/02/2015",
+   "Circulaires ADII n° 6114/300 du 08/12/2020 et n° 6364/313 du 08/09/2022",
+   "Brochure ADII « Le statut d'Opérateur Economique Agréé » (2023)"
+  ],
+  "principe": "Les dossiers sont examinés par une commission ad hoc, qui statue sur le dossier, le rapport d'audit et d'éventuelles investigations complémentaires (décret, art. 53 ter).\n\nOEA-Simplifications douanières (brochure ADII) :\n- dépôt électronique de la demande sur la plateforme diw@nati, datée et signée par la personne habilitée ; le mode opératoire figure dans les circulaires n° 6114/300 et n° 6364/313 ;\n- étude d'éligibilité portant sur les relations avec la douane : contentieux (nature, fréquence) et historique des opérations ; résultat notifié dans un délai d'un mois au plus ;\n- audit par un cabinet externe choisi par l'entreprise, selon le référentiel de l'ADII ; son financement peut être assuré par Maroc PME ;\n- avis de la commission, signature de la convention d'agrément fixant la catégorie et les facilités, et délivrance du certificat.\n\nOEA-Sécurité et Sûreté (circ. n° 5517/313 ; brochure ADII) :\n- demande selon le modèle de l'ADII, accompagnée du questionnaire d'auto-évaluation en 13 volets (politique de sécurité, sécurité physique, unités de fret, marchandises sensibles, réception, stockage, production, chargement, partenaires, personnel, formation, système d'information, solvabilité), transmise par voie électronique à OEA@douane.gov.ma ;\n- étude documentaire ; si le dossier est incomplet, l'entreprise dispose de 30 jours pour le compléter ;\n- audit sur site par les auditeurs douaniers, après désignation d'un responsable OEA dans l'entreprise ;\n- rapport provisoire soumis à l'entreprise, puis rapport définitif avec un délai concerté de mise en œuvre des recommandations ;\n- décision sur avis de la commission : octroi, refus ou suspension le temps d'une mise en conformité ; en cas de rejet, recours possible dans un délai d'un mois.",
+  "admin": "Le certificat prend effet à la signature de la convention par les deux parties (circ. n° 5517/313). Le bureau de domiciliation choisi par l'entreprise l'accompagne ensuite dans la mise en œuvre des facilités (brochure ADII).",
+  "donnees": [
+   [
+    "Dépôt Simplifications douanières",
+    "En ligne sur diw@nati (brochure ADII)"
+   ],
+   [
+    "Notification de l'éligibilité",
+    "1 mois au plus (brochure ADII)"
+   ],
+   [
+    "Complément du dossier Sécurité et Sûreté",
+    "30 jours (brochure ADII)"
+   ],
+   [
+    "Questionnaire Sécurité et Sûreté",
+    "13 volets (circ. n° 5517/313)"
+   ],
+   [
+    "Recours contre un rejet",
+    "1 mois après notification (circ. n° 5517/313)"
+   ]
+  ],
+  "cas": "La société fictive Fès Cuir dépose sa demande sur diw@nati en janvier. En février, l'ADII lui notifie son éligibilité ; elle mandate un cabinet d'audit, dont la mission est financée par Maroc PME. Le rapport est examiné par la commission, qui lui accorde la catégorie B et lui recommande d'améliorer l'archivage de ses écritures. La convention est signée et le certificat délivré. L'erreur fréquente : déposer sans avoir désigné de responsable interne, ce qui ralentit l'audit.",
+  "juris": "",
+  "conseil": "Désignez dès le départ un responsable OEA qui pilotera le dossier et les échanges avec les auditeurs. Servez le questionnaire d'auto-évaluation avec rigueur : un questionnaire complet accélère le traitement. Choisissez un cabinet d'audit qui connaît le référentiel de l'ADII et renseignez-vous sur le financement Maroc PME.",
+  "faq": [
+   [
+    "Qui réalise l'audit OEA ?",
+    "Un cabinet externe choisi par l'entreprise pour les Simplifications douanières, les auditeurs douaniers pour la Sécurité et Sûreté (brochure ADII ; circ. n° 5517/313)."
+   ],
+   [
+    "Combien de temps pour connaître l'éligibilité ?",
+    "Un mois au plus après le dépôt de la demande de Simplifications douanières (brochure ADII)."
+   ]
+  ],
+  "renvois": [
+   "8-001",
+   "8-002",
+   "8-004",
+   "8-005",
+   "8-010"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "8-004",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Opérateur économique agréé",
+  "t": "Suivi, renouvellement, suspension et retrait du statut OEA",
+  "enbref": "Le certificat OEA est valable trois ans et doit être renouvelé, après un nouvel audit, avant son échéance. L'OEA doit informer l'ADII de tout changement important. En cas d'irrégularité, le statut peut être suspendu pour 90 jours au plus ; il est retiré définitivement en cas d'infraction passible de sanctions pénales, de manquement aux exigences de sécurité ou de renonciation. Le retrait peut faire l'objet d'un recours dans le délai d'un mois.",
+  "textes": [
+   "Décret n° 2-77-862 du 09/10/1977, art. 53 quinquies",
+   "Circulaire ADII n° 5517/313 du 17/02/2015",
+   "Circulaire ADII n° 5087/313 du 01/02/2008",
+   "Brochure ADII « Le statut d'Opérateur Economique Agréé » (2023)"
+  ],
+  "principe": "Durée et renouvellement. Le certificat prend effet à la signature de la convention et vaut trois ans (circ. n° 5517/313 ; brochure ADII).\n- OEA-Simplifications douanières : le premier renouvellement intervient dans les trois ans ; les auditeurs douaniers mènent l'audit sur la base d'un questionnaire d'auto-évaluation, puis la commission confirme le statut, reclasse l'entreprise dans une catégorie supérieure ou inférieure, ou retire le statut. Une entreprise de catégorie B peut demander son reclassement en présentant un rapport sur les améliorations introduites.\n- OEA-Sécurité et Sûreté : la demande de renouvellement est déposée avant l'échéance, avec le questionnaire actualisé, et donne lieu à un audit « light ».\n\nSuivi permanent. Un suivi particulier peut être déclenché à tout moment : contrôle des résultats de l'audit, changement signalé par l'opérateur (activité, organisation, localisation, procédures), ou information remettant en cause le respect des critères. L'OEA est tenu d'informer l'administration de tout événement important susceptible d'affecter son certificat (circ. n° 5517/313).\n\nSuspension et retrait. Si l'évaluation révèle une perte de maîtrise d'un risque, la douane en informe l'opérateur, qui doit engager des actions d'amélioration. Le directeur de l'administration peut prononcer, après avis de la commission ad hoc, le retrait provisoire du statut pour 90 jours au plus, en cas d'irrégularités altérant les conditions d'octroi ; le statut n'est rétabli qu'après constatation de la mise en conformité (décret, art. 53 quinquies ; circ. n° 5517/313). Le retrait définitif intervient dans les cas suivants :\n- infraction douanière passible de sanctions pénales ;\n- non-respect de certaines exigences de sécurité et de sûreté ;\n- renonciation du bénéficiaire.\nL'opérateur dispose d'un mois à compter de la notification pour former un recours devant la commission ad hoc (circ. n° 5517/313).",
+  "admin": "Le suivi vise à s'assurer « de manière régulière et permanente » que les exigences ayant permis l'attribution du statut sont toujours respectées (brochure ADII). L'ancien programme de catégorisation prévoyait une convention annuelle renouvelable par tacite reconduction, avec actualisation annuelle des données financières et un audit tous les trois ans (circ. n° 5087/313).",
+  "donnees": [
+   [
+    "Validité du certificat",
+    "3 ans (circ. n° 5517/313)"
+   ],
+   [
+    "Renouvellement Sécurité et Sûreté",
+    "Avant l'échéance, audit « light » (circ. n° 5517/313)"
+   ],
+   [
+    "Suspension",
+    "90 jours au plus (décret, art. 53 quinquies)"
+   ],
+   [
+    "Retrait définitif",
+    "Infraction pénale, sécurité, renonciation (circ. n° 5517/313)"
+   ],
+   [
+    "Recours",
+    "1 mois, devant la commission ad hoc (circ. n° 5517/313)"
+   ]
+  ],
+  "cas": "La société fictive Logistique Atlas, OEA Sécurité et Sûreté, déménage son entrepôt principal. Elle informe aussitôt l'ADII, qui déclenche un suivi particulier et vérifie la sécurité physique du nouveau site. L'erreur fréquente : ne pas signaler un changement de site, ce qui peut entraîner une suspension.",
+  "juris": "",
+  "conseil": "Inscrivez dans votre agenda la date d'échéance de la convention et préparez le questionnaire actualisé six mois avant. Tenez un registre des changements significatifs (sites, dirigeants, procédures) et notifiez-les à l'ADII. En cas de suspension, présentez sans attendre un plan de mise en conformité daté.",
+  "faq": [
+   [
+    "Le statut OEA est-il définitif ?",
+    "Non : le certificat vaut trois ans et doit être renouvelé après un nouvel audit (circ. n° 5517/313 ; brochure ADII)."
+   ],
+   [
+    "Combien de temps peut durer une suspension ?",
+    "Au plus 90 jours ; le statut n'est rétabli qu'après constatation de la mise en conformité (décret, art. 53 quinquies)."
+   ]
+  ],
+  "renvois": [
+   "8-001",
+   "8-002",
+   "8-003",
+   "8-005",
+   "9-011",
+   "9-050"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "8-005",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Opérateur économique agréé",
+  "t": "Catégorisation commune ADII-DGI : obtention conjointe du statut OEA et du statut de contribuable catégorisé",
+  "enbref": "Les entreprises exerçant une activité liée au commerce international depuis au moins quatre ans peuvent demander en une seule procédure le statut OEA et le statut de contribuable catégorisé de la DGI. Le dossier est déposé, au choix, à l'ADII ou à la DGI, et examiné par une commission mixte. Le bénéficiaire obtient de plein droit le statut OEA-Simplifications douanières de la classe obtenue.",
+  "textes": [
+   "Circulaire ADII n° 5542/314 du 18/09/2015 (transmission de la circulaire conjointe ADII-DGI du 16/09/2015)"
+  ],
+  "principe": "La catégorisation commune réunit le statut d'OEA de l'ADII et le statut de contribuable catégorisé de la DGI. Elle est ouverte à toute entreprise établie au Maroc, quelle que soit sa taille ou sa forme juridique, qui exerce une activité liée au commerce international depuis au moins quatre ans et remplit cinq critères cumulatifs (circ. n° 5542/314) :\n- conformité douanière et normes d'archivage des écritures ;\n- normes de sécurité et de sûreté de la chaîne logistique ;\n- solvabilité financière ;\n- respect des obligations déclaratives et de paiement du code général des impôts ;\n- absence d'infractions graves à ce code.\n\nLa procédure se déroule ainsi (circ. n° 5542/314) :\n- dépôt d'une demande datée et signée, avec les pièces de l'annexe 1, au choix auprès des services centraux de l'ADII ou de la DGI, en format papier et électronique (categorisationcommune@douane.gov.ma ou categorisationcommune@tax.gov.ma) ;\n- examen de recevabilité, notifié dans les 48 heures ; échange du dossier entre les deux administrations ;\n- étude d'éligibilité par une commission mixte qui se réunit chaque jeudi, alternativement à la DGI et à l'ADII ; résultat notifié dans un délai d'un mois au plus après la recevabilité ;\n- audit par un cabinet spécialisé choisi par l'entreprise, selon le référentiel commun ;\n- évaluation et classement en classe A ou B, puis signature d'une convention tripartite et délivrance d'un certificat.\nLorsque l'entreprise a un contentieux en cours ou un reste à recouvrer, la commission ne se prononce qu'après production des justificatifs de régularisation.\n\nLe bénéficiaire se voit reconnaître de plein droit le statut d'OEA-Simplifications douanières correspondant à sa classe et la classe équivalente de la DGI ; il peut ensuite prétendre au statut OEA Sécurité et Sûreté s'il est classé A.",
+  "admin": "Le statut est accordé à titre permanent, mais la convention vaut trois ans ; pendant cette période, les deux administrations assurent un suivi régulier, et le renouvellement peut être sollicité à l'échéance (circ. n° 5542/314).",
+  "donnees": [
+   [
+    "Ancienneté d'activité",
+    "4 ans au moins (circ. n° 5542/314)"
+   ],
+   [
+    "Critères cumulatifs",
+    "5 critères douaniers et fiscaux (circ. n° 5542/314)"
+   ],
+   [
+    "Recevabilité",
+    "Notifiée dans les 48 heures (circ. n° 5542/314)"
+   ],
+   [
+    "Éligibilité",
+    "Notifiée dans 1 mois au plus (circ. n° 5542/314)"
+   ],
+   [
+    "Durée de la convention",
+    "3 ans, renouvelable (circ. n° 5542/314)"
+   ]
+  ],
+  "cas": "La société fictive Rabat Textile, exportatrice depuis huit ans, souhaite bénéficier à la fois des facilités douanières et fiscales. Elle dépose un dossier unique à la DGI, en format papier et électronique. La commission mixte constate un reste à recouvrer fiscal et suspend son avis jusqu'à la production de la quittance. Après l'audit, l'entreprise est classée A : elle obtient de plein droit l'OEA-Simplifications douanières de classe A. L'erreur fréquente : déposer avec une dette fiscale ou douanière non régularisée.",
+  "juris": "",
+  "conseil": "Si votre entreprise a plus de quatre ans d'activité et une situation fiscale saine, préférez la catégorisation commune à deux demandes séparées : un seul dossier, un seul audit, deux statuts. Vérifiez auparavant l'absence de reste à recouvrer auprès des deux administrations. Conservez la version électronique du dossier, exigée en plus du papier.",
+  "faq": [
+   [
+    "Peut-on déposer la demande à la DGI ?",
+    "Oui, au choix auprès des services centraux de l'ADII ou de la DGI (circ. n° 5542/314)."
+   ],
+   [
+    "La catégorisation commune donne-t-elle le statut OEA ?",
+    "Oui, de plein droit, le statut OEA-Simplifications douanières correspondant à la classe obtenue (circ. n° 5542/314)."
+   ]
+  ],
+  "renvois": [
+   "8-001",
+   "8-002",
+   "8-003",
+   "8-004"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ }
+]

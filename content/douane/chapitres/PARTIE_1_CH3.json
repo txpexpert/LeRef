@@ -1,0 +1,190 @@
+[
+ {
+  "id": "1-020",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Organisation de l'administration",
+  "t": "Structure centrale et régionale de l'ADII : administration centrale, directions régionales et déconcentration des décisions",
+  "enbref": "L'ADII est organisée en une administration centrale et des services déconcentrés (directions régionales, interrégionales et des douanes des ports, directions préfectorales et provinciales, bureaux). De nombreuses autorisations ont été déconcentrées : l'opérateur doit adresser sa demande directement au délégataire désigné, et non à l'administration centrale.",
+  "textes": [
+   "CDII, art. 22 bis et 22 ter",
+   "Circulaire ADII n° 6137/310 du 31/12/2020",
+   "Circulaire n° 23605/320 du 23/11/1998",
+   "Note ADII n° D1101/20/ADII/100 du 03/02/2020",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016"
+  ],
+  "principe": "La structure de l'ADII se déduit des textes qui répartissent les compétences entre ses services. On y distingue d'abord l'administration centrale, qui comprend notamment la Direction de la Facilitation et de l'Informatique, chargée de la relation avec les grands comptes (note D7106/16), et le Service des régimes économiques en douane, destinataire des difficultés d'application en matière de cautionnement (note D1101/20). Viennent ensuite les directeurs régionaux, interrégionaux et des douanes des ports, auxquels sont confiées des décisions importantes, comme l'octroi du cautionnement de type F aux entreprises des ZAI, par délégation permanente depuis le 03/02/2020 (note D1101/20). Les circulaires citent aussi les directeurs préfectoraux et provinciaux, les directeurs des importations, des exportations et des MEAD (circ. n° 6137/310), les chefs de circonscription et les ordonnateurs (circ. n° 23605/320).\n\nLe CDII s'appuie lui-même sur cette organisation territoriale : une commission locale de concertation, présidée par le directeur régional ou le chef de circonscription, est instituée au niveau de chaque direction régionale ou circonscription pour donner un avis sur les litiges ; la commission consultative et de recours siège auprès du ministre chargé des finances (CDII, art. 22 bis et 22 ter).\n\nLa politique de déconcentration a été renforcée par la circulaire n° 6137/310 du 31/12/2020 : les demandes portant sur les autorisations déconcentrées doivent être adressées directement aux délégataires, sans passer par l'administration centrale.",
+  "admin": "Au titre de la circulaire n° 6137/310, relèvent désormais des directeurs préfectoraux, provinciaux et des directeurs des importations, des exportations et des MEAD : la mise à la consommation de produits de ZAI dans la limite de 15 % du chiffre d'affaires export (code régime 866), la mise à la consommation de marchandises placées en entrepôt privé particulier dans la limite de 15 %, la régularisation de transformations sous douane par exportation et certaines admissions temporaires de véhicules de coopérants. Ce seuil de 15 %, qui encadre l'autorisation de mise à la consommation, est un dispositif distinct de la limite de 30 % du chiffre d'affaires export à laquelle l'article 164 bis-1°-i) du CDII subordonne le droit de 2,5 %.",
+  "donnees": [
+   [
+    "Commission locale de concertation",
+    "Direction régionale ou circonscription, présidée par le directeur régional (CDII, art. 22 bis)"
+   ],
+   [
+    "Commission consultative et de recours",
+    "Auprès du ministre chargé des finances (CDII, art. 22 ter)"
+   ],
+   [
+    "Cautionnement type F (ZAI)",
+    "Directeur régional, interrégional ou des douanes du port (note D1101/20)"
+   ],
+   [
+    "Autorisations déconcentrées",
+    "Directeurs préfectoraux, provinciaux, des importations, exportations et MEAD (circ. n° 6137/310)"
+   ]
+  ],
+  "cas": "La société fictive Souss Agrumes, entrepositaire en EPP à Agadir, souhaite mettre à la consommation 10 % de son stock d'emballages. Son responsable adresse sa demande au service central à Rabat. La demande lui revient des semaines plus tard : depuis la circulaire n° 6137/310, cette autorisation, dans la limite de 15 %, relève du directeur déconcentré dont dépend l'entrepôt. Il faut déposer la demande directement auprès de lui.",
+  "juris": "",
+  "conseil": "Avant toute demande d'autorisation, vérifiez qui en est le délégataire actuel : la répartition entre administration centrale et services déconcentrés a été modifiée à plusieurs reprises (circ. n° 23605/320, 5938/300, 6137/310). En cas de désaccord, la commission locale de concertation de la direction régionale est la première voie de dialogue avant la commission consultative et de recours.",
+  "faq": [
+   [
+    "À qui adresser une demande d'autorisation de régime ?",
+    "Au délégataire désigné par la circulaire applicable ; pour les autorisations listées par la circulaire n° 6137/310, directement au service déconcentré, sans passer par l'administration centrale."
+   ],
+   [
+    "Où se tient la commission locale de concertation ?",
+    "Au niveau de chaque direction régionale ou circonscription douanière, sous la présidence du directeur régional ou du chef de circonscription (CDII, art. 22 bis)."
+   ]
+  ],
+  "renvois": [
+   "1-021",
+   "1-022",
+   "7-002",
+   "7-072",
+   "9-050"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel",
+  "mod": true,
+  "hist": [
+   "03/10/2026 — Suppression de la balise CONFLIT sur les seuils de 15 % et 30 % : deux dispositifs distincts (validation de l'expert)"
+  ]
+ },
+ {
+  "id": "1-021",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Organisation de l'administration",
+  "t": "Bureaux de douane : création, compétence, heures d'ouverture et formalités hors bureau ou hors horaires",
+  "enbref": "Les formalités douanières s'accomplissent en principe dans un bureau de douane créé par arrêté ministériel, qui fixe sa compétence, et pendant ses heures d'ouverture (8 h 30 à 16 h 30 en jours ouvrables). Le directeur peut autoriser les formalités dans les locaux de l'opérateur ou hors horaires, moyennant rétribution.",
+  "textes": [
+   "CDII, art. 27 à 31, 66-1° et 118",
+   "Arrêté n° 1315-77 du 31/10/1977",
+   "Décret n° 2-77-862, art. 163 et 172 bis",
+   "Circulaire ADII n° 5934/300 du 09/05/2019",
+   "Circulaire ADII n° 5991/300 du 18/12/2019",
+   "Circulaire ADII n° 6387/412 du 13/12/2022"
+  ],
+  "principe": "Le CDII pose le principe : les formalités douanières sont accomplies dans les bureaux de douane, sauf décision du directeur les autorisant dans les locaux professionnels des opérateurs ou en d'autres lieux désignés ; une convention peut organiser ces modalités lorsque la fréquence des opérations le justifie (art. 27). Les bureaux et postes de douane sont créés par arrêté du ministre chargé des finances, qui fixe leur compétence (art. 28), certaines opérations pouvant être réservées à des bureaux désignés par arrêté (art. 29), en particulier les opérations sous régimes économiques (art. 118). La déclaration en détail doit être déposée exclusivement dans un bureau ouvert à l'opération (art. 66-1°). Le décret prévoit de même des bureaux ouverts au transit et aux régimes économiques (décret n° 2-77-862, art. 163 et 172 bis).\n\nLes heures d'ouverture sont fixées par arrêté (CDII, art. 31-1°). L'arrêté n° 1315-77 prévoit, pour les jours ouvrables et sauf horaires spéciaux, une ouverture de 8 h 30 à 16 h 30 avec une pause de trente minutes, prolongée d'une heure le vendredi, la continuité du service étant assurée (art. 1er) ; les bureaux de contrôle postal et ferroviaire suivent les horaires de la poste et de l'ONCF (art. 2). Sur demande et avec l'accord de l'administration, les formalités peuvent être accomplies hors bureau ou hors horaires, moyennant une rétribution dont le taux et les conditions sont fixés par décision du directeur (CDII, art. 31-2° et 3°).",
+  "admin": "L'administration encadre les opérations hors horaires : la sortie de chargements en transit vers un MEAD en dehors des heures légales exige une autorisation spéciale du directeur régional du bureau d'entrée (circ. n° 5934/300) ; les exploitants de MEAD titulaires du statut OEA sécurité-sûreté peuvent dépoter sans présence douanière hors heures légales, selon un circuit tracé dans BADR (circ. n° 5991/300) ; pour une arrivée en transit hors heures dans un bureau sans permanence, le déclarant effectue lui-même une « pré-confirmation d'arrivée » dans BADR (circ. n° 6387/412).",
+  "donnees": [
+   [
+    "Horaires (lundi à jeudi)",
+    "8 h 30 – 16 h 30, pause de 30 min (arrêté n° 1315-77, art. 1er)"
+   ],
+   [
+    "Vendredi",
+    "8 h 30 – 16 h 30, pause prolongée d'une heure (arrêté n° 1315-77, art. 1er)"
+   ],
+   [
+    "Création et compétence des bureaux",
+    "Arrêté du ministre chargé des finances (CDII, art. 28)"
+   ],
+   [
+    "Formalités hors bureau ou hors horaires",
+    "Accord de l'administration et rétribution fixée par le directeur (CDII, art. 31-2°)"
+   ],
+   [
+    "Retard de transit non justifié",
+    "Justification sous 72 heures après l'alerte (circ. n° 6387/412)"
+   ]
+  ],
+  "cas": "La société fictive Oriental Frigo importe des produits surgelés qui arrivent en transit au MEAD un vendredi à 19 h. Le transporteur attend le lundi sans rien signaler. Le bureau de destination n'ayant pas de permanence, le déclarant devait effectuer la pré-confirmation d'arrivée dans BADR (circ. n° 6387/412). Faute de quoi, le système génère une alerte de dépassement du délai de transit, et le déclarant doit justifier le retard dans les 72 heures sous peine de poursuites.",
+  "juris": "",
+  "conseil": "Vérifiez avant l'opération que le bureau choisi est ouvert au régime visé (transit, régime économique, véhicules) : une déclaration déposée dans un bureau non compétent est irrecevable (CDII, art. 66-1°). Pour les flux réguliers ou urgents, négociez une convention de dédouanement dans vos locaux (art. 27) ou une autorisation permanente hors horaires, plutôt que des demandes ponctuelles.",
+  "faq": [
+   [
+    "Peut-on dédouaner en dehors des heures d'ouverture ?",
+    "Oui, sur demande et avec l'accord de l'administration, moyennant une rétribution fixée par décision du directeur (CDII, art. 31-2°)."
+   ],
+   [
+    "Les formalités peuvent-elles se faire dans les locaux de l'entreprise ?",
+    "Oui, sur décision du directeur, éventuellement dans le cadre d'une convention lorsque la fréquence des opérations le justifie (CDII, art. 27)."
+   ]
+  ],
+  "renvois": [
+   "1-020",
+   "1-022",
+   "3-011",
+   "3-020",
+   "6-001",
+   "8-011"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "1-022",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Organisation de l'administration",
+  "t": "Système BADR et dématérialisation du dédouanement : signature électronique, dépôt en ligne et services numériques de l'ADII",
+  "enbref": "Toutes les déclarations en détail sont signées et déposées électroniquement dans BADR depuis le 18/01/2018 ; la date et l'heure de la signature valent date d'enregistrement et engagent la responsabilité du signataire. La dématérialisation ne dispense pas de conserver les originaux des documents annexés.",
+  "textes": [
+   "CDII, art. 74 et 203 bis",
+   "Arrêté n° 1319-77, art. 8 et 17 quaterdecies",
+   "Circulaire ADII n° 5746/312 du 29/12/2017",
+   "Circulaire ADII n° 5707/312 du 21/07/2017",
+   "Circulaire ADII n° 5712/300 du 03/10/2017",
+   "Circulaire ADII n° 6522/210 du 29/12/2023",
+   "Circulaire ADII n° 6114/300 du 08/12/2020"
+  ],
+  "principe": "L'article 203 bis du CDII permet le dépôt par procédés électroniques des déclarations en détail, des manifestes, des acquits à caution et des documents annexés. Amendé par la loi de finances 2014 pour viser la loi n° 53-05 (circ. n° 5473/312 du 24/11/2014), il renvoie depuis la LF 2024 à la loi n° 43-20 relative aux services de confiance pour les transactions électroniques (circ. n° 6522/210). La LF 2022 a précisé que la déclaration en détail peut être faite par procédé électronique (CDII, art. 74 ; circ. n° 6255/210).\n\nBADR (Base automatisée des douanes en réseau) couvre l'ensemble du processus : déclarations sommaire et en détail, contrôle, liquidation, paiement, mainlevée, régimes économiques et contentieux. Il est accessible par Internet ou par EDI, avec authentification par certificat électronique (brochure ADII « Le dédouanement en ligne »). Après une première étape limitée aux cessions sous régimes économiques à partir du 01/08/2017 (circ. n° 5707/312), la signature et le dépôt électroniques ont été étendus à tous les régimes le 18/01/2018 (circ. n° 5746/312). La déclaration reçoit une référence dès sa création, et sa signature électronique vaut dépôt : la date et l'heure de signature constituent la date d'enregistrement, et engagent le signataire sur l'exactitude des énonciations et l'authenticité des documents. Une déclaration créée et non signée dans les 60 jours est supprimée d'office. En cas de panne, la procédure manuelle sur papier s'applique, puis la déclaration est déposée électroniquement au rétablissement du système.",
+  "admin": "La circulaire n° 5746/312 rappelle que la déclaration et ses documents forment un tout indivisible (CDII, art. 74 ; arrêté n° 1319-77, art. 8) et que le dépôt électronique ne dispense pas de conserver les originaux pendant la durée légale. Les banques valident électroniquement leurs cautions dans BADR depuis le 16/10/2017 (circ. n° 5712/300). La plateforme Diw@nati offre aux chefs d'entreprise un tableau de bord de leurs opérations, des e-documents (DUM, certificats de décharge, quittances) et des services en ligne (circ. n° 6114/300).",
+  "donnees": [
+   [
+    "Généralisation du dépôt électronique",
+    "Tous régimes, à compter du 18/01/2018 (circ. n° 5746/312)"
+   ],
+   [
+    "Date d'enregistrement",
+    "Date et heure de la signature électronique (circ. n° 5746/312)"
+   ],
+   [
+    "Déclaration non signée",
+    "Supprimée d'office après 60 jours (circ. n° 5746/312)"
+   ],
+   [
+    "Fondement de la signature",
+    "Loi n° 43-20, depuis la LF 2024 (CDII, art. 203 bis ; circ. n° 6522/210)"
+   ],
+   [
+    "Caution bancaire électronique",
+    "Obligatoire depuis le 16/10/2017 (circ. n° 5712/300)"
+   ]
+  ],
+  "cas": "Le transitaire fictif Atlantique Transit prépare dans BADR, le 2 mars, la déclaration d'un client dont la facture définitive n'est pas encore arrivée, puis l'oublie. Lorsqu'il revient sur le dossier en mai, la déclaration a été supprimée d'office : plus de 60 jours se sont écoulés sans signature (circ. n° 5746/312). Il doit en créer une nouvelle. Autre erreur à éviter : signer une déclaration en joignant une facture provisoire, car la signature engage immédiatement la responsabilité du déclarant sur l'authenticité des documents annexés.",
+  "juris": "",
+  "conseil": "Ne signez électroniquement qu'un dossier complet : la signature vaut dépôt et fixe la date d'enregistrement, donc les droits applicables. Archivez les originaux des factures et certificats avec la référence BADR de la déclaration : l'administration peut les demander à tout stade du contrôle. Faites adhérer le dirigeant à Diw@nati : il y suit lui-même ses créances, ses comptes de régimes économiques et ses litiges en cours.",
+  "faq": [
+   [
+    "Quelle date compte pour une déclaration déposée électroniquement ?",
+    "La date et l'heure de la signature électronique, qui valent dépôt et enregistrement (circ. n° 5746/312)."
+   ],
+   [
+    "Que faire en cas de panne de BADR ?",
+    "Déposer la déclaration sur papier selon la procédure manuelle, puis la déposer électroniquement au rétablissement du système (circ. n° 5746/312)."
+   ]
+  ],
+  "renvois": [
+   "1-020",
+   "1-021",
+   "3-020",
+   "3-021",
+   "3-024",
+   "4-040"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

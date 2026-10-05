@@ -1,0 +1,133 @@
+[
+ {
+  "id": "7-080",
+  "p": 7,
+  "ch": "7.9",
+  "c": "Régimes sectoriels",
+  "t": "Régimes économiques adaptés à certains secteurs : hydrocarbures, agriculture et emballages, artisanat, cinéma, avitaillement et aéronautique",
+  "enbref": "Plusieurs secteurs bénéficient d'aménagements des régimes économiques de droit commun : délais propres, exonération de redevance, dispense ou mode particulier de caution, autorisation d'un département technique. Ces adaptations ne créent pas de nouveaux régimes : elles modifient les conditions de l'ATPA, de l'admission temporaire, de l'entrepôt ou du cautionnement.",
+  "textes": [
+   "Décret n° 2-77-862, art. 134-2°, 191 à 197",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexe II",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, annexes I et II",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+   "Note ADII n° 23605/320 du 23/11/1998",
+   "Note ADII n° 12014/313 du 13/09/2011",
+   "Circulaire ADII n° 6707/313 du 31/12/2025",
+   "Circulaire ADII n° 6364/313 du 08/09/2022"
+  ],
+  "principe": "Le décret exonère de la redevance trimestrielle les matériels importés temporairement pour la recherche et l'exploitation d'hydrocarbures relevant de la loi n° 21-90 (décret n° 2-77-862, art. 134-2°). Il organise l'avitaillement des navires et aéronefs en carburants exonérés, extraits d'entrepôts de stockage spéciaux, éventuellement créés dans l'enceinte des ports et aéroports ; pour l'aviation, l'embarquement se fait sur bulletin de vol et sommier tenu par la compagnie (art. 191 à 197). Pour les autres secteurs, les aménagements résultent des instructions de l'administration rappelées ci-dessous.",
+  "admin": "Hydrocarbures : l'AT des programmes de recherche et d'exploitation (code 300) ne requiert plus d'autorisation préalable, mais la liste des matériels visée par le département de l'énergie est vérifiée (circ. 6164/313 ; note D885/21/ADII/100). Agriculture : l'ATPA de céréales et légumineuses exige l'autorisation de l'ONICL (circ. 6164/313) ; la cession d'emballages pour le conditionnement de fruits, légumes et produits de la mer exportés relève des directeurs provinciaux et préfectoraux (circ. 6348/313, annexe II), avec comptabilité matières du cédant et du cessionnaire (note n° 23605/320, citant la circ. 4522/321). Artisanat : ATPA des artisans limitée à trois mois (circ. 6164/313) et caution propre aux artisans couturiers de vêtements traditionnels exportés (circ. 6707/313). Cinéma : AT du matériel de tournage sur autorisation du Centre cinématographique marocain (circ. 6348/313) et caution CCM (circ. 6707/313). Carburants : ouverture d'un entrepôt privé particulier spécial de carburants via Diw@nati (circ. 6364/313). Aéronautique : cautionnement sur engagement ouvert aux sociétés d'entretien et de réparation d'aéronefs (note 12014/313). Textile : articles de 2e choix mis à la consommation sans amende sur décision fixant le taux (circ. 6348/313, annexe I).",
+  "donnees": [
+   [
+    "Hydrocarbures",
+    "AT code 300, sans redevance ; liste visée par le département de l'énergie (décret, art. 134-2° ; note D885/21)"
+   ],
+   [
+    "Céréales et légumineuses en ATPA",
+    "Autorisation de l'ONICL (circ. 6164/313, annexe II)"
+   ],
+   [
+    "Emballages agricoles et de la mer",
+    "Cession autorisée par les directeurs provinciaux et préfectoraux (circ. 6348/313, annexe II)"
+   ],
+   [
+    "Artisans",
+    "ATPA de 3 mois ; caution spécifique des couturiers (circ. 6164/313 ; circ. 6707/313)"
+   ],
+   [
+    "Carburants d'avitaillement",
+    "Entrepôts spéciaux ; bulletin de vol pour l'aviation (décret, art. 191 à 197)"
+   ],
+   [
+    "Maintenance aéronautique",
+    "Cautionnement sur engagement (note 12014/313)"
+   ]
+  ],
+  "cas": "Souss Agrumes SA, société fictive d'exportation d'oranges, achète ses cartons et palettes à un importateur qui les a placés sous admission temporaire. Pour les recevoir sans droits, elle obtient du directeur provincial l'autorisation de cession d'emballages destinés au conditionnement de fruits exportés (circ. 6348/313) et tient, comme l'importateur, une comptabilité matières par campagne (note 23605/320). En fin de saison, les cartons inutilisés restent sous le régime. Erreur à éviter : utiliser ces cartons pour des ventes sur le marché local ; ils perdraient le bénéfice de la cession et les droits seraient exigibles.",
+  "juris": "",
+  "conseil": "Avant de monter une opération dans un secteur réglementé, identifiez le visa technique attendu (énergie, ONICL, CCM) : c'est souvent lui, et non la douane, qui conditionne le délai. Dans les filières saisonnières, préparez les autorisations de cession avant la campagne. Vérifiez si votre secteur ouvre un mode de cautionnement particulier : il peut libérer une part importante de votre trésorerie.",
+  "faq": [
+   [
+    "Une société pétrolière paie-t-elle la redevance trimestrielle sur ses matériels en AT ?",
+    "Non pour les matériels de recherche et d'exploitation d'hydrocarbures relevant de la loi n° 21-90 (décret, art. 134-2°)."
+   ],
+   [
+    "Qui autorise la cession d'emballages destinés aux exportations agricoles ?",
+    "Les directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313 du 06/07/2022, annexe II)."
+   ]
+  ],
+  "renvois": [
+   "7-001",
+   "7-011",
+   "7-021",
+   "7-023",
+   "7-040",
+   "7-081"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-081",
+  "p": 7,
+  "ch": "7.9",
+  "c": "Régimes sectoriels",
+  "t": "Entrepôt industriel franc (EIF) : conditions d'octroi, fonctionnement, délais et mise à la consommation",
+  "enbref": "L'entrepôt industriel franc permet à une entreprise réalisant un investissement d'au moins 50 MDH d'importer en suspension des droits ses équipements et les marchandises qu'elle transforme, pour une production destinée en tout ou partie à l'exportation. Il est autorisé par l'Administration centrale après avis du ministère de la ressource ; une part de la production, dans la limite de 15 % du chiffre d'affaires export, peut être vendue au Maroc sans amende.",
+  "textes": [
+   "CDII, art. 134 bis, 134 ter et 134 quater",
+   "Décret n° 2-77-862, art. 98 bis à 98 decies",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexe I",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, annexes I et II",
+   "Circulaire ADII n° 6538/313 du 06/02/2024",
+   "Circulaire ADII n° 6047/312 du 20/05/2020"
+  ],
+  "principe": "L'EIF permet aux entreprises, sous contrôle de l'administration, d'importer ou d'acquérir en suspension des droits leurs matériels, équipements et pièces, ainsi que les marchandises mises en œuvre par ces équipements ou qui disparaissent à l'usage, selon une liste fixée par arrêté ; les produits compensateurs sont destinés en tout ou partie à l'exportation, la proportion mise à la consommation étant fixée par voie réglementaire (CDII, art. 134 bis). Les marchandises admissibles et les conditions de compensation sont celles de l'ATPA (art. 134 ter). Le régime est réservé aux investissements de création ou d'extension d'au moins 50 000 000 DH ; il est autorisé par le directeur de l'administration après avis du ministre de la ressource, sur demande accompagnée de la liste des équipements et du plan des locaux, et suppose le certificat de conformité urbanistique (décret n° 2-77-862, art. 98 bis à 98 quinquies). Les entrées se font sous acquit à caution et une comptabilité matières est tenue (art. 98 sexies à 98 nonies).",
+  "admin": "La circulaire n° 6164/313 (annexe I) fixe les délais à deux ans pour les marchandises à mettre en œuvre et à la durée nécessaire pour les matériels. La circulaire n° 6348/313 réserve l'ouverture de l'EIF à l'Administration centrale, confie l'exportation hors délai aux directeurs provinciaux et préfectoraux (annexe II), et dispense d'amende la mise à la consommation dans la limite de 15 % du chiffre d'affaires annuel à l'exportation de l'EIF (annexe I). Depuis le 15/02/2024, une nouvelle société doit obtenir une autorisation après enquête d'outillage (circ. 6538/313).",
+  "donnees": [
+   [
+    "Investissement minimum",
+    "50 000 000 DH, création ou extension (décret, art. 98 bis)"
+   ],
+   [
+    "Autorisation",
+    "Administration centrale, après avis du ministère de la ressource (décret, art. 98 ter ; circ. 6348/313, annexe II)"
+   ],
+   [
+    "Délai des marchandises",
+    "2 ans ; matériels : durée nécessaire (circ. 6164/313, annexe I)"
+   ],
+   [
+    "Vente au Maroc sans amende",
+    "15 % du CA export annuel de l'EIF (circ. 6348/313, annexe I)"
+   ],
+   [
+    "Codes régimes",
+    "381 et 385 à l'entrée ; 048 mise à la consommation ; 768 exportation vers zone franche (circ. 6047/312)"
+   ]
+  ],
+  "cas": "Atlas Aéro Composants SA, société fictive, investit 120 000 000 DH dans une usine de pièces en composite près de Casablanca, dont 85 % de la production sera exportée. Elle obtient de l'Administration centrale l'autorisation d'EIF, après avis du ministère de l'industrie, en joignant la liste des équipements et le plan des locaux (décret, art. 98 bis). Ses machines et ses fibres entrent en suspension des droits. Avec un chiffre d'affaires export de 300 000 000 DH, elle peut vendre au Maroc sans amende jusqu'à 45 000 000 DH de pièces (circ. 6348/313). Erreur à éviter : démarrer la production avant le certificat de conformité urbanistique, préalable à l'utilisation de l'entrepôt (art. 98 quinquies).",
+  "juris": "",
+  "conseil": "Comparez l'EIF avec l'ATPA, qui suffit souvent pour les seuls intrants. Montez le dossier avec le ministère de la ressource dès la phase d'investissement, et faites agréer le plan des locaux avant les travaux. Suivez en continu le ratio des ventes locales par rapport au chiffre d'affaires export.",
+  "faq": [
+   [
+    "Quel investissement minimum faut-il pour obtenir un EIF ?",
+    "50 000 000 DH, en création ou en extension (décret n° 2-77-862, art. 98 bis)."
+   ],
+   [
+    "Puis-je vendre une partie de ma production au Maroc ?",
+    "Oui ; dans la limite de 15 % du chiffre d'affaires annuel à l'exportation, la mise à la consommation est dispensée d'amende (circ. 6348/313, annexe I)."
+   ]
+  ],
+  "renvois": [
+   "7-010",
+   "7-020",
+   "7-060",
+   "7-080",
+   "4-031"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

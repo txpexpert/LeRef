@@ -1,0 +1,275 @@
+[
+ {
+  "id": "2-001",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Espèce tarifaire",
+  "t": "Système harmonisé et nomenclature tarifaire nationale : structure du tarif marocain et modification de la nomenclature",
+  "enbref": "Le tarif marocain repose sur la nomenclature du Système harmonisé, complétée par des sous-positions nationales à dix chiffres. L'espèce d'une marchandise est la dénomination que lui attribue ce tarif ; elle détermine le droit applicable, les mesures de contrôle et les statistiques. La nomenclature est modifiée par arrêté, les quotités par la loi de finances.",
+  "textes": [
+   "CDII, art. 2, 3, 4, 5-3° et 15-1°",
+   "Décret n° 2-77-862, art. 216-II",
+   "Circulaire ADII n° 6135/211 du 31/12/2020",
+   "Circulaires ADII n° 6417/211 du 09/02/2023, 6491/211 du 11/08/2023 et 6612/211 du 25/11/2024",
+   "Circulaire ADII n° 6398/210 du 29/12/2022"
+  ],
+  "principe": "Le tarif des droits de douane comprend la nomenclature du Système harmonisé (SH) du Conseil de coopération douanière, les sous-positions nationales et celles issues des accords ratifiés, ainsi que les quotités des droits (CDII, art. 2). Sauf disposition contraire, les marchandises sont passibles des droits inscrits au tarif, assis sur la valeur (art. 3 et 4). L'espèce est la dénomination attribuée à une marchandise par le tarif (art. 15-1°) ; elle fait partie, avec l'origine et la provenance, des éléments qualitatifs d'assiette appréciés au moment de l'entrée sur le territoire assujetti (art. 14).\n\nDeux procédures distinctes font évoluer le tarif. Les quotités sont modifiées par la loi de finances ou, en cas d'urgence, par le gouvernement sur habilitation législative (art. 5-1° et 2°). La nomenclature peut être modifiée par voie réglementaire si cela n'entraîne pas de changement de quotité (art. 5-3°) ; le ministre chargé des finances y procède par arrêté après avis des ministres intéressés (décret n° 2-77-862, art. 216-II). La circulaire n° 6135/211 a ainsi rationalisé la nomenclature tarifaire et statistique (NTS) au 01/01/2021 (arrêté n° 3280.20) en regroupant des sous-positions, sans changer la fiscalité, avec une table de concordance indicative. D'autres arrêtés individualisent des produits pour la traçabilité : HCFC, surimi et tubes inox au 09/02/2023 (circ. n° 6417/211), protoxyde d'azote en capsules et réchauds à gaz au 10/08/2023 (circ. n° 6491/211), déchets d'huiles et contreplaqués au 25/11/2024 (circ. n° 6612/211).",
+  "admin": "Les circulaires de la série « études tarifaires » informent le service de chaque modification, en précisant la sous-position créée, le droit applicable et la date d'effet. La circulaire n° 6135/211 précise que la nouvelle version du tarif n'est pas éditée sur papier mais disponible sous forme numérique ; la brochure BADR mentionne le tarif intégré ADIL parmi les services en ligne.",
+  "donnees": [
+   [
+    "Composition du tarif",
+    "Nomenclature SH + sous-positions nationales + quotités (CDII, art. 2)"
+   ],
+   [
+    "Modification des quotités",
+    "Loi de finances ou procédure d'urgence (CDII, art. 5-1° et 2°)"
+   ],
+   [
+    "Modification de la nomenclature",
+    "Arrêté du ministre, sans changement de quotité (CDII, art. 5-3° ; décret, art. 216-II)"
+   ],
+   [
+    "Rationalisation de la NTS",
+    "En vigueur au 01/01/2021 (circ. n° 6135/211)"
+   ]
+  ],
+  "cas": "La société fictive Fès Bois importe régulièrement du contreplaqué à âme lattée sous une sous-position générique. Depuis le 25/11/2024, la nomenclature distingue ces contreplaqués selon l'essence du pli extérieur (teck, chêne, hêtre…), avec une unité de quantité en mètres cubes (circ. n° 6612/211). Si son système d'information continue à proposer l'ancienne sous-position, sa déclaration sera erronée, même si le droit reste de 17,5 %. Il faut mettre à jour la base articles à chaque circulaire tarifaire.",
+  "juris": "",
+  "conseil": "Abonnez-vous à la veille des circulaires « études tarifaires » et mettez à jour votre base articles le jour de leur entrée en vigueur. Lors d'une restructuration, utilisez la table de concordance comme point de départ, mais vérifiez chaque code : elle n'est qu'indicative.",
+  "faq": [
+   [
+    "Combien de chiffres compte le code tarifaire marocain ?",
+    "Dix, par exemple 8479.89.70.00 (circ. n° 6710/232) : les six premiers relèvent du SH, les suivants sont des subdivisions nationales."
+   ],
+   [
+    "Un changement de nomenclature modifie-t-il le droit ?",
+    "Non par lui-même : la nomenclature ne peut être modifiée par voie réglementaire que sans changement de quotité (CDII, art. 5-3°)."
+   ]
+  ],
+  "renvois": [
+   "1-002",
+   "1-004",
+   "2-002",
+   "2-005",
+   "4-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-002",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Espèce tarifaire",
+  "t": "Règles générales interprétatives du Système harmonisé : application par l'ADII au classement des marchandises",
+  "enbref": "Le classement d'une marchandise suit les règles générales interprétatives (RGI) du Système harmonisé, appliquées dans l'ordre. L'ADII motive ses décisions de classement en citant la ou les RGI retenues : le plus souvent les RGI 1 et 6, la RGI 3 b) pour les articles composites.",
+  "textes": [
+   "CDII, art. 2 et 15",
+   "Circulaires ADII n° 6709/232 et 6710/232 du 20/01/2026",
+   "Circulaires ADII n° 6714/232 et 6715/232 du 21/01/2026",
+   "Circulaire ADII n° 6726/232 du 26/02/2026",
+   "Circulaire ADII n° 6729/232 du 19/03/2026",
+   "Circulaire ADII n° 6732/232 du 08/04/2026"
+  ],
+  "principe": "Le CDII intègre la nomenclature du SH dans le tarif (art. 2) et confie à l'administration le classement des marchandises non nommément désignées ou susceptibles de relever de plusieurs positions (art. 15-2°). Les décisions de classement de l'ADII citent systématiquement les règles générales interprétatives, dont elles font application.\n\nL'ADII cite les RGI 1 et 6 lorsque le classement découle directement des libellés de la position et de la sous-position retenues : œufs entiers séchés en 0408.91.00.10 (circ. n° 6729/232), mélange d'acides gras en 3823.19.00.90 (circ. n° 6726/232), épurateur d'huile de transformateur en 8421.29.90.00 (circ. n° 6732/232), diffuseur ultrasonique en 8479.89.70.00, classé selon sa fonction principale (circ. n° 6710/232).\n\nLa RGI 3 b) permet de classer un article composé d'éléments différents d'après celui qui lui confère son caractère essentiel : un tuyau en polyuréthane enroulé sur un dévidoir en plastique est classé comme tuyau, en 3917.33.00.00 (circ. n° 6709/232). La RGI 5 rattache certains emballages au produit qu'ils contiennent (circ. n° 6706/233, annexe I, art. 9).\n\nL'analyse de la composition est décisive : un précurseur de cathode NCM, mélange non réagi, relève de la rubrique résiduelle 3824.99.00.99, alors que le matériau cathodique NCM, composé chimique défini, relève du chapitre 28, en 2853.90.90.90 (circ. n° 6714/232 et 6715/232).",
+  "admin": "Chaque circulaire de classement décrit le produit (composition, présentation, conditionnement, usage), cite les RGI appliquées et, souvent, les positions écartées : la circulaire n° 6710/232 exclut ainsi les humidificateurs et les appareils à usage médical. Les difficultés d'application sont signalées à l'administration centrale.",
+  "donnees": [
+   [
+    "RGI 1 et 6",
+    "Classement par les libellés et notes, puis par sous-position (circ. n° 6710/232, 6729/232)"
+   ],
+   [
+    "RGI 3 b)",
+    "Article composite : élément conférant le caractère essentiel (circ. n° 6709/232)"
+   ],
+   [
+    "Mélange ou composé défini",
+    "3824.99.00.99 ou 2853.90.90.90 (circ. n° 6714/232 et 6715/232)"
+   ]
+  ],
+  "cas": "La société fictive Atlas Batteries importe une poudre pour cathodes et la déclare en chapitre 28 parce qu'elle contient du nickel, du cobalt et du manganèse. À la visite, l'analyse montre qu'il s'agit d'un précurseur, mélange non réagi : il relève de la position 3824.99.00.99 (circ. n° 6714/232). Seul le matériau final, composé défini cristallisé, relève du chapitre 28 (circ. n° 6715/232). Il fallait classer sur la base d'une fiche technique précisant l'état chimique du produit, pas de sa seule composition élémentaire.",
+  "juris": "",
+  "conseil": "Constituez pour chaque produit sensible un dossier de classement : fiche technique, composition, procédé, usage, photos, et le raisonnement RGI par RGI. Recherchez d'abord une circulaire de classement portant sur un produit voisin : elle donne la position et la logique suivies par l'administration.",
+  "faq": [
+   [
+    "Comment classer un appareil à plusieurs fonctions ?",
+    "L'ADII retient la fonction principale, comme pour le diffuseur ultrasonique classé en 8479.89.70.00 (circ. n° 6710/232)."
+   ],
+   [
+    "Un article composé de deux matières se classe-t-il selon la plus chère ?",
+    "Non : selon l'élément qui lui confère son caractère essentiel (RGI 3 b), circ. n° 6709/232)."
+   ]
+  ],
+  "renvois": [
+   "2-001",
+   "2-003",
+   "2-004",
+   "2-005",
+   "2-060"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-003",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Espèce tarifaire",
+  "t": "Notes explicatives du Système harmonisé, avis de classement et notes complémentaires du tarif marocain",
+  "enbref": "Au-delà des libellés, le classement s'appuie sur les notes de sections et de chapitres et, au Maroc, sur des notes complémentaires nationales qui définissent certains produits. Ces notes nationales sont modifiées par arrêté et publiées par circulaire ; leur méconnaissance entraîne des erreurs de sous-position.",
+  "textes": [
+   "CDII, art. 2 et 5-3°",
+   "Circulaire ADII n° 6491/211 du 11/08/2023",
+   "Circulaire ADII n° 6417/211 du 09/02/2023",
+   "Circulaire ADII n° 6398/210 du 29/12/2022",
+   "Circulaire ADII n° 6702/210 du 26/12/2025"
+  ],
+  "principe": "Les circulaires de classement de l'ADII citées dans le présent ouvrage ne se réfèrent pas expressément aux notes explicatives du Système harmonisé ni aux avis de classement du Conseil de coopération douanière. Le présent paragraphe porte donc sur les notes complémentaires du tarif marocain, qui en tiennent lieu au niveau national.\n\nLe tarif comprend, outre la nomenclature du SH, des sous-positions nationales (CDII, art. 2), accompagnées de notes complémentaires qui définissent certains produits. Ces notes sont modifiées comme la nomenclature, par arrêté (art. 5-3°). Ainsi, l'arrêté n° 1896-23 du 18/07/2023 a relevé de 220 kg à 350 kg la limite de poids vif retenue pour la définition des veaux dans la note complémentaire du chapitre 01, à compter du 10/08/2023 (circ. n° 6491/211). L'arrêté n° 2754.22 a introduit au chapitre 03 une note définissant le surimi aux fins de la position 03.04 : produit congelé composé d'au moins 85 % de chair de poisson finement hachée, lavée et tamisée (circ. n° 6417/211).\n\nLes notes complémentaires peuvent aussi commander le taux : la restructuration du chapitre 30 depuis 2023 distingue les médicaments selon qu'ils sont totalement importés, produits localement ou les deux, avec des quotités de 2,5 % à 30 %, et la LF 2026 a réaménagé ces notes (circ. n° 6398/210 et 6702/210).",
+  "admin": "L'administration présente chaque modification de note complémentaire comme un moyen d'améliorer l'application des préférences, le contrôle et la traçabilité (circ. n° 6491/211 et 6417/211).",
+  "donnees": [
+   [
+    "Définition des veaux (ch. 01)",
+    "Poids vif porté à 350 kg, au 10/08/2023 (circ. n° 6491/211)"
+   ],
+   [
+    "Surimi (ch. 03)",
+    "Au moins 85 % de chair de poisson (circ. n° 6417/211)"
+   ],
+   [
+    "Médicaments (ch. 30)",
+    "Quotités de 2,5 % à 30 % selon la production locale (circ. n° 6702/210)"
+   ]
+  ],
+  "cas": "La société fictive Gharb Élevage importe en septembre 2023 des bovins de 300 kg qu'elle déclare comme « autres bovins », sur la base de l'ancienne définition des veaux limitée à 220 kg. Depuis le 10/08/2023, la note complémentaire du chapitre 01 retient 350 kg (circ. n° 6491/211) : ces animaux sont des veaux au sens du tarif, ce qui peut changer le droit et le bénéfice des préférences. Il fallait vérifier la note en vigueur à la date de la déclaration.",
+  "juris": "",
+  "conseil": "Lisez toujours les notes de chapitre et les notes complémentaires avant de choisir une sous-position : ce sont elles qui fixent les seuils (poids, teneur, conditionnement). Pour un produit nouveau ou ambigu, documentez votre raisonnement et, en cas de doute sérieux, demandez une décision anticipée.",
+  "faq": [
+   [
+    "Les notes complémentaires nationales sont-elles obligatoires ?",
+    "Elles font partie du tarif, modifié par arrêté (CDII, art. 2 et 5-3°), et s'imposent pour le choix de la sous-position nationale."
+   ]
+  ],
+  "renvois": [
+   "2-001",
+   "2-002",
+   "2-005",
+   "2-060",
+   "4-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-004",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Espèce tarifaire",
+  "t": "Ensembles, articles composites et matériels démontés ou non montés : classement unique, classement regroupé et envois fractionnés",
+  "enbref": "Un article composé de plusieurs éléments se classe en principe comme un tout. Pour les marchandises relevant de plusieurs positions, l'administration peut autoriser un classement regroupé sans modifier les droits dus, et le matériel importé démonté par envois fractionnés peut être déclaré à la position du matériel monté.",
+  "textes": [
+   "CDII, art. 15-4°",
+   "Circulaire ADII n° 6709/232 du 20/01/2026",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexes 5 et 6",
+   "Circulaire ADII n° 6706/233 du 31/12/2025, annexe I, art. 9"
+  ],
+  "principe": "La RGI 2 a) vise les articles incomplets ou non finis, ainsi que les articles démontés ou non montés. Trois mécanismes voisins sont précisés par les textes et par la pratique de l'ADII.\n\nL'article composite est classé d'après l'élément qui lui confère son caractère essentiel (RGI 3 b)) : le tuyau en polyuréthane sur dévidoir est classé en totalité comme tuyau, en 3917.33.00.00, et non en deux articles (circ. n° 6709/232). En matière d'origine, un groupe d'articles classé dans une seule position du SH constitue une seule unité (circ. n° 6706/233, annexe I, art. 9).\n\nLe CDII permet en outre un classement regroupé : l'administration peut autoriser le classement, dans une ou plusieurs positions, de marchandises relevant de plusieurs positions, sans augmentation ni diminution des droits normalement exigibles, notamment pour les marchandises exonérées ou placées sous régime économique ; à la demande du déclarant, le classement le plus taxé est retenu (art. 15-4°). La note D7106/16 présente ce « classement simplifié » parmi les facilités offertes aux opérateurs.\n\nEnfin, les investisseurs peuvent importer à l'état démonté ou non monté, par envois fractionnés, certains matériels et biens d'équipement sous le régime de la transformation sous douane, selon un classement simplifié correspondant à la position du matériel monté ; la mise à la consommation intervient après montage, selon l'espèce du matériel monté (note D7106/16, annexe 5).",
+  "admin": "L'importation de matériel par envois fractionnés relève du chef de circonscription (note n° 23384/412 du 20/11/1998) ; le délai peut être porté de 3 à 12 mois dans les cas justifiés, sur décision du directeur régional (note D7106/16, annexe 6).",
+  "donnees": [
+   [
+    "Classement regroupé",
+    "Sans effet sur les droits ; le plus taxé à la demande du déclarant (CDII, art. 15-4°)"
+   ],
+   [
+    "Envois fractionnés",
+    "Position du matériel monté, sous transformation sous douane (note D7106/16)"
+   ],
+   [
+    "Compétence (envois fractionnés)",
+    "Chef de circonscription (note D7106/16, annexe 6)"
+   ],
+   [
+    "Délai",
+    "3 mois, porté jusqu'à 12 mois sur décision du directeur régional (note D7106/16)"
+   ]
+  ],
+  "cas": "La société fictive Souss Énergie importe une ligne d'embouteillage en sept conteneurs répartis sur deux mois. Déclarer chaque envoi selon la nature des pièces conduirait à une vingtaine de positions différentes, avec des droits variables. Elle doit demander l'autorisation d'envois fractionnés sous transformation sous douane : chaque envoi est déclaré à la position de la ligne montée, et la mise à la consommation intervient après montage (note D7106/16). L'erreur fréquente est de dédouaner le premier conteneur avant d'avoir obtenu l'autorisation.",
+  "juris": "",
+  "conseil": "Demandez l'autorisation d'envois fractionnés avant l'arrivée du premier envoi et joignez la liste complète des éléments du matériel monté. Si le montage risque de dépasser trois mois, sollicitez dès le départ la prolongation auprès du directeur régional.",
+  "faq": [
+   [
+    "Le classement regroupé permet-il de payer moins ?",
+    "Non : il ne peut entraîner ni augmentation ni diminution des droits normalement exigibles (CDII, art. 15-4°)."
+   ],
+   [
+    "Qui autorise l'importation par envois fractionnés ?",
+    "Le chef de circonscription ; le directeur régional peut porter le délai de 3 à 12 mois (note D7106/16, annexe 6)."
+   ]
+  ],
+  "renvois": [
+   "2-002",
+   "2-005",
+   "7-050",
+   "7-051",
+   "7-052"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-005",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Espèce tarifaire",
+  "t": "Décisions de classement de l'administration : fondement, portée, publication par circulaire et contestation",
+  "enbref": "Les marchandises non nommément désignées ou relevant de plusieurs positions sont classées par décision de l'administration. Ces décisions, prises à la demande du redevable ou à l'occasion d'un litige, sont immédiatement exécutoires et restent valables jusqu'à une décision modificative ou un changement de nomenclature.",
+  "textes": [
+   "CDII, art. 15-2° et 15-3°",
+   "CDII, art. 45 ter",
+   "CDII, art. 22 bis et 22 ter",
+   "Circulaires ADII n° 6709/232, 6710/232, 6714/232, 6715/232, 6726/232, 6729/232 et 6732/232 (2026)"
+  ],
+  "principe": "Le CDII confie à l'administration le classement des marchandises qui ne sont pas nommément désignées au tarif ou qui sont susceptibles de relever de plusieurs positions (art. 15-2°). Ces décisions de classement sont prises à la demande du redevable ou à la suite d'un litige. Elles sont immédiatement exécutoires à l'égard du demandeur et des parties, et restent valables jusqu'à l'intervention d'une décision modificative ou d'une modification de la nomenclature (art. 15-3°).\n\nÀ côté de ce mécanisme, l'article 45 ter oblige l'administration à rendre, préalablement aux opérations, des décisions anticipées sur le classement tarifaire, dans un délai de 150 jours au plus, valables cinq ans pour le classement ; elles sont publiées et peuvent être annulées si les éléments qui les fondent ont changé (traité aux paragraphes 2-060 et 2-061).\n\nEn pratique, l'ADII diffuse ses décisions par des circulaires de classement de la série « 232 », prises en référence à l'article 45 ter. Chacune décrit le produit (composition, présentation, conditionnement, usage), indique la sous-position retenue et les RGI appliquées : diffuseur ultrasonique (n° 6710/232), tuyau sur dévidoir (n° 6709/232), précurseur et matériau cathodique NCM (n° 6714/232 et 6715/232), acides gras pour l'alimentation animale (n° 6726/232), œufs en poudre (n° 6729/232), épurateur d'huile (n° 6732/232).\n\nEn cas de désaccord sur l'espèce, l'opérateur peut saisir la commission locale de concertation puis la commission consultative et de recours (CDII, art. 22 bis et 22 ter).",
+  "admin": "Les circulaires de classement s'adressent au service, qui doit les appliquer à toute importation du même produit ; les difficultés d'application sont signalées à l'administration centrale sous leur timbre (circ. n° 6709/232 et suivantes).",
+  "donnees": [
+   [
+    "Fondement",
+    "CDII, art. 15-2°"
+   ],
+   [
+    "Effet",
+    "Immédiatement exécutoire envers le demandeur et les parties (CDII, art. 15-3°)"
+   ],
+   [
+    "Fin de validité",
+    "Décision modificative ou modification de la nomenclature (CDII, art. 15-3°)"
+   ],
+   [
+    "Décision anticipée (classement)",
+    "Réponse en 150 jours au plus ; validité 5 ans (CDII, art. 45 ter)"
+   ]
+  ],
+  "cas": "La société fictive Oasis Nutrition importe des œufs entiers séchés qu'elle déclarait jusqu'ici comme préparation alimentaire du chapitre 21. Depuis la circulaire n° 6729/232 du 19/03/2026, l'administration classe ce produit, sans additif, en 0408.91.00.10. Toute déclaration ultérieure dans une autre position expose la société à une rectification et à des sanctions. Elle doit aligner son classement et, si son produit diffère (ajout de sel ou de sucre, par exemple), documenter cette différence.",
+  "juris": "",
+  "conseil": "Comparez toujours votre produit à la description de la circulaire de classement, critère par critère : la décision ne vaut que pour un produit identique. Si votre produit diffère, sollicitez une décision anticipée plutôt que de vous fonder sur une analogie. Conservez les circulaires applicables dans le dossier article de chaque produit.",
+  "faq": [
+   [
+    "Une décision de classement vaut-elle pour tous les importateurs ?",
+    "Le CDII la rend exécutoire envers le demandeur et les parties (art. 15-3°) ; diffusée par circulaire, elle est appliquée par le service à toute importation du même produit."
+   ],
+   [
+    "Combien de temps reste valable une décision de classement ?",
+    "Jusqu'à une décision modificative ou une modification de la nomenclature (CDII, art. 15-3°) ; une décision anticipée vaut cinq ans (art. 45 ter)."
+   ]
+  ],
+  "renvois": [
+   "2-001",
+   "2-002",
+   "2-060",
+   "2-061",
+   "3-034",
+   "9-050"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ }
+]

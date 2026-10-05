@@ -1,0 +1,118 @@
+[
+ {
+  "id": "4-020",
+  "p": 4,
+  "ch": "4.3",
+  "c": "Autres taxes",
+  "t": "Taxe intérieure de consommation (TIC) à l'importation : produits soumis, quotités, liquidation et marquage fiscal",
+  "enbref": "Certains produits importés supportent, en plus des droits de douane et de la TVA, une taxe intérieure de consommation liquidée et recouvrée par la douane comme les droits de douane. C'est le cas notamment des boissons, carburants, tabacs, produits sucrés, appareils électriques et électroniques, pneumatiques et batteries. Les quotités, le plus souvent spécifiques, figurent aux tableaux de l'article 9 du dahir n° 1-77-340. Plusieurs produits ne peuvent être mis à la consommation que munis d'une marque fiscale.",
+  "textes": [
+   "CDII, art. 182, 183, 185, 186, 189 et 190",
+   "Dahir portant loi n° 1-77-340 du 09/10/1977, art. 1er, 3, 9 (tableaux A à L), 10, 42 bis, 55 à 57",
+   "Circulaires ADII n° 6702/210 du 26/12/2025 (LF 2026), n° 6619/210 (LF 2025) et n° 6398/210 du 29/12/2022 (LF 2023)"
+  ],
+  "principe": "L'ADII liquide et recouvre les TIC applicables aux marchandises importées ou produites sur le territoire assujetti ; ces taxes sont liquidées et recouvrées comme en matière de droits de douane, et le contentieux douanier leur est applicable (CDII, art. 182). Les marchandises importées en sont passibles dès leur importation, aux mêmes quotités quelle que soit l'origine (art. 185 et 186). À l'importation, le redevable est le déclarant (art. 189), et la liquidation suit les règles de date et d'arrondi des droits de douane (art. 190).\n\nProduits soumis (dahir n° 1-77-340, art. 1er) :\n- boissons : eaux, limonades, bières, vins et alcools ;\n- produits énergétiques et bitumes ;\n- ouvrages de platine, d'or et d'argent ;\n- tabacs manufacturés, cigarettes électroniques, liquides et substituts nicotiniques ;\n- pneumatiques, appareils électriques, appareils électroniques et batteries pour véhicules ;\n- produits contenant du sucre.\n\nLes quotités sont fixées par les tableaux de l'article 9, le plus souvent en dirhams par unité, hectolitre ou kilogramme. Exemples : gasoil 242,20 DH l'hectolitre (tableau C) ; pneumatiques 4 DH le kilogramme (tableau I) ; smartphones 50 DH l'unité (tableau K). Pour les cigarettes, la cinquième année de la réforme fixe depuis le 01/01/2026 une quotité spécifique de 550 DH les 1 000 cigarettes, une quotité ad valorem de 56,5 % et un minimum de perception de 953 DH (tableau G ; circ. n° 6702/210). Le gouvernement peut modifier les quotités en cas d'urgence (CDII, art. 183).\n\nBoissons, tabacs, produits connexes et produits sucrés ne peuvent être mis à la consommation que munis d'une marque fiscale (dahir, art. 10). Le gasoil et le supercarburant doivent être marqués depuis le 01/01/2026 ; l'obligation s'étendra aux autres produits pétroliers au 01/01/2028 (art. 42 bis ; circ. n° 6702/210).",
+  "admin": "Chaque loi de finances fait évoluer le champ et les quotités de la TIC. La LF 2023 y a ajouté les produits sucrés et le muassel sans tabac (circ. n° 6398/210) ; la LF 2025, les substituts nicotiniques et les cigarettes électroniques jetables (circ. n° 6619/210). Le défaut de marque fiscale est une contravention de 1re classe, et la non-conformité de la marque une contravention de 2e classe (dahir, art. 56).",
+  "donnees": [
+   [
+    "Recouvrement",
+    "Comme les droits de douane (CDII, art. 182-2°)"
+   ],
+   [
+    "Redevable à l'importation",
+    "Le déclarant (CDII, art. 189)"
+   ],
+   [
+    "Cigarettes 2026",
+    "550 DH/1 000 + 56,5 %, minimum 953 DH (circ. n° 6702/210)"
+   ],
+   [
+    "Pneumatiques",
+    "4 DH/kg (dahir n° 1-77-340, tableau I)"
+   ],
+   [
+    "Marquage gasoil et supercarburant",
+    "Depuis le 01/01/2026 (circ. n° 6702/210)"
+   ]
+  ],
+  "cas": "La société fictive Atlas Pneus importe 20 tonnes de pneumatiques pour poids lourds. Son transitaire liquide, en plus du droit d'importation et de la TVA, la TIC de 4 DH par kilogramme, soit 80 000 DH. L'erreur fréquente : oublier la TIC dans le prix de revient.",
+  "juris": "",
+  "conseil": "Vérifiez pour chaque nouveau produit s'il relève de l'un des tableaux de l'article 9 : la TIC n'est pas affichée avec le droit d'importation. Pour les boissons, tabacs et produits sucrés, commandez les marques fiscales avant l'arrivée de la marchandise. Pour les produits sucrés, exigez la teneur en sucre ajouté : elle fixe la quotité.",
+  "faq": [
+   [
+    "Les marchandises importées paient-elles la même TIC que les produits locaux ?",
+    "Oui, aux mêmes quotités quelle que soit l'origine (CDII, art. 186)."
+   ],
+   [
+    "Le défaut de marque fiscale est-il sanctionné ?",
+    "Oui, c'est une contravention douanière de 1re classe (dahir n° 1-77-340, art. 56)."
+   ]
+  ],
+  "renvois": [
+   "4-001",
+   "4-002",
+   "4-010",
+   "4-021",
+   "9-012"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "4-021",
+  "p": 4,
+  "ch": "4.3",
+  "c": "Autres taxes",
+  "t": "Taxes parafiscales et taxes spécifiques à l'importation : taxe parafiscale à l'importation (TPI) et taxe sur les bois importés (TBI)",
+  "enbref": "La taxe parafiscale à l'importation (TPI), de 0,25 %, finance la promotion économique et l'inspection des exportations. Elle ne s'applique pas lorsque la marchandise est totalement exonérée à la fois du droit d'importation et de la TVA. La taxe sur les bois importés (TBI) frappe depuis 2026 au taux unique de 6 % les bois et ouvrages en bois des chapitres 44 et 94.",
+  "textes": [
+   "Décret n° 2-94-734 du 31/12/1994, modifié par le décret n° 2-19-615 du 07/08/2019 (BO n° 6804 du 15/08/2019)",
+   "Circulaire ADII n° 5970/211 du 27/09/2019",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016",
+   "Loi de finances 2012 ; LF 2025, art. 7 ; LF 2026, art. 6",
+   "Circulaires ADII n° 6619/210 (LF 2025) et n° 6702/210 du 26/12/2025 (LF 2026)"
+  ],
+  "principe": "Taxe parafiscale à l'importation. La TPI finance la promotion économique et l'inspection des exportations ; ses modalités sont fixées par le décret n° 2-94-734, modifié par le décret n° 2-19-615 (circ. n° 5970/211). Depuis le 15/08/2019, elle ne s'applique pas aux importations totalement exonérées du droit d'importation et de la TVA. Un taux de 0,25 % est mentionné par la note D7106/16 et par la brochure de l'ADII sur les métaux précieux.\n\nRépartition du produit de la TPI depuis 2019 (circ. n° 5970/211) :\n- AMDIE : 45 %, dont 4 % reversés aux associations professionnelles et à la fédération des chambres ;\n- EACCE : 37 % ;\n- ANPME : 8 % ;\n- Maison de l'Artisan : 6 %.\n\nTaxe sur les bois importés. Instituée par la loi de finances 2012 au taux de 12 % sur les bois et ouvrages en bois des chapitres 44 et 94 du tarif, avec 6 % pour la position 44.08, la TBI a été ramenée à 6 % pour le chapitre 94 en 2025 (circ. n° 6619/210). Depuis le 01/01/2026, elle s'applique au taux unique de 6 % ad valorem à l'ensemble des bois et ouvrages en bois des chapitres 44 et 94 (LF 2026, art. 6 ; circ. n° 6702/210).",
+  "admin": "La note D7106/16 illustre la persistance de la TPI quand l'exonération n'est que partielle : pour Bank Al-Maghrib ou l'Université Al Akhawayn, les biens restent passibles du droit d'importation de 2,5 % et de la TPI de 0,25 %, seule la TVA étant exonérée. À l'inverse, une franchise totale du droit d'importation et de la TVA exclut la TPI (circ. n° 5970/211).",
+  "donnees": [
+   [
+    "TPI : taux",
+    "0,25 % (note D7106/16)"
+   ],
+   [
+    "TPI : exclusion",
+    "Exonération totale DI et TVA (circ. n° 5970/211)"
+   ],
+   [
+    "TBI 2026",
+    "6 %, chapitres 44 et 94 (circ. n° 6702/210)"
+   ],
+   [
+    "TBI 2025",
+    "12 %, sauf 44.08 et chapitre 94 à 6 % (circ. n° 6619/210)"
+   ]
+  ],
+  "cas": "La société fictive Meknès Meubles importe en février 2026 des panneaux en bois du chapitre 44, taxés à 12 % de TBI en 2025. Son transitaire applique désormais le taux de 6 %. Pour un lot importé par un organisme bénéficiant seulement d'une exonération de TVA, il liquide en plus le droit d'importation et la TPI. L'erreur fréquente : supprimer la TPI dès qu'une exonération est accordée, alors que seule l'exonération totale du droit d'importation et de la TVA l'écarte.",
+  "juris": "",
+  "conseil": "Intégrez la TPI dans toute simulation de coût d'importation : elle est faible mais systématique. Avant de déclarer une franchise, vérifiez si elle couvre à la fois le droit d'importation et la TVA. Pour le bois, contrôlez chaque 1er janvier le taux de la TBI dans la circulaire de loi de finances.",
+  "faq": [
+   [
+    "Une marchandise exonérée de droits paie-t-elle la TPI ?",
+    "Non, si l'exonération est totale à la fois pour le droit d'importation et pour la TVA (circ. n° 5970/211)."
+   ],
+   [
+    "Quel est le taux de la TBI en 2026 ?",
+    "6 % pour tous les bois et ouvrages en bois des chapitres 44 et 94 (circ. n° 6702/210)."
+   ]
+  ],
+  "renvois": [
+   "4-001",
+   "4-020",
+   "4-030",
+   "4-031",
+   "3-032"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

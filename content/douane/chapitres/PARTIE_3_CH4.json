@@ -1,0 +1,303 @@
+[
+ {
+  "id": "3-030",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Contrôle et enlèvement",
+  "t": "Circuits de contrôle de la déclaration en détail : vert, orange, rouge, sélectivité automatique et re-sélection",
+  "enbref": "Dès l'enregistrement de la déclaration en détail, BADR l'oriente automatiquement, selon son niveau de risque, vers un circuit vert (mainlevée sans contrôle), orange (contrôle documentaire) ou rouge (contrôle documentaire et visite physique). Le service peut toujours la réorienter vers un circuit plus renforcé. Le circuit et l'inspecteur désigné sont affichés au déclarant.",
+  "textes": [
+   "CDII, art. 79 bis et 80-1°",
+   "Circulaires ADII n° 6175/412 du 02/04/2021, n° 6456/412 du 10/05/2023, n° 6369/312 du 26/09/2022 et n° 5746/312 du 29/12/2017",
+   "Circulaire ADII n° 5517/313 du 17/02/2015"
+  ],
+  "principe": "Le CDII distingue deux formes de contrôle. Le contrôle documentaire examine la déclaration pour s'assurer qu'elle est correctement établie et accompagnée des documents requis. La vérification des marchandises est l'examen physique qui confirme que leur nature, espèce, origine, état, quantité et valeur correspondent à la déclaration (art. 79 bis). Après enregistrement, l'administration peut procéder au contrôle documentaire et, le cas échéant, à la vérification de tout ou partie des marchandises (art. 80-1°).\n\nLe triple circuit, introduit pour les déclarations en détail à l'importation et à l'exportation par la circulaire n° 6175/412, affecte automatiquement chaque déclaration selon son niveau de risque (circ. n° 6456/412). La prise en charge par le service (« initier contrôle ») déclenche la sélectivité et la cotation, tracées dans l'historique de la déclaration (circ. n° 5746/312).\n\nCircuits et suites (circ. n° 6369/312 et 6456/412) :\n- vert : mainlevée automatique, sous réserve du paiement ou de la garantie des droits et des formalités des réglementations particulières ;\n- orange : contrôle documentaire, puis mainlevée à défaut d'anomalie ;\n- rouge : contrôle documentaire et visite physique, partielle ou intégrale pour le transit, puis mainlevée.",
+  "admin": "Le mode de contrôle et l'identité de l'inspecteur désigné sont affichés au service et au déclarant dès l'enregistrement (circ. n° 6369/312). En cas de doute fondé ou d'information fiable, l'agent peut re-sélectionner une déclaration vers un autre circuit (circ. n° 6456/412). Depuis le 15/05/2023, le triple circuit s'applique aussi aux déclarations de transit. Le statut d'OEA ouvre droit au passage systématique en circuit vert (circ. n° 5517/313). La circulaire n° 6175/412 est présentée ici d'après la circulaire n° 6456/412.",
+  "donnees": [
+   [
+    "Circuit vert",
+    "Mainlevée sans contrôle documentaire ni physique (circ. n° 6456/412)"
+   ],
+   [
+    "Circuit orange",
+    "Contrôle documentaire (circ. n° 6456/412)"
+   ],
+   [
+    "Circuit rouge",
+    "Contrôle documentaire et visite physique (circ. n° 6456/412)"
+   ],
+   [
+    "Re-sélection",
+    "Possible sur doute fondé (circ. n° 6456/412)"
+   ],
+   [
+    "Transit",
+    "Triple circuit depuis le 15/05/2023 (circ. n° 6456/412)"
+   ]
+  ],
+  "cas": "La société fictive Draa Cosmétiques importe régulièrement des flacons vides. Sa dernière déclaration, enregistrée le lundi, est orientée en circuit orange : l'inspecteur demande sur BADR la fiche technique, qui manquait. Le transitaire la charge dans l'heure et la mainlevée suit. Le mois suivant, un lot identique passe en circuit rouge. L'erreur à éviter : contester ce choix, qui relève de la sélectivité et du pouvoir de re-sélection du service, au lieu de préparer la visite.",
+  "juris": "",
+  "conseil": "Consultez le circuit affiché sur BADR dès la signature de la déclaration et organisez la logistique en conséquence : en rouge, réservez immédiatement le créneau de visite et la manutention. Répondez dans la journée aux demandes de documents notifiées par BADR. Un historique de déclarations propres améliore le profil de risque, et le statut OEA ouvre droit au circuit vert.",
+  "faq": [
+   [
+    "Le déclarant connaît-il à l'avance le circuit de contrôle ?",
+    "Oui, le mode de contrôle et l'inspecteur désigné lui sont affichés dès l'enregistrement (circ. n° 6369/312)."
+   ],
+   [
+    "Une déclaration en circuit vert peut-elle être contrôlée ?",
+    "Oui, le service peut la re-sélectionner vers un circuit plus renforcé (circ. n° 6369/312 et 6456/412)."
+   ]
+  ],
+  "renvois": [
+   "3-020",
+   "3-031",
+   "3-033",
+   "3-022",
+   "8-002",
+   "8-020"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "3-031",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Contrôle et enlèvement",
+  "t": "Visite physique des marchandises et prélèvement d'échantillons : lieu, présence du déclarant, frais, pesage et analyses",
+  "enbref": "La visite a lieu dans les magasins de douane ou les lieux désignés, en présence du déclarant ou de son représentant. Le transport, le déballage et les manipulations sont à ses frais. Faute de se présenter dans les trois jours suivant l'enregistrement, la visite a lieu d'office. Les frais d'analyse sont à la charge de l'administration si la déclaration est confirmée, du redevable sinon.",
+  "textes": [
+   "CDII, art. 81, 82 à 85, 86-1° à 86-3°",
+   "Note ADII n° D299/2025/ADII/AC/100 du 24/12/2025",
+   "Brochure ADII « Le dédouanement en ligne — B@DR »"
+  ],
+  "principe": "La vérification des marchandises déclarées a lieu dans les magasins de douane ou dans les lieux désignés à cet effet. Le transport, le déballage, le remballage et toutes les manipulations sont effectués aux frais et sous la responsabilité du déclarant (CDII, art. 81-1° et 2°). Les marchandises conduites sur les lieux de vérification ne peuvent être déplacées sans permission (art. 81-3°). Les travailleurs en douane employés par le déclarant doivent être agréés (art. 81-4° et 82 à 84).\n\nLa vérification a lieu en présence du déclarant ou de son représentant ; s'il ne se présente pas dans les trois jours suivant l'enregistrement, l'administration y procède d'office (art. 85).\n\nLorsque l'espèce ne peut être établie autrement, l'administration peut soumettre des échantillons à un laboratoire désigné par le ministre. De nouvelles analyses peuvent être demandées par le déclarant ou l'administration, et les analyses de laboratoires tiers peuvent être prises en compte. Les frais sont à la charge de l'administration si les résultats confirment la déclaration, du redevable s'ils l'infirment (art. 81-2°).\n\nLes droits sont appliqués d'après les résultats de la vérification (art. 86-1°). Une vérification partielle vaut pour l'ensemble de la déclaration, sous réserve du droit du déclarant de demander une vérification intégrale (art. 86-2° et 80-2°).",
+  "admin": "Pour les déclarations en circuit rouge présentant un doute sur le poids ou un risque de glissement de poids entre articles, le pesage doit être réalisé avant la mainlevée, via la fonctionnalité BADR créée par la note n° D101/2023/ADII/100 ; le pesage après mainlevée est irrégulier (note n° D299/2025). L'ADII propose aussi la visite à domicile, permanente ou ponctuelle, sur demande enregistrée dans BADR (brochure ADII « Le dédouanement en ligne — B@DR »).",
+  "donnees": [
+   [
+    "Lieu",
+    "Magasins de douane ou lieux désignés (CDII, art. 81-1°)"
+   ],
+   [
+    "Frais de manipulation",
+    "À la charge du déclarant (CDII, art. 81-2°)"
+   ],
+   [
+    "Absence du déclarant",
+    "Visite d'office après 3 jours (CDII, art. 85-2°)"
+   ],
+   [
+    "Frais d'analyse",
+    "Administration si la déclaration est confirmée, redevable sinon (CDII, art. 81-2°)"
+   ],
+   [
+    "Pesage",
+    "Avant mainlevée en circuit rouge à risque (note n° D299/2025)"
+   ]
+  ],
+  "cas": "La société fictive Tensift Chimie déclare 20 tonnes d'un additif en position 3824. La déclaration passe en circuit rouge. L'inspecteur prélève un échantillon pour le laboratoire, faute de pouvoir établir l'espèce à l'œil. L'analyse confirme la déclaration : les frais restent à la charge de l'administration. Si elle l'avait infirmée, la société aurait payé l'analyse et les droits rectifiés. L'erreur à éviter : laisser passer le délai de trois jours sans se présenter à la visite.",
+  "juris": "",
+  "conseil": "Soyez présent ou représenté à la visite : c'est votre seule occasion de faire consigner vos observations. Préparez la fiche technique et la fiche de données de sécurité pour les produits chimiques. Si la visite partielle vous paraît non représentative, demandez la vérification intégrale avant que les résultats ne soient arrêtés.",
+  "faq": [
+   [
+    "Que se passe-t-il si le déclarant ne se présente pas à la visite ?",
+    "Passé trois jours après l'enregistrement, l'administration procède d'office (CDII, art. 85-2°)."
+   ],
+   [
+    "Qui paie l'analyse de laboratoire ?",
+    "L'administration si elle confirme la déclaration, le redevable si elle l'infirme (CDII, art. 81-2°)."
+   ]
+  ],
+  "renvois": [
+   "3-030",
+   "3-032",
+   "3-034",
+   "2-002",
+   "5-021",
+   "8-011"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "3-032",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Contrôle et enlèvement",
+  "t": "Liquidation et paiement des droits et taxes : date de référence, tarif plus favorable, délai de 3 jours et paiement électronique",
+  "enbref": "Les droits et taxes sont liquidés aux taux en vigueur à la date d'enregistrement de la déclaration, sauf déclaration anticipée, clause transitoire ou tarif plus favorable obtenu avant mainlevée. Ils sont payés dans les trois jours de l'émission du titre de recette, par voie électronique. Un paiement non électronique entraîne une majoration de 1 %, avec un minimum de 1 000 DH.",
+  "textes": [
+   "CDII, art. 86, 87, 88, 88 bis, 89 à 95 bis",
+   "Décret n° 2-77-862, art. 64 bis",
+   "Circulaire ADII n° 6255/210 du 24/12/2021",
+   "Brochure ADII « Le dédouanement en ligne — B@DR »"
+  ],
+  "principe": "Les droits et taxes sont appliqués d'après les résultats de la vérification ou, à défaut, d'après la déclaration (CDII, art. 86-1° et 4°). Ils sont liquidés aux taux en vigueur à la date d'enregistrement de la déclaration en détail, sauf déclaration anticipée, clause transitoire de l'article 13 ou tarif plus favorable (art. 89). Si le taux baisse après l'enregistrement, le déclarant obtient sur demande le tarif plus favorable, à condition que la mainlevée n'ait pas été donnée (art. 90). Toute somme est arrondie au dirham supérieur (art. 91).\n\nLes redevables sont le déclarant, son mandant et la caution, débiteurs solidaires (art. 87 et 88). Le transitaire agréé n'est poursuivi qu'après épuisement des voies de recouvrement contre le redevable principal ; sauf complicité de fraude, il ne répond pas des créances nées d'un contrôle a posteriori ou des engagements des régimes économiques (art. 88 bis).\n\nLes droits sont mis en recouvrement par un titre de recette émis par l'ordonnateur (art. 92). Ils sont payés dans les trois jours de l'émission du titre, sauf facilités de l'article 96 ; tout retard donne lieu à un intérêt de retard (art. 93 ; circ. n° 6255/210). Le paiement se fait par procédé électronique ou moyen légal ; à défaut, une majoration de 1 % s'applique, avec un minimum de 1 000 DH, sauf exceptions (art. 95). Les droits indûment perçus à la suite d'une rectification ou d'une annulation sont restitués (art. 95 bis).",
+  "admin": "Le paiement est multicanal : débit direct, carte bancaire, agence, guichet automatique, mobile, e-banking (brochure B@DR). Les délais de crédit d'enlèvement sont de 15, 30, 45, 90, 120 ou 180 jours, avec des taux de remise de 0,21 % à 2,47 % (décret n° 2-77-862, art. 64 bis). Le décret n° 2-77-862 fixe à 8 % l'an le taux de l'intérêt de retard applicable au paiement au-delà du délai de l'article 93-1° (décret, art. 54).",
+  "donnees": [
+   [
+    "Date de référence",
+    "Enregistrement de la déclaration (CDII, art. 89)"
+   ],
+   [
+    "Tarif plus favorable",
+    "Sur demande, avant mainlevée (CDII, art. 90)"
+   ],
+   [
+    "Délai de paiement",
+    "3 jours après émission du titre de recette (CDII, art. 93-1°)"
+   ],
+   [
+    "Paiement non électronique",
+    "Majoration de 1 %, minimum 1 000 DH (CDII, art. 95)"
+   ],
+   [
+    "Arrondi",
+    "Au dirham supérieur (CDII, art. 91)"
+   ]
+  ],
+  "cas": "La société fictive Saïdia Matériaux enregistre le 28 décembre une déclaration de carrelage. La loi de finances baisse le droit d'importation au 1er janvier ; la mainlevée n'est pas encore donnée. Son transitaire demande l'application du taux plus favorable, qu'il obtient. Le titre de recette est émis le 3 janvier : le paiement électronique intervient le 5. L'erreur fréquente : régler en espèces au guichet, ce qui déclenche la majoration de 1 %.",
+  "juris": "",
+  "conseil": "Surveillez les lois de finances en fin d'année : la demande du tarif plus favorable doit être faite avant la mainlevée. Paramétrez le débit direct pour respecter le délai de trois jours sans y penser. Pour les flux réguliers, la soumission cautionnée et le crédit d'enlèvement évitent d'immobiliser la trésorerie.",
+  "faq": [
+   [
+    "Quel taux s'applique si le droit change entre l'enregistrement et la mainlevée ?",
+    "Le taux à l'enregistrement, ou le taux plus favorable sur demande avant mainlevée (CDII, art. 89 et 90)."
+   ],
+   [
+    "Le transitaire paie-t-il si l'importateur fait défaut ?",
+    "Seulement après épuisement des poursuites contre le redevable principal (CDII, art. 88 bis)."
+   ]
+  ],
+  "renvois": [
+   "3-031",
+   "3-033",
+   "4-002",
+   "4-040",
+   "4-041",
+   "4-042",
+   "4-043"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "3-033",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Contrôle et enlèvement",
+  "t": "Enlèvement des marchandises : mainlevée, paiement ou garantie préalable des droits et facilités d'enlèvement",
+  "enbref": "Aucune marchandise ne peut quitter le bureau de douane sans paiement ou garantie préalable des droits et taxes et sans mainlevée. L'enlèvement avant liquidation est possible quand le paiement est garanti par soumission cautionnée. Les opérateurs éligibles peuvent aussi enlever sur mainlevée à domicile, avec dépôt de la déclaration de régularisation dans la huitaine.",
+  "textes": [
+   "CDII, art. 100, 101 et 106",
+   "Décret n° 2-77-862, art. 64 bis",
+   "Circulaires ADII n° 6369/312 du 26/09/2022, n° 6168/312 du 12/03/2021 et n° 5995/300 du 25/12/2019",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016"
+  ],
+  "principe": "Aucune marchandise ne peut être enlevée des bureaux de douane ou des lieux désignés sans paiement ou garantie préalable des droits et taxes et sans délivrance de la mainlevée (CDII, art. 100). L'ordonnateur peut autoriser l'enlèvement après vérification mais avant liquidation et paiement, lorsque le paiement a été garanti selon les articles 96 et 98 (art. 101). Le crédit d'enlèvement court sur 15 à 180 jours à compter de la mainlevée (décret n° 2-77-862, art. 64 bis).\n\nDans tous les circuits, la mainlevée reste subordonnée au paiement ou à la garantie des droits et à l'accomplissement des formalités des réglementations particulières ; l'enlèvement a lieu dès l'arrivée effective, après levée des réserves éventuelles (circ. n° 6369/312). Pour la déclaration provisionnelle, chaque sous-DUM fait l'objet d'une mainlevée propre (circ. n° 6168/312).\n\nUne marchandise déclarée mais non enlevée dans le mois suivant l'enregistrement, sans litige et sans paiement ni garantie des droits, est considérée comme abandonnée en douane (CDII, art. 106).",
+  "admin": "La mainlevée à domicile permet d'enlever la marchandise sur présentation de la mainlevée éditée chez l'opérateur, avant le dépôt physique de la déclaration, la déclaration de régularisation devant être déposée dans la huitaine ; elle est réservée aux importations non soumises à réglementations particulières (note D7106/16, renvoyant aux notes n° 15660/312 et 2701/312). La circulaire n° 5995/300 annonce qu'à terme, la mainlevée sera subordonnée à la réception du bon à délivrer via PortNet.",
+  "donnees": [
+   [
+    "Condition de l'enlèvement",
+    "Paiement ou garantie et mainlevée (CDII, art. 100)"
+   ],
+   [
+    "Enlèvement avant liquidation",
+    "Si paiement garanti (CDII, art. 101)"
+   ],
+   [
+    "Crédit d'enlèvement",
+    "15 à 180 jours après mainlevée (décret, art. 64 bis)"
+   ],
+   [
+    "Mainlevée à domicile",
+    "Régularisation dans la huitaine (note D7106/16)"
+   ],
+   [
+    "Non-enlèvement",
+    "Abandon après 1 mois sans paiement (CDII, art. 106)"
+   ]
+  ],
+  "cas": "La société fictive Rabat Pharma Distribution obtient la mainlevée d'un lot de dispositifs médicaux en circuit orange, mais le certificat sanitaire n'a pas encore été transmis par le ministère. Son transitaire constate que l'enlèvement reste bloqué par la réserve liée à la réglementation particulière. Il obtient le certificat, le charge sur BADR, puis enlève. L'erreur fréquente : faire sortir le camion sur la seule foi de la mainlevée sans lever les réserves.",
+  "juris": "",
+  "conseil": "Vérifiez sur BADR qu'aucune réserve n'est pendante avant d'envoyer le camion. Demandez une soumission cautionnée et le crédit d'enlèvement si vos volumes le justifient : l'enlèvement n'attend plus le paiement. Ne laissez jamais une marchandise déclarée plus d'un mois sans paiement : elle bascule dans l'abandon.",
+  "faq": [
+   [
+    "Peut-on enlever avant de payer les droits ?",
+    "Oui, si le paiement est garanti selon les articles 96 et 98, sur autorisation de l'ordonnateur (CDII, art. 101)."
+   ],
+   [
+    "Que devient une marchandise déclarée non enlevée ?",
+    "Elle est considérée comme abandonnée après un mois sans paiement ni garantie, hors litige (CDII, art. 106)."
+   ]
+  ],
+  "renvois": [
+   "3-030",
+   "3-032",
+   "3-012",
+   "3-024",
+   "4-041",
+   "4-042",
+   "8-011"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "3-034",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Contrôle et enlèvement",
+  "t": "Contestation des résultats de la visite : vérification intégrale, nouvelles analyses et commissions de concertation et de recours",
+  "enbref": "Le déclarant qui conteste une vérification partielle peut demander la vérification intégrale des énonciations contestées. Il peut aussi demander de nouvelles analyses ou produire celles d'un laboratoire tiers. Au-delà, le litige peut être porté devant la commission locale de concertation, puis devant la commission consultative et de recours.",
+  "textes": [
+   "CDII, art. 80-2°, 81-2°, 86-1° à 86-3°, 22 bis, 22 ter et 22 quater",
+   "Décret n° 2-77-862, art. 216 bis",
+   "Circulaire conjointe n° 1 relative au contrôle normatif",
+   "Circulaire conjointe n° 6583/214 du 31/07/2024"
+  ],
+  "principe": "Plusieurs voies permettent au déclarant de contester les résultats de la visite.\n\nVoies de contestation :\n- vérification intégrale : en cas de contestation, le déclarant peut récuser une vérification partielle et demander la vérification intégrale des énonciations contestées (CDII, art. 80-2°) ;\n- nouvelles analyses : il peut demander de nouvelles analyses, et les analyses de laboratoires tiers peuvent être prises en compte ; les frais suivent le résultat (art. 81-2°) ;\n- vérification par épreuve : les résultats acceptés par le déclarant servent de base au dédouanement, les différences ne s'appliquant qu'aux marchandises effectivement vérifiées (art. 86-3°) ;\n- commission locale de concertation : instituée dans chaque direction régionale ou circonscription, saisie par l'opérateur ou le déclarant, elle se réunit tous les quinze jours, l'administration statuant dans les quinze jours suivant la réunion (art. 22 bis) ;\n- commission consultative et de recours : placée auprès du ministre, elle peut être saisie par l'opérateur en cas de contestation de l'avis local ou de silence de l'administration ; celle-ci statue dans les quinze jours suivant la réunion (art. 22 ter).\n\nLes membres des commissions sont tenus à une obligation de réserve (art. 22 quater) ; les conditions de saisine et de fonctionnement sont fixées par le ministre (décret n° 2-77-862, art. 216 bis).",
+  "admin": "En matière de contrôle normatif, l'importateur dispose de 8 jours après notification de la non-conformité pour demander une seconde analyse sur le même prélèvement ; à défaut, ou si elle confirme la non-conformité, le produit est réexporté ou détruit (circulaire conjointe n° 1). Pour les produits pétroliers, un échantillon témoin E2 est conservé par la douane et analysé en cas de non-conformité du premier (circ. conjointe n° 6583/214).",
+  "donnees": [
+   [
+    "Vérification intégrale",
+    "Sur demande du déclarant (CDII, art. 80-2°)"
+   ],
+   [
+    "Commission locale",
+    "Réunion tous les 15 jours ; décision 15 jours après (CDII, art. 22 bis)"
+   ],
+   [
+    "Commission de recours",
+    "Décision 15 jours après la réunion (CDII, art. 22 ter)"
+   ],
+   [
+    "Seconde analyse normative",
+    "8 jours après notification (circ. conjointe n° 1)"
+   ]
+  ],
+  "cas": "La société fictive Ouarzazate Solar importe 400 panneaux. La visite partielle de deux cartons conclut à des panneaux d'une puissance supérieure à celle déclarée, ce qui change la valeur. Le transitaire conteste la représentativité de l'échantillon et demande la vérification intégrale : elle montre que seuls les deux cartons diffèrent. La différence n'est appliquée qu'à eux. L'erreur à éviter : accepter les résultats partiels sans réserve, ce qui les rend applicables à toute la déclaration.",
+  "juris": "",
+  "conseil": "Formulez vos réserves par écrit dès la visite et demandez qu'elles soient consignées. Conservez votre exemplaire d'échantillon lorsqu'il en est remis un. Pour un désaccord de classement ou de valeur, saisissez la commission locale avec un dossier technique complet : les délais de quinze jours sont courts.",
+  "faq": [
+   [
+    "Peut-on refuser une vérification partielle ?",
+    "Oui, le déclarant peut la récuser et demander la vérification intégrale des énonciations contestées (CDII, art. 80-2°)."
+   ],
+   [
+    "Qui peut saisir la commission locale de concertation ?",
+    "L'opérateur ou le déclarant (CDII, art. 22 bis)."
+   ]
+  ],
+  "renvois": [
+   "3-031",
+   "3-032",
+   "3-023",
+   "9-050",
+   "9-051",
+   "5-021"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

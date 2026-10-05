@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "douane",
+    "titre": "Guide des procédures douanières",
+    "sous_titre": "Maroc",
+    "description": "Les procédures douanières marocaines, paragraphe par paragraphe : dédouanement, droits et taxes, régimes économiques, contentieux. Texte applicable, position de l'administration, données clés, cas pratiques, 13 logigrammes et 4 modèles d'actes.",
+    "ordre": 1,
+    "publie": true,
+    "gratuits": [
+      "7-001"
+    ]
+  }
+]

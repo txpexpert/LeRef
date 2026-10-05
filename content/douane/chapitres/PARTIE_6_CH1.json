@@ -1,0 +1,254 @@
+[
+ {
+  "id": "6-001",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Transit",
+  "t": "Transit national : transport de marchandises sous douane entre deux bureaux, acquit à caution, délai, itinéraire et scellement",
+  "enbref": "Le transit permet de transporter des marchandises sous douane d'un bureau ou d'un entrepôt à un autre, en suspension des droits et taxes. Elles circulent sous acquit à caution, dans le délai et sur l'itinéraire fixés par l'administration, sous scellement. Au bureau de destination, elles reçoivent le régime douanier de leur choix, aux droits en vigueur à cette date.",
+  "textes": [
+   "CDII, art. 155 à 158 et 76 bis-3°",
+   "Décret n° 2-77-862 du 09/10/1977, art. 163 à 172",
+   "Circulaire ADII n° 5934/300 du 09/05/2019",
+   "Circulaire ADII n° 5428/312 du 20/01/2014"
+  ],
+  "principe": "Le transit est défini à l'article 155 du CDII. Tous les bureaux y sont ouverts dans la limite de leur spécialisation, sauf ceux dont la compétence est limitée au contrôle des voyageurs (décret, art. 163).\n\nLes étapes de l'opération sont les suivantes :\n- dépôt, au bureau de départ, d'un acquit à caution signé par le déclarant, le soumissionnaire et la caution, ou d'une déclaration simplifiée (CDII, art. 156-1° ; décret, art. 164 et 165) ;\n- fixation par l'administration du délai et, le cas échéant, de l'itinéraire (CDII, art. 156-3°) ;\n- scellement par colis ou, pour les unités de transport conformes, par capacité ; pour les liquides en futailles non plombables, prélèvement d'échantillons scellés (décret, art. 168 et 169) ;\n- transport, les marchandises devant être présentées à toute réquisition en cours de route (CDII, art. 156-2°) ;\n- arrivée au bureau de destination, où le régime à appliquer est déclaré dans le délai légal (décret, art. 172).\n\nAu bureau de destination, les marchandises peuvent recevoir tout régime qu'elles auraient pu recevoir en présentation directe (CDII, art. 157-1°). Si elles sont mises à la consommation, elles supportent les droits en vigueur à la date d'enregistrement de cette déclaration et les formalités du commerce extérieur et des changes ; leur valeur imposable ne peut être inférieure à celle qu'elles avaient à l'entrée sur le territoire (art. 157-2° et 3°). En cas de déficit, les droits sont ceux en vigueur à la date de constatation (art. 158).\n\nTout incident entraînant la rupture des scellements doit être signalé aux agents du bureau le plus proche par le soumissionnaire, son représentant ou le transporteur (décret, art. 171).",
+  "admin": "Le non-respect du délai ou de l'itinéraire expose l'opérateur aux suites contentieuses, pouvant aller jusqu'à l'interdiction du régime de transit dans les cas graves et non justifiés. La sortie de chargements en transit hors des heures légales suppose une autorisation spéciale du directeur régional (circ. n° 5934/300). Après un transit, la déclaration provisoire n'est admise que pour les envois en groupage et sous carnet TIR, sauf accord exprès du directeur régional (circ. n° 5428/312).",
+  "donnees": [
+   [
+    "Bureaux ouverts",
+    "Tous, sauf ceux limités aux voyageurs (décret, art. 163)"
+   ],
+   [
+    "Document",
+    "Acquit à caution ou déclaration simplifiée (CDII, art. 156-1°)"
+   ],
+   [
+    "Délai et itinéraire",
+    "Fixés par l'administration (CDII, art. 156-3°)"
+   ],
+   [
+    "Droits à destination",
+    "Ceux en vigueur à l'enregistrement de la déclaration (CDII, art. 157-2°)"
+   ],
+   [
+    "Incident en route",
+    "Signalement au bureau le plus proche (décret, art. 171)"
+   ]
+  ],
+  "cas": "La société fictive Fès Équipements fait venir de Tanger Med à Fès un conteneur de machines. Son transitaire souscrit un acquit à caution à Tanger Med, le conteneur est scellé par capacité et le délai de route est fixé. À Fès, il dépose la déclaration de mise à la consommation, liquidée aux droits en vigueur à cette date. L'erreur fréquente : poursuivre la route après la rupture d'un scellé sans la signaler, ce qui fait présumer la substitution.",
+  "juris": "",
+  "conseil": "Vérifiez avant le départ que l'unité de transport permet un scellement par capacité ; à défaut, le scellement par colis rallonge les délais. Remettez au chauffeur le document d'accompagnement et une consigne écrite en cas d'incident.",
+  "faq": [
+   [
+    "Les droits sont-ils calculés à la date d'entrée au port ou à destination ?",
+    "À la date d'enregistrement de la déclaration de mise à la consommation au bureau de destination (CDII, art. 157-2°)."
+   ],
+   [
+    "Peut-on déposer une déclaration provisoire après un transit ?",
+    "Seulement pour les envois en groupage ou sous carnet TIR, sauf accord exprès du directeur régional (circ. n° 5428/312)."
+   ]
+  ],
+  "renvois": [
+   "6-002",
+   "6-003",
+   "6-004",
+   "3-001",
+   "3-020",
+   "4-002",
+   "7-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "6-002",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Transit",
+  "t": "Transit international : transit sous document conventionnel, transit à l'exportation depuis les zones d'accélération industrielle et transport routier maghrébin",
+  "enbref": "Lorsque le transit s'effectue sous couvert d'un document prévu par une convention internationale de transport (carnet TIR notamment), la signature de ce document par le transporteur et sa caution vaut engagement envers la douane. Les marchandises exportées depuis une zone d'accélération industrielle circulent sous le régime 866 jusqu'au bureau d'embarquement. Aux bureaux de passage frontière, la marchandise n'est en principe pas visitée.",
+  "textes": [
+   "CDII, art. 155 à 158",
+   "Décret n° 2-77-862 du 09/10/1977, art. 166 et 167",
+   "Circulaire ADII n° 6191/312 du 11/05/2021",
+   "Circulaires ADII n° 4709/312 du 25/06/2001 et n° 5125/312 du 22/12/2008",
+   "Circulaire ADII n° 4336/2.2.3 du 11/07/1994 (convention UMA)",
+   "Circulaire ADII n° 5317/312 du 30/03/2012"
+  ],
+  "principe": "Lorsque le transit a lieu sous couvert d'un document prévu par une convention internationale de transport à laquelle le Maroc adhère, la signature de ce document par le transporteur et sa caution vaut engagement envers l'administration (décret, art. 166). Aux bureaux de passage frontière, les marchandises ne sont en règle générale pas visitées ; les agents peuvent vérifier les scellements et viser les documents (décret, art. 167).\n\nLe carnet TIR est le principal document conventionnel ; sa procédure est traitée au paragraphe 6-021. Les bureaux ouverts aux opérations TIR figurent à l'annexe VI-10-07 de la RDII : Tanger-Méditerranée comme bureau de départ, de passage et de destination (circ. n° 5125/312), Nouasseur comme bureau de départ et de destination (circ. n° 4709/312).\n\nPour l'exportation depuis les zones d'accélération industrielle, le transit à l'export vers l'étranger relève du régime 866, et le transit entre zones non portuaires ni aéroportuaires du régime 856. Leur circuit a été simplifié (circ. n° 6191/312) :\n- signature de la déclaration et déclaration des scellés par l'opérateur, apposés par l'agent ;\n- acheminement vers la porte de sortie de la zone sans attendre d'autorisation ;\n- à la porte, décision du système BADR : autorisation d'acheminement ou visite physique ;\n- acheminement sous scellés ;\n- au bureau de destination, confirmation d'arrivée puis « vu embarquer » pour le régime 866.\n\nEntre pays de l'Union du Maghreb arabe, les transports routiers de marchandises ne sont pas soumis à autorisation préalable ; les véhicules restent sous le régime de l'importation temporaire et ne peuvent séjourner au-delà des délais autorisés (circ. n° 4336/2.2.3).",
+  "admin": "Depuis le 30/03/2012, les ensembles routiers composés d'un tracteur immatriculé au Maroc et d'une semi-remorque étrangère, en transport international de bout en bout, ne sont plus soumis à l'autorisation bilatérale « MA » (circ. n° 5317/312).",
+  "donnees": [
+   [
+    "Document conventionnel",
+    "Vaut engagement du transporteur et de sa caution (décret, art. 166)"
+   ],
+   [
+    "Bureau de passage",
+    "Pas de visite en principe ; contrôle des scellements (décret, art. 167)"
+   ],
+   [
+    "Transit export depuis une ZAI",
+    "Régime 866 (circ. n° 6191/312)"
+   ],
+   [
+    "Transit entre ZAI",
+    "Régime 856 (circ. n° 6191/312)"
+   ],
+   [
+    "Bureaux TIR",
+    "Annexe VI-10-07 de la RDII (circ. n° 5125/312)"
+   ]
+  ],
+  "cas": "La société fictive Kenitra Wiring, installée dans la zone d'accélération industrielle de Kénitra, exporte des faisceaux de câbles vers l'Espagne via Tanger Med. Son déclarant dépose la déclaration sous le régime 866 et déclare les scellés ; le camion part vers la porte de la zone sans attendre. À la porte, BADR délivre l'autorisation d'acheminement, et le bureau de Tanger Med confirme l'arrivée puis le « vu embarquer ». L'erreur fréquente : laisser le camion à quai sans le « vu embarquer », ce qui laisse l'opération non apurée.",
+  "juris": "",
+  "conseil": "Pour les flux réguliers depuis une zone d'accélération industrielle, sollicitez le cautionnement de type F, qui couvre les régimes 855, 856 et 866 (voir 6-003). Vérifiez que le bureau de départ ou de destination de votre opération TIR figure bien à l'annexe VI-10-07.",
+  "faq": [
+   [
+    "Un camion TIR est-il visité aux bureaux de passage ?",
+    "En règle générale non : les agents vérifient l'intégrité des scellements et visent les documents, sans visite systématique (décret, art. 167)."
+   ],
+   [
+    "Faut-il attendre la confirmation d'entrée pour faire partir un camion d'une ZAI sous régime 866 ?",
+    "Non : depuis la circulaire n° 6191/312, l'autorisation d'acheminement est délivrée à la porte de sortie de la zone par le système BADR."
+   ]
+  ],
+  "renvois": [
+   "6-001",
+   "6-003",
+   "6-021",
+   "7-070",
+   "7-071",
+   "4-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "6-003",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Transit",
+  "t": "Garantie et apurement du transit : caution, cautionnements globaux, décharge du compte et sanctions en cas de non-présentation",
+  "enbref": "L'acquit à caution de transit engage solidairement le soumissionnaire et sa caution jusqu'à la décharge, délivrée quand la marchandise est présentée et prise en charge au bureau ou au magasin de destination. Plusieurs cautionnements globaux couvrent les opérateurs réguliers. La non-présentation des marchandises en transit est une contravention de 1re classe, et la rupture des scellements fait présumer la substitution.",
+  "textes": [
+   "CDII, art. 116, 156, 285-7°, 286-3°, 287 et 287 bis",
+   "Décret n° 2-77-862 du 09/10/1977, art. 164 à 166",
+   "Circulaire ADII n° 6636/312 du 10/02/2025",
+   "Circulaire ADII n° 6707/313 du 31/12/2025",
+   "Note ADII n° D1101/20/ADII/100 du 03/02/2020",
+   "Note ADII n° 12014/313 du 13/09/2011",
+   "Circulaire ADII n° 5933/310 du 09/05/2019"
+  ],
+  "principe": "Garantie. L'acquit à caution de transit porte la signature de la caution (décret, art. 164) ; l'engagement du soumissionnaire et de la caution est solidaire (CDII, art. 116). Sous document conventionnel, c'est la signature du transporteur et de sa caution qui engage (décret, art. 166). Plusieurs cautionnements globaux sont admis :\n- caution de type S, sur soumission générale cautionnée des exploitants de MEAD, ou à défaut caution globale de type G (circ. n° 6636/312) ;\n- cautionnement de type F des entreprises exportatrices des zones d'accélération industrielle, limité aux régimes de transit 855, 856 et 866, avec un plafond égal à 1/52e des flux des 52 dernières semaines et un plancher de 100 000 DH (note n° D1101/20) ;\n- cautionnement des entreprises des zones franches, accordé dès le démarrage de l'activité (note n° 12014/313).\nLes modes de cautionnement sont récapitulés dans la circulaire n° 6707/313, applicable depuis le 01/01/2026.\n\nApurement. Le compte de transit est déchargé lorsque l'agent du bureau ou du MEAD de destination confirme la réception de la marchandise, après vérification de la régularité de l'opération ; les formalités d'écor et de contre-écor encadrent cette prise en charge (circ. n° 6636/312).\n\nSanctions. La non-présentation des marchandises en transit avec leurs documents est une contravention de 1re classe (CDII, art. 285-7°), de même que les abus du régime : déchargement, soustraction ou substitution (art. 286-3°). La substitution est présumée en cas d'enlèvement ou d'altération des scellés, sauf accident imprévisible et inévitable dûment établi (art. 287). La peine est une amende de deux fois les droits et taxes compromis, avec confiscation des marchandises et, selon l'article 212, des moyens de transport (art. 287 bis).",
+  "admin": "Les infractions constatées jusqu'à la décharge du compte de transit relèvent des règles du transit ; celles constatées après réception ou au dépotage dans le MEAD de destination relèvent de la mise en douane (circ. n° 6636/312). Le cautionnement de type F suppose l'absence d'acquit de transit échu ou non déchargé (note n° D1101/20).",
+  "donnees": [
+   [
+    "Engagement",
+    "Solidaire, soumissionnaire et caution (CDII, art. 116)"
+   ],
+   [
+    "Cautionnement type F (ZAI)",
+    "Régimes 855, 856, 866 ; plafond 1/52e des flux, plancher 100 000 DH (note n° D1101/20)"
+   ],
+   [
+    "Soumission MEAD OEA-SS",
+    "2 MDH, 1 MDH en enceinte portuaire ou aéroportuaire (circ. n° 5933/310)"
+   ],
+   [
+    "Non-présentation en transit",
+    "Contravention de 1re classe (CDII, art. 285-7°)"
+   ],
+   [
+    "Sanction",
+    "Amende de 2 fois les droits et taxes, confiscation (CDII, art. 287 bis)"
+   ]
+  ],
+  "cas": "La société fictive Atlas Logistique, exploitante d'un MEAD à Casablanca, achemine sous sa caution de type S des conteneurs depuis le port. Un conteneur arrive avec un scellé rompu sans constat préalable. Faute de pouvoir établir un accident imprévisible, la substitution est présumée, et l'infraction est traitée selon les règles du transit, puisque le compte n'est pas encore déchargé. L'erreur fréquente : laisser des comptes de transit non déchargés, qui bloquent ensuite les cautionnements.",
+  "juris": "",
+  "conseil": "Suivez chaque acquit de transit jusqu'à sa décharge ; relancez le bureau de destination pour tout compte en souffrance. Exigez un constat en cas d'incident sur les scellés.",
+  "faq": [
+   [
+    "Quand la caution de transit est-elle libérée ?",
+    "À la décharge du compte, lorsque le bureau ou le MEAD de destination confirme la réception régulière de la marchandise (circ. n° 6636/312)."
+   ],
+   [
+    "Un scellé rompu entraîne-t-il automatiquement une infraction ?",
+    "La substitution est présumée, sauf accident imprévisible et inévitable dûment établi (CDII, art. 287) ; d'où l'importance du constat immédiat prévu par l'article 171 du décret."
+   ]
+  ],
+  "renvois": [
+   "6-001",
+   "6-002",
+   "6-004",
+   "4-042",
+   "7-003",
+   "9-012"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "6-004",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Transit",
+  "t": "Transit vers les magasins et aires de dédouanement (MEAD) : conditions d'éligibilité, DS MEAD et déclaration de transit simplifiée",
+  "enbref": "Les chargements complets peuvent être acheminés en transit du bureau d'arrivée jusqu'à un MEAD, d'office si l'exploitant est opérateur économique agréé, sinon sous conditions. Le transit se fait sous une déclaration sommaire spécifique, la DS MEAD, couverte par la caution de l'exploitant, qui ouvre et décharge automatiquement le compte de transit. Certaines marchandises sensibles sont exclues.",
+  "textes": [
+   "CDII, art. 63 et 156-3°",
+   "Circulaire ADII n° 5934/300 du 09/05/2019",
+   "Circulaire ADII n° 6636/312 du 10/02/2025",
+   "Circulaire ADII n° 6677/312 du 18/08/2025",
+   "Circulaire ADII n° 5159/312 du 05/06/2009",
+   "Circulaire ADII n° 5933/310 du 09/05/2019"
+  ],
+  "principe": "Éligibilité. Le transit de chargements complets vers un MEAD exploité par un opérateur économique agréé, toutes catégories confondues, est autorisé d'office. Dans les autres cas (circ. n° 5934/300) :\n- le titre de transport doit être libellé au nom de l'exploitant du MEAD, sauf envois complets destinés à des unités industrielles ou à des projets d'investissement ;\n- sont exclus les marchandises dangereuses et explosifs, le tabac et les cigarettes, les vins et alcools, les effets personnels en déménagement et les pièces détachées d'occasion, sauf celles destinées à la maintenance des outils de production.\nCes exclusions ne visent pas les envois destinés aux établissements publics et aux représentations diplomatiques. L'exploitant assure la conduite des marchandises sous sa responsabilité ; s'il recourt à un transporteur, il conclut un contrat remis au bureau de domiciliation.\n\nDS MEAD. Depuis le 10/02/2025, le transit vers le MEAD s'effectue sous une déclaration sommaire spécifique (circ. n° 6636/312) :\n- enregistrement de la DS MEAD, qui ouvre automatiquement un compte de transit, couvert par la caution S de l'exploitant ou, à défaut, la caution globale G ;\n- sélectivité automatique, contrôle de transit et mainlevée après apposition ou validation des scellés ;\n- écor, puis acheminement sous couvert d'un extrait de la DS MEAD ;\n- confirmation de réception par l'agent affecté au MEAD, qui décharge le compte.\nLa DS MEAD supporte la redevance informatique des déclarations sommaires, portée à 150 DH (circ. n° 6677/312).\n\nTransit simplifié. La déclaration de transit simplifiée est réservée aux unités des zones franches et aux exploitants de MEAD ; l'espèce tarifaire doit y être déclarée, sauf pour les exploitants de MEAD en groupage (circ. n° 5159/312).",
+  "admin": "Les MEAD exploités par un OEA sûreté-sécurité bénéficient de facilités supplémentaires : sortie sous acquit de transit sans limitation d'horaire, transit vers les bureaux intérieurs, nomenclature générique pour les unités complètes de plus de 10 articles, hors produits soumis à réglementation à la frontière (circ. n° 5933/310). La réception peut s'appuyer sur leur pré-confirmation d'arrivée (circ. n° 6636/312).",
+  "donnees": [
+   [
+    "MEAD exploité par un OEA",
+    "Transit de chargements complets autorisé d'office (circ. n° 5934/300)"
+   ],
+   [
+    "Marchandises exclues",
+    "Dangereuses, tabac, alcools, déménagements, pièces d'occasion (circ. n° 5934/300)"
+   ],
+   [
+    "Garantie de la DS MEAD",
+    "Caution S ou, à défaut, G (circ. n° 6636/312)"
+   ],
+   [
+    "Redevance informatique",
+    "150 DH (circ. n° 6677/312)"
+   ],
+   [
+    "Transit simplifié",
+    "Zones franches et exploitants de MEAD (circ. n° 5159/312)"
+   ]
+  ],
+  "cas": "La société fictive Logistique Sud exploite un MEAD à Agadir sans statut OEA. Elle reçoit au port un conteneur complet de pièces neuves pour un client industriel, dont le connaissement est établi au nom du client : l'exception prévue pour les unités industrielles permet le transit. Elle dépose une DS MEAD, le conteneur est scellé et acheminé, puis l'agent du MEAD confirme la réception. L'erreur fréquente : tenter le même transit pour un lot de pièces d'occasion destinées à la revente, catégorie exclue.",
+  "juris": "",
+  "conseil": "Avant de proposer un transit vers votre MEAD, contrôlez le libellé du connaissement et la nature des marchandises. Formalisez par écrit le contrat avec votre transporteur et déposez-le au bureau de domiciliation. Si votre volume le justifie, le statut OEA sûreté-sécurité lève les conditions d'éligibilité.",
+  "faq": [
+   [
+    "Un MEAD non agréé OEA peut-il recevoir des chargements complets en transit ?",
+    "Oui, si le titre de transport est à son nom (sauf exceptions) et que la marchandise ne relève pas des catégories exclues (circ. n° 5934/300)."
+   ],
+   [
+    "Qui décharge le compte de transit ouvert par la DS MEAD ?",
+    "L'agent douanier affecté au MEAD de destination, en confirmant la réception de la marchandise (circ. n° 6636/312)."
+   ]
+  ],
+  "renvois": [
+   "6-001",
+   "6-003",
+   "3-011",
+   "3-013",
+   "8-001",
+   "8-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ }
+]

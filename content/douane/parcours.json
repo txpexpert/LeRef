@@ -1,0 +1,9 @@
+[
+  {
+    "id": "regime-economique",
+    "titre": "Placer une marchandise sous régime économique en douane",
+    "description": "Les étapes communes à tous les régimes suspensifs, de l'accès au régime jusqu'à l'apurement.",
+    "etapes": ["7-001", "7-002", "7-003", "7-004", "7-006"],
+    "gratuit": true
+  }
+]

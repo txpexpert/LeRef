@@ -1,0 +1,243 @@
+[
+ {
+  "id": "5-010",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Défense commerciale",
+  "t": "Droits antidumping à l'importation : institution par arrêté conjoint, taux par exportateur et exclusions",
+  "enbref": "Un droit antidumping s'ajoute aux droits et taxes normaux lorsqu'un arrêté conjoint l'institue sur un produit d'une origine donnée. Son taux dépend souvent de l'exportateur : à défaut de preuve de l'identité de celui-ci, le taux « autres exportateurs » s'applique. Une mesure définitive dure en principe cinq ans et peut être maintenue pendant son réexamen.",
+  "textes": [
+   "Loi n° 15-09 relative aux mesures de défense commerciale, promulguée par le dahir n° 1-11-44 du 02/06/2011",
+   "CDII, art. 164-1°-p)",
+   "Circulaires ADII n° 5699/211 du 13/07/2017, n° 5895/211 du 07/01/2019, n° 6366/211 du 12/09/2022, n° 6618/211 du 23/12/2024, n° 6626/211 du 03/01/2025 et n° 6719/211 du 03/02/2026",
+   "Circulaires ADII n° 6255/210 (LF 2022) et n° 6619/210 (LF 2025)"
+  ],
+  "principe": "Le cadre légal des mesures de défense commerciale est la loi n° 15-09 (circ. n° 6255/210).\n\nSelon les circulaires ADII, chaque mesure est instituée par un arrêté conjoint du ministre chargé de l'industrie et du commerce et du ministre chargé des finances, publié au Bulletin officiel ; l'ADII en informe ensuite ses services par une circulaire de la série 211. La mesure vise des positions tarifaires précises et une ou plusieurs origines. Elle passe généralement par trois stades :\n- droit provisoire, perçu sous forme de consignation pendant l'enquête (4 ou 6 mois selon les cas) ;\n- droit définitif, institué pour cinq ans (circ. n° 6366/211 et n° 6618/211) ;\n- maintien provisoire à l'expiration, dans l'attente du réexamen, puis prorogation éventuelle (circ. n° 6626/211).\n\nLe taux est souvent différencié par exportateur. Pour le PVC d'Égypte, il est de 74,87 % pour Egyptian Petrochemicals Company et de 92,19 % pour les autres exportateurs égyptiens (circ. n° 6719/211). Un taux unique peut aussi viser toute une origine : 24,88 % pour le PVC des États-Unis (circ. n° 6626/211).\n\nCertaines mesures excluent un produit précis sur facture visée par le département de l'industrie, comme le PVC obtenu par polymérisation en émulsion (circ. n° 5699/211 et n° 6719/211). D'autres importations sont exclues de toute mesure de défense commerciale par le code : les biens d'équipement importés en franchise dans le cadre d'une convention d'investissement (CDII, art. 164-1°-p ; circ. n° 6255/210), et les biens destinés au projet de gazoduc Africain-Atlantique et aux représentations de la FIFA (circ. n° 6619/210).",
+  "admin": "L'ADII fait vérifier la concordance entre facture, connaissement et engagement d'importation pour identifier l'exportateur. En cas de discordance ou de doute, le taux de la catégorie « autres exportateurs » est appliqué (circ. n° 5895/211).",
+  "donnees": [
+   [
+    "Acte instituant la mesure",
+    "Arrêté conjoint industrie-commerce et finances, publié au BO (circ. série 211)"
+   ],
+   [
+    "Durée du droit définitif",
+    "5 ans (circ. n° 6366/211, n° 6618/211)"
+   ],
+   [
+    "PVC Égypte (depuis 03/02/2026)",
+    "74,87 % ou 92,19 % selon l'exportateur (circ. n° 6719/211)"
+   ],
+   [
+    "PVC États-Unis (depuis 03/01/2025)",
+    "24,88 % (circ. n° 6626/211)"
+   ],
+   [
+    "Exportateur non identifié",
+    "Taux « autres exportateurs » (circ. n° 5895/211)"
+   ]
+  ],
+  "cas": "La société fictive PlastiNord importe 500 tonnes de PVC égyptien produit par Egyptian Petrochemicals Company. Sa facture désigne bien ce producteur, mais le connaissement mentionne un négociant comme chargeur. Son transitaire fait concorder les documents avant le dépôt pour bénéficier du taux de 74,87 % au lieu de 92,19 %. L'erreur fréquente : ignorer qu'une discordance documentaire entraîne le taux le plus élevé.",
+  "juris": "",
+  "conseil": "Avant de commander un produit sensible (PVC, contreplaqué, cahiers, conserves, tapis), consultez les circulaires de la série 211 pour la position et l'origine. Exigez du fournisseur que le nom du producteur figure de façon identique sur la facture, le certificat d'origine et le connaissement. La franchise de l'article 164-1°-p) écarte aussi le droit antidumping.",
+  "faq": [
+   [
+    "Le droit antidumping s'applique-t-il si la marchandise est expédiée d'un pays tiers ?",
+    "Les circulaires visent les importations « originaires » du pays concerné : c'est l'origine, et non la provenance, qui compte (circ. n° 6719/211)."
+   ],
+   [
+    "Un droit antidumping expiré cesse-t-il automatiquement ?",
+    "Pas toujours : un arrêté peut en prévoir le maintien provisoire, sous consignation, pendant l'enquête de réexamen (circ. n° 6537/211 et n° 6725/211)."
+   ]
+  ],
+  "renvois": [
+   "5-011",
+   "5-012",
+   "5-013",
+   "4-001",
+   "4-003",
+   "4-031",
+   "3-032"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "5-011",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Défense commerciale",
+  "t": "Mesures compensatoires : cadre légal, institution par arrêté conjoint et mise en œuvre par la douane",
+  "enbref": "Les mesures compensatoires relèvent, comme les droits antidumping et les mesures de sauvegarde, de la loi n° 15-09 relative aux mesures de défense commerciale. La douane n'en décide pas : elle applique les droits institués par arrêté conjoint, selon les modalités que précise une circulaire de la série 211. Certaines importations en franchise sont exclues par le CDII de toute mesure de défense commerciale.",
+  "textes": [
+   "Loi n° 15-09 relative aux mesures de défense commerciale, promulguée par le dahir n° 1-11-44 du 02/06/2011",
+   "Dahir portant loi n° 1-77-339 du 09/10/1977, art. 3",
+   "CDII, art. 164-1°-p) et z)",
+   "Circulaires ADII n° 6255/210 du 24/12/2021 (LF 2022) et n° 6619/210 du 26/12/2024 (LF 2025)",
+   "Circulaires ADII n° 5554/211 du 18/12/2015, n° 5698/211 du 13/07/2017 et n° 6725/211 du 25/02/2026"
+  ],
+  "principe": "Le cadre légal des mesures de défense commerciale est la loi n° 15-09, promulguée par le dahir n° 1-11-44 du 2 juin 2011 (circ. n° 6255/210). Le présent chapitre en traite les trois catégories : mesures antidumping (n° 5-010), mesures compensatoires (n° 5-011) et mesures de sauvegarde (n° 5-012). Le dahir qui a approuvé le CDII avait déjà abrogé, au 31 décembre 1977, l'ancien dahir n° 1-58-010 sur les droits compensateurs et antidumping (dahir portant loi n° 1-77-339, art. 3).\n\nLe CDII délimite le champ de ces mesures par des exclusions expresses. Ne sont pas soumises aux mesures de défense commerciale de la loi n° 15-09 :\n- les importations de biens d'équipement, matériels et outillages en franchise au titre d'une convention d'investissement conclue avec l'État (CDII, art. 164-1°-p ; circ. n° 6255/210) ;\n- les biens destinés au projet de gazoduc Africain-Atlantique et ceux importés par ou pour les représentations de la FIFA au Maroc et les institutions qui leur sont affiliées (art. 164-1°-z ; circ. n° 6619/210).\n\nPour la douane, les mesures de défense commerciale suivent un même circuit : institution par arrêté conjoint du ministre chargé du commerce et du ministre chargé des finances publié au Bulletin officiel, puis information des services par une circulaire de la série 211 qui précise les positions tarifaires, les origines et les taux (circ. n° 6725/211). Les droits ainsi institués sont liquidés et perçus selon les mêmes règles que les droits de douane et entrent dans l'assiette de la TVA à l'importation (circ. n° 5554/211 et n° 5698/211). Le même schéma vaut pour une mesure compensatoire, qui ne peut être appliquée par le service qu'à partir de la publication de l'arrêté qui l'institue.",
+  "admin": "Les circulaires d'application recensées dans le présent ouvrage portent sur des droits antidumping (n° 5-010) et des mesures de sauvegarde (n° 5-012). Lorsqu'une mesure est provisoire, ou maintenue provisoirement pendant un réexamen, les montants et la TVA correspondante sont consignés auprès des receveurs des douanes jusqu'à la décision définitive (circ. n° 6725/211 ; n° 5-013).",
+  "donnees": [
+   [
+    "Cadre légal",
+    "Loi n° 15-09, dahir n° 1-11-44 du 02/06/2011 (circ. n° 6255/210)"
+   ],
+   [
+    "Acte d'institution",
+    "Arrêté conjoint publié au Bulletin officiel (circ. n° 6725/211)"
+   ],
+   [
+    "Liquidation",
+    "Comme les droits de douane ; incluse dans l'assiette de la TVA (circ. n° 5554/211 et n° 5698/211)"
+   ],
+   [
+    "Importations exclues",
+    "Franchises de l'art. 164-1°-p) et z) du CDII (circ. n° 6255/210 et n° 6619/210)"
+   ]
+  ],
+  "cas": "La société fictive Mediterranean Steel Trading envisage d'importer des produits dont elle apprend qu'ils font l'objet, à l'étranger, d'un programme d'aide publique à l'exportation. Son conseil vérifie d'abord si un arrêté conjoint instituant un droit compensateur a été publié au Bulletin officiel, puis si une circulaire de la série 211 en organise l'application. En l'absence de tels textes, aucun droit additionnel ne peut être liquidé à l'importation. L'erreur à éviter : intégrer dans un prix de revient un droit qui n'a pas été institué, ou à l'inverse ignorer un arrêté publié en cours de négociation.",
+  "conseil": "Mettez en place une veille sur les publications au Bulletin officiel et sur les circulaires de la série 211 pour vos positions tarifaires et vos origines sensibles. Prévoyez dans vos contrats d'achat une clause de révision de prix en cas d'institution d'un droit de défense commerciale. Si votre projet bénéficie d'une convention d'investissement, faites valoir l'exclusion de l'article 164-1°-p) dès la déclaration.",
+  "faq": [
+   [
+    "La douane peut-elle appliquer d'elle-même un droit compensateur ?",
+    "Non : la mesure est instituée par arrêté conjoint publié au Bulletin officiel, puis mise en œuvre par circulaire (circ. n° 6725/211)."
+   ],
+   [
+    "Le droit compensateur entre-t-il dans la base de la TVA ?",
+    "Les droits de défense commerciale sont liquidés comme les droits de douane et intégrés dans l'assiette de la TVA (circ. n° 5554/211 et n° 5698/211)."
+   ],
+   [
+    "Les biens importés sous convention d'investissement sont-ils concernés ?",
+    "Non, ils sont exclus des mesures de défense commerciale de la loi n° 15-09 (CDII, art. 164-1°-p ; circ. n° 6255/210)."
+   ]
+  ],
+  "renvois": [
+   "5-010",
+   "5-012",
+   "5-013",
+   "4-031",
+   "4-001"
+  ],
+  "juris": "",
+  "maj": "2026-10-04",
+  "verif": "oui"
+ },
+ {
+  "id": "5-012",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Défense commerciale",
+  "t": "Mesures de sauvegarde : droit additionnel, contingents en franchise et exemption des pays en développement",
+  "enbref": "Une mesure de sauvegarde frappe toutes les importations d'un produit, quelle que soit l'origine, d'un droit additionnel ad valorem ou spécifique, réduit chaque année. Trois voies permettent d'y échapper selon la mesure : une facture visée par le département de l'industrie, une importation dans un contingent annuel sous Demande de Franchise Douanière (DFD), ou une origine figurant sur la liste des pays en développement exemptés.",
+  "textes": [
+   "Loi n° 15-09 relative aux mesures de défense commerciale",
+   "Circulaires ADII n° 5470/211 du 23/10/2014, n° 5892/211 du 31/12/2018, n° 5968/211 du 19/09/2019, n° 5977/211 du 21/10/2019, n° 6107/211 du 10/11/2020, n° 6237/211 du 14/10/2021, n° 6469/211 du 27/06/2023 et n° 6515/211 du 15/12/2023"
+  ],
+  "principe": "La sauvegarde vise l'ensemble des importations d'un produit. Elle est instituée par arrêté conjoint publié au Bulletin officiel, dans les conditions de fond prévues par la loi n° 15-09.\n\nLa mesure suit en pratique le schéma suivant :\n- mesure provisoire de 200 jours, sous forme d'un droit additionnel consigné (25 % pour les tôles laminées à chaud et les tubes en acier, circ. n° 5977/211 et n° 5988/211) ;\n- mesure définitive de trois ans, avec un droit réduit chaque année (circ. n° 6107/211) ;\n- prorogation éventuelle, avec poursuite de la libéralisation progressive (circ. n° 6469/211 et n° 6515/211).\n\nLe droit additionnel est le plus souvent ad valorem, mais il peut être spécifique : 1,6 DH/kg pour les panneaux de bois revêtus (circ. n° 5968/211).\n\nChaque arrêté prévoit ses exemptions, qui varient d'une mesure à l'autre :\n- importations accompagnées d'une facture visée par le département de l'industrie (circ. n° 6107/211 et n° 6515/211) ;\n- importations dans la limite d'un contingent annuel, sous couvert d'une Demande de Franchise Douanière (DFD) délivrée par le ministère chargé du commerce extérieur (circ. n° 5892/211 : 36 000 tonnes pour les tôles laminées à froid) ;\n- importations originaires d'un pays en développement figurant en annexe, sous couvert d'un document d'origine visé par les autorités du pays exportateur (circ. n° 5470/211).\n\nLa liste des pays exemptés peut être modifiée en cours de mesure : l'Arabie saoudite en a été retirée pour les tôles laminées à chaud (circ. n° 6237/211).",
+  "admin": "Pour les tubes et tuyaux en fer ou en acier, la mesure a été prorogée pour trois ans à compter du 06/11/2023, au taux de 22 %, puis 21 %, puis 20 % du 06/11/2025 au 05/11/2026 (circ. n° 6515/211). Pour les tôles laminées à chaud, le calendrier de la prorogation prévoit 20 % jusqu'au 18/06/2026, puis la suppression du droit à compter du 19/06/2026 (circ. n° 6469/211).",
+  "donnees": [
+   [
+    "Durée provisoire",
+    "200 jours (circ. n° 5977/211, n° 5988/211)"
+   ],
+   [
+    "Durée définitive",
+    "3 ans, prorogeable (circ. n° 6107/211, n° 6515/211)"
+   ],
+   [
+    "Tubes et tuyaux acier",
+    "20 % du 06/11/2025 au 05/11/2026 (circ. n° 6515/211)"
+   ],
+   [
+    "Tôles laminées à chaud",
+    "0 % à compter du 19/06/2026 (circ. n° 6469/211)"
+   ],
+   [
+    "Contingent en franchise",
+    "Sous DFD du ministère du commerce extérieur (circ. n° 5892/211)"
+   ]
+  ],
+  "cas": "La société fictive Tubacier importe en octobre 2026 des tubes soudés de la position 7306.30, en provenance d'Espagne mais d'origine turque. Son transitaire vérifie si la Turquie figure à l'annexe 2 de la circulaire n° 6515/211 ; à défaut, il liquide le droit additionnel de 20 %. Si l'origine est exemptée, il joint un document d'origine visé par les autorités turques. L'erreur fréquente : invoquer la liste d'une autre mesure, alors que chaque arrêté a la sienne.",
+  "juris": "",
+  "conseil": "Vérifiez la date d'expiration de chaque mesure : une importation livrée quelques jours plus tard peut ne plus supporter le droit. Demandez la DFD dès l'ouverture de la période : le contingent est annuel et limité.",
+  "faq": [
+   [
+    "Le droit de sauvegarde dépend-il de l'exportateur ?",
+    "Non : il frappe toutes les origines, sauf les pays en développement listés en annexe et les autres exemptions prévues par l'arrêté (circ. n° 6515/211)."
+   ],
+   [
+    "La mesure sur les tôles laminées à chaud est-elle encore en vigueur ?",
+    "Le calendrier de la circulaire n° 6469/211 fixe le droit à 0 % à compter du 19/06/2026 ; vérifiez qu'aucune prorogation n'a été publiée depuis."
+   ]
+  ],
+  "renvois": [
+   "5-010",
+   "5-011",
+   "5-013",
+   "4-001",
+   "4-003",
+   "3-021"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "5-013",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Défense commerciale",
+  "t": "Droits provisoires de défense commerciale : consignation, liquidation avec la TVA, perception définitive et restitution",
+  "enbref": "Pendant l'enquête, le droit antidumping ou de sauvegarde provisoire et la TVA qui s'y rapporte sont consignés auprès du receveur des douanes, et non acquis au Trésor. À l'institution du droit définitif, la consignation est encaissée à hauteur du droit définitif et l'excédent est restitué à l'importateur. Ces droits sont liquidés comme les droits de douane et entrent dans l'assiette de la TVA.",
+  "textes": [
+   "CDII, art. 13 (clause transitoire)",
+   "Circulaires ADII n° 5420/211 du 24/12/2013, n° 5470/211 du 23/10/2014, n° 5554/211 du 18/12/2015, n° 5698/211 du 13/07/2017, n° 6349/211 du 13/07/2022, n° 6366/211 du 12/09/2022, n° 6618/211 du 23/12/2024, n° 6537/211 du 01/02/2024 et n° 6725/211 du 25/02/2026"
+  ],
+  "principe": "Les droits antidumping et de sauvegarde sont liquidés et perçus selon les mêmes règles que les droits de douane. Leur montant est intégré dans l'assiette de la TVA à l'importation (circ. n° 5554/211 et n° 5698/211). L'entrée en vigueur d'une mesure s'applique sans préjudice de la clause transitoire de l'article 13 du CDII (circ. n° 5420/211 et n° 5470/211).\n\nLorsque la mesure est provisoire, les montants perçus au titre du droit et de la part de TVA correspondante sont consignés auprès des receveurs des douanes, jusqu'à ce qu'il en soit disposé autrement (circ. n° 5470/211). Ils ne sont pas définitivement acquis au Trésor, ce qui préserve les droits de l'importateur si l'enquête aboutit à une révision ou à une suppression.\n\nÀ l'institution du droit définitif, le service procède à la régularisation (circ. n° 6366/211) :\n- encaissement définitif des consignations, à hauteur du droit définitif applicable à chaque exportateur ;\n- restitution à l'importateur de la différence lorsque le droit provisoire excède le droit définitif, TVA consignée comprise.\nPour le PVC des États-Unis, la circulaire n° 5420/211 a fixé un délai de restitution de 90 jours au plus à compter de l'application de la mesure définitive.\n\nLe même mécanisme de consignation s'applique au maintien provisoire d'une mesure arrivée à expiration, pendant l'enquête de réexamen (circ. n° 6537/211 ; circ. n° 6725/211 pour le contreplaqué latté d'Égypte, à compter du 22/12/2025).",
+  "admin": "L'administration traite la consignation comme une garantie et non comme une recette : les montants sont tenus à titre conservatoire jusqu'à la décision définitive, qui peut les affecter au Trésor ou les restituer (circ. n° 5470/211 ; circ. n° 6349/211). Toute difficulté d'application est signalée à l'administration centrale sous le timbre de la circulaire concernée.",
+  "donnees": [
+   [
+    "Liquidation",
+    "Comme les droits de douane (circ. n° 5554/211)"
+   ],
+   [
+    "Assiette de la TVA",
+    "Inclut le droit antidumping ou de sauvegarde (circ. n° 5698/211)"
+   ],
+   [
+    "Droit provisoire",
+    "Consigné avec la TVA correspondante (circ. n° 5470/211)"
+   ],
+   [
+    "Excédent du provisoire",
+    "Restitué à l'importateur (circ. n° 6366/211)"
+   ],
+   [
+    "Délai de restitution",
+    "90 jours au plus, mesure PVC États-Unis (circ. n° 5420/211)"
+   ]
+  ],
+  "cas": "La société fictive Casa Conserves a importé en juillet 2024 des conserves de tomate d'Égypte sous droit provisoire de 29,93 %, consigné avec la TVA correspondante. Le droit définitif ayant été institué au même taux à compter du 24/12/2024, la consignation est encaissée définitivement et rien n'est restitué (circ. n° 6618/211). Si le taux définitif avait été inférieur, l'entreprise aurait dû demander la restitution de l'excédent. L'erreur fréquente : comptabiliser la consignation en charge définitive dès le dédouanement, sans suivre l'issue de l'enquête.",
+  "juris": "",
+  "conseil": "Tenez un état des consignations par déclaration (numéro de DUM, montant du droit, part de TVA) : il vous servira à réclamer l'excédent dès la publication de la circulaire définitive. Pour le calcul du prix de revient, intégrez la TVA calculée sur le droit additionnel. Suivez les publications au Bulletin officiel dans les semaines qui précèdent la fin d'une période provisoire.",
+  "faq": [
+   [
+    "La TVA payée sur le droit provisoire est-elle aussi restituée ?",
+    "Oui : la restitution de l'excédent porte également sur la TVA consignée (circ. n° 5420/211)."
+   ],
+   [
+    "Que devient la consignation si la mesure définitive n'est pas instituée ?",
+    "Les montants consignés ne sont pas acquis au Trésor tant qu'il n'en est pas disposé autrement."
+   ]
+  ],
+  "renvois": [
+   "5-010",
+   "5-012",
+   "4-010",
+   "4-042",
+   "4-043",
+   "3-032"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

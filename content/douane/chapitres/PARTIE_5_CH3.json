@@ -1,0 +1,241 @@
+[
+ {
+  "id": "5-020",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Normes et contrôles techniques",
+  "t": "Normes marocaines d'application obligatoire : produits industriels concernés et liste de l'annexe XII-17 de la RDII",
+  "enbref": "Un produit industriel visé par une norme marocaine rendue d'application obligatoire ne peut être enlevé qu'après un résultat favorable du contrôle de conformité. La liste des produits et positions tarifaires concernés figure à l'annexe XII-17 de la RDII, que l'ADII actualise par circulaire à chaque nouvel arrêté.",
+  "textes": [
+   "Loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation (dahir n° 1-10-15 du 11/02/2010)",
+   "Loi n° 24-09 (dahir n° 1-11-140 du 17/08/2011) et décret n° 2-12-502 du 13/05/2013",
+   "Circulaire conjointe ADII-MIC n° 2 du 23/03/2023",
+   "Circulaire conjointe ADII-MICNT n° 1 (non datée)",
+   "Circulaire ADII n° 6724/311 du 17/02/2026",
+   "Circulaire ADII n° 4958/311 du 28/09/2005"
+  ],
+  "principe": "Le contrôle normatif protège la santé et la sécurité des consommateurs (circ. conjointe n° 1). La circulaire conjointe n° 2 de 2023 le fonde sur la loi n° 12-06, la loi n° 24-09 et le décret n° 2-12-502.\n\nEn pratique, une norme devient obligatoire par arrêté publié au Bulletin officiel, qui fixe sa date d'effet. Par exemple, l'arrêté n° 1701-25 du 03/07/2025 (BO n° 7432 du 21/08/2025) a rendu obligatoires, six mois après sa publication, les normes sur les sachets de nicotine, le tabac muassel, les cigarettes électroniques et les e-liquides. L'ADII en a tiré les conséquences par la circulaire n° 6724/311 : l'enlèvement de ces produits est subordonné à la réception de résultats de contrôle positifs.\n\nLa liste des produits soumis figure à l'annexe XII-17 de la RDII, jointe à jour à la circulaire n° 6724/311. Elle couvre notamment la sidérurgie (fil machine, treillis soudés, ronds à béton), la chimie (peintures, films agricoles), le matériel électrique (câbles, disjoncteurs, accumulateurs), l'électroménager, les jouets, le mobilier et les équipements automobiles (pneumatiques, freins, casques).\n\nLe champ couvre des produits industriels autres qu'agroalimentaires et pharmaceutiques (circ. conjointe n° 1 et n° 2). Pour une position précédée de « EX », un produit hors du champ de la norme est enlevé sans attendre l'industrie (circ. n° 4958/311).",
+  "admin": "La circulaire conjointe n° 1 s'appuie encore sur le dahir n° 1-70-157 du 30/07/1970 relatif à la normalisation industrielle et sur la loi n° 13-83 relative à la répression des fraudes, alors que la circulaire conjointe n° 2 vise la loi n° 12-06. Les produits pétroliers liquides relèvent d'un contrôle distinct, par le Laboratoire national de l'énergie et des mines (circ. conjointe n° 6583/214 du 31/07/2024).",
+  "donnees": [
+   [
+    "Liste des produits soumis",
+    "Annexe XII-17 de la RDII (circ. n° 6724/311)"
+   ],
+   [
+    "Acte rendant la norme obligatoire",
+    "Arrêté publié au BO, ex. n° 1701-25 (circ. n° 6724/311)"
+   ],
+   [
+    "Normes tabac et nicotine",
+    "NM 08.8.130, 08.8.200, 08.8.250 à 252 (circ. n° 6724/311)"
+   ],
+   [
+    "Condition d'enlèvement",
+    "Résultat de contrôle positif (circ. n° 6724/311)"
+   ],
+   [
+    "Position « EX » hors norme",
+    "Enlèvement sans attendre l'industrie (circ. n° 4958/311)"
+   ]
+  ],
+  "cas": "La société fictive Vapor Maghreb a commandé en décembre 2025 un conteneur de cigarettes électroniques, arrivé à Casablanca en mars 2026. Les normes NM 08.8.250 à 08.8.252 étant devenues obligatoires dans l'intervalle, la mainlevée est bloquée en attente du contrôle de conformité. L'erreur fréquente : raisonner sur la réglementation en vigueur à la date de la commande, et non à la date du dédouanement.",
+  "juris": "",
+  "conseil": "Avant toute première importation d'un produit industriel, recherchez sa position tarifaire dans l'annexe XII-17 et lisez la norme visée : une mention « EX » peut vous placer dans le champ ou en dehors. Suivez les arrêtés publiés au Bulletin officiel : le délai avant leur entrée en vigueur permet de faire tester le produit.",
+  "faq": [
+   [
+    "Où trouver la liste des produits soumis au contrôle normatif ?",
+    "À l'annexe XII-17 de la RDII, mise à jour par circulaire de la série 311 ; la version la plus récente citée dans le présent ouvrage est annexée à la circulaire n° 6724/311 du 17/02/2026."
+   ],
+   [
+    "Les produits alimentaires relèvent-ils de ce contrôle ?",
+    "Non : les circulaires conjointes n° 1 et n° 2 visent les produits industriels autres qu'agroalimentaires et pharmaceutiques."
+   ]
+  ],
+  "renvois": [
+   "5-001",
+   "5-021",
+   "5-022",
+   "5-023",
+   "3-021",
+   "3-033"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "5-021",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Normes et contrôles techniques",
+  "t": "Contrôle de conformité à l'importation : dossier, contrôle documentaire et physique, résultats transmis sur BADR et suites en cas de non-conformité",
+  "enbref": "Le contrôle de conformité a lieu avant le dédouanement. Le ministère de l'industrie examine un dossier, puis, au besoin, la marchandise. Leur décision est transmise directement sur BADR. Un produit non conforme ne peut pas être mis sur le marché : il est réexporté ou détruit, sauf seconde analyse favorable demandée dans les 8 jours.",
+  "textes": [
+   "CDII, art. 23",
+   "Circulaire conjointe ADII-MICNT n° 1 (non datée), section V",
+   "Circulaire conjointe ADII-MIC n° 2 du 23/03/2023, section V",
+   "Circulaires ADII n° 4958/311 du 28/09/2005, n° 5577/312 du 22/02/2016, n° 5746/312 du 29/12/2017 et n° 6220/312 du 12/08/2021"
+  ],
+  "principe": "Le contrôle se déroule aux postes frontaliers, avant le dédouanement (circ. conjointe n° 1). L'importateur dépose auprès du service de contrôle de la qualité un dossier composé des pièces suivantes :\n- déclaration de conformité ;\n- engagement de l'importateur, exigé seulement en cas de prélèvement pour contre-expertise ;\n- déclaration unique de marchandises (DUM) ;\n- factures ;\n- fiche de connaissement ou bon à délivrer ;\n- engagement d'importation (titre d'importation).\n\nLe contrôle comprend d'abord un examen documentaire, puis un contrôle physique pouvant aboutir à un prélèvement d'échantillons mis sous scellés et envoyés au laboratoire. Si le produit est conforme, une attestation de conformité est délivrée. En cas de non-conformité, l'importateur dispose de 8 jours pour demander une seconde analyse sur le même prélèvement ; à défaut, ou si elle confirme le premier résultat, le produit est réexporté ou détruit (circ. conjointe n° 1).\n\nLa décision du ministère est transmise automatiquement sur BADR (circ. n° 5577/312), et les documents ainsi notifiés n'ont pas à être chargés par le déclarant (circ. n° 5746/312). Les suites sont les suivantes (circ. conjointe n° 2) :\n- « Admis », « Admis provisoire sans scellé » ou « Non soumis » : mainlevée définitive ;\n- « Partiellement admis » : la partie non admise est défalquée dans un nouvel article de la DUM ;\n- « Non admis » : la déclaration est annulée à la demande du déclarant, et la marchandise est réexportée ou détruite selon la circulaire n° 6220/312 ;\n- « Admis provisoire avec scellé » : enlèvement sous scellés vers un lieu de stockage déclaré, dans l'attente du résultat définitif.",
+  "admin": "La décision de soumettre un produit au contrôle physique ou au prélèvement doit être communiquée à la douane avant la programmation de la visite, et si possible avant l'arrivée des marchandises (circ. conjointe n° 1). Si la valeur déclarée est réévaluée au-delà du seuil de tolérance, ou si une fausse déclaration d'espèce révèle un produit soumis, le service exige l'attestation de conformité (circ. n° 4958/311).",
+  "donnees": [
+   [
+    "Moment du contrôle",
+    "Avant dédouanement, au poste frontalier (circ. conjointe n° 1)"
+   ],
+   [
+    "Délai de seconde analyse",
+    "8 jours après notification (circ. conjointe n° 1)"
+   ],
+   [
+    "Transmission du résultat",
+    "Automatique sur BADR (circ. n° 5577/312)"
+   ],
+   [
+    "Produit non admis",
+    "Réexportation ou destruction (circ. n° 6220/312)"
+   ],
+   [
+    "Admission partielle",
+    "Défalcation dans un nouvel article de la DUM (circ. conjointe n° 2)"
+   ]
+  ],
+  "cas": "La société fictive ElectroSud importe 3 000 disjoncteurs de deux références. Le laboratoire déclare l'une conforme et l'autre non conforme : le résultat « Partiellement admis » parvient sur BADR. Le service défalque la référence refusée dans un nouvel article de la DUM et donne mainlevée du reste. ElectroSud demande dans les 8 jours une seconde analyse ; si elle confirme le refus, le lot sera réexporté ou détruit. L'erreur fréquente : laisser passer le délai de 8 jours.",
+  "juris": "",
+  "conseil": "Préparez le dossier technique avant l'arrivée : déclaration de conformité, fiches techniques, rapports d'essai. Déclarez chaque référence technique dans un article distinct de la DUM : une admission partielle sera plus simple à traiter. En cas de non-conformité, prévenez immédiatement le fournisseur, car la réexportation suppose son accord pour reprendre la marchandise.",
+  "faq": [
+   [
+    "Peut-on contester un résultat de non-conformité ?",
+    "Oui, en demandant une seconde analyse sur le même prélèvement dans les 8 jours de la notification (circ. conjointe n° 1)."
+   ],
+   [
+    "Faut-il charger l'attestation de conformité sur BADR ?",
+    "Non lorsque le résultat est notifié directement par échange de données, comme pour le contrôle normatif de l'industrie (circ. n° 5746/312)."
+   ]
+  ],
+  "renvois": [
+   "5-020",
+   "5-023",
+   "3-021",
+   "3-023",
+   "3-031",
+   "3-033",
+   "3-034"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "5-022",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Normes et contrôles techniques",
+  "t": "Contrôles sanitaires, vétérinaires et phytosanitaires à l'importation : ONSSA, pesticides interdits et documents exigibles",
+  "enbref": "Les produits d'origine animale ou végétale et les intrants agricoles relèvent du contrôle de l'ONSSA, et non du contrôle normatif de l'industrie. La douane n'accorde la mainlevée qu'au vu du document délivré par l'ONSSA, et elle s'oppose à l'importation des pesticides dont l'homologation a été retirée.",
+  "textes": [
+   "CDII, art. 23 et 115",
+   "Note ADII n° D23/2026/ADII/AC/100 du 23/01/2026",
+   "Circulaires ADII n° 4216/313 du 25/08/1992, n° 5746/312 du 29/12/2017 et n° 6654/211 du 25/04/2025",
+   "Guide ADII « Résidents marocains voyageant à l'étranger »",
+   "Législation sanitaire et phytosanitaire de l'ONSSA"
+  ],
+  "principe": "Une marchandise soumise à des règles de qualité ou à des formalités particulières est prohibée au sens de l'article 23 du CDII ; le document délivré par l'organisme de contrôle lève la prohibition. Les marchandises en provenance de pays contaminés relèvent quant à elles des prohibitions absolues de police sanitaire, exclues de tout régime (CDII, art. 115).\n\nTrois situations se présentent. Pour les produits végétaux, l'admission suppose un certificat phytosanitaire délivré par les services de l'ONSSA (guide ADII voyageurs). La circulaire n° 4216/313 de 1992 prévoit que l'inspecteur appose sa décision sur la déclaration : « admis après contrôle », « à fumiger » ou « à refouler », ce dernier cas imposant la réexpédition ou la mise en entrepôt en vue de réexportation. Pour les produits naturels ou frais d'origine animale, le contrôle technique de l'ONSSA s'applique ; seuls les produits alimentaires transformés destinés à la consommation personnelle d'un voyageur en sont dispensés (guide ADII voyageurs). Enfin, pour les pesticides à usage agricole, la douane doit s'opposer à l'importation des produits dont l'ONSSA a retiré l'homologation entre janvier 2018 et décembre 2025, selon la liste annexée à la note n° D23/2026/ADII/AC/100.\n\nLe certificat sanitaire vétérinaire est un « document exigible » : il est chargé sur BADR au fur et à mesure de sa délivrance par l'organisme de contrôle (circ. n° 5746/312). L'homologation ONSSA conditionne aussi l'exonération de TVA des produits phytosanitaires à usage agricole, vérifiable dans l'index phytosanitaire de l'ONSSA (circ. n° 6654/211).",
+  "admin": "La note n° D23/2026 invite les services à consulter la liste ONSSA pour identifier et bloquer toute introduction de ces produits. Les dénominations de la liste, issue d'un document scanné, doivent être confrontées à l'annexe originale avant tout usage opérationnel.",
+  "donnees": [
+   [
+    "Pesticides interdits",
+    "Homologation retirée 01/2018 à 12/2025 (note n° D23/2026, 23/01/2026)"
+   ],
+   [
+    "Produits végétaux",
+    "Certificat phytosanitaire ONSSA (guide ADII voyageurs)"
+   ],
+   [
+    "Décisions phytosanitaires",
+    "Admis après contrôle, à fumiger, à refouler (circ. n° 4216/313)"
+   ],
+   [
+    "Certificat sanitaire vétérinaire",
+    "Document exigible chargé sur BADR (circ. n° 5746/312)"
+   ]
+  ],
+  "cas": "La société fictive Agro Doukkala importe des semences et un lot de fongicide. Pour les semences, son transitaire attend le certificat phytosanitaire de l'ONSSA avant de solliciter la mainlevée. Pour le fongicide, il vérifie que le nom commercial ne figure pas sur la liste annexée à la note n° D23/2026 et qu'il est homologué dans l'index ONSSA. L'erreur fréquente : se fier à une ancienne autorisation d'importation, alors que l'homologation a pu être retirée depuis.",
+  "juris": "",
+  "conseil": "Avant toute commande de produit phytosanitaire, contrôlez l'homologation dans l'index ONSSA à la date d'arrivée prévue, et non à la date du contrat. Pour les produits frais, organisez le passage de l'inspecteur dès le déchargement : la marchandise périssable supporte mal l'attente. Chargez le certificat sur BADR dès sa délivrance pour ne pas retarder la mainlevée.",
+  "faq": [
+   [
+    "Un pesticide retiré peut-il être placé en entrepôt sous douane ?",
+    "La note n° D23/2026 demande aux services de s'opposer à l'importation des produits figurant sur la liste ; elle ne prévoit pas de dérogation pour les régimes suspensifs."
+   ],
+   [
+    "Que devient un lot végétal déclaré « à refouler » ?",
+    "Il est réexpédié vers son pays d'origine ou placé en entrepôt en vue de sa réexportation (circ. n° 4216/313)."
+   ]
+  ],
+  "renvois": [
+   "5-001",
+   "5-002",
+   "5-020",
+   "5-031",
+   "3-021",
+   "4-012"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "5-023",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Normes et contrôles techniques",
+  "t": "Dispenses du contrôle de conformité et enlèvement sous scellés avant les résultats d'analyse",
+  "enbref": "Certaines importations échappent au contrôle de conformité : petites quantités sous les seuils de tolérance, importations non commerciales de particuliers, échantillons textiles, produits placés sous régime économique et opérateurs titulaires d'une autorisation de dispense. Lorsque le contrôle est requis, la marchandise peut être enlevée avant les résultats, sous scellés et avec un engagement de ne pas la commercialiser.",
+  "textes": [
+   "Circulaire conjointe ADII-MICNT n° 1 (non datée), sections VI et VII",
+   "Circulaire conjointe ADII-MIC n° 2 du 23/03/2023, section V",
+   "Circulaire ADII n° 4958/311 du 28/09/2005",
+   "Circulaire ADII n° 4948/311 du 15/06/2005"
+  ],
+  "principe": "Sont admises en dispense du contrôle de la qualité (circ. conjointe n° 1) :\n- les importations dans la limite des seuils de quantité ou de valeur fixés par la liste des produits soumis ;\n- les échantillons de textile importés par les unités exportatrices, les représentants de donneurs d'ordre et les bureaux de liaison établis au Maroc ;\n- les importations sans caractère commercial des particuliers ;\n- les importations sous régime économique, le contrôle étant suspendu jusqu'à la mise à la consommation ;\n- les produits couverts par une autorisation d'admission en dispense du contrôle de conformité délivrée par le ministère chargé de l'industrie.\n\nPour les opérateurs qui s'approvisionnent régulièrement chez les mêmes fournisseurs, l'enlèvement est autorisé sur présentation du document, sans attendre la décision du service technique (circ. n° 4958/311, RDII XII.21.02.02). Pour les quantités inférieures au seuil de tolérance, le service autorise l'admission sans attendre la réponse de l'industrie ; mais si la valeur est réévaluée au-delà du seuil, l'attestation de conformité devient exigible (circ. n° 4958/311). Les seuils eux-mêmes sont fixés par la circulaire n° 4948/311.\n\nL'enlèvement avant résultats suppose trois conditions cumulatives (circ. conjointe n° 1) :\n- autorisation préalable du service de contrôle de la qualité, qui fixe les conditions d'entreposage ;\n- engagement de l'importateur de stocker la marchandise dans un lieu offrant toutes garanties et de ne pas la manipuler ;\n- apposition de scellés par la douane, en présence du service de contrôle.\nÀ Guergarate, la douane scelle la marchandise et la délégation du ministère appose un second scellé sur le lieu de stockage (circ. conjointe n° 2). Le résultat définitif entraîne le descellement, la défalcation de la partie non conforme, ou la destruction aux frais de l'importateur ou la réexportation sous scellés conjoints.",
+  "admin": "Les services du ministère chargé de l'industrie assurent le suivi des engagements de l'importateur (circ. conjointe n° 2). Pour la marchandise sous régime économique, la dispense n'est qu'une suspension : la mise à la consommation reste subordonnée à la formalité de conformité (circ. conjointe n° 1).",
+  "donnees": [
+   [
+    "Régimes économiques",
+    "Contrôle suspendu jusqu'à la mise à la consommation (circ. conjointe n° 1)"
+   ],
+   [
+    "Dispense de l'opérateur",
+    "Autorisation du ministère, modèle annexe XII.21 RDII (circ. n° 4958/311)"
+   ],
+   [
+    "Enlèvement avant résultats",
+    "Autorisation, engagement et scellés (circ. conjointe n° 1)"
+   ],
+   [
+    "Non-conformité après enlèvement",
+    "Destruction aux frais de l'importateur ou réexportation (circ. conjointe n° 2)"
+   ]
+  ],
+  "cas": "La société fictive Atlas Jouets importe chaque mois les mêmes références chez un fabricant espagnol. Elle obtient une autorisation de dispense du ministère et présente ce document à chaque DUM, ce qui lui évite d'attendre la décision technique. Pour une nouvelle gamme, elle demande l'enlèvement avant résultats, stocke les cartons scellés dans son entrepôt déclaré et attend l'attestation. L'erreur fréquente : ouvrir les cartons avant le descellement, en violation de l'engagement.",
+  "juris": "",
+  "conseil": "Si vous importez régulièrement les mêmes produits chez les mêmes fournisseurs, demandez l'autorisation de dispense : c'est le gain de délai le plus important. Pour un enlèvement sous scellés, choisissez un lieu de stockage séparé et accessible aux deux administrations. Sous admission temporaire, anticipez le contrôle à la mise à la consommation.",
+  "faq": [
+   [
+    "Une marchandise en admission temporaire est-elle contrôlée ?",
+    "Le contrôle est suspendu sous régime économique, mais la mise à la consommation reste subordonnée à la formalité de conformité (circ. conjointe n° 1)."
+   ],
+   [
+    "Qui paie la destruction d'un lot enlevé sous scellés et déclaré non conforme ?",
+    "L'importateur, la destruction se faisant à ses frais en présence des deux administrations (circ. conjointe n° 2)."
+   ]
+  ],
+  "renvois": [
+   "5-020",
+   "5-021",
+   "7-001",
+   "7-010",
+   "3-033"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

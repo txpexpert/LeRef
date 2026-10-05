@@ -1,0 +1,232 @@
+[
+ {
+  "id": "1-030",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les intervenants",
+  "t": "Le déclarant : personnes habilitées à déposer la déclaration en détail (propriétaire, transitaire agréé, titulaire d'une autorisation de dédouaner)",
+  "enbref": "Seuls peuvent déclarer en détail le propriétaire des marchandises, le transitaire agréé et le titulaire d'une autorisation de dédouaner. Le déclarant devient redevable des droits et taxes, solidairement avec son mandant et la caution, et engage sa responsabilité sur les énonciations qu'il signe.",
+  "textes": [
+   "CDII, art. 65, 67, 69 et 72",
+   "CDII, art. 87 et 88",
+   "CDII, art. 222",
+   "Décret n° 2-77-862, art. 27",
+   "Circulaire ADII n° 5746/312 du 29/12/2017"
+  ],
+  "principe": "Toute marchandise importée ou présentée à l'exportation doit faire l'objet d'une déclaration en détail qui lui assigne un régime douanier, même si elle est exonérée (CDII, art. 65). La qualité de déclarant est réservée par l'article 67 à trois catégories de personnes.\n\nLe propriétaire des marchandises peut déclarer lui-même, en justifiant sa qualité par les documents commerciaux ou les titres de transport ; il peut se faire représenter par une personne à son service exclusif (art. 67-1°). Sont réputés propriétaires les transporteurs, détenteurs, voyageurs et frontaliers pour les marchandises qu'ils transportent ou détiennent (art. 67-2°-a).\n\nLe transitaire agréé est la personne qui exerce, à titre principal ou accessoire, la profession d'accomplir pour autrui les formalités de déclaration en détail ; nul ne peut exercer cette profession sans agrément (art. 67-2°-b et 68).\n\nLa personne qui, sans être transitaire, veut déclarer pour autrui à l'occasion de son commerce ou de son industrie doit obtenir une autorisation de dédouaner, accordée pour des marchandises déterminées et aux mêmes conditions que l'agrément (art. 69) ; les règles applicables aux transitaires lui sont étendues (décret n° 2-77-862, art. 27).\n\nLe déclarant est redevable des droits et taxes avec son mandant et la caution, ces redevables étant débiteurs solidaires (CDII, art. 87 et 88). Il est pénalement responsable des omissions et inexactitudes de ses déclarations (art. 222). Quiconque déclare pour autrui conserve les correspondances et documents pendant quatre ans à compter de l'enregistrement des déclarations (art. 72).",
+  "admin": "La circulaire n° 5746/312 précise qu'avec la dématérialisation, la signature électronique de la déclaration vaut dépôt et engage la responsabilité du signataire sur l'exactitude des énonciations, l'authenticité des documents annexés et le respect des obligations du régime déclaré.",
+  "donnees": [
+   [
+    "Personnes habilitées",
+    "Propriétaire, transitaire agréé, titulaire d'une autorisation de dédouaner (CDII, art. 67 et 69)"
+   ],
+   [
+    "Représentant du propriétaire",
+    "Personne à son service exclusif (CDII, art. 67-1°)"
+   ],
+   [
+    "Redevables",
+    "Déclarant, mandant, caution, solidairement (CDII, art. 87 et 88)"
+   ],
+   [
+    "Conservation des documents (déclaration pour autrui)",
+    "4 ans après l'enregistrement (CDII, art. 72)"
+   ]
+  ],
+  "cas": "La société fictive Tadla Négoce importe régulièrement des pièces détachées et confie ses déclarations à un salarié d'une société sœur du groupe, qui n'est ni transitaire ni titulaire d'une autorisation. C'est irrégulier : le représentant du propriétaire doit être à son service exclusif (CDII, art. 67-1°), et déclarer pour autrui sans agrément ni autorisation est interdit (art. 68 et 69). Tadla Négoce doit soit déclarer par un salarié propre, soit mandater un transitaire agréé.",
+  "juris": "",
+  "conseil": "Désignez clairement, dans l'entreprise, qui signe les déclarations et vérifiez qu'il est bien à votre service exclusif. Si vous déclarez vous-même, vous assumez seul la responsabilité des énonciations : faites relire classement, valeur et origine avant la signature électronique, qui vaut dépôt immédiat.",
+  "faq": [
+   [
+    "Une entreprise peut-elle dédouaner elle-même sans transitaire ?",
+    "Oui : le propriétaire des marchandises peut déclarer lui-même ou par une personne à son service exclusif (CDII, art. 67-1°)."
+   ],
+   [
+    "Un transporteur peut-il déclarer les marchandises qu'il transporte ?",
+    "Oui : il est réputé propriétaire des marchandises qu'il transporte (CDII, art. 67-2°-a)."
+   ]
+  ],
+  "renvois": [
+   "1-031",
+   "1-032",
+   "1-033",
+   "3-020",
+   "3-023"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "1-031",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les intervenants",
+  "t": "Le transitaire agréé : conditions d'agrément, obligations professionnelles, seuil d'activité, suspension et retrait",
+  "enbref": "La profession de transitaire en douane est soumise à un agrément personnel délivré par décision du ministre, après test d'aptitude et avis de la chambre de discipline et du comité consultatif. L'agrément est réputé abandonné si le transitaire ne dépose pas au moins 200 déclarations par an, et il peut être suspendu ou retiré pour manquement.",
+  "textes": [
+   "CDII, art. 68, 70, 70 bis, 71 et 72",
+   "Décret n° 2-77-862, art. 7 à 26 et 28 à 53",
+   "Arrêté n° 733-10 du 05/03/2010",
+   "Circulaire ADII n° 5209/212 du 14/05/2010",
+   "Circulaire ADII n° 6398/210 du 29/12/2022 (LF 2023)"
+  ],
+  "principe": "L'agrément de transitaire est subordonné à la jouissance des droits civiques, à une licence ou un diplôme équivalent, à des références professionnelles d'au moins trois ans et à la réussite d'un test d'aptitude (CDII, art. 68-2°). Sont dispensés du diplôme certains anciens agents de l'administration ayant quinze ans d'ancienneté et, depuis la LF 2023, les gérants de sociétés de transit ayant quinze ans d'exercice (circ. n° 6398/210). L'agrément est délivré par décision du ministre chargé des finances, sur proposition du directeur et après avis de la chambre de discipline et du comité consultatif ; il peut être limité à certains bureaux et il est personnel, y compris pour chaque personne habile représentant une société (art. 68-3° et 4°). Il est accordé pour une durée indéterminée et publié au Bulletin officiel (décret, art. 12 et 13).\n\nLe transitaire ne peut exercer qu'après inscription au registre du commerce et à la patente (décret, art. 16). Il est soumis à la chambre de discipline et à une cotisation annuelle (art. 19) et doit notifier dans le mois toute modification statutaire ou de dirigeants, sous peine de retrait (art. 20). Il conserve ses documents quatre ans (CDII, art. 72).\n\nLe ministre peut retirer l'agrément, temporairement ou définitivement, et infliger une amende de 30 000 à 100 000 dirhams ; une suspension sans consultation préalable est possible pour deux mois au plus (CDII, art. 70). L'agrément est annulé en cas de renonciation, décès ou dissolution, la renonciation étant présumée, sauf force majeure, faute de 200 déclarations par an (art. 70 bis).",
+  "admin": "Le test d'aptitude est organisé deux fois par an : épreuve écrite de trois heures, puis oral pour les candidats ayant au moins 12/20 ; l'admission exige une moyenne générale de 12/20 (arrêté n° 733-10 ; circ. n° 5209/212). La circulaire n° 6398/210 indique que le seuil est passé de 50 à 200 déclarations par an et l'apprécie « sur une période de 24 mois consécutifs ».",
+  "donnees": [
+   [
+    "Autorité d'agrément",
+    "Ministre chargé des finances, après avis de la chambre et du comité (CDII, art. 68-3°)"
+   ],
+   [
+    "Seuil d'activité",
+    "200 déclarations par an, sauf force majeure (CDII, art. 70 bis)"
+   ],
+   [
+    "Amende administrative",
+    "30 000 à 100 000 DH, cumulable avec le retrait (CDII, art. 70-1°)"
+   ],
+   [
+    "Suspension sans consultation",
+    "2 mois au plus (CDII, art. 70-2°)"
+   ],
+   [
+    "Test d'aptitude",
+    "2 sessions par an ; moyenne de 12/20 (arrêté n° 733-10)"
+   ]
+  ],
+  "cas": "Le transitaire fictif Rif Transit, agréé depuis trois ans, change de gérant et transfère son siège sans en informer l'administration ; parallèlement, son activité tombe à 120 déclarations sur l'année. Il cumule deux risques : le retrait d'agrément pour défaut de notification dans le mois (décret, art. 20) et la présomption de renonciation pour non-respect du seuil de 200 déclarations (CDII, art. 70 bis). Il aurait dû notifier le changement immédiatement et documenter, le cas échéant, un cas de force majeure.",
+  "juris": "",
+  "conseil": "Suivez chaque mois le nombre de déclarations enregistrées sous votre agrément et alertez votre direction dès que la tendance annuelle passe sous 200. Tenez un calendrier des notifications obligatoires (changement de gérant, de personne habile, de statuts) : le délai d'un mois est court et la sanction lourde.",
+  "faq": [
+   [
+    "L'agrément est-il valable dans tous les bureaux ?",
+    "Oui, sauf disposition contraire de la décision d'agrément (décret n° 2-77-862, art. 12 ; CDII, art. 68-3°)."
+   ],
+   [
+    "Que se passe-t-il en cas de décès du transitaire ?",
+    "La chambre de discipline désigne un autre transitaire pour assurer la gestion ; si la personne habile d'une société disparaît, l'administration peut autoriser la continuité pour quatre mois, renouvelables deux fois (décret, art. 21)."
+   ]
+  ],
+  "renvois": [
+   "1-030",
+   "1-032",
+   "1-033",
+   "8-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "1-032",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les intervenants",
+  "t": "Le mandat de dédouanement : procuration donnée au transitaire agréé, contenu, enregistrement dans BADR et résiliation",
+  "enbref": "L'opérateur qui confie son dédouanement à un transitaire agréé lui donne une procuration selon le modèle de l'ADII, enregistrée dans BADR. Sans procuration enregistrée, le transitaire ne peut pas déclarer pour ce client ; la signature des acquits à caution et des déclarations de cession exige une mention expresse.",
+  "textes": [
+   "CDII, art. 67 et 68",
+   "Circulaire ADII n° 5496/400 du 13/01/2015",
+   "Circulaire ADII n° 5783/400 du 13/04/2018"
+  ],
+  "principe": "Le CDII définit le transitaire comme la personne qui accomplit pour autrui les formalités de déclaration en détail (art. 67-2°-b), mais il ne règle pas la forme du mandat. Celle-ci est fixée par l'administration. Depuis le 16/03/2015, les mandats donnés aux transitaires sont gérés informatiquement : BADR vérifie l'existence et la validité du mandat avant d'autoriser le transitaire à déclarer pour le compte de son client (circ. n° 5496/400).\n\nLa procuration est établie sur papier à en-tête du mandant, selon le modèle de l'administration. Elle identifie le mandant (raison sociale, registre du commerce, représentant légal et fondement de son habilitation) et le transitaire (numéro d'agrément). Elle couvre toutes les formalités de déclaration en détail ; elle n'autorise la signature des acquits à caution sous régime économique et des déclarations de cession que si les cases correspondantes sont cochées. La signature du mandant est légalisée, et les deux parties acceptent solidairement les obligations découlant de la réglementation douanière (circ. n° 5496/400). Le modèle actuel, communiqué par la circulaire n° 5783/400, couvre aussi l'admission et l'exportation temporaires des véhicules à usage commercial.\n\nLa procuration est valable un an à compter de son enregistrement. Elle peut être résiliée par notification à gestion_transitaires@douane.gov.ma ; la résiliation prend effet au plus tard deux jours francs après réception, et la procuration reste valable pour les opérations en cours (circ. n° 5496/400 et 5783/400).",
+  "admin": "Les mandats sont déposés au service de la logistique et du système d'information de la direction régionale ou, pour les opérateurs éloignés, au bureau de proximité. Les sous-directeurs régionaux et chefs de circonscription peuvent dispenser de cette formalité les cas justifiés, notamment lorsque le donneur d'ordre n'est pas établi au Maroc (circ. n° 5496/400).",
+  "donnees": [
+   [
+    "Validité de la procuration",
+    "1 an à compter de l'enregistrement (circ. n° 5496/400)"
+   ],
+   [
+    "Prise d'effet",
+    "2 jours francs après réception par l'ADII (circ. n° 5783/400)"
+   ],
+   [
+    "Pouvoirs à mention expresse",
+    "Acquits à caution sous RED ; déclarations de cession (circ. n° 5496/400)"
+   ],
+   [
+    "Formalité",
+    "Signature du mandant légalisée (circ. n° 5496/400)"
+   ]
+  ],
+  "cas": "La société fictive Saïss Textiles, qui travaille en admission temporaire pour perfectionnement actif, donne une procuration à un transitaire sans cocher la case des acquits à caution. Le jour de l'importation des tissus, BADR refuse au transitaire la signature de l'engagement sous régime économique. L'opération est bloquée jusqu'à ce que le gérant signe lui-même ou qu'une nouvelle procuration complète soit légalisée et enregistrée. L'erreur fréquente : croire qu'une procuration « générale » couvre tout.",
+  "juris": "",
+  "conseil": "Tenez un échéancier des procurations : leur validité d'un an expire sans alerte, et le renouvellement doit être enregistré avant la prochaine opération. Cochez les pouvoirs spécifiques (acquits à caution, cessions) dès que vous travaillez sous régime économique. En cas de changement de transitaire, résiliez l'ancienne procuration par écrit et gardez la preuve de l'envoi.",
+  "faq": [
+   [
+    "Peut-on mandater plusieurs transitaires ?",
+    "Oui : les opérateurs peuvent mandater un ou plusieurs transitaires agréés (circ. n° 5496/400)."
+   ],
+   [
+    "Une société étrangère sans établissement au Maroc doit-elle déposer un mandat ?",
+    "Le sous-directeur régional ou le chef de circonscription peut l'en dispenser dans les cas justifiés (circ. n° 5496/400)."
+   ]
+  ],
+  "renvois": [
+   "1-022",
+   "1-030",
+   "1-031",
+   "1-033",
+   "7-002"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "1-033",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les intervenants",
+  "t": "Responsabilité du mandant et du transitaire mandataire : droits et taxes, engagements sous régime économique et responsabilité pénale",
+  "enbref": "Le mandant reste redevable des droits et taxes et seul tenu des engagements souscrits sous régime économique, même si le transitaire a accompli les formalités. Le transitaire est protégé : il n'est poursuivi en recouvrement qu'après le redevable principal, et il échappe à l'emprisonnement s'il a reproduit fidèlement les informations de son client.",
+  "textes": [
+   "CDII, art. 87, 88 et 88 bis",
+   "CDII, art. 220, 221, 222, 227 et 229",
+   "CDII, art. 70",
+   "Circulaire ADII n° 5496/400 du 13/01/2015",
+   "Circulaire ADII n° 5783/400 du 13/04/2018"
+  ],
+  "principe": "Sur le plan fiscal, le déclarant, son mandant et la caution sont redevables des droits et taxes et débiteurs solidaires (CDII, art. 87 et 88). L'article 88 bis tempère cette solidarité pour le transitaire agréé : le recouvrement ne peut être engagé contre lui qu'après épuisement des voies de recouvrement contre le redevable principal, et, sauf participation ou complicité, il n'est pas redevable des créances résultant d'un détournement de destination (art. 166 ter), de l'inexécution des engagements sous régime économique, ou d'un contrôle a posteriori (art. 86 bis).\n\nSur le plan pénal, sont responsables les signataires des déclarations pour les omissions et inexactitudes, les commettants du fait de leurs employés et les soumissionnaires en cas d'inexécution de leurs engagements ; l'emprisonnement n'est encouru par les signataires et commettants qu'en cas de faute personnelle et intentionnelle, et jamais par le transitaire qui s'est borné à reproduire fidèlement les informations de son mandant sans raison d'en douter (art. 222). Le propriétaire des marchandises de fraude est réputé intéressé à la fraude (art. 221) et répond civilement du fait de ses employés (art. 229). La personne morale peut être poursuivie elle-même (art. 227). Le transitaire s'expose en outre au retrait de son agrément, par décision administrative ou judiciaire (art. 70 et 220-3°).",
+  "admin": "L'administration rappelle que la procuration ne désengage en rien la responsabilité du soumissionnaire en cas d'inexécution des engagements sous régime économique (CDII, art. 222) : le mandant reste pleinement responsable, même si le transitaire a accompli les formalités (circ. n° 5496/400). Le modèle de procuration prévoit l'acceptation solidaire par les deux parties des obligations découlant de la réglementation douanière (circ. n° 5783/400).",
+  "donnees": [
+   [
+    "Redevables solidaires",
+    "Déclarant, mandant, caution (CDII, art. 87 et 88)"
+   ],
+   [
+    "Recouvrement contre le transitaire",
+    "Seulement après le redevable principal (CDII, art. 88 bis-1°)"
+   ],
+   [
+    "Créances RED et contrôle a posteriori",
+    "Non dues par le transitaire, sauf complicité (CDII, art. 88 bis-2°)"
+   ],
+   [
+    "Emprisonnement du signataire",
+    "Seulement si faute personnelle et intentionnelle (CDII, art. 222)"
+   ]
+  ],
+  "cas": "L'importateur fictif Bouregreg Distribution remet à son transitaire une facture minorée de 40 %. Le transitaire, qui n'avait aucune raison d'en douter, la reproduit fidèlement. Lors d'un contrôle a posteriori, l'administration redresse la valeur. La créance est réclamée à l'importateur, et le transitaire n'en est pas redevable, sauf complicité (CDII, art. 88 bis-2°). Sur le plan pénal, l'importateur, auteur de la fausse facture, encourt seul les peines d'emprisonnement ; le transitaire de bonne foi en est exclu (art. 222).",
+  "juris": "",
+  "conseil": "Pour le transitaire : conservez la trace des informations et documents reçus du client (courriels, factures, fiches techniques) ; c'est votre preuve de reproduction fidèle. Pour le mandant : ne comptez pas sur le transitaire pour porter le risque ; vous restez redevable et, sous régime économique, seul tenu de l'apurement.",
+  "faq": [
+   [
+    "Le transitaire paie-t-il les droits si l'importateur fait défaut ?",
+    "Seulement après épuisement des voies de recouvrement contre le redevable principal, et jamais pour les créances RED ou de contrôle a posteriori, sauf complicité (CDII, art. 88 bis)."
+   ],
+   [
+    "Le mandant peut-il se décharger sur son transitaire d'un compte RED non apuré ?",
+    "Non : la procuration ne désengage pas la responsabilité du soumissionnaire (CDII, art. 222 ; circ. n° 5496/400)."
+   ]
+  ],
+  "renvois": [
+   "1-030",
+   "1-031",
+   "1-032",
+   "4-040",
+   "9-003",
+   "9-013"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ }
+]

@@ -1,0 +1,253 @@
+[
+ {
+  "id": "7-030",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Exportation temporaire",
+  "t": "Exportation temporaire en l'état : biens admissibles, formalités de sortie et délais de séjour à l'étranger",
+  "enbref": "L'exportation temporaire permet de faire sortir du Maroc des matériels, produits, animaux ou objets personnels destinés à être utilisés à l'étranger puis réimportés à l'identique, en franchise des droits à leur retour. Faute de retour dans les délais, l'opération est traitée comme une exportation définitive.",
+  "textes": [
+   "CDII, art. 153 et 154",
+   "Décret n° 2-77-862, art. 148 à 162",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexe II",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021, annexe ET"
+  ],
+  "principe": "Le régime couvre la sortie, en suspension des droits d'exportation, des matériels, produits et animaux à utiliser à l'étranger et des objets personnels des résidents marocains en séjour temporaire hors du territoire (CDII, art. 153-1°). Les biens doivent être réimportés à l'identique dans les délais et bénéficient alors de la franchise à l'importation ; à défaut, l'opération est considérée comme une exportation définitive et donne lieu à une nouvelle déclaration (art. 153-2° à 4°). Le décret fixe les catégories admissibles : matériels restant propriété marocaine pour des travaux limités ou un usage industriel occasionnel (A), films (B), emballages et contenants (C), et un ensemble de biens identifiables tels qu'échantillons, matériel d'exposition ou d'essai, matériel professionnel, conteneurs et véhicules commerciaux (D) (CDII, art. 154 ; décret n° 2-77-862, art. 153). L'exportation est couverte par un acquit à caution signé par le déclarant et l'exportateur réel, sans caution si les biens ne sont ni prohibés, ni restreints, ni taxés à la sortie (décret, art. 155 et 156). Le séjour à l'étranger est limité au temps nécessaire, sans excéder un an pour les catégories C et D, prorogeable au double par le ministre des finances (art. 160). Pour les voyageurs, il dure le temps du séjour, au plus six mois, sauf dérogation du directeur (art. 150).",
+  "admin": "La circulaire n° 6164/313 (annexe II) supprime l'autorisation préalable de l'exportation temporaire (codes 078 et 765). En contrepartie, la note D885/21/ADII/100 impose d'annoter la déclaration sur BADR de tous les éléments permettant d'identifier la marchandise au retour.",
+  "donnees": [
+   [
+    "Retour",
+    "À l'identique, en franchise ; à défaut, exportation définitive (CDII, art. 153)"
+   ],
+   [
+    "Délai, catégories C et D",
+    "1 an au plus, prorogeable au double par le ministre (décret, art. 160)"
+   ],
+   [
+    "Voyageurs résidents",
+    "Durée du séjour, 6 mois au plus (décret, art. 150)"
+   ],
+   [
+    "Garantie",
+    "Non exigée si ni prohibition, ni restriction, ni droit de sortie (décret, art. 155)"
+   ],
+   [
+    "Codes régimes",
+    "078 et 765, sans autorisation préalable (circ. 6164/313, annexe II)"
+   ]
+  ],
+  "cas": "Atlas Événements SARL, société fictive de Casablanca, expédie à Dakar le stand modulaire et les écrans qu'elle utilise sur un salon de dix jours. Elle les déclare en exportation temporaire (code 078) et fait annoter sur BADR les numéros de série des écrans et la description du stand (note D885/21/ADII/100). Au retour, ces éléments permettent la réimportation en franchise. Erreur à éviter : déclarer le matériel en exportation simple ; à son retour, il serait traité comme une importation ordinaire et taxé.",
+  "juris": "",
+  "conseil": "Préparez une liste de colisage détaillée, avec numéros de série, marques et photos : c'est elle qui prouvera l'identité des biens au retour. Prévoyez le retour par le bureau de sortie, ou demandez à l'avance la dérogation. Si le matériel risque d'être vendu sur place, anticipez la régularisation par exportation définitive.",
+  "faq": [
+   [
+    "Faut-il une caution pour exporter temporairement un matériel ?",
+    "Non, si le matériel n'est ni prohibé, ni restreint, ni soumis à des droits de sortie (décret, art. 155)."
+   ],
+   [
+    "Que se passe-t-il si le matériel est vendu à l'étranger ?",
+    "Le défaut de réimportation équivaut à une exportation définitive, régularisée par une nouvelle déclaration (CDII, art. 153-4°)."
+   ]
+  ],
+  "renvois": [
+   "7-001",
+   "7-031",
+   "7-032",
+   "7-020",
+   "6-020"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-031",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Exportation temporaire",
+  "t": "Exportation temporaire pour perfectionnement passif (ETPP) : conditions, autorisation du département ressource et délai",
+  "enbref": "L'ETPP permet d'envoyer à l'étranger, en suspension des droits, des marchandises pour y être ouvrées, transformées ou réparées, puis de les réimporter en ne taxant que la valeur ajoutée hors du Maroc. Hors machines, matériels et équipements, une autorisation du département chargé de la ressource, délivrée en 60 jours au plus, est exigée ; le séjour à l'étranger ne peut dépasser un an.",
+  "textes": [
+   "CDII, art. 152",
+   "Décret n° 2-77-862, art. 138 à 147",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexes I et II",
+   "Circulaire ADII n° 6671/311 du 28/07/2025",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexe 6"
+  ],
+  "principe": "L'ETPP couvre l'exportation provisoire, en suspension des droits, de produits d'origine marocaine, mis à la consommation ou placés sous entrepôt industriel franc, ATPA, transformation sous douane ou admission temporaire, envoyés à l'étranger pour ouvraison ou transformation (CDII, art. 152-1°). Hors machines, matériels, outillages et équipements, l'octroi est subordonné à une autorisation du département chargé de la ressource, délivrée dans un délai maximal de 60 jours (art. 152-1° bis). L'exportation se fait sous acquit à caution signé du déclarant et de l'exportateur réel, sans caution si les produits ne sont ni prohibés, ni restreints, ni taxés à la sortie (décret n° 2-77-862, art. 140 et 141). Certains bureaux sont exclus : Essaouira, Larache, Al Hoceïma, Béni Enzar, Rabat et Bab-Sebta (art. 139). Le service peut prélever des échantillons, marquer ou estampiller les produits pour les reconnaître au retour (art. 143). Le séjour à l'étranger est limité au temps nécessaire, sans excéder un an, prorogeable au double par le ministre des finances (art. 145).",
+  "admin": "La circulaire n° 6164/313 retient un délai d'un an et supprime l'autorisation douanière préalable pour l'ETPP de machines et équipements (codes 077, 771 et 766), celle des autres produits restant subordonnée à l'accord du département de la ressource. La note D885/21/ADII/100 dispense de cet accord les opérations vers les zones d'accélération industrielle, couvertes par une autorisation permanente du département de l'industrie. Depuis la circulaire n° 6671/311, les autorisations des départements de l'industrie et de l'agriculture transitent par PORTNET pour les codes 077 et 771 ; les autorisations papier restent acceptées jusqu'à décision contraire, et les métaux précieux suivent la circulaire n° 5360/313.",
+  "donnees": [
+   [
+    "Autorisation du département ressource",
+    "Délivrée en 60 jours au plus ; non exigée pour machines, matériels, outillages et équipements (CDII, art. 152-1° bis)"
+   ],
+   [
+    "Délai de séjour à l'étranger",
+    "1 an au plus, prorogeable au double par le ministre (décret, art. 145)"
+   ],
+   [
+    "Bureaux exclus",
+    "Essaouira, Larache, Al Hoceïma, Béni Enzar, Rabat, Bab-Sebta (décret, art. 139)"
+   ],
+   [
+    "Codes régimes",
+    "077, 771, 766 (circ. 6164/313, annexe II)"
+   ],
+   [
+    "Circuit des autorisations",
+    "PORTNET pour les codes 077 et 771 (circ. 6671/311 du 28/07/2025)"
+   ],
+   [
+    "Zones d'accélération industrielle",
+    "Autorisation permanente du département de l'industrie (note D885/21/ADII/100)"
+   ]
+  ],
+  "cas": "Tanger Moules SARL, société fictive, envoie en Allemagne un moule d'injection en panne pour une réparation de six semaines. S'agissant d'un équipement, aucune autorisation du département ressource n'est requise : elle dépose une déclaration sous le code 077, en faisant relever le numéro de série et en photographiant le moule (décret, art. 143). Au retour, seule la réparation, facturée 120 000 DH, entre dans la base taxable (CDII, art. 152-3°). Erreur à éviter : passer par le bureau de Rabat, exclu de ce régime (décret, art. 139).",
+  "juris": "",
+  "conseil": "Pour des produits autres que des équipements, déposez la demande d'autorisation au département ressource dès la négociation avec le façonnier étranger : le délai légal de 60 jours est un maximum, pas un minimum. Exigez du façonnier une facture distinguant clairement la valeur de l'ouvraison. Identifiez les produits de façon à pouvoir prouver, au retour, qu'il s'agit bien de ceux qui sont sortis.",
+  "faq": [
+   [
+    "Dois-je obtenir une autorisation pour envoyer une machine en réparation à l'étranger ?",
+    "Non : les machines, matériels, outillages et équipements sont dispensés de l'autorisation du département ressource (CDII, art. 152-1° bis), et l'autorisation douanière préalable est supprimée (circ. 6164/313, annexe II)."
+   ],
+   [
+    "Puis-je placer en ETPP des intrants importés sous ATPA ?",
+    "Oui, le régime couvre aussi les produits placés sous ATPA, entrepôt industriel franc, transformation sous douane ou admission temporaire (CDII, art. 152-1°)."
+   ]
+  ],
+  "renvois": [
+   "7-030",
+   "7-032",
+   "7-010",
+   "7-050",
+   "3-024",
+   "7-070"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-032",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Exportation temporaire",
+  "t": "Réimportation en suite d'exportation temporaire ou de perfectionnement passif : identité des biens, bureau et taxation de la valeur ajoutée",
+  "enbref": "Les biens exportés temporairement reviennent en franchise s'ils sont réimportés à l'identique dans les délais. Après perfectionnement passif, les produits sont soit réadmis sous leur régime initial, soit mis à la consommation et taxés sur la seule différence entre leur valeur et celle des marchandises exportées.",
+  "textes": [
+   "CDII, art. 152-2° à 4° et 153-2° à 4°",
+   "Décret n° 2-77-862, art. 139, 144, 146, 147, 154, 159, 161 et 162",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexe II",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexe 6"
+  ],
+  "principe": "En exportation temporaire, la réimportation doit porter sur les biens à l'identique, dans les délais, et ouvre droit à la franchise (CDII, art. 153-2° et 3°). En perfectionnement passif, les produits réimportés sont soit réadmis sous le régime d'origine, soit mis à la consommation (art. 152-2°) ; dans ce cas, les droits en vigueur au jour de l'enregistrement de la déclaration d'importation s'appliquent à la valeur des produits importés diminuée de celle des marchandises exportées (art. 152-3°). Le défaut de réimportation dans les délais vaut exportation définitive et appelle une nouvelle déclaration en apurement (art. 152-4° et 153-4°). Le retour se fait par le bureau de sortie, sauf dérogation du directeur (décret n° 2-77-862, art. 139 et 154). Chaque opération fait l'objet d'un compte, apuré globalement ou partiellement (art. 144, 146, 159 et 161), et la décharge est délivrée par le bureau de souscription (art. 147 et 162).",
+  "admin": "La circulaire n° 6164/313 (annexe II) supprime l'autorisation préalable de la réimportation par un bureau différent de celui de l'exportation (codes 051, 052 et 511). La note D885/21/ADII/100 précise que les marchandises réimportées doivent être identiques à celles exportées, le contrôle se faisant sur les éléments de la déclaration d'exportation enregistrés dans BADR. Selon la note D7106/16/ADII/100, une ETPP en bagage accompagné de matériel placé en admission temporaire n'apure pas le compte initial : le matériel est réadmis sans formalités particulières.",
+  "donnees": [
+   [
+    "Franchise au retour",
+    "Biens réimportés à l'identique dans les délais (CDII, art. 153-3°)"
+   ],
+   [
+    "Base taxable après ETPP",
+    "Valeur des produits importés moins valeur des marchandises exportées (CDII, art. 152-3°)"
+   ],
+   [
+    "Droits applicables après ETPP",
+    "Ceux du jour d'enregistrement de la déclaration d'importation (CDII, art. 152-3°)"
+   ],
+   [
+    "Bureau de retour",
+    "Bureau de sortie, sauf dérogation (décret, art. 139 et 154)"
+   ],
+   [
+    "Retour par un autre bureau",
+    "Sans autorisation préalable, codes 051, 052, 511 (circ. 6164/313, annexe II)"
+   ],
+   [
+    "Défaut de réimportation",
+    "Exportation définitive et nouvelle déclaration (CDII, art. 152-4° et 153-4°)"
+   ]
+  ],
+  "cas": "Fès Textile SA, société fictive, a exporté en ETPP vers le Portugal 10 000 mètres de tissu marocain d'une valeur de 500 000 DH pour teinture. Elle réimporte le tissu teint, valorisé 650 000 DH, et le met à la consommation : les droits du jour de la déclaration d'importation s'appliquent à 150 000 DH, soit la différence de valeur (CDII, art. 152-3°). Le tissu revient par Tanger Med alors qu'il était sorti par Casablanca : le bureau de retour vérifie l'identité à partir des éléments de la déclaration d'exportation dans BADR (note D885/21/ADII/100). Erreur à éviter : déclarer à l'import la seule facture du teinturier sans référence au compte d'ETPP ; la réimportation ne serait pas rattachée et la valeur entière serait taxée.",
+  "juris": "",
+  "conseil": "Référencez toujours la déclaration d'exportation temporaire sur la déclaration de réimportation : c'est ce lien qui ouvre la franchise ou la taxation sur la seule valeur ajoutée. Conservez la facture de l'ouvraison et la preuve de la valeur des marchandises sorties. Surveillez l'échéance du compte : après un an, le retour n'est plus possible sans prorogation ministérielle.",
+  "faq": [
+   [
+    "Sur quelle valeur paie-t-on les droits après une réparation à l'étranger ?",
+    "Sur la valeur des produits réimportés diminuée de celle des marchandises exportées, aux taux du jour de la déclaration d'importation (CDII, art. 152-3°)."
+   ],
+   [
+    "Peut-on réimporter par un autre bureau que celui de sortie ?",
+    "Oui, sans autorisation préalable, sous réserve que les éléments d'identification de la déclaration d'exportation permettent de vérifier l'identité des marchandises (circ. 6164/313, annexe II ; note D885/21/ADII/100)."
+   ]
+  ],
+  "renvois": [
+   "7-030",
+   "7-031",
+   "7-033",
+   "7-004",
+   "4-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "7-033",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Exportation temporaire",
+  "t": "Échange standard sous perfectionnement passif : remplacement gratuit sous garantie, importation anticipée et délais",
+  "enbref": "L'échange standard permet d'exporter une marchandise défectueuse et d'importer en exonération sa marchandise de remplacement, fournie gratuitement au titre d'une garantie légale ou contractuelle. Le remplacement doit être identique au produit d'origine et intervenir dans les six mois de sa mise à la consommation ; en cas d'urgence, la pièce de remplacement peut être importée d'abord, sous garantie, la défectueuse devant sortir dans les deux mois.",
+  "textes": [
+   "CDII, art. 152 bis à 152 quinquies",
+   "Décret n° 2-77-862, art. 147 bis à 147 octies decies",
+   "Circulaire ADII n° 5361/313 du 17/01/2013",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+  ],
+  "principe": "Le régime permet d'exporter des marchandises défectueuses et d'importer en exonération des marchandises de remplacement fournies gratuitement en exécution d'une garantie légale ou contractuelle (CDII, art. 152 bis-1°). Les marchandises de remplacement doivent avoir le même classement tarifaire, les mêmes caractéristiques techniques et la même qualité commerciale ; elles sont usagées si les marchandises exportées l'étaient, sauf garantie prévoyant le neuf (art. 152 bis-2° et 3°). Elles doivent être livrées dans les six mois suivant la première mise à la consommation des marchandises défectueuses, sauf clause contractuelle plus favorable (art. 152 bis-4°). En cas d'urgence justifiée, l'importation anticipée est possible, moyennant une garantie des droits ; la marchandise défectueuse doit alors être exportée dans les deux mois, délai prorogeable, faute de quoi les droits sont dus avec intérêt de retard (art. 152 ter). La sortie et l'entrée passent par le même bureau, sauf autorisation du directeur (décret n° 2-77-862, art. 147 bis et 147 undecies).",
+  "admin": "La circulaire n° 5361/313 exige une autorisation préalable du directeur régional, sur un dossier comprenant les documents commerciaux justifiant la garantie, la déclaration et la facture d'importation initiales et une attestation de l'état de la marchandise. Elle exige le même classement à dix chiffres, le même fournisseur, la même marque, la même origine et la même quantité, et exclut les marchandises non réparables, celles placées sous régime économique et celles d'origine marocaine. Elle fixe les codes : exportation 770 et importation 510 ; importation anticipée 323, réservée aux matériels de production, et exportation 772. La circulaire n° 6348/313 (annexe II) confirme la compétence des directeurs régionaux.",
+  "donnees": [
+   [
+    "Délai de remplacement",
+    "6 mois après la première mise à la consommation, sauf garantie plus longue (CDII, art. 152 bis-4°)"
+   ],
+   [
+    "Importation anticipée",
+    "Exportation du défectueux sous 2 mois, sous garantie (CDII, art. 152 ter)"
+   ],
+   [
+    "Autorisation",
+    "Directeur régional (circ. 5361/313 ; circ. 6348/313, annexe II)"
+   ],
+   [
+    "Codes régimes",
+    "770 et 510 ; importation anticipée 323 et 772 (circ. 5361/313)"
+   ],
+   [
+    "Exclusions",
+    "Marchandises non réparables, sous régime économique ou d'origine marocaine (circ. 5361/313)"
+   ]
+  ],
+  "cas": "Sebou Emballages SA, société fictive, a importé en mars 2026 une imprimante industrielle allemande, droits acquittés. En mai, la tête d'impression tombe en panne et le fabricant s'engage à la remplacer gratuitement au titre de la garantie contractuelle. La ligne étant arrêtée, l'entreprise obtient du directeur régional l'importation anticipée de la tête neuve, prévue par la garantie, sous le code 323 avec une caution bancaire, puis exporte la tête défectueuse sous le code 772 cinq semaines plus tard (circ. 5361/313). Erreur à éviter : importer une tête de génération supérieure ; une amélioration substantielle des capacités techniques entraîne le rejet de la demande.",
+  "juris": "",
+  "conseil": "Pièces de la demande d'échange standard (circ. 5361/313) :\n- contrat de vente ou de garantie, lettres du fournisseur ;\n- déclaration et facture d'importation initiales ;\n- attestation de l'état de la marchandise ;\n- précision de l'ordre des opérations et des conditions financières.\nFaites préciser par le fournisseur, dans la facture de remplacement, la gratuité de l'envoi et la référence à la garantie.",
+  "faq": [
+   [
+    "Puis-je recevoir une pièce neuve en remplacement d'une pièce usagée ?",
+    "Seulement si l'obligation de garantie prévoit expressément le remplacement à neuf (CDII, art. 152 bis-3° ; circ. 5361/313)."
+   ],
+   [
+    "Que se passe-t-il si je n'exporte pas la pièce défectueuse dans les deux mois ?",
+    "Les droits deviennent exigibles, majorés de l'intérêt de retard s'ils n'étaient pas consignés (CDII, art. 152 ter-4°)."
+   ]
+  ],
+  "renvois": [
+   "7-031",
+   "7-032",
+   "7-003",
+   "7-020"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

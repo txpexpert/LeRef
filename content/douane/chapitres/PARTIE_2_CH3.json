@@ -1,0 +1,324 @@
+[
+ {
+  "id": "2-040",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Valeur en douane",
+  "t": "Valeur transactionnelle : prix effectivement payé ou à payer et conditions d'acceptation de la valeur déclarée",
+  "enbref": "La valeur en douane à l'importation est en principe le prix effectivement payé ou à payer pour les marchandises vendues pour l'exportation vers le Maroc, ajusté des éléments prévus par la loi. Elle n'est acceptée que si quatre conditions sont réunies ; à défaut, l'administration applique les méthodes secondaires dans un ordre imposé.",
+  "textes": [
+   "CDII, art. 20, 20 ter, 20 quater et 20 duodecies",
+   "CDII, art. 14 et 21",
+   "Décret n° 2-77-862, art. 216 bis"
+  ],
+  "principe": "L'article 20-1° du CDII pose le principe : la valeur en douane des marchandises importées est la valeur transactionnelle, c'est-à-dire le prix effectivement payé ou à payer pour les marchandises vendues pour l'exportation à destination du territoire assujetti, ajusté conformément à l'article 20 ter.\n\nLa valeur transactionnelle n'est acceptée que si quatre conditions cumulatives sont remplies (art. 20-1°) :\n- aucune restriction à la cession ou à l'utilisation des marchandises par l'acheteur, sauf restrictions légales, limitations géographiques de revente ou restrictions sans incidence substantielle sur la valeur ;\n- une vente ou un prix non subordonnés à des conditions dont la valeur ne peut être déterminée ;\n- aucune partie du produit de la revente ne revenant au vendeur, sauf si un ajustement est possible ;\n- l'absence de lien entre acheteur et vendeur ou, en cas de lien, une valeur acceptable au sens de l'article 20-2°.\n\nLe prix effectivement payé ou à payer comprend tous les paiements faits par l'acheteur au vendeur, ou à un tiers au profit du vendeur, directement ou indirectement ; les activités de commercialisation que l'acheteur mène pour son propre compte n'en font pas partie (art. 20-3°). Il ne vise que le prix des marchandises importées, et non les dividendes ou autres paiements sans rapport avec elles (art. 20-5°). La valeur est appréciée au moment de l'entrée sur le territoire assujetti (art. 14). À l'exportation, la valeur est celle de la marchandise au point de sortie, au comptant et en gros, franche de droits de sortie (art. 21).",
+  "admin": "L'administration peut s'assurer de la véracité de toute pièce ou déclaration relative à la valeur et, en cas de doute, demander des justificatifs complémentaires ; à défaut de réponse dans les délais ou de justificatifs satisfaisants, la valeur n'est pas déterminée selon l'article 20 mais selon les autres méthodes, dans leur ordre (CDII, art. 20 duodecies). Le ministre fixe la date d'exigibilité de la déclaration des éléments de la valeur (art. 20 undecies) et les conditions d'application des articles 20 à 20 duodecies (décret, art. 216 bis).",
+  "donnees": [
+   [
+    "Base de la valeur",
+    "Prix effectivement payé ou à payer, ajusté (CDII, art. 20-1° et 20 ter)"
+   ],
+   [
+    "Conditions d'acceptation",
+    "4 conditions cumulatives (CDII, art. 20-1°)"
+   ],
+   [
+    "Moment d'appréciation",
+    "Entrée sur le territoire assujetti (CDII, art. 14)"
+   ],
+   [
+    "Doute sur la valeur",
+    "Justificatifs complémentaires ; à défaut, méthodes secondaires (CDII, art. 20 duodecies)"
+   ]
+  ],
+  "cas": "La société fictive Tadla Équipements achète en Italie des compresseurs à 300 000 EUR, mais le contrat interdit de les revendre ailleurs qu'au Maroc et prévoit un complément de prix fixé selon le chiffre d'affaires réalisé avec ces machines. La limitation géographique n'empêche pas la valeur transactionnelle (art. 20-1°). Le complément de prix, en revanche, est une partie du produit de la revente qui revient au vendeur : il doit être ajouté s'il est chiffrable (art. 20 ter-1°-d) ; sinon, la valeur transactionnelle est écartée.",
+  "juris": "",
+  "conseil": "Joignez à la déclaration un dossier de valeur cohérent : contrat ou bon de commande, facture définitive, preuve de paiement, conditions de livraison. En cas de demande de justificatifs, répondez dans le délai fixé : passé ce délai, la douane écarte votre prix et évalue elle-même la marchandise.",
+  "faq": [
+   [
+    "La facture suffit-elle à fixer la valeur en douane ?",
+    "Non : la valeur est le prix effectivement payé ou à payer, ajusté selon l'article 20 ter, et la douane peut demander des justificatifs en cas de doute (CDII, art. 20 et 20 duodecies)."
+   ],
+   [
+    "Une interdiction de revendre hors du Maroc fait-elle écarter la valeur transactionnelle ?",
+    "Non : les limitations géographiques de revente sont admises (CDII, art. 20-1°)."
+   ]
+  ],
+  "renvois": [
+   "2-041",
+   "2-042",
+   "2-043",
+   "2-044",
+   "2-045",
+   "2-060"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-041",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Valeur en douane",
+  "t": "Éléments à ajouter au prix payé : commissions, emballages, apports de l'acheteur, redevances, transport et assurance jusqu'à l'entrée",
+  "enbref": "Au prix facturé, l'importateur doit ajouter les éléments limitativement énumérés par l'article 20 ter, s'ils sont supportés par l'acheteur et non déjà inclus : commissions de vente, emballages, apports gratuits, redevances, produit de revente, transport, manutention et assurance jusqu'à l'entrée sur le territoire assujetti.",
+  "textes": [
+   "CDII, art. 20 ter",
+   "CDII, art. 20-3° et 20 duodecies",
+   "Circulaire ADII n° 4977/222 du 30/12/2005, section III"
+  ],
+  "principe": "L'article 20 ter-1° énumère les éléments à ajouter au prix effectivement payé ou à payer, dans la mesure où ils sont supportés par l'acheteur et n'ont pas été inclus dans le prix :\n- a) les commissions et frais de courtage, à l'exception des commissions d'achat, le coût des contenants traités comme ne faisant qu'un avec la marchandise, et le coût de l'emballage, main-d'œuvre et matériaux compris ;\n- b) la valeur des produits et services fournis gratuitement ou à prix réduit par l'acheteur pour la production des marchandises : matières incorporées, outils, matrices et moules, matières consommées, travaux d'ingénierie et de design exécutés hors du territoire assujetti ;\n- c) les redevances et droits de licence que l'acheteur doit acquitter comme condition de la vente (voir 2-045) ;\n- d) la part du produit de toute revente, cession ou utilisation ultérieure qui revient au vendeur ;\n- e) les frais de transport des marchandises jusqu'au lieu d'introduction sur le territoire assujetti ;\n- f) les frais de chargement, de déchargement et de manutention connexes à ce transport ;\n- g) le coût de l'assurance.\n\nDeux règles encadrent ces ajouts : ils doivent reposer exclusivement sur des données objectives et quantifiables (art. 20 ter-2°), et aucun autre élément ne peut être ajouté (art. 20 ter-3°). Le transport, la manutention et l'assurance sont ajoutés jusqu'à l'entrée sur le territoire assujetti, tandis que le transport postérieur à l'importation est exclu s'il est distinct (art. 20-4°).",
+  "admin": "L'administration peut demander tout justificatif pour vérifier que la valeur déclarée correspond au prix payé ajusté selon l'article 20 ter (CDII, art. 20 duodecies). Pour l'accord avec les États-Unis, la valeur en douane des produits numériques n'intègre que le coût du support, abstraction faite du contenu (circ. n° 4977/222).",
+  "donnees": [
+   [
+    "Liste des ajouts",
+    "Limitative : a) à g) (CDII, art. 20 ter-1° et 3°)"
+   ],
+   [
+    "Commissions d'achat",
+    "Non ajoutées (CDII, art. 20 ter-1°-a)"
+   ],
+   [
+    "Transport et assurance",
+    "Jusqu'à l'introduction sur le territoire assujetti (CDII, art. 20 ter-1°-e et g)"
+   ],
+   [
+    "Fondement des ajouts",
+    "Données objectives et quantifiables (CDII, art. 20 ter-2°)"
+   ]
+  ],
+  "cas": "La société fictive Rif Plastiques achète en Turquie des bouchons en conditions « départ usine » à 80 000 EUR. Elle fournit gratuitement au fabricant un moule d'une valeur de 20 000 EUR et paie elle-même le transport jusqu'à Tanger Med (3 000 EUR) et l'assurance (400 EUR). Elle doit ajouter la valeur du moule, répartie sur les bouchons produits avec lui (art. 20 ter-1°-b), le fret et l'assurance (e et g). Déclarer les seuls 80 000 EUR de la facture conduit à une minoration de la valeur.",
+  "juris": "",
+  "conseil": "Pour chaque fournisseur, recensez une fois pour toutes les apports que vous fournissez (moules, matières, plans) et la clé de répartition retenue ; documentez-la pour la reprendre à chaque importation. Distinguez dans vos contrats la commission d'achat versée à votre propre agent, non ajoutée, de la commission de vente.",
+  "faq": [
+   [
+    "Doit-on ajouter le fret payé jusqu'au port marocain ?",
+    "Oui : les frais de transport, de manutention et l'assurance jusqu'à l'introduction sur le territoire assujetti sont ajoutés (CDII, art. 20 ter-1°-e à g)."
+   ],
+   [
+    "La douane peut-elle ajouter un forfait de frais ?",
+    "Non : tout ajout doit reposer sur des données objectives et quantifiables, et seuls les éléments de l'article 20 ter peuvent être ajoutés (CDII, art. 20 ter-2° et 3°)."
+   ]
+  ],
+  "renvois": [
+   "2-040",
+   "2-042",
+   "2-044",
+   "2-045"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "2-042",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Valeur en douane",
+  "t": "Éléments exclus de la valeur en douane : frais postérieurs à l'importation, droits et taxes, commissions d'achat et paiements étrangers aux marchandises",
+  "enbref": "Certains frais n'entrent pas dans la valeur en douane, à condition d'être distincts du prix payé : montage, entretien et assistance technique après l'importation, transport postérieur à l'importation, droits et taxes dus au Maroc. Les commissions d'achat et les paiements sans rapport avec les marchandises sont également exclus.",
+  "textes": [
+   "CDII, art. 20-3°, 20-4° et 20-5°",
+   "CDII, art. 20 ter-1°-a et c, 20 ter-3°",
+   "CDII, art. 20 duodecies"
+  ],
+  "principe": "L'article 20-4° du CDII exclut de la valeur en douane, à condition qu'ils soient distincts du prix effectivement payé ou à payer :\n- les frais de construction, d'installation, de montage, d'entretien ou d'assistance technique entrepris après l'importation ;\n- le coût du transport après l'importation ;\n- les droits et taxes exigibles au Maroc.\n\nLe prix effectivement payé s'entend du seul prix des marchandises importées : les transferts de dividendes et les autres paiements sans rapport avec les marchandises n'en font pas partie (art. 20-5°). De même, les activités de commercialisation que l'acheteur mène pour son propre compte, comme la publicité, ne constituent pas un paiement indirect au vendeur (art. 20-3°-b).\n\nL'article 20 ter apporte deux autres exclusions. Les commissions d'achat ne sont pas ajoutées au prix (art. 20 ter-1°-a). En matière de redevances, les frais de reproduction des marchandises au Maroc et les paiements pour le droit de distribuer ou de revendre, lorsqu'ils ne sont pas une condition de la vente, ne sont pas ajoutés (art. 20 ter-1°-c). Enfin, aucun élément autre que ceux de l'article 20 ter ne peut être ajouté au prix (art. 20 ter-3°).\n\nLa condition de « distinction » est décisive : si le prix facturé inclut, sans les isoler, le montage au Maroc ou le transport intérieur, l'exclusion ne joue pas. Il appartient à l'importateur de produire des éléments permettant de les distinguer, l'administration pouvant demander des justificatifs (art. 20 duodecies).",
+  "admin": "En cas de doute, l'administration demande des justificatifs complémentaires et, à défaut, écarte la valeur transactionnelle (CDII, art. 20 duodecies).",
+  "donnees": [
+   [
+    "Frais postérieurs à l'importation",
+    "Exclus s'ils sont distincts du prix (CDII, art. 20-4°)"
+   ],
+   [
+    "Droits et taxes au Maroc",
+    "Exclus (CDII, art. 20-4°)"
+   ],
+   [
+    "Commissions d'achat",
+    "Non ajoutées (CDII, art. 20 ter-1°-a)"
+   ],
+   [
+    "Dividendes et paiements sans rapport",
+    "Exclus (CDII, art. 20-5°)"
+   ]
+  ],
+  "cas": "La société fictive Souss Froid importe d'Espagne une chambre froide pour 120 000 EUR, prix incluant le montage à Agadir par des techniciens espagnols. La facture ne détaille pas ce montage. Faute de distinction, la douane retient 120 000 EUR. Si le contrat et la facture avaient isolé le montage postérieur à l'importation, par exemple pour 15 000 EUR, ce montant aurait été exclu de la valeur (CDII, art. 20-4°).",
+  "juris": "",
+  "conseil": "Négociez avec vos fournisseurs une facture qui ventile clairement le prix de la marchandise, le montage ou la mise en service au Maroc, la formation et le transport intérieur. Une ventilation après coup, établie après une demande de la douane, est beaucoup moins convaincante.",
+  "faq": [
+   [
+    "Le transport entre le port et l'usine fait-il partie de la valeur ?",
+    "Non, s'il est distinct du prix payé : le coût du transport après l'importation est exclu (CDII, art. 20-4°)."
+   ],
+   [
+    "La commission versée à notre agent d'achat en Chine est-elle ajoutée ?",
+    "Non : les commissions d'achat sont exclues des ajouts (CDII, art. 20 ter-1°-a)."
+   ]
+  ],
+  "renvois": [
+   "2-040",
+   "2-041",
+   "2-045"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-043",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Valeur en douane",
+  "t": "Méthodes secondaires d'évaluation : marchandises identiques ou similaires, méthode déductive, valeur calculée et dernier recours",
+  "enbref": "Lorsque la valeur transactionnelle ne peut être retenue, la valeur est déterminée par quatre méthodes appliquées dans un ordre obligatoire : marchandises identiques, marchandises similaires, méthode déductive ou valeur calculée, puis dernier recours. Les valeurs minimales, arbitraires ou fictives sont interdites.",
+  "textes": [
+   "CDII, art. 20 quater à 20 nonies",
+   "CDII, art. 20 duodecies"
+  ],
+  "principe": "Si la valeur ne peut être déterminée selon l'article 20, on applique successivement les méthodes des articles 20 quinquies, 20 sexies, 20 septies et 20 octies, jusqu'à la première qui permet de la déterminer ; à la demande de l'importateur et avec l'accord de l'administration, l'ordre entre la méthode déductive et la valeur calculée peut être inversé (CDII, art. 20 quater).\n\nPremière méthode, la valeur transactionnelle de marchandises identiques vendues pour l'exportation vers le territoire assujetti au même moment, au même niveau commercial et en quantités sensiblement identiques, ajustée si nécessaire, notamment pour la distance et le mode de transport ; si plusieurs valeurs existent, la plus basse est retenue (art. 20 quinquies). Deuxième méthode, la même pour des marchandises similaires (art. 20 sexies).\n\nTroisième méthode, la méthode déductive : prix unitaire de la quantité la plus importante revendue en l'état au Maroc à des personnes non liées, au moment de l'importation ou dans les 90 jours suivants, diminué des commissions ou marges, des frais de transport et d'assurance au Maroc et des droits et taxes ; à défaut, après transformation (art. 20 septies-1° et 2°). Quatrième méthode, la valeur calculée : coût de production, bénéfice et frais généraux usuels, transport et assurance jusqu'au Maroc ; l'administration ne peut contraindre un non-résident à produire sa comptabilité (art. 20 septies-3°).\n\nEn dernier recours, la valeur est déterminée par des moyens raisonnables compatibles avec ces principes et l'article VII du GATT 1994, sur la base des données disponibles au Maroc. Sont interdits : le prix de marchandises produites au Maroc, le choix de la plus élevée de deux valeurs, le prix sur le marché intérieur du pays d'exportation ou vers un pays tiers, les valeurs minimales et les valeurs arbitraires ou fictives (art. 20 octies).",
+  "admin": "Le recours aux méthodes secondaires intervient notamment lorsque l'importateur ne répond pas, dans les délais, à une demande de justificatifs ou que ceux-ci ne sont pas satisfaisants (CDII, art. 20 duodecies).",
+  "donnees": [
+   [
+    "Ordre des méthodes",
+    "Identiques, similaires, déductive, calculée, dernier recours (CDII, art. 20 quater)"
+   ],
+   [
+    "Inversion possible",
+    "Déductive et calculée, sur demande et avec accord (CDII, art. 20 quater)"
+   ],
+   [
+    "Méthode déductive",
+    "Ventes dans les 90 jours suivant l'importation (CDII, art. 20 septies-1°-b)"
+   ],
+   [
+    "Interdictions",
+    "Valeurs minimales, arbitraires ou fictives, etc. (CDII, art. 20 octies-2°)"
+   ]
+  ],
+  "cas": "La société fictive Bouregreg Textiles importe des tissus en consignation, sans vente préalable : il n'y a pas de prix de transaction. La douane recherche d'abord des importations de tissus identiques, puis similaires, au même moment. N'en trouvant pas, elle applique la méthode déductive à partir des prix de revente constatés dans les 90 jours, diminués de la marge et des droits. L'importateur ne peut se voir opposer une valeur minimale de référence (art. 20 octies-2°).",
+  "juris": "",
+  "conseil": "Si votre valeur transactionnelle risque d'être écartée (consignation, prix de transfert, absence de vente), anticipez : préparez des éléments pour la méthode qui vous est la plus favorable, par exemple vos prix de revente et vos marges réelles pour la méthode déductive, et demandez si besoin l'inversion de l'ordre avec la valeur calculée.",
+  "faq": [
+   [
+    "La douane peut-elle appliquer une valeur de référence minimale ?",
+    "Non : les valeurs minimales, arbitraires ou fictives sont interdites (CDII, art. 20 octies-2°)."
+   ],
+   [
+    "Peut-on choisir la méthode la plus favorable ?",
+    "Non : l'ordre est obligatoire, sauf l'inversion entre méthode déductive et valeur calculée, sur demande et avec l'accord de l'administration (CDII, art. 20 quater)."
+   ]
+  ],
+  "renvois": [
+   "2-040",
+   "2-044",
+   "2-060",
+   "9-050"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "2-044",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Valeur en douane",
+  "t": "Transactions entre personnes liées : conditions d'acceptation de la valeur transactionnelle et valeurs critères",
+  "enbref": "Un lien entre l'acheteur et le vendeur n'exclut pas la valeur transactionnelle. Elle est acceptée si les circonstances de la vente montrent que le lien n'a pas influencé le prix, ou si l'importateur prouve que sa valeur est très proche d'une valeur critère.",
+  "textes": [
+   "CDII, art. 20-1°-d et 20-2°",
+   "CDII, art. 20 quinquies à 20 septies et 20 nonies",
+   "CDII, art. 20 duodecies"
+  ],
+  "principe": "Parmi les conditions d'acceptation de la valeur transactionnelle figure l'absence de lien entre l'acheteur et le vendeur ou, si un lien existe, le caractère acceptable de la valeur transactionnelle au sens de l'article 20-2° (CDII, art. 20-1°-d). Le lien n'est donc pas, à lui seul, un motif de rejet.\n\nL'article 20-2° ouvre deux voies d'acceptation. La première tient aux circonstances de la vente : la valeur est acceptée si l'examen de ces circonstances montre que le lien n'a pas influencé le prix. La seconde est la démonstration, par l'importateur, que la valeur transactionnelle est très proche d'une valeur critère, c'est-à-dire de la valeur transactionnelle, lors de ventes à des acheteurs non liés, de marchandises identiques ou similaires, ou de la valeur en douane de telles marchandises déterminée selon la méthode déductive ou la valeur calculée (art. 20 septies). La comparaison tient compte des différences de niveau commercial, de quantités et de coûts entre les transactions. Si aucune de ces voies n'aboutit, la valeur est déterminée par les méthodes secondaires, dans leur ordre (art. 20 quater).\n\nLa définition précise des « personnes liées » figure à l'article 20 nonies du CDII.",
+  "admin": "En cas de doute sur la valeur déclarée, l'administration peut demander des justificatifs complémentaires ; à défaut de réponse ou de justificatifs satisfaisants, elle écarte la valeur transactionnelle (CDII, art. 20 duodecies).",
+  "donnees": [
+   [
+    "Lien entre les parties",
+    "N'exclut pas la valeur transactionnelle (CDII, art. 20-1°-d)"
+   ],
+   [
+    "Voie 1",
+    "Circonstances de la vente : le lien n'a pas influencé le prix (CDII, art. 20-2°)"
+   ],
+   [
+    "Voie 2",
+    "Proximité avec une valeur critère (CDII, art. 20-2°)"
+   ],
+   [
+    "À défaut",
+    "Méthodes secondaires dans leur ordre (CDII, art. 20 quater)"
+   ]
+  ],
+  "cas": "La société fictive Atlas Pharma, filiale d'un groupe suisse, importe des principes actifs de sa maison mère. La douane demande des justificatifs sur le prix intragroupe. Atlas Pharma montre que la maison mère vend le même produit, au même stade commercial et en quantités comparables, à un laboratoire indépendant en Tunisie à un prix proche du sien. Cette démonstration permet de faire accepter la valeur (art. 20-2°). Sans elle, la douane aurait appliqué les méthodes secondaires.",
+  "juris": "",
+  "conseil": "Si vous importez auprès d'une société du groupe, constituez à l'avance un dossier « prix intragroupe » : politique de prix, comparaisons avec des ventes à des tiers, marges de la maison mère. Il servira à la fois en cas de demande de justificatifs (art. 20 duodecies) et pour une éventuelle décision anticipée sur la méthode d'évaluation.",
+  "faq": [
+   [
+    "Une filiale important de sa maison mère voit-elle sa valeur systématiquement écartée ?",
+    "Non : le lien n'exclut pas la valeur transactionnelle s'il n'a pas influencé le prix ou si la valeur est proche d'une valeur critère (CDII, art. 20-2°)."
+   ],
+   [
+    "Qui doit prouver la proximité avec une valeur critère ?",
+    "L'importateur (CDII, art. 20-2°)."
+   ]
+  ],
+  "renvois": [
+   "2-040",
+   "2-043",
+   "2-045",
+   "2-060",
+   "9-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "2-045",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Valeur en douane",
+  "t": "Redevances et droits de licence : conditions d'ajout à la valeur en douane",
+  "enbref": "Les redevances et droits de licence (brevets, marques, droits d'auteur) sont ajoutés à la valeur en douane lorsque l'acheteur doit les acquitter comme condition de la vente et qu'ils ne sont pas inclus dans le prix. Les frais de reproduction au Maroc et les droits de distribution non conditionnels en sont exclus.",
+  "textes": [
+   "CDII, art. 20 ter-1°-c et d, 20 ter-2° et 3°",
+   "CDII, art. 20 duodecies",
+   "Décret n° 2-77-862, art. 216 bis"
+  ],
+  "principe": "L'article 20 ter-1°-c du CDII impose d'ajouter au prix effectivement payé les redevances et droits de licence, tels que brevets, marques et droits d'auteur, que l'acheteur doit acquitter comme condition de la vente, dans la mesure où ils sont supportés par lui et non inclus dans le prix. Deux conditions sont donc déterminantes : la redevance est à la charge de l'acheteur, et son paiement est une condition de la vente. Le lien de la redevance avec les marchandises importées, et la notion même de « condition de la vente », sont précisés par les notes interprétatives de l'accord de l'OMC.\n\nDeux exclusions sont prévues par le même texte : les frais afférents au droit de reproduire les marchandises importées au Maroc, et les paiements effectués pour le droit de distribuer ou de revendre les marchandises lorsqu'ils ne constituent pas une condition de la vente.\n\nLes redevances calculées sur les ventes au Maroc doivent être distinguées du produit de la revente revenant au vendeur, ajouté au titre de l'article 20 ter-1°-d. Dans les deux cas, l'ajout doit reposer sur des données objectives et quantifiables (art. 20 ter-2°) ; lorsqu'une redevance future n'est pas chiffrable au moment de l'importation, la question se pose de la recevabilité de la valeur transactionnelle (art. 20-1°).",
+  "admin": "L'administration peut demander les contrats de licence et tout justificatif du calcul des redevances en cas de doute sur la valeur (CDII, art. 20 duodecies). Les conditions d'application des articles 20 à 20 duodecies sont fixées par arrêté du ministre (décret, art. 216 bis).",
+  "donnees": [
+   [
+    "Redevances à ajouter",
+    "Dues par l'acheteur comme condition de la vente (CDII, art. 20 ter-1°-c)"
+   ],
+   [
+    "Exclusions",
+    "Droit de reproduction au Maroc ; droit de distribution non conditionnel (CDII, art. 20 ter-1°-c)"
+   ],
+   [
+    "Fondement de l'ajout",
+    "Données objectives et quantifiables (CDII, art. 20 ter-2°)"
+   ]
+  ],
+  "cas": "La société fictive Casa Sport importe d'un fabricant asiatique des chaussures portant une marque européenne. Elle verse 8 % de ses ventes au titulaire de la marque, et le contrat de fabrication interdit au fabricant de lui livrer les chaussures si cette redevance n'est pas payée. La redevance se rapporte aux marchandises importées et conditionne la vente : elle doit être ajoutée à la valeur en douane (art. 20 ter-1°-c), selon des modalités de déclaration à confirmer avec le service lorsque son montant dépend des ventes futures. L'erreur fréquente est de la considérer comme une charge de commercialisation sans lien avec l'importation.",
+  "juris": "",
+  "conseil": "Inventoriez tous vos contrats de licence, de marque et de savoir-faire, et analysez pour chacun le lien avec les marchandises importées et la condition de vente. Prévoyez dans vos contrats une ventilation claire entre la redevance liée aux marchandises et les droits de distribution ou de reproduction, qui ne s'ajoutent pas.",
+  "faq": [
+   [
+    "Une redevance de marque versée à un tiers autre que le vendeur peut-elle être ajoutée ?",
+    "Oui, si l'acheteur doit l'acquitter comme condition de la vente (CDII, art. 20 ter-1°-c)."
+   ],
+   [
+    "Les droits de distribution exclusive au Maroc s'ajoutent-ils ?",
+    "Non, s'ils ne constituent pas une condition de la vente (CDII, art. 20 ter-1°-c)."
+   ]
+  ],
+  "renvois": [
+   "2-040",
+   "2-041",
+   "2-042",
+   "2-044",
+   "2-060"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]

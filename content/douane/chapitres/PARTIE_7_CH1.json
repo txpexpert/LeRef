@@ -1,0 +1,498 @@
+[
+ {
+  "id": "7-001",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Régimes économiques en douane : notion, liste des régimes et finalités",
+  "enbref": "Les régimes suspensifs permettent de stocker, transformer, utiliser ou faire circuler des marchandises étrangères sans acquitter les droits et taxes et, en principe, sans subir les prohibitions et restrictions quantitatives ; le drawback, lui, rembourse forfaitairement des droits déjà payés. Avant tout placement, l'opérateur vérifie que la marchandise n'est pas exclue par l'article 115 du CDII et qu'elle restera identifiable jusqu'à l'apurement.",
+  "textes": [
+   "CDII (dahir n° 1-77-339), art. 114",
+   "CDII, art. 115",
+   "Circulaire ADII n° 6164/313 du 09/02/2021",
+   "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexe 5"
+  ],
+  "principe": "Le CDII (art. 114-1°) range sous l'appellation « régimes économiques en douane » deux familles. La première regroupe les régimes suspensifs : entrepôt de douane, entrepôt industriel franc, admission temporaire pour perfectionnement actif, admission temporaire, exportation temporaire pour perfectionnement passif avec ou sans échange standard, exportation temporaire, transit et transformation sous douane. Ils permettent le stockage, la transformation, l'utilisation ou la circulation des marchandises en suspension des droits et taxes et, en principe, des prohibitions et restrictions quantitatives, sauf exclusions de l'article 115 ou arrêté contraire (art. 114-2°). Leur bénéfice suppose que les marchandises restent identifiables lors de la réexportation, de la réimportation ou de la mise à la consommation, en l'état ou dans les produits compensateurs, sous réserve des articles 134 bis et 135 (art. 114-2° bis). La seconde famille est le drawback, qui ne suspend rien : il rembourse sur une base forfaitaire certains droits perçus sur les matières étrangères incorporées dans des marchandises exportées (art. 114-3°). L'article 115 exclut de tous ces régimes les animaux et marchandises relevant de la police sanitaire en provenance de pays contaminés, les stupéfiants et psychotropes, les armes de guerre et munitions (sauf destination à l'armée ou fabricants autorisés au titre de la loi 10-20), les écrits et images contraires aux bonnes mœurs, et les produits contrefaisant l'effigie royale, les emblèmes nationaux ou l'origine marocaine.",
+  "admin": "La note D7106/16/ADII/100 présente l'avantage des régimes suspensifs comme la double suspension des droits et taxes et des prohibitions et restrictions quantitatives, prohibitions absolues exceptées. La circulaire n° 6164/313 rappelle que la suspension douanière ne dispense pas des formalités relevant des réglementations particulières non suspendues (autorisations ONSSA, ANRT, etc.), BADR indiquant au déclarant les documents exigibles.",
+  "donnees": [
+   [
+    "Régimes suspensifs",
+    "Entrepôt de douane, EIF, ATPA, AT, ETPP avec ou sans échange standard, exportation temporaire, transit, TSD (CDII, art. 114-1°)"
+   ],
+   [
+    "Effet",
+    "Suspension des droits et taxes et, en principe, des prohibitions et restrictions quantitatives (CDII, art. 114-2°)"
+   ],
+   [
+    "Drawback",
+    "Remboursement forfaitaire de droits perçus sur des matières étrangères incorporées dans des produits exportés (CDII, art. 114-3°)"
+   ],
+   [
+    "Exclusions",
+    "Police sanitaire (pays contaminés), stupéfiants et psychotropes, armes de guerre et munitions, écrits contraires aux bonnes mœurs, contrefaçons de l'effigie royale, des emblèmes ou de l'origine marocaine (CDII, art. 115)"
+   ],
+   [
+    "Formalités maintenues",
+    "Autorisations des réglementations particulières (ONSSA, ANRT, etc.) (circ. 6164/313 du 09/02/2021)"
+   ]
+  ],
+  "cas": "La société fictive Atlas Composants SARL, installée à Tanger, importe d'Espagne 40 tonnes de fil de cuivre pour fabriquer des faisceaux électriques destinés à un constructeur européen. Elle choisit l'ATPA : les droits et taxes sont suspendus et le compte sera apuré par l'exportation des faisceaux, la traçabilité du cuivre dans les produits compensateurs étant assurée par ses nomenclatures de fabrication (CDII, art. 114-2° bis). Le même mois, elle fait venir un banc de test pour une démonstration de trois mois chez un client marocain : le régime adapté est l'admission temporaire, non l'ATPA, puisque le banc n'est pas transformé. Erreur à éviter : croire que la suspension la dispense des autorisations techniques ; si l'équipement relève de l'ANRT, l'autorisation reste exigible et BADR la réclamera (circ. 6164/313).",
+  "juris": "",
+  "conseil": "Choisissez le régime d'après la destination finale de la marchandise : stockage en attente de vente (entrepôt), transformation pour l'export (perfectionnement actif), usage temporaire d'un bien étranger (admission temporaire). Avant toute importation, vérifiez que la marchandise ne figure pas parmi les exclusions de l'article 115 et listez les visas techniques qui restent exigibles malgré la suspension. Pour les régimes de transformation, constituez dès le départ la preuve d'identification : nomenclatures de fabrication, fiches techniques, taux de déchets.",
+  "faq": [
+   [
+    "Un régime suspensif dispense-t-il des visas techniques et des normes ?",
+    "Non. La suspension porte sur les droits et taxes et, en principe, sur les prohibitions et restrictions quantitatives (CDII, art. 114-2°), mais les formalités des réglementations particulières non suspendues (ONSSA, ANRT, etc.) restent exigibles (circ. 6164/313 du 09/02/2021)."
+   ],
+   [
+    "Quelle différence entre un régime suspensif et le drawback ?",
+    "Le régime suspensif évite le paiement des droits à l'entrée ; le drawback rembourse, sur une base forfaitaire, certains droits déjà perçus sur des matières étrangères incorporées dans des marchandises exportées (CDII, art. 114-3°)."
+   ],
+   [
+    "Des armes ou munitions peuvent-elles être placées sous régime suspensif ?",
+    "En principe non : elles sont exclues de tous les régimes économiques, sauf lorsqu'elles sont destinées à l'armée ou à des fabricants autorisés au titre de la loi 10-20 (CDII, art. 115)."
+   ]
+  ],
+  "renvois": [
+   "7-002",
+   "7-003",
+   "7-004",
+   "7-010",
+   "7-020",
+   "7-030",
+   "7-040",
+   "7-050",
+   "7-060",
+   "6-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "oui"
+ },
+ {
+  "id": "7-002",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Accès aux régimes économiques en douane : autorisation, acquit à caution et engagement du soumissionnaire",
+  "enbref": "Depuis le 19/02/2021, la souscription de la déclaration sous régime économique vaut demande et la mainlevée vaut autorisation ; l'acquit à caution engage solidairement le soumissionnaire et sa caution, et le soumissionnaire répond pénalement de son exécution. Exception à retenir : depuis le 15/02/2024, une société qui opère pour la première fois en ATPA, TSD ou EIF doit d'abord obtenir une autorisation après enquête d'outillage.",
+  "textes": [
+   "CDII, art. 116-1° à 3°",
+   "CDII, art. 78 bis",
+   "CDII, art. 222-c",
+   "Circulaire ADII n° 6164/313 du 09/02/2021",
+   "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+   "Circulaire ADII n° 6348/313 du 06/07/2022",
+   "Circulaire ADII n° 6538/313 du 06/02/2024",
+   "Circulaire ADII n° 5496/400 du 13/01/2015"
+  ],
+  "principe": "Toute marchandise placée sous régime suspensif est couverte par un acquit à caution, établi sur la formule de déclaration en détail ou simplifiée, ou par un document international conventionnel (CDII, art. 116-1°). Cet acte, public et authentique, contient l'engagement solidaire du soumissionnaire et de sa caution (art. 116-2°) ; des arrêtés peuvent dispenser certains utilisateurs de l'acquit ou de la caution (art. 116-3°). En cas d'inexécution des engagements, le soumissionnaire est pénalement responsable (art. 222-c). Depuis la circulaire n° 6164/313 (effet au 19/02/2021), la souscription d'une déclaration sous régime économique vaut demande implicite et la mainlevée vaut autorisation ; l'autorisation générale d'opérer est supprimée. Les conditions d'éligibilité restent applicables : la signature de la déclaration vaut déclaration de conformité, et une opération non autorisée expose à l'annulation de la déclaration (art. 78 bis).",
+  "admin": "La note D885/21/ADII/100 impose à l'inspecteur de contrôler les éléments d'assiette fixant les engagements (espèce, valeur, origine, quantité, unité) et de redresser au besoin la date d'échéance du compte ; l'éligibilité est contrôlée a posteriori. La circulaire n° 6348/313 étend la suppression des autorisations mais rétablit celle du régime 241 et maintient une liste d'autorisations (annexe II). La circulaire n° 6538/313 réinstaure provisoirement, à compter du 15/02/2024, une autorisation préalable après enquête d'outillage pour les nouvelles sociétés opérant en perfectionnement actif, transformation sous douane ou entrepôt industriel franc ; la demande, déposée une seule fois, est examinée sous huitaine. La circulaire n° 5496/400 précise que le mandat du transitaire doit viser expressément la souscription des acquits à caution et ne décharge pas le soumissionnaire.",
+  "donnees": [
+   [
+    "Titre couvrant l'opération",
+    "Acquit à caution, sur formule de déclaration en détail ou simplifiée (CDII, art. 116-1°)"
+   ],
+   [
+    "Autorisation de droit commun",
+    "Mainlevée de la déclaration, depuis le 19/02/2021 (circ. 6164/313 du 09/02/2021)"
+   ],
+   [
+    "Enquête d'outillage",
+    "Nouvelles sociétés en ATPA, TSD ou EIF, depuis le 15/02/2024 ; ATPA des artisans exclue (circ. 6538/313 du 06/02/2024)"
+   ],
+   [
+    "Délai d'examen",
+    "Huitaine, par les structures régionales gérant les comptes RED (circ. 6538/313)"
+   ],
+   [
+    "Sociétés non outillées (sous-traitance locale)",
+    "Demande examinée par le service central des RED (circ. 6538/313)"
+   ]
+  ],
+  "cas": "Nova Textile SARL, société fictive créée en mars 2026 à Fès, veut importer 15 000 mètres de tissu sous ATPA pour confectionner des vestes destinées à un client allemand. N'ayant jamais opéré en ATPA, elle dépose d'abord la demande d'outillage, avec la liste de ses 60 machines à coudre et son taux de déchets estimé. Après enquête concluante, l'accès au régime est ouvert dans BADR et vaut pour tous les bureaux ouverts à l'ATPA (circ. 6538/313). Erreur à éviter : souscrire directement la déclaration en se fiant à la seule circulaire de 2021 ; une opération non autorisée expose à l'annulation de la déclaration (CDII, art. 78 bis).",
+  "juris": "",
+  "conseil": "Pièces de la demande d'outillage (circulaire n° 6538/313) :\n- formulaire « Demande d'opérer sous RED de transformation », registre de commerce, adresses ;\n- description des intrants, de la transformation et des produits compensateurs ;\n- modalités d'apurement, taux de déchets et caractère récupérable ;\n- liste des matériels (quantité, valeur, état, origine, justificatifs) ou, à défaut d'outillage, liste des sous-traitants locaux.\nDès la mainlevée, contrôlez la date d'échéance inscrite au compte.",
+  "faq": [
+   [
+    "Mon transitaire peut-il souscrire l'acquit à caution à ma place ?",
+    "Oui, si son mandat vise expressément la souscription des acquits à caution ; ce mandat ne vous décharge pas de vos engagements de soumissionnaire (circ. 5496/400 du 13/01/2015)."
+   ],
+   [
+    "Une société qui opère déjà en ATPA doit-elle déposer la demande d'outillage ?",
+    "Non, la procédure vise les nouvelles sociétés ; les autres continuent d'opérer, le service gestionnaire pouvant contrôler à tout moment leur éligibilité (circ. 6538/313 du 06/02/2024)."
+   ],
+   [
+    "Faut-il renouveler la demande pour chaque bureau de douane ?",
+    "Non. La demande est déposée une seule fois et permet ensuite de déclarer dans tous les bureaux ouverts aux régimes autorisés (circ. 6538/313)."
+   ]
+  ],
+  "renvois": [
+   "7-001",
+   "7-003",
+   "7-007",
+   "7-011",
+   "7-050",
+   "3-020",
+   "3-023",
+   "1-032",
+   "1-033",
+   "9-013"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-003",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Garantie des droits suspendus sous régime économique : caution, consignation et cautionnement global",
+  "enbref": "Les droits suspendus sont garantis par une caution solidaire, remplaçable par une consignation plafonnée aux droits exigibles, par une autre garantie agréée ou par un cautionnement global identifié par son numéro d'agrément. La banque valide sa caution électroniquement sur BADR, et elle peut limiter son engagement aux sommes cautionnées : intérêts et pénalités restent alors à la charge de l'entreprise.",
+  "textes": [
+   "CDII, art. 116-2°, 3° et 4°",
+   "CDII, art. 117",
+   "CDII, art. 230",
+   "CDII, art. 78 bis-2° p",
+   "Arrêté du ministre des finances n° 913-15 du 06/03/2015, art. 7 (cité par circ. 5724/300)",
+   "Circulaire ADII n° 5712/300 du 03/10/2017",
+   "Circulaire ADII n° 5724/300 du 28/11/2017",
+   "Note ADII n° 12014/313 du 13/09/2011"
+  ],
+  "principe": "La caution s'engage solidairement avec le soumissionnaire dans l'acquit à caution (CDII, art. 116-2°). Elle peut être remplacée par une consignation, plafonnée au montant des droits et taxes exigibles, ou par toute autre garantie agréée ; en cas de cautionnement global, la seule mention du numéro d'agrément vaut engagement (art. 116-4°). Les cautions sont solidairement tenues des droits, taxes et pénalités du redevable cautionné, mais les cautions bancaires ou d'assurance en régime économique peuvent limiter leur engagement aux sommes cautionnées, les intérêts et pénalités restant à la charge du principal obligé (art. 230). La consignation est intégralement remboursée au vu du certificat de décharge (art. 117). Une déclaration déposée sans production de la caution peut être annulée sur demande (art. 78 bis-2° p). Des dispenses de caution peuvent être accordées par arrêté (art. 116-3°) ; la note n° 12014/313 cite ainsi l'arrêté du 24 août 2000 dispensant de caution les importations sans paiement réalisées en sous-traitance pour des donneurs d'ordres étrangers.",
+  "admin": "Depuis la circulaire n° 5712/300, la banque valide électroniquement son cautionnement sur BADR ; à défaut, le dépôt de la déclaration est bloqué. La circulaire n° 5724/300 a supprimé le visa papier de la banque à compter du 04/12/2017 : la validation électronique vaut engagement solidaire de la banque (arrêté n° 913-15, art. 7), et tout redressement de la déclaration doit être revalidé par l'agence bancaire.",
+  "donnees": [
+   [
+    "Garanties admises",
+    "Caution, consignation, autre garantie agréée, cautionnement global (CDII, art. 116-4°)"
+   ],
+   [
+    "Plafond de la consignation",
+    "Montant des droits et taxes exigibles (CDII, art. 116-4°)"
+   ],
+   [
+    "Validation de la caution bancaire",
+    "Électronique sur BADR ; visa papier supprimé au 04/12/2017 (circ. 5724/300 du 28/11/2017)"
+   ],
+   [
+    "Étendue de l'engagement bancaire",
+    "Limitable aux sommes cautionnées ; intérêts et pénalités à la charge du principal obligé (CDII, art. 230)"
+   ],
+   [
+    "Restitution de la consignation",
+    "Intégrale, au vu du certificat de décharge (CDII, art. 117)"
+   ]
+  ],
+  "cas": "Medi Plast SA, société fictive de Casablanca, place en entrepôt de douane des granulés dont les droits et taxes suspendus s'élèvent à 420 000 DH. Sa banque valide la caution sur BADR et la déclaration est enregistrée. Le service redresse ensuite la valeur déclarée, ce qui porte les droits à 465 000 DH : l'agence bancaire doit revalider la caution avant la mainlevée (circ. 5724/300). Erreur à éviter : compter sur la banque pour payer les intérêts de retard si le compte arrive à échéance sans apurement ; lorsque son engagement est limité aux sommes cautionnées, ils restent dus par l'entreprise (CDII, art. 230).",
+  "juris": "",
+  "conseil": "Faites valider la caution par votre banque avant de déposer la déclaration et après chaque redressement : une validation manquante bloque la mainlevée, souvent un vendredi soir. Dimensionnez la garantie sur l'encours maximal de comptes ouverts, pas sur la moyenne. Gardez à l'esprit que la caution bancaire ne couvre pas les intérêts et pénalités : un compte échu reste une dette propre de l'entreprise. Enfin, une garantie bancaire ou une consignation n'est qu'un point de départ : l'accès aux facilités de cautionnement se prépare dès les premières opérations.",
+  "faq": [
+   [
+    "Puis-je consigner les droits au lieu de fournir une caution bancaire ?",
+    "Oui. La consignation, plafonnée au montant des droits et taxes exigibles, remplace la caution (CDII, art. 116-4°) et est intégralement remboursée au vu du certificat de décharge (art. 117)."
+   ],
+   [
+    "Que se passe-t-il si la banque n'a pas validé la caution sur BADR ?",
+    "Le dépôt de la déclaration est bloqué (circ. 5712/300 du 03/10/2017) ; une déclaration déposée sans production de la caution peut être annulée sur demande (CDII, art. 78 bis-2° p)."
+   ],
+   [
+    "Existe-t-il des dispenses de caution ?",
+    "Oui, par arrêté (CDII, art. 116-3°), notamment pour les importations sans paiement réalisées en sous-traitance pour des donneurs d'ordres étrangers (note 12014/313 du 13/09/2011, citant l'arrêté du 24 août 2000)."
+   ]
+  ],
+  "renvois": [
+   "7-002",
+   "7-004",
+   "7-005",
+   "7-006",
+   "4-042",
+   "6-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-004",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Apurement des comptes sous régime économique en douane et certificat de décharge",
+  "enbref": "Chaque opération sous régime économique ouvre un compte, apuré globalement ou par apurements partiels au moyen de fiches d'imputation jointes aux déclarations de sortie. Seul le certificat de décharge, désormais délivré sous forme électronique, libère le soumissionnaire et sa caution, sans faire obstacle à la constatation ultérieure d'infractions.",
+  "textes": [
+   "CDII, art. 116 bis, 116 ter, 116 quater et 117",
+   "CDII, art. 234-2°",
+   "Décret n° 2-77-862, art. 104, 107, 108 et 109",
+   "Circulaire ADII n° 6398/210 du 29/12/2022 (LF 2023)",
+   "Circulaire ADII n° 6052/300 du 27/05/2020",
+   "Circulaire ADII n° 5458/313 du 23/07/2014",
+   "Circulaire ADII n° 6221/313 du 16/08/2021",
+   "Circulaire ADII n° 6195/312 du 18/05/2021"
+  ],
+  "principe": "Chaque opération donne lieu à un compte, annoté des quantités placées sous le régime et de celles qui en sortent (décret n° 2-77-862, art. 104 pour le perfectionnement actif). Le compte s'apure globalement ou par apurements partiels successifs (art. 108), au moyen de fiches d'imputation jointes aux déclarations de sortie (art. 107). Le certificat de décharge libère définitivement le soumissionnaire et la caution ; les certificats partiels libèrent à proportion des quantités apurées (CDII, art. 117, modifié par la LF 2023 pour permettre leur délivrance dématérialisée selon la circulaire n° 6398/210). L'administration et le soumissionnaire tiennent des écritures de suivi des marchandises placées, des produits compensateurs et des déchets (art. 116 ter) ; une convention peut fixer les éléments d'apurement lorsque les opérations sont fréquentes (art. 116 quater). Les marchandises détruites par force majeure naturelle justifiée avant échéance sont exonérées, de même que les soldes échus inférieurs à 500 dirhams (art. 116 bis). La décharge sans observation n'empêche pas la constatation ultérieure d'infractions (art. 234-2°).",
+  "admin": "La circulaire n° 6052/300 notifie à la banque caution un certificat de décharge électronique (PDF) ayant la valeur du papier ; la banque libère l'opérateur sans délai à hauteur de la valeur déchargée. La circulaire n° 5458/313 impose de régulariser les déchets taxables pendant la validité du compte (exportation, cession ou mise à la consommation), faute de quoi les droits sont liquidés d'office. Les circulaires n° 6195/312 et n° 6221/313 organisent l'imputation des comptes sur la déclaration provisionnelle : un seul compte par dossier, ouvert à la date de la première sous-déclaration.",
+  "donnees": [
+   [
+    "Mode d'apurement",
+    "Global ou par apurements partiels successifs (décret n° 2-77-862, art. 108)"
+   ],
+   [
+    "Pièce d'imputation",
+    "Fiche jointe à la déclaration de sortie (décret n° 2-77-862, art. 107)"
+   ],
+   [
+    "Effet du certificat de décharge",
+    "Libération définitive ; certificat partiel à proportion des quantités apurées (CDII, art. 117)"
+   ],
+   [
+    "Soldes échus exonérés",
+    "Valeur inférieure à 500 DH (CDII, art. 116 bis-2°)"
+   ],
+   [
+    "Certificat électronique",
+    "PDF notifié à la banque, même valeur que le papier (circ. 6052/300 du 27/05/2020)"
+   ],
+   [
+    "Déchets taxables",
+    "Régularisés pendant la validité du compte, sinon liquidation d'office (circ. 5458/313 du 23/07/2014)"
+   ]
+  ],
+  "cas": "Sahel Cuir SARL, société fictive de Marrakech, a placé sous ATPA un lot de peaux pour fabriquer des sacs exportés vers la France. Elle expédie les sacs en quatre envois et joint à chaque déclaration d'exportation une fiche d'imputation : quatre apurements partiels, chacun libérant la caution à proportion (CDII, art. 117). Il reste 300 kg de chutes de cuir taxables : l'entreprise les régularise par mise à la consommation avant l'échéance, puis obtient le certificat de décharge. Erreur à éviter : laisser ces chutes en stock au-delà de l'échéance du compte ; les droits seraient liquidés d'office (circ. 5458/313).",
+  "juris": "",
+  "conseil": "Imputez le compte à chaque exportation plutôt qu'en fin de période, et rapprochez chaque mois le sommier BADR de votre comptabilité matières. Les déchets taxables non régularisés sont, selon l'ADII elle-même, la première cause de blocage des certificats de décharge : traitez-les au fil de l'eau. Vérifiez que votre banque a bien reçu chaque certificat électronique et réduit l'encours. Conservez les pièces d'apurement après décharge, l'administration pouvant revenir sur l'opération.",
+  "faq": [
+   [
+    "Un petit solde résiduel bloque-t-il la décharge de mon compte ?",
+    "Non s'il est inférieur à 500 dirhams : les soldes de comptes échus non régularisés sous ce seuil sont exonérés (CDII, art. 116 bis-2°)."
+   ],
+   [
+    "Ma banque doit-elle attendre un certificat papier pour réduire mon encours ?",
+    "Non. Le certificat électronique notifié à la banque a la valeur du papier, et la banque doit libérer l'opérateur sans délai à hauteur de la valeur déchargée (circ. 6052/300 du 27/05/2020)."
+   ],
+   [
+    "Les marchandises détruites par une inondation restent-elles taxables ?",
+    "Non si la force majeure naturelle est dûment justifiée et survenue avant l'expiration du délai de séjour (CDII, art. 116 bis-1°)."
+   ]
+  ],
+  "renvois": [
+   "7-003",
+   "7-006",
+   "7-014",
+   "7-022",
+   "7-043",
+   "7-052",
+   "9-003"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-005",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Facilités de cautionnement sous régimes économiques en douane : schéma progressif et conditions d'accès",
+  "enbref": "L'ADII accorde ses facilités de cautionnement selon un schéma progressif : caution bancaire ou consignation, puis cautionnement mixte (20 % garantis, 80 % sur engagement), puis dispense de caution ou cautionnement sur engagement des entreprises exportatrices. Depuis le 01/01/2026, la circulaire n° 6707/313 consolide ces facilités et resserre la suspension pour non-utilisation à trois mois.",
+  "textes": [
+   "Note ADII n° 8250/313 du 11/06/2009",
+   "Note ADII n° 12014/313 du 13/09/2011",
+   "Guide ADII « Facilités de cautionnement sous RED » du 03/02/2020",
+   "Note ADII n° D1101/20/ADII/100 du 03/02/2020 (citée par le guide ADII « Facilités de cautionnement sous RED »)"
+  ],
+  "principe": "Les facilités de cautionnement obéissent à un schéma progressif (note n° 12014/313). L'entreprise couvre d'abord ses opérations par caution bancaire ou consignation. Elle peut ensuite obtenir le cautionnement mixte : 20 % des droits et taxes couverts par la banque ou consignés, 80 % par son engagement personnel. En troisième lieu, elle accède soit à la dispense de caution pour les intrants restant propriété d'un donneur d'ordres étranger (lettre de confort exigée), soit au cautionnement sur engagement des entreprises exportatrices : capital social d'au moins 500 000 DH et chiffre d'affaires à l'export de 10 000 000 DH sur l'exercice écoulé ou douze mois glissants, valeur des intrants sans paiement incluse (note n° 12014/313 du 13/09/2011). Les sociétés en zones franches accèdent directement au cautionnement sur engagement. Le plafond est fixé à 30 % de la valeur des importations sous RED de l'année écoulée, l'avenant de délégation d'assurance devant atteindre au moins 20 % de cette valeur ; en zone franche ou zone d'accélération industrielle, il est égal au 1/52e des flux des 52 dernières semaines, avec un plancher de 100 000 DH (guide ADII du 03/02/2020).",
+  "admin": "Une commission d'agrément, réunie chaque jeudi, statue par octroi, ajournement ou rejet. Pour les zones d'accélération industrielle, la décision est déléguée de façon permanente aux directeurs régionaux, interrégionaux et des ports depuis la note n° D1101/20/ADII/100. La facilité est suspendue en cas de comptes échus non régularisés, de contentieux grave non réglé, de résiliation de la délégation d'assurance ou de non-utilisation pendant six mois ; elle est annulée en cas de défaillance, de liquidation judiciaire ou de suspension de plus d'un an.",
+  "donnees": [
+   [
+    "Cautionnement mixte",
+    "20 % banque ou consignation, 80 % engagement personnel ; accès après au moins 3 mois sous RED et 10 opérations et/ou 2 MDH (circ. 6707/313 du 31/12/2025)"
+   ],
+   [
+    "Cautionnement sur engagement des exportateurs",
+    "CA export ≥ 10 MDH, capital ≥ 500 000 DH, caution mixte détenue depuis au moins 6 mois (circ. 6707/313)"
+   ],
+   [
+    "Plafond",
+    "30 % de la valeur des opérations sous RED de l'exercice précédent ; illimité pour les OEA Sécurité-Sûreté ou Simplification douanière classe A (circ. 6707/313)"
+   ],
+   [
+    "Avenant de délégation d'assurance",
+    "Au moins 20 % de la valeur des opérations sous RED de l'exercice précédent (circ. 6707/313)"
+   ],
+   [
+    "Délai de traitement du dossier",
+    "30 jours (circ. 6707/313)"
+   ],
+   [
+    "Suspension et résiliation",
+    "Suspension après 3 mois de non-utilisation ; résiliation si suspension de plus d'un an (circ. 6707/313)"
+   ]
+  ],
+  "cas": "Fès Mécanique SARL, société fictive au capital de 800 000 DH, opère en ATPA depuis janvier 2025 sous caution bancaire. Après plus de trois mois et une quarantaine d'opérations, elle obtient le cautionnement mixte. En 2026, son chiffre d'affaires export atteint 12 MDH ; six mois après l'octroi de la caution mixte, elle demande le cautionnement sur engagement. Ses opérations sous RED de 2025 s'élevant à 40 MDH, son plafond est de 12 MDH (30 %) et l'avenant de délégation d'assurance doit couvrir au moins 8 MDH (20 %) (circ. 6707/313). Erreur à éviter : déposer avec un compte échu non régularisé, motif de suspension de la facilité (note 12014/313 du 13/09/2011).",
+  "juris": "",
+  "conseil": "Pièces du dossier commun (guide ADII du 03/02/2020) :\n- formulaire légalisé, statuts, registre de commerce modèle J ;\n- déclaration sur l'honneur et liste du matériel ;\n- PV de la dernière AG et du conseil, liasse fiscale authentifiée ou bilan de démarrage ;\n- police d'assurance incendie-explosion et avenant de délégation au profit de l'ADII ;\n- pièces d'identité des associés, spécimens de signature.\nNettoyez vos comptes échus avant de déposer.",
+  "faq": [
+   [
+    "Une société en zone franche doit-elle passer par le cautionnement mixte ?",
+    "Non. Elle accède directement, dès le démarrage de son activité, au cautionnement sur engagement des entreprises exportatrices installées en zone franche (note 12014/313 du 13/09/2011)."
+   ],
+   [
+    "Combien de temps l'ADII met-elle pour traiter une demande ?",
+    "Le délai de traitement des dossiers est de 30 jours (circ. 6707/313 du 31/12/2025, applicable au 01/01/2026)."
+   ],
+   [
+    "Ma facilité peut-elle être retirée si je ne l'utilise pas ?",
+    "Oui : elle est suspendue automatiquement après 3 mois de non-utilisation et résiliée si la suspension dépasse un an (circ. 6707/313). Les textes antérieurs retenaient six mois de non-utilisation (note 8250/313 du 11/06/2009)."
+   ]
+  ],
+  "renvois": [
+   "7-003",
+   "7-006",
+   "4-042",
+   "7-070",
+   "8-001"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-006",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Comptes sous régime économique échus ou non apurés : régularisation, liquidation d'office et sanctions",
+  "enbref": "À l'échéance d'un compte non apuré, le soumissionnaire répond pénalement de l'inexécution de ses engagements, la caution est appelée dans les limites de son engagement, et l'abus volontaire d'un régime suspensif constitue une contravention de première classe. Un compte échu suspend aussi les facilités de cautionnement : la régularisation doit être demandée à temps, auprès de l'autorité compétente.",
+  "textes": [
+   "CDII, art. 222-c et 230",
+   "CDII, art. 285-8° et 286",
+   "CDII, art. 234-2°",
+   "Circulaire ADII n° 5458/313 du 23/07/2014",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, annexes I et II",
+   "Circulaire ADII n° 6087/313 du 09/09/2020",
+   "Note ADII n° 12014/313 du 13/09/2011"
+  ],
+  "principe": "À l'échéance, l'inexécution des engagements engage la responsabilité pénale du soumissionnaire (CDII, art. 222-c) et la responsabilité solidaire de la caution dans les limites de l'article 230. Tout abus volontaire des régimes suspensifs constitue une contravention de première classe (art. 285-8°) ; l'article 286 définit ces abus régime par régime : vente ou cession non autorisée, substitution, détournement d'usage, décharge obtenue abusivement. La délivrance d'un certificat de décharge sans observation ne fait pas obstacle à la constatation ultérieure de ces infractions (art. 234-2°). Pour les déchets taxables non régularisés à l'échéance, la circulaire n° 5458/313 prévoit la liquidation d'office des droits et leur recouvrement par toutes voies de droit.",
+  "admin": "La circulaire n° 6348/313 confie aux directeurs provinciaux, préfectoraux et des importations-exportations l'autorisation d'exportation hors délai en suite d'ATPA, d'AT, d'EIF et d'EPP, et réserve à l'Administration centrale la prorogation au-delà du délai réglementaire ainsi que la régularisation par destruction ou abandon. Elle dispense d'amende certaines mises à la consommation dans la limite de 15 % des quantités exportées sous ATPA ou du chiffre d'affaires export de l'EIF. Le barème de 5 % et 10 % de la circulaire n° 6087/313 était une mesure liée à la COVID-19, valable jusqu'au 31/12/2020 : il ne peut plus être invoqué. Les comptes échus entraînent en outre la suspension des facilités de cautionnement (note n° 12014/313).",
+  "donnees": [
+   [
+    "Qualification de l'abus volontaire",
+    "Contravention de première classe (CDII, art. 285-8° et 286)"
+   ],
+   [
+    "Exportation hors délai (ATPA, AT, EIF, EPP)",
+    "Directeurs provinciaux, préfectoraux et des importations-exportations (circ. 6348/313 du 06/07/2022, annexe II)"
+   ],
+   [
+    "Prorogation au-delà du délai réglementaire",
+    "Administration centrale (circ. 6348/313, annexe II)"
+   ],
+   [
+    "Destruction ou abandon en exonération",
+    "Administration centrale (circ. 6348/313, annexe II)"
+   ],
+   [
+    "Imputation a posteriori d'un compte en cours ou échu",
+    "Ordonnateurs (circ. 6348/313, annexe II)"
+   ],
+   [
+    "Mise à la consommation dispensée d'amende",
+    "Dans la limite de 15 % des quantités exportées sous ATPA ou du CA export annuel de l'EIF (circ. 6348/313, annexe I)"
+   ]
+  ],
+  "cas": "Atlantic Meubles SARL, société fictive d'Agadir, a importé sous ATPA du bois pour une commande française. Le client réduit sa commande et, à l'échéance du compte, une partie du bois reste en stock sans avoir été exportée. Faute d'avoir demandé à temps une prorogation à l'Administration centrale, l'entreprise sollicite auprès de son directeur provincial l'autorisation d'exporter hors délai le bois vers un autre client étranger (circ. 6348/313, annexe II). Erreur à éviter : laisser dormir le compte échu en attendant un contrôle ; il suspend ses facilités de cautionnement (note 12014/313) et la décharge obtenue plus tard n'empêche pas de constater l'infraction (CDII, art. 234-2°).",
+  "juris": "",
+  "conseil": "Installez une alerte à J-60 de chaque échéance : la prorogation et l'exportation hors délai relèvent d'autorités différentes et demandent un dossier motivé. Ne laissez jamais un compte échu en attente : il suspend toutes vos facilités de cautionnement, donc votre trésorerie. En cas de contrôle, la décharge déjà obtenue ne vous protège pas ; seule une comptabilité matières cohérente avec les imputations le fait.",
+  "faq": [
+   [
+    "Puis-je encore invoquer le barème réduit de 5 % et 10 % de 2020 ?",
+    "Non. Ce barème était une mesure liée à la COVID-19, valable jusqu'au 31/12/2020 (circ. 6087/313 du 09/09/2020)."
+   ],
+   [
+    "Qui autorise l'exportation après l'échéance du compte ?",
+    "Les directeurs provinciaux, préfectoraux et des importations-exportations pour l'ATPA, l'AT, l'EIF et l'EPP ; la prorogation au-delà du délai réglementaire relève de l'Administration centrale (circ. 6348/313, annexe II)."
+   ],
+   [
+    "La banque caution paiera-t-elle les pénalités ?",
+    "Pas nécessairement : en régime économique, la caution bancaire ou d'assurance peut limiter son engagement aux sommes cautionnées, intérêts et pénalités restant à la charge du principal obligé (CDII, art. 230)."
+   ]
+  ],
+  "renvois": [
+   "7-004",
+   "7-005",
+   "7-013",
+   "9-010",
+   "9-012",
+   "9-013",
+   "9-030"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ },
+ {
+  "id": "7-007",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Dispositions communes",
+  "t": "Cession de marchandises sous régime économique en douane : transfert des engagements au cessionnaire",
+  "enbref": "Une marchandise sous régime suspensif ne peut être cédée qu'avec l'autorisation de l'administration et un acquit à caution portant l'accord du cédant et l'engagement solidaire du cessionnaire et de sa caution. Le cédant reste engagé tant que l'administration n'a pas accepté l'engagement du cessionnaire.",
+  "textes": [
+   "CDII, art. 116-5° et 6°",
+   "CDII, art. 78 bis-2° h",
+   "Circulaire ADII n° 5496/400 du 13/01/2015",
+   "Circulaire ADII n° 6164/313 du 09/02/2021, annexe I",
+   "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+  ],
+  "principe": "La cession de marchandises placées sous régime suspensif est subordonnée à l'autorisation de l'administration et à un acquit à caution comportant l'accord du cédant et l'engagement solidaire du cessionnaire et de sa caution. La responsabilité du cédant ne cesse qu'après acceptation de cet engagement par l'administration (CDII, art. 116-5°). Des conditions particulières peuvent être fixées par arrêté pour des raisons économiques ou sectorielles (art. 116-6°). Lorsque la cession n'a pu aboutir, la déclaration peut être annulée à la demande du déclarant, avec l'accord du cédant et du cessionnaire, sauf impossibilité justifiée, et à condition qu'aucun certificat de décharge n'ait été délivré (art. 78 bis-2° h).",
+  "admin": "La circulaire n° 5496/400 exige que le mandat du transitaire mentionne expressément l'acceptation de cession pour être opposable. La circulaire n° 6164/313 (annexe I) réduit à un an le délai en cas de cession de produits compensateurs d'ATPA lorsque le reliquat de validité est inférieur à douze mois. La circulaire n° 6348/313 (annexe II) soumet à autorisation de l'ordonnateur la sous-traitance entre industriels en dispense des formalités de cession.",
+  "donnees": [
+   [
+    "Conditions de la cession",
+    "Autorisation de l'administration et acquit à caution signé du cédant, du cessionnaire et de sa caution (CDII, art. 116-5°)"
+   ],
+   [
+    "Fin de responsabilité du cédant",
+    "Acceptation par l'administration de l'engagement du cessionnaire (CDII, art. 116-5°)"
+   ],
+   [
+    "Cession en l'état sous ATPA",
+    "Comptes en cours de validité non échus uniquement (circ. 6164/313 du 09/02/2021, annexe II)"
+   ],
+   [
+    "Délai après cession de produits compensateurs d'ATPA",
+    "1 an si le reliquat de validité est inférieur à 12 mois (circ. 6164/313, annexe I)"
+   ],
+   [
+    "Sous-traitance entre industriels sans formalités de cession",
+    "Autorisation de l'ordonnateur (circ. 6348/313 du 06/07/2022, annexe II)"
+   ],
+   [
+    "Annulation d'une cession avortée",
+    "À la demande du déclarant, avec l'accord des parties, avant tout certificat de décharge (CDII, art. 78 bis-2° h)"
+   ]
+  ],
+  "cas": "Kénitra Plastiques SARL, société fictive, a importé sous ATPA 200 tonnes de polypropylène et décide d'en céder 50 tonnes en l'état à Rabat Emballages SA, elle aussi exportatrice. Le compte d'origine est encore valide pour sept mois. L'acquit est signé par le cédant, le cessionnaire et la banque de ce dernier, qui valide sa caution sur BADR ; l'administration accepte l'engagement et le compte du cédant est imputé (CDII, art. 116-5°). Rabat Emballages reprend des obligations dont le délai est déjà entamé. Erreur à éviter : livrer la marchandise avant l'acceptation de l'administration ; jusque-là, Kénitra Plastiques reste seule engagée.",
+  "juris": "",
+  "conseil": "Étapes d'une cession sécurisée :\n1. vérifier que le cessionnaire est éligible au régime et dispose d'une caution ou d'une facilité couvrant le montant ;\n2. faire signer l'acquit par le cédant, le cessionnaire et sa caution, et faire valider la caution sur BADR ;\n3. obtenir l'acceptation de l'administration et vérifier l'imputation au compte du cédant ;\n4. conserver la preuve d'acceptation : sans elle, le cédant reste engagé.\nContrôlez aussi le délai restant du compte d'origine : le cessionnaire en hérite.",
+  "faq": [
+   [
+    "Peut-on céder des marchandises d'un compte d'ATPA déjà échu ?",
+    "Non pour une cession en l'état : elle n'est admise que pour des comptes en cours de validité non échus (circ. 6164/313 du 09/02/2021, annexe II)."
+   ],
+   [
+    "Mon transitaire peut-il accepter la cession au nom du cessionnaire ?",
+    "Oui, si son mandat mentionne expressément l'acceptation de cession ; à défaut, elle n'est pas opposable (circ. 5496/400 du 13/01/2015)."
+   ],
+   [
+    "Que faire si la cession n'aboutit pas après dépôt de la déclaration ?",
+    "La déclaration peut être annulée à la demande du déclarant, avec l'accord du cédant et du cessionnaire sauf impossibilité justifiée, tant qu'aucun certificat de décharge n'a été délivré (CDII, art. 78 bis-2° h)."
+   ]
+  ],
+  "renvois": [
+   "7-002",
+   "7-003",
+   "7-004",
+   "7-013",
+   "1-032",
+   "1-033"
+  ],
+  "maj": "2026-10-03",
+  "verif": "partiel"
+ }
+]
