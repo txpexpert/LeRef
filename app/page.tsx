@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { listeBases } from "@/lib/contenu";
 import { SITE } from "@/lib/config";
+import { listeDossiers, lienDossier } from "@/lib/dossiers";
 
 export default async function Accueil() {
-  const bases = await listeBases();
+  const [bases, dossiers] = await Promise.all([listeBases(), listeDossiers()]);
   const premier = bases[0]?.slug;
   return (
     <>
@@ -18,27 +19,30 @@ export default async function Accueil() {
               <button className="btn laiton" type="submit">Rechercher</button>
             </form>
           )}
+          <h2 className="couv-titre" id="dossiers">Choisissez un domaine</h2>
+          <ul className="couvertures" aria-labelledby="dossiers">
+            {dossiers.map((d) => {
+              const contenu = (
+                <>
+                  <span className="couv-img">
+                    {d.couverture
+                      ? <img src={d.couverture} width={640} height={905} alt={`Couverture — ${d.titre}`} loading="lazy" />
+                      : <span className="couv-vide">{d.titre}</span>}
+                  </span>
+                  <span className="couv-nom">{d.court}<span className="etat">{d.disponible ? "Disponible" : "Bientôt"}</span></span>
+                </>
+              );
+              return (
+                <li key={d.slug}>
+                  {d.disponible
+                    ? <Link className="couv" href={lienDossier(d)} title={d.titre}>{contenu}</Link>
+                    : <div className="couv bientot" title={`${d.titre} — prochainement`}>{contenu}</div>}
+                </li>
+              );
+            })}
+          </ul>
         </div>
       </section>
-
-      <div className="titre-section"><h2>Nos guides</h2></div>
-      <div className="grille-3" style={{ marginBottom: 40 }}>
-        {bases.map((b) => (
-          <Link key={b.slug} className="guide-carte" href={`/${b.slug}`}>
-            <span className="etiquette">{b.sous_titre ?? "Guide"}</span>
-            <h3>{b.titre}</h3>
-            <p className="muet" style={{ margin: 0 }}>{b.description}</p>
-            <span className="btn secondaire petit" style={{ justifySelf: "start" }}>Consulter le sommaire</span>
-          </Link>
-        ))}
-        {bases.length < SITE.guidesPrevus && (
-          <div className="guide-carte a-venir">
-            <span className="etiquette">Prochainement</span>
-            <h3>{SITE.guidesPrevus - bases.length > 1 ? `${["", "", "Deux", "Trois", "Quatre", "Cinq", "Six"][SITE.guidesPrevus - bases.length] ?? SITE.guidesPrevus - bases.length} autres domaines` : "Un nouveau domaine"}</h3>
-            <p className="muet" style={{ margin: 0 }}>De nouveaux guides rejoignent la plateforme, avec la même méthode : paragraphes numérotés, sources citées, mises à jour tracées.</p>
-          </div>
-        )}
-      </div>
 
       <div className="titre-section"><h2>Ce que vous trouvez dans chaque paragraphe</h2></div>
       <div className="atouts" style={{ marginBottom: 40 }}>

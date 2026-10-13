@@ -1,11 +1,12 @@
 import Link from "next/link";
 import { contexte } from "@/lib/session";
-import { listeBases } from "@/lib/contenu";
 import { SITE } from "@/lib/config";
 import { modeLocal } from "@/lib/local";
+import { listeDossiers, lienDossier } from "@/lib/dossiers";
+import MenuThemes from "./MenuThemes";
 
 export default async function Entete() {
-  const [c, bases] = await Promise.all([contexte(), listeBases()]);
+  const [c, dossiers] = await Promise.all([contexte(), listeDossiers()]);
   const connecte = c.etat === "connecte";
   const local = modeLocal();
   return (
@@ -28,7 +29,7 @@ export default async function Entete() {
             <span><b>{SITE.nom}</b><small>Procédures et réglementation</small></span>
           </Link>
           <nav className="nav" aria-label="Guides">
-            {bases.map((b) => <Link key={b.slug} href={`/${b.slug}`}>{b.titre.replace(/^Guide des? /i, "").replace(/^./, (x) => x.toUpperCase())}</Link>)}
+            <MenuThemes themes={dossiers.map((d) => ({ slug: d.slug, court: d.court, titre: d.titre, href: d.disponible ? lienDossier(d) : null }))} />
             <Link href="/tarifs">Tarifs</Link>
           </nav>
           <div className="droite">

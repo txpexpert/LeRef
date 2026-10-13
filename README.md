@@ -1,8 +1,8 @@
 # Plateforme de guides pratiques — Maroc
 
 Site d'abonnement pour consulter des guides professionnels paragraphe par paragraphe.
-Premier guide : **Guide des procédures douanières**. La base est prévue pour accueillir
-d'autres guides (cinq domaines supplémentaires) sans modification du code.
+Premier guide : **Guide des procédures douanières**. La plateforme est organisée en **10 dossiers**
+(domaines), chacun représenté par sa couverture sur la page d'accueil ; les autres guides s'y ajoutent sans modification du code.
 
 **Pile technique** : Next.js 14 (App Router, TypeScript) sur Vercel · Supabase (Postgres + authentification).
 
@@ -12,6 +12,7 @@ d'autres guides (cinq domaines supplémentaires) sans modification du code.
 
 ```
 content/                      ← LE CONTENU (version de référence)
+  dossiers.json               ← les 10 dossiers de la page d'accueil : titre, couverture, guides rattachés
   bases.json                  ← liste des guides : titre, description, publié ou non, paragraphes en accès libre
   douane/
     00_PLAN_Guide.md          ← plan numéroté du guide (v3 : 171 paragraphes)
@@ -21,6 +22,7 @@ content/                      ← LE CONTENU (version de référence)
     logigrammes.json          ← index des figures : n°, titre, sources, paragraphe de rattachement
     figures/figure-NN.webp    ← images des logigrammes (jamais publiées en accès direct)
     modeles.json              ← modèles d'actes (M1 à M4) : usage, textes, modèle, pièces, vigilance, renvois
+public/couvertures/           ← couvertures des dossiers (webp, une par dossier)
 scripts/
   montage.ts                  ← contrôle + chargement du contenu dans Supabase
   impact.ts                   ← quels paragraphes citent un texte donné
@@ -181,15 +183,30 @@ paragraphes à l'ancien gabarit, sections du plan non rédigées.
 `/connexion` et `/inscription`, et une règle globale (par exemple 300 requêtes par
 minute et par adresse IP), ainsi que la protection contre les robots.
 
-## 6. Ajouter un nouveau guide
+## 6. Dossiers et nouveaux guides
 
-1. Ajoutez une entrée dans `content/bases.json` (`slug` court, ex. `fiscalite`).
-2. Créez `content/fiscalite/` avec son `00_PLAN_Guide.md` (même format que celui
-   de la douane) et un dossier `chapitres/`.
-3. Lancez `npm run montage -- fiscalite` : le guide apparaît dans le menu dès que
-   `publie` vaut `true`.
-4. Créez les formules correspondantes dans la table `plans` (champ `bases` :
-   `{fiscalite}`, ou `{*}` pour une formule tous guides).
+La page d'accueil affiche les **10 dossiers** (`content/dossiers.json`) sous forme de couvertures :
+douane, fiscalité, changes, investissements, financements, bancaire, sociétés et travail, immobilier,
+urbanisme, tourisme. Un dossier est « Disponible » (couverture cliquable) dès qu'un guide qui lui est
+rattaché est publié ; sinon il s'affiche « Bientôt ». Un dossier à guide unique mène directement au
+sommaire du guide ; un dossier à plusieurs guides ouvre la page `/dossier/<slug>`.
+
+Les dossiers `content/<slug>/` des 9 autres domaines existent déjà (vides, avec un `LISEZMOI.md`).
+Pour publier un guide, par exemple la fiscalité :
+
+1. Déposez ses fichiers dans `content/fiscal/` : `00_PLAN_Guide.md`, `chapitres/PARTIE_*.json`,
+   `liminaires.json`, etc. (même format que la douane) ; les PDF vont dans `content/fiscal/sources/`.
+2. Ajoutez une entrée dans `content/bases.json` avec `"slug": "fiscal"`, `titre`, `description`,
+   `ordre` et `"publie": true`.
+3. Dans `content/dossiers.json`, rattachez-le au dossier : `"guides": ["fiscal"]`.
+4. Lancez `npm run montage -- fiscal` (mode Supabase) : le dossier passe à « Disponible » et le guide
+   apparaît dans le menu.
+5. Créez les formules correspondantes dans la table `plans` (champ `bases` : `{fiscal}`, ou `{*}`
+   pour une formule tous guides).
+
+Le slug d'un guide ne peut pas être `dossier` (adresse réservée). Une couverture se remplace en
+déposant un fichier `.webp` de même nom dans `public/couvertures/` (et dans
+`maquette/assets/couvertures/` pour la maquette).
 
 ## 7. Abonnements et facturation
 

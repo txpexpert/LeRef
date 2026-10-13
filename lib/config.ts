@@ -8,7 +8,7 @@ export const SITE = {
   domainesRefuses: ["gov.ma"],
   essaiJours: 7,
   // Carte « Prochainement » sur la page d'accueil tant que tous les guides ne sont pas publiés
-  guidesPrevus: 6,
+  guidesPrevus: 11,
   // Copie : longueur maximale copiée en une fois, au-delà le texte est tronqué
   copieMax: 1500,
 };

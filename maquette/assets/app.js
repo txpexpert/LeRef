@@ -72,11 +72,30 @@ function texte(v) {
   return blocs.map((b) => b.t === "p" ? `<p>${esc(b.l[0])}</p>` : `<${b.t}>${b.l.map((x) => `<li>${esc(x)}</li>`).join("")}</${b.t}>`).join("");
 }
 
+/* Dossiers : mêmes données que content/dossiers.json (disponible = guide publié) */
+const DOSSIERS = [
+  { slug: "douane", court: "Douane", titre: "Le Corpus des Procédures Douanières", lien: "guide.html" },
+  { slug: "fiscal", court: "Fiscalité", titre: "Le Corpus des Procédures Fiscales" },
+  { slug: "changes", court: "Changes", titre: "Le Corpus des Procédures des Opérations de Changes" },
+  { slug: "investissements", court: "Investissements", titre: "Le Corpus des Procédures de promotion des investissements" },
+  { slug: "zones-acceleration", court: "Zones d'accélération", titre: "Le Corpus des Procédures des Zones d'accélération industrielles" },
+  { slug: "financements", court: "Financements", titre: "Le Corpus des Outils de Financement des projets d'investissement" },
+  { slug: "bancaire", court: "Bancaire", titre: "Le Corpus des Procédures Bancaires" },
+  { slug: "societes-travail", court: "Sociétés et travail", titre: "Le Corpus des Procédures du droit des sociétés et du travail" },
+  { slug: "immobilier", court: "Immobilier", titre: "Le Corpus des Procédures Immobilières" },
+  { slug: "urbanisme", court: "Urbanisme", titre: "Le Corpus des Procédures Urbanistiques" },
+  { slug: "tourisme", court: "Tourisme", titre: "Le Corpus des Procédures Touristiques" },
+];
+const couvertures = () => DOSSIERS.map((d) => {
+  const contenu = `<span class="couv-img"><img src="assets/couvertures/${d.slug}.webp" width="640" height="905" alt="Couverture — ${esc(d.titre)}" loading="lazy"></span><span class="couv-nom">${esc(d.court)}<span class="etat">${d.lien ? "Disponible" : "Bientôt"}</span></span>`;
+  return `<li>${d.lien ? `<a class="couv" href="${d.lien}" title="${esc(d.titre)}">${contenu}</a>` : `<div class="couv bientot" title="${esc(d.titre)} — prochainement">${contenu}</div>`}</li>`;
+}).join("");
+
 /* ---------- gabarit commun ---------- */
 function entete() {
   const vues = [["visiteur", "Visiteur"], ["abonne", "Abonné"], ["admin", "Administrateur"]];
-  const nav = C.guides.map((g) => `<a href="guide.html" ${["guide", "lecture", "recherche", "parcours", "texte"].includes(page) ? 'aria-current="page"' : ""}>Procédures douanières</a>`).join("")
-    + `<a href="tarifs.html" ${page === "tarifs" ? 'aria-current="page"' : ""}>Tarifs</a>`;
+  const menu = `<div class="menu-themes"><button type="button" class="menu-themes-btn" aria-expanded="false" aria-haspopup="true">Choisir votre thème <span aria-hidden="true">▾</span></button><ul class="menu-themes-liste" hidden>${DOSSIERS.map((d) => `<li>${d.lien ? `<a href="${d.lien}" title="${esc(d.titre)}">${esc(d.court)}</a>` : `<span class="off" title="${esc(d.titre)} — prochainement">${esc(d.court)}<em>Bientôt</em></span>`}</li>`).join("")}</ul></div>`;
+  const nav = menu + `<a href="tarifs.html" ${page === "tarifs" ? 'aria-current="page"' : ""}>Tarifs</a>`;
   const droite = !connecte
     ? `<a class="btn secondaire petit" href="connexion.html">Se connecter</a><a class="btn petit" href="inscription.html">Essai gratuit</a>`
     : `${admin ? '<a class="btn secondaire petit" href="admin.html">Administration</a>' : ""}<a class="btn secondaire petit" href="compte.html">${esc(compte.nom)}</a><a class="btn secondaire petit" href="#" data-mode="visiteur">Se déconnecter</a>`;
@@ -132,12 +151,9 @@ P.accueil = () => `
     <h1>La réglementation marocaine, expliquée paragraphe par paragraphe</h1>
     <p>Texte applicable, position de l'administration, données clés, cas pratiques et conseils d'expert. Chaque notion a son numéro, chaque mise à jour est datée et tracée.</p>
     <form action="recherche.html"><input name="q" type="search" placeholder="Rechercher un régime, une procédure, une circulaire…" aria-label="Rechercher"><button class="btn laiton" type="submit">Rechercher</button></form>
+    <h2 class="couv-titre" id="dossiers">Choisissez un domaine</h2>
+    <ul class="couvertures" aria-labelledby="dossiers">${couvertures()}</ul>
   </div></section>
-  <div class="titre-section"><h2>Nos guides</h2></div>
-  <div class="grille-3" style="margin-bottom:40px">
-    <a class="guide-carte" href="guide.html"><span class="etiquette">${esc(guide.sous)}</span><h3>${esc(guide.titre)}</h3><p class="muet" style="margin:0">${esc(guide.desc)}</p><span class="btn secondaire petit" style="justify-self:start">Consulter le sommaire</span></a>
-    <div class="guide-carte" style="border-style:dashed"><span class="etiquette">Prochainement</span><h3>Cinq autres domaines</h3><p class="muet" style="margin:0">De nouveaux guides rejoignent la plateforme, avec la même méthode : paragraphes numérotés, sources citées, mises à jour tracées.</p></div>
-  </div>
   <div class="titre-section"><h2>Ce que vous trouvez dans chaque paragraphe</h2></div>
   <div class="atouts" style="margin-bottom:40px">
     <div><h3>Le texte applicable</h3><p>Articles, décrets et circulaires cités avec leur référence exacte et leur date.</p></div>
@@ -501,6 +517,12 @@ P.legal = () => `<article class="carte" style="max-width:820px;margin:0 auto;pad
 
 /* ======================= RENDU ======================= */
 entete();
+// Liste déroulante « Choisir votre thème »
+{ const btn = document.querySelector(".menu-themes-btn"), liste = document.querySelector(".menu-themes-liste");
+  const fermer = () => { liste.hidden = true; btn.setAttribute("aria-expanded", "false"); };
+  btn.addEventListener("click", () => { const o = liste.hidden; liste.hidden = !o; btn.setAttribute("aria-expanded", String(o)); });
+  document.addEventListener("mousedown", (e) => { if (!e.target.closest(".menu-themes")) fermer(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") fermer(); }); }
 $("#app").innerHTML = (P[page] || P.accueil)() || "";
 if (page === "accueil") document.body.classList.add("page-accueil");
 

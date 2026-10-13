@@ -1,0 +1,13 @@
+[
+  {"slug": "douane", "ordre": 1, "court": "Douane", "titre": "Le Corpus des Procédures Douanières", "couverture": "/couvertures/douane.webp", "guides": ["douane"]},
+  {"slug": "fiscal", "ordre": 2, "court": "Fiscalité", "titre": "Le Corpus des Procédures Fiscales", "couverture": "/couvertures/fiscal.webp", "guides": []},
+  {"slug": "changes", "ordre": 3, "court": "Changes", "titre": "Le Corpus des Procédures des Opérations de Changes", "couverture": "/couvertures/changes.webp", "guides": []},
+  {"slug": "investissements", "ordre": 4, "court": "Investissements", "titre": "Le Corpus des Procédures de promotion des investissements", "couverture": "/couvertures/investissements.webp", "guides": []},
+  {"slug": "zones-acceleration", "ordre": 5, "court": "Zones d'accélération", "titre": "Le Corpus des Procédures des Zones d'accélération industrielles", "couverture": "/couvertures/zones-acceleration.webp", "guides": []},
+  {"slug": "financements", "ordre": 6, "court": "Financements", "titre": "Le Corpus des Outils de Financement des projets d'investissement", "couverture": "/couvertures/financements.webp", "guides": []},
+  {"slug": "bancaire", "ordre": 7, "court": "Bancaire", "titre": "Le Corpus des Procédures Bancaires", "couverture": "/couvertures/bancaire.webp", "guides": []},
+  {"slug": "societes-travail", "ordre": 8, "court": "Sociétés et travail", "titre": "Le Corpus des Procédures du droit des sociétés et du travail", "couverture": "/couvertures/societes-travail.webp", "guides": []},
+  {"slug": "immobilier", "ordre": 9, "court": "Immobilier", "titre": "Le Corpus des Procédures Immobilières", "couverture": "/couvertures/immobilier.webp", "guides": []},
+  {"slug": "urbanisme", "ordre": 10, "court": "Urbanisme", "titre": "Le Corpus des Procédures Urbanistiques", "couverture": "/couvertures/urbanisme.webp", "guides": []},
+  {"slug": "tourisme", "ordre": 11, "court": "Tourisme", "titre": "Le Corpus des Procédures Touristiques", "couverture": "/couvertures/tourisme.webp", "guides": []}
+]
