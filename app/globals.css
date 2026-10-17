@@ -163,6 +163,13 @@ table.tableau { width: 100%; border-collapse: collapse; background: var(--surfac
 .bloc .corps p { margin: 0 0 10px; }
 .bloc .corps p:last-child { margin-bottom: 0; }
 .bloc .corps ul, .bloc .corps ol { margin: 6px 0 10px; padding-left: 20px; }
+.bloc .corps .sous-titre { font-family: var(--f-texte); font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--marine); margin: 18px 0 6px; }
+.bloc:has(.tableau-texte) { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+.bloc .corps:has(.tableau-texte) { max-width: none; }
+.bloc .corps .tableau-texte { margin: 8px 0 14px; border: 0; }
+.bloc .corps .tableau-texte .donnees th, .bloc .corps .tableau-texte .donnees td { width: auto; font-size: .86rem; line-height: 1.45; vertical-align: top; }
+.bloc .corps .tableau-texte thead th { background: var(--surface-2); }
+.bloc .corps .tableau-texte tbody th { background: transparent; font-weight: 400; }
 .bloc.textes ul { margin: 0; padding-left: 18px; list-style: square; font-family: var(--f-texte); font-size: .9rem; }
 .bloc.conseil { background: var(--laiton-pale); border-radius: var(--r); border-top-color: transparent; padding: 16px; margin-block: 6px; }
 .bloc.conseil > .etiquette { color: var(--laiton); }
