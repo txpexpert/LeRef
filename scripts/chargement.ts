@@ -1,6 +1,7 @@
 // Lecture du contenu d'un guide depuis le dépôt : plan, chapitres, parcours.
 import fs from "node:fs";
 import path from "node:path";
+import { normaliserParagraphe, RE_FICHIER_CHAPITRE } from "../lib/numeros";
 import type { BaseConfig, Liminaires, Logigramme, ModeleActe, Paragraphe, Parcours } from "../lib/types";
 
 export const RACINE = path.resolve(__dirname, "..");
@@ -26,13 +27,13 @@ export function lirePlan(base: string): Plan {
   for (const l of lignes) {
     const mp = l.match(/^##\s+Partie\s+(\d+)\s+[—–-]\s+(.+?)(?:\s+\((?:prioritaire)\))?\s*$/i);
     if (mp) { plan.parties.push({ num: +mp[1], titre: mp[2].trim() }); continue; }
-    const mc = l.match(/^###\s+Chapitre\s+(\d+)\.(\d+)\s+[—–-]\s+(.+?)\s+\(plage\s+(\d+-\d{3})\s+à\s+(\d+-\d{3})\)/i);
+    const mc = l.match(/^###\s+Chapitre\s+(\d+)\.(\d+)\s+[—–-]\s+(.+?)\s+\(plage\s+(?:[A-Za-z]+-)?(\d+-\d{3})\s+à\s+(?:[A-Za-z]+-)?(\d+-\d{3})\)/i);
     if (mc) {
       chapitre = `${mc[1]}.${mc[2]}`;
       plan.chapitres.push({ code: chapitre, partie: +mc[1], ordre: +mc[2], titre: mc[3].trim(), debut: mc[4], fin: mc[5] });
       continue;
     }
-    const ms = l.match(/^-\s+(\d+-\d{3})\s+(.+)$/);
+    const ms = l.match(/^-\s+(?:[A-Za-z]+-)?(\d+-\d{3})\s+(.+)$/);
     if (ms && chapitre) plan.sections.set(ms[1], { titre: ms[2].trim(), chapitre });
   }
   return plan;
@@ -44,13 +45,14 @@ export function lireChapitres(base: string): FichierChapitre[] {
   const dossier = path.join(CONTENU, base, "chapitres");
   if (!fs.existsSync(dossier)) return [];
   return fs.readdirSync(dossier)
-    .filter((f) => /^PARTIE_.*\.json$/i.test(f))
+    .filter((f) => RE_FICHIER_CHAPITRE.test(f))
     .sort()
     .map((fichier) => {
       try {
         const brut = JSON.parse(fs.readFileSync(path.join(dossier, fichier), "utf8"));
         if (!Array.isArray(brut)) return { fichier, erreur: "le fichier ne contient pas un tableau de paragraphes" };
-        return { fichier, paragraphes: brut as Paragraphe[] };
+        // Numéros préfixés (« DOU-7-012 ») ramenés au numéro du site (« 7-012 ») ; le préfixe brut est gardé pour le contrôle
+        return { fichier, paragraphes: (brut as Paragraphe[]).map((p) => (p && typeof p.id === "string" ? { ...normaliserParagraphe(p), _id: p.id } : p)) as Paragraphe[] };
       } catch (e) {
         return { fichier, erreur: `JSON invalide : ${(e as Error).message}` };
       }

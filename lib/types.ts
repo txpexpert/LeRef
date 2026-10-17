@@ -68,6 +68,7 @@ export type ModeleActe = {
 
 export type BaseConfig = {
   slug: string;
+  code?: string;         // code du guide (DOU, FISC…) : préfixe accepté dans les numéros « DOU-7-012 »
   titre: string;
   sous_titre?: string;
   description?: string;

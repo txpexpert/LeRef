@@ -1,11 +1,13 @@
 // Dossiers = domaines affichés sur la page d'accueil (une couverture chacun).
 // Un dossier regroupe un ou plusieurs guides (« bases »). Il est « disponible »
 // dès qu'au moins un de ses guides est publié (publie: true dans bases.json).
-// Définition : content/dossiers.json. Fonctionne en mode local comme avec Supabase.
+// Définition : table « dossiers » de Supabase (alimentée par l'import de dossiers.json
+// dans Administration › Importer) ; à défaut, ou en mode local, content/dossiers.json.
 import "server-only";
 import fs from "node:fs";
 import path from "node:path";
 import { listeBases, type Base } from "./contenu";
+import { db, dbConfiguree } from "./supabase/admin";
 
 export type Dossier = {
   slug: string;
@@ -17,7 +19,15 @@ export type Dossier = {
 };
 export type DossierEtat = Dossier & { disponibles: Base[]; disponible: boolean };
 
-function lireDefinitions(): Dossier[] {
+async function lireDefinitions(): Promise<Dossier[]> {
+  if (dbConfiguree()) {
+    const { data, error } = await db().from("dossiers").select("slug, ordre, court, titre, couverture, guides").order("ordre");
+    if (!error && data?.length) return data as Dossier[];
+  }
+  return lireFichier();
+}
+
+function lireFichier(): Dossier[] {
   const f = path.join(process.cwd(), "content", "dossiers.json");
   try {
     return fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as Dossier[]) : [];
@@ -27,7 +37,7 @@ function lireDefinitions(): Dossier[] {
 }
 
 export async function listeDossiers(): Promise<DossierEtat[]> {
-  const defs = lireDefinitions();
+  const defs = await lireDefinitions();
   const bases = await listeBases();
   const parSlug = new Map(bases.map((b) => [b.slug, b]));
   const rattaches = new Set(defs.flatMap((d) => d.guides));

@@ -30,6 +30,7 @@ supabase/migrations/
   001_socle.sql               ← schéma complet (à exécuter une fois)
   002_assistant.sql           ← assistant IA (phase ultérieure)
   003_annexes.sql             ← liminaires, logigrammes, modèles d'actes
+  004_import_direct.sql       ← import direct, archive des versions, dossiers en base
 app/                          ← pages du site
 lib/                          ← accès aux données, sessions, quotas, filigrane, facturation
 components/                   ← éléments d'interface
@@ -89,7 +90,7 @@ du contenu côté serveur. Suivez alors le § 3.
 ### 3.1 Supabase
 1. Créez un **nouveau projet Supabase** dédié à la plateforme (région Europe).
 2. Dans *SQL Editor*, exécutez le contenu de `supabase/migrations/001_socle.sql`,
-   puis celui de `supabase/migrations/003_annexes.sql`.
+   puis celui de `003_annexes.sql`, puis celui de `004_import_direct.sql`.
 3. Dans *Authentication › URL Configuration* :
    - *Site URL* : l'adresse du site (ex. `https://guides.exemple.ma`)
    - *Redirect URLs* : `https://guides.exemple.ma/auth/callback`
@@ -134,6 +135,7 @@ update public.profils set est_admin = true where email = 'votre@adresse.ma';
 
 | Je veux… | Je fais… |
 |---|---|
+| **Mettre à jour le site tout de suite, sans GitHub** | *Administration › Importer* : je dépose le ou les fichiers modifiés, « Vérifier », puis « Publier » (voir § 4 bis) |
 | Ajouter un chapitre rédigé | Je dépose `PARTIE_N_CHC.json` dans `content/douane/chapitres/` et je pousse sur GitHub |
 | Corriger un paragraphe | Je remplace le fichier du chapitre et je pousse |
 | Savoir ce qui manque | Je lis le dernier rapport (`rapports/` ou *Administration › Montages*) |
@@ -148,6 +150,33 @@ update public.profils set est_admin = true where email = 'votre@adresse.ma';
 Le rapport de montage signale : erreurs bloquantes (numéros en double, hors plage,
 JSON invalide), renvois cassés, balises à trancher, paragraphes ajoutés hors plan,
 paragraphes à l'ancien gabarit, sections du plan non rédigées.
+
+## 4 bis. Mise à jour immédiate : *Administration › Importer*
+
+Les pages du site sont rendues à chaque requête depuis Supabase (aucun cache) : dès qu'une
+ligne change en base, la page change au rechargement suivant. L'import direct écrit en base
+sans passer par GitHub :
+
+1. Choisir le guide, déposer un ou plusieurs fichiers (glisser-déposer) :
+   `PARTIE_N_CHC.json` (ou `DOU_PARTIE_N_CHC.json`), `00_PLAN_*.md`, `liminaires.json`,
+   `parcours.json`, `modeles.json`, `logigrammes.json` + images `figure-NN.webp`,
+   `bases.json`, `dossiers.json`.
+2. **Vérifier sans publier** : mêmes contrôles que le montage (numéros, plages, doublons,
+   renvois, figures) et liste des paragraphes ajoutés / modifiés / inchangés.
+3. **Publier sur le site** : seuls les paragraphes réellement modifiés sont réécrits ;
+   l'ancienne version est archivée automatiquement (`paragraphes_versions`). Si un seul
+   fichier contient une erreur, **rien** n'est écrit.
+4. Un paragraphe supprimé d'un fichier de chapitre est signalé ; il n'est retiré du site que
+   si la case « Retirer… » est cochée (il reste archivé).
+5. Revenir en arrière : `select public.restaurer_paragraphe(<id>);` avec l'`id` lu dans
+   `paragraphes_versions`.
+
+**Nouveau guide** : bouton « Nouveau guide… », saisir le slug, déposer ensemble `bases.json`
+(qui déclare le guide, avec `"code": "FISC"` par exemple), le plan, les chapitres et les
+annexes ; puis `dossiers.json` pour le rattacher à sa couverture. Aucun redéploiement.
+
+Pensez à reporter aussi le fichier dans `content/` du dépôt : GitHub reste la copie de
+référence (et le montage automatique réimporte à l'identique, sans créer de version).
 
 ## 5. Protection du contenu (ce qui est en place)
 

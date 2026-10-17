@@ -30,6 +30,9 @@ const prive = [
 /** @type {import('next').NextConfig} */
 export default {
   poweredByHeader: false,
+  // Import direct (Administration › Importer) : fichiers JSON et images des logigrammes.
+  // Vercel limite une requête à 4,5 Mo ; la page découpe les envois en lots de 3,5 Mo.
+  experimental: { serverActions: { bodySizeLimit: "4mb" } },
   async headers() {
     return [
       { source: "/:path*", headers: securite },

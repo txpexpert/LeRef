@@ -22,7 +22,7 @@ export async function GET(_req: Request, { params }: { params: { base: string; n
     return img ? new Response(new Uint8Array(img.data), { headers: { ...PRIVE, "Content-Type": img.mime } }) : new Response(null, { status: 404 });
   }
   const figure = await getImageFigure(base.slug, num);
-  if (!figure) return new Response(null, { status: 404 });
+  if (!figure?.image) return new Response(null, { status: 404 });
 
   const acces = await accesGuide(base.slug);
   if (!acces.ok) {

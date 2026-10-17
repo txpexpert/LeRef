@@ -11,6 +11,7 @@ import path from "node:path";
 import { createClient } from "@supabase/supabase-js";
 import { lireBases, lireChapitres, lireLiminaires, lireLogigrammes, lireModeles, lireParcours, lirePlan, ordreDe, RACINE } from "./chargement";
 import { normaliserReference } from "../lib/references";
+import { decouperNum } from "../lib/numeros";
 import type { BaseConfig, Paragraphe } from "../lib/types";
 
 const args = process.argv.slice(2);
@@ -54,13 +55,16 @@ function controler(cfg: BaseConfig) {
   };
   const chapitres = new Map(plan.chapitres.map((c) => [c.code, c]));
   const vus = new Map<string, string>();
-  const valides: Paragraphe[] = [];
+  const valides: (Paragraphe & { source?: string })[] = [];
 
   for (const f of fichiers) {
     if (f.erreur) { r.erreurs.push(`${f.fichier} : ${f.erreur}`); continue; }
     for (const p of f.paragraphes!) {
       const ou = `${f.fichier} › ${p?.id ?? "(sans numéro)"}`;
       if (!p || typeof p.id !== "string" || !/^\d+-\d{3}$/.test(p.id)) { r.erreurs.push(`${ou} : numéro absent ou mal formé`); continue; }
+      const prefixe = decouperNum((p as Paragraphe & { _id?: string })._id)?.code;
+      if (prefixe && cfg.code && prefixe.toUpperCase() !== cfg.code.toUpperCase()) { r.erreurs.push(`${ou} : préfixe ${prefixe} différent du code du guide (${cfg.code})`); continue; }
+      delete (p as Paragraphe & { _id?: string })._id;
       if (!p.t) { r.erreurs.push(`${ou} : titre absent`); continue; }
       if (vus.has(p.id)) { r.erreurs.push(`${p.id} : numéro en double (${vus.get(p.id)} et ${f.fichier})`); continue; }
       vus.set(p.id, f.fichier);
@@ -75,7 +79,7 @@ function controler(cfg: BaseConfig) {
       if (!plan.sections.has(p.id)) r.ajouts.push(`${p.id} ${p.t}`);
       for (const b of p.balises ?? []) r.balises.push({ num: p.id, balise: b });
       if (!p.enbref || !p.faq || !p.cas) r.ancienGabarit.push(p.id);
-      valides.push({ ...p, ch, p: partie });
+      valides.push({ ...p, ch, p: partie, source: f.fichier });
     }
   }
 
@@ -158,7 +162,7 @@ async function charger(cfg: BaseConfig, res: ReturnType<typeof controler>) {
 
   ok((await db.from("bases").upsert({
     slug: base, titre: cfg.titre, sous_titre: cfg.sous_titre ?? null, description: cfg.description ?? null,
-    ordre: cfg.ordre ?? 0, publie: cfg.publie ?? false, maj: new Date().toISOString(),
+    ordre: cfg.ordre ?? 0, publie: cfg.publie ?? false, code: cfg.code ?? null, maj: new Date().toISOString(),
     edition: res.liminaires?.edition ?? null, a_jour_au: res.liminaires?.a_jour_au ?? null, liminaires: res.liminaires ?? null,
   })).error, "bases");
 
@@ -168,12 +172,12 @@ async function charger(cfg: BaseConfig, res: ReturnType<typeof controler>) {
   })))).error, "chapitres");
 
   const lignes = res.valides.map((p) => {
-    const contenu: Paragraphe = { ...p };
+    const { source, ...contenu } = p as Paragraphe & { source?: string };
     if (contenu.juris && /^n[ée]ant/i.test(contenu.juris.trim())) contenu.juris = "";
     return {
       base, num: p.id, partie: p.p, chapitre: p.ch, ordre: ordreDe(p.id), titre: p.t,
       enbref: p.enbref ?? null, contenu, maj: p.maj ?? null, verif: p.verif ?? null,
-      modifie: !!p.mod, gratuit: gratuits.has(p.id), statut: "publie", importe_le: new Date().toISOString(),
+      modifie: !!p.mod, gratuit: gratuits.has(p.id), statut: "publie", source: source ?? null, importe_le: new Date().toISOString(),
     };
   });
   for (let i = 0; i < lignes.length; i += 100)
@@ -213,7 +217,7 @@ async function charger(cfg: BaseConfig, res: ReturnType<typeof controler>) {
     const ext = path.extname(f.fichier).toLowerCase();
     const mime = ext === ".png" ? "image/png" : ext === ".jpg" || ext === ".jpeg" ? "image/jpeg" : ext === ".svg" ? "image/svg+xml" : "image/webp";
     ok((await db.from("figures").insert({
-      base, num: f.num, titre: f.titre, sources: f.sources ?? null, paragraphe: f.paragraphe, mime,
+      base, num: f.num, titre: f.titre, sources: f.sources ?? null, paragraphe: f.paragraphe, fichier: f.fichier, mime,
       largeur: f.largeur ?? null, hauteur: f.hauteur ?? null, image: fs.readFileSync(f.chemin).toString("base64"),
     })).error, `figure ${f.num}`);
   }

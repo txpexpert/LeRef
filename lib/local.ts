@@ -10,6 +10,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { dbConfiguree } from "./supabase/admin";
 import { normaliserReference } from "./references";
+import { normaliserParagraphe, RE_FICHIER_CHAPITRE } from "./numeros";
 import type { BaseConfig, Liminaires, Logigramme, ModeleActe, Paragraphe, Parcours } from "./types";
 
 export const modeLocal = () => !dbConfiguree();
@@ -57,7 +58,7 @@ function lirePlan(dossier: string) {
   for (const l of fs.readFileSync(path.join(dossier, fichier), "utf8").split(/\r?\n/)) {
     const mp = l.match(/^##\s+Partie\s+(\d+)\s+[—–-]\s+(.+?)(?:\s+\(prioritaire\))?\s*$/i);
     if (mp) { parties.push({ num: +mp[1], titre: mp[2].trim() }); continue; }
-    const mc = l.match(/^###\s+Chapitre\s+(\d+)\.(\d+)\s+[—–-]\s+(.+?)\s+\(plage\s+(\d+-\d{3})\s+à\s+(\d+-\d{3})\)/i);
+    const mc = l.match(/^###\s+Chapitre\s+(\d+)\.(\d+)\s+[—–-]\s+(.+?)\s+\(plage\s+(?:[A-Za-z]+-)?(\d+-\d{3})\s+à\s+(?:[A-Za-z]+-)?(\d+-\d{3})\)/i);
     if (mc) chapitres.push({ code: `${mc[1]}.${mc[2]}`, partie: +mc[1], ordre: +mc[2], titre: mc[3].trim(), debut: mc[4], fin: mc[5] });
   }
   return { parties, chapitres };
@@ -69,10 +70,10 @@ function chargerGuide(cfg: BaseConfig): Guide {
   const dChap = path.join(dossier, "chapitres");
   const paragraphes: Paragraphe[] = [];
   if (fs.existsSync(dChap))
-    for (const f of fs.readdirSync(dChap).filter((x) => /^PARTIE_.*\.json$/i.test(x)).sort()) {
+    for (const f of fs.readdirSync(dChap).filter((x) => RE_FICHIER_CHAPITRE.test(x)).sort()) {
       try {
         const brut = JSON.parse(fs.readFileSync(path.join(dChap, f), "utf8"));
-        if (Array.isArray(brut)) for (const p of brut as Paragraphe[]) if (p?.id && p.t) paragraphes.push({ ...p, p: Number(p.id.split("-")[0]) });
+        if (Array.isArray(brut)) for (const b of brut as Paragraphe[]) if (b?.id && b.t) { const p = normaliserParagraphe(b); paragraphes.push({ ...p, p: Number(p.id.split("-")[0]) }); }
       } catch { /* fichier invalide : signalé par « npm run montage:controle » */ }
     }
   paragraphes.sort((a, b) => ordreDe(a.id) - ordreDe(b.id));
