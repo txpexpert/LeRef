@@ -60,12 +60,20 @@ export function lireChapitres(base: string): FichierChapitre[] {
 }
 
 export function lireParcours(base: string): Parcours[] {
-  const f = path.join(CONTENU, base, "parcours.json");
+  const f = trouver(path.join(CONTENU, base), "parcours.json");
   return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : [];
 }
 
+// Fichier « nom » ou « CODE_nom » dans le dossier (les deux formes sont acceptées)
+export function trouver(dossier: string, nom: string): string {
+  const exact = path.join(dossier, nom);
+  if (fs.existsSync(exact) || !fs.existsSync(dossier)) return exact;
+  const v = fs.readdirSync(dossier).find((f) => f.toLowerCase().endsWith("_" + nom.toLowerCase()) && /^[A-Za-z][A-Za-z0-9]*_/.test(f));
+  return v ? path.join(dossier, v) : exact;
+}
+
 function lireJson<T>(base: string, nom: string, defaut: T): T {
-  const f = path.join(CONTENU, base, nom);
+  const f = trouver(path.join(CONTENU, base), nom);
   return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : defaut;
 }
 
@@ -77,7 +85,7 @@ export function lireLiminaires(base: string): Liminaires | null {
 // Logigrammes : métadonnées + chemin de l'image dans content/<guide>/figures/
 export function lireLogigrammes(base: string): (Logigramme & { chemin: string })[] {
   return lireJson<Logigramme[]>(base, "logigrammes.json", [])
-    .map((f) => ({ ...f, chemin: path.join(CONTENU, base, "figures", f.fichier) }));
+    .map((f) => ({ ...f, chemin: trouver(path.join(CONTENU, base, "figures"), f.fichier) }));
 }
 
 export function lireModeles(base: string): ModeleActe[] {

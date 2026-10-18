@@ -13,11 +13,12 @@ export default async function Importer() {
     <div className="pile">
       <h1 style={{ fontSize: "1.7rem" }}>Importer des fichiers</h1>
       <p className="muet" style={{ margin: 0 }}>
-        Déposez un ou plusieurs fichiers modifiés (chapitre, plan, liminaires, parcours, modèles, logigrammes et leurs images,
+        Chaque fichier porte le code de son guide (DOU_, FISC_, CHG_…) : le guide est choisi automatiquement et un fichier
+        d&apos;un autre guide est refusé. Déposez un ou plusieurs fichiers modifiés (chapitre, plan, liminaires, parcours, modèles, logigrammes et leurs images,
         bases.json, dossiers.json). Le site est mis à jour dès la publication : seuls les paragraphes réellement modifiés
         sont réécrits, et leur version précédente est archivée.
       </p>
-      <Importeur bases={(bases ?? []).map((b) => ({ slug: b.slug, titre: b.titre, publie: b.publie }))} />
+      <Importeur bases={(bases ?? []).map((b) => ({ slug: b.slug, titre: b.titre, publie: b.publie, code: b.code ?? null }))} />
       <div className="carte">
         <div className="titre-section" style={{ marginBottom: 8 }}><h2 style={{ margin: 0 }}>Derniers imports</h2><Link href="/admin/montages">Tous les rapports</Link></div>
         <div className="defile">

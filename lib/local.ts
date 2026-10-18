@@ -33,7 +33,16 @@ type Guide = {
 
 export const ordreDe = (num: string) => { const [p, n] = num.split("-").map(Number); return p * 10000 + n; };
 
+// Fichier « nom » ou « CODE_nom » (ex. « DOU_liminaires.json ») : les deux formes sont acceptées
+function trouver(f: string): string {
+  const dossier = path.dirname(f), nom = path.basename(f);
+  if (fs.existsSync(f) || !fs.existsSync(dossier)) return f;
+  const v = fs.readdirSync(dossier).find((x) => x.toLowerCase().endsWith("_" + nom.toLowerCase()) && /^[A-Za-z][A-Za-z0-9]*_/.test(x));
+  return v ? path.join(dossier, v) : f;
+}
+
 function lireJson<T>(f: string, defaut: T): T {
+  f = trouver(f);
   return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : defaut;
 }
 
@@ -115,7 +124,7 @@ export function imageLocale(slug: string, num: number): { paragraphe: string; mi
   const g = guideLocal(slug);
   const f = g?.figures.find((x) => x.num === num);
   if (!g || !f) return null;
-  const chemin = path.join(CONTENU, slug, "figures", path.basename(f.fichier));
+  const chemin = trouver(path.join(CONTENU, slug, "figures", path.basename(f.fichier)));
   if (!fs.existsSync(chemin)) return null;
   const ext = path.extname(chemin).toLowerCase();
   const mime = ext === ".png" ? "image/png" : ext === ".jpg" || ext === ".jpeg" ? "image/jpeg" : ext === ".svg" ? "image/svg+xml" : "image/webp";

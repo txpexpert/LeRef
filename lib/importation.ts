@@ -16,7 +16,7 @@
 //   bases.json, dossiers.json                    registres communs à tous les guides
 // =====================================================================
 import { normaliserReference } from "./references";
-import { decouperNum, normaliserParagraphe, ordreDe, RE_FICHIER_CHAPITRE } from "./numeros";
+import { decouperFichier, decouperNum, normaliserParagraphe, ordreDe, RE_FICHIER_CHAPITRE } from "./numeros";
 import type { BaseConfig, Liminaires, Logigramme, ModeleActe, Paragraphe, Parcours } from "./types";
 
 export type FichierRecu = { nom: string; texte?: string; octets?: Uint8Array };
@@ -78,7 +78,9 @@ const RE_IMAGE = /\.(webp|png|jpe?g|svg)$/i;
 const ORDRE: TypeFichier[] = ["bases", "dossiers", "plan", "chapitre", "liminaires", "parcours", "modeles", "logigrammes", "figure", "inconnu"];
 
 export function typeDe(nom: string): TypeFichier {
-  const n = nom.split(/[\\/]/).pop() ?? nom;
+  const brut = nom.split(/[\\/]/).pop() ?? nom;
+  if (/^(bases|dossiers)\.json$/i.test(brut)) return brut.toLowerCase().startsWith("bases") ? "bases" : "dossiers";
+  const n = decouperFichier(brut).nom;
   if (/plan.*\.md$/i.test(n)) return "plan";
   if (RE_FICHIER_CHAPITRE.test(n)) return "chapitre";
   if (RE_IMAGE.test(n)) return "figure";
@@ -139,7 +141,8 @@ export async function importer(depot: Depot, opts: {
 
   const recus = opts.fichiers.map((f) => ({ f, type: typeDe(f.nom) }))
     .sort((a, b) => ORDRE.indexOf(a.type) - ORDRE.indexOf(b.type) || a.f.nom.localeCompare(b.f.nom));
-  const images = new Map(recus.filter((r) => r.type === "figure").map((r) => [r.f.nom.split(/[\\/]/).pop()!, r.f]));
+  // Images : nom sans le code du guide (« DOU_figure-08.webp » → « figure-08.webp »)
+  let images = new Map(recus.filter((r) => r.type === "figure").map((r) => [decouperFichier(r.f.nom).nom, r.f]));
   const imagesUtilisees = new Set<string>();
 
   // ---------- Registres communs : bases.json, dossiers.json ----------
@@ -170,7 +173,7 @@ export async function importer(depot: Depot, opts: {
     }
   }
 
-  const reste = recus.filter((r) => r.type !== "bases" && r.type !== "dossiers");
+  let reste = recus.filter((r) => r.type !== "bases" && r.type !== "dossiers");
   if (!reste.length) return finir();
 
   const guide = guideRecu ?? await depot.guide(base);
@@ -180,6 +183,22 @@ export async function importer(depot: Depot, opts: {
     return finir();
   }
   const code = guide?.code ?? null;
+
+  // ---------- Code du guide dans le nom des fichiers ----------
+  // Un fichier « FISC_… » déposé dans le guide douane est refusé ; un fichier sans code est refusé
+  // dès que le guide a un code, car son nom (PARTIE_1_CH1.json…) existe dans tous les guides.
+  reste = reste.filter(({ f, type }) => {
+    const fc = decouperFichier(f.nom).code;
+    if (fc && code && fc !== code.toUpperCase()) {
+      ligne(f.nom, type, "erreur", `ce fichier appartient au guide ${fc}, pas au guide « ${base} » (${code}) : choisissez le bon guide`); return false;
+    }
+    if (!fc && code) {
+      ligne(f.nom, type, "erreur", `nom sans code de guide : renommez-le « ${code}_${decouperFichier(f.nom).nom} » pour confirmer qu'il appartient au guide « ${base} »`); return false;
+    }
+    if (fc && !code) R.avertissements.push(`${f.nom} : code ${fc} accepté, mais le guide « ${base} » n'a pas encore de code (déposez bases.json)`);
+    return true;
+  });
+  images = new Map([...images].filter(([, f]) => reste.some((r) => r.f === f)));
 
   // ---------- Plan ----------
   let chapitres = await depot.chapitres(base);
@@ -332,11 +351,12 @@ export async function importer(depot: Depot, opts: {
       vusFig.add(g.num);
       if (!g.titre || !g.fichier) { ko = true; R.erreurs.push(`${f.nom} › figure ${g.num} : titre ou fichier absent`); continue; }
       if (!para || !nums.has(para)) { ko = true; R.erreurs.push(`${f.nom} › figure ${g.num} : rattachée au n° ${g.paragraphe}, non rédigé`); continue; }
-      const img = images.get(g.fichier);
-      if (img) imagesUtilisees.add(g.fichier);
-      else if (!enBase.get(g.num)?.image) R.avertissements.push(`Figure ${g.num} : image ${g.fichier} à déposer`);
+      const fichier = decouperFichier(g.fichier).nom;
+      const img = images.get(fichier);
+      if (img) imagesUtilisees.add(fichier);
+      else if (!enBase.get(g.num)?.image) R.avertissements.push(`Figure ${g.num} : image ${fichier} à déposer`);
       lignes.push({
-        base, num: g.num, titre: g.titre, sources: g.sources ?? null, paragraphe: para, fichier: g.fichier, mime: mimeDe(g.fichier),
+        base, num: g.num, titre: g.titre, sources: g.sources ?? null, paragraphe: para, fichier, mime: mimeDe(fichier),
         largeur: g.largeur ?? null, hauteur: g.hauteur ?? null, ...(img?.octets?.length ? { image: enBase64(img.octets) } : {}),
       });
     }

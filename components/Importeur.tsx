@@ -12,7 +12,15 @@ const LIBELLES: Record<TypeFichier, string> = {
 };
 const LOT = 3.5 * 1024 * 1024;
 
-function typeDe(nom: string): TypeFichier {
+// Code du guide en tête du nom (« FISC_PARTIE_1_CH1.json ») ; « PARTIE_… » seul n'en a pas
+function codeDe(nom: string): string | null {
+  const m = nom.match(/^([A-Za-z][A-Za-z0-9]*)_(.+)$/);
+  return m && !/^partie$/i.test(m[1]) && !/^(bases|dossiers)\.json$/i.test(nom) ? m[1].toUpperCase() : null;
+}
+
+function typeDe(brut: string): TypeFichier {
+  if (/^(bases|dossiers)\.json$/i.test(brut)) return brut.toLowerCase().startsWith("bases") ? "bases" : "dossiers";
+  const nom = codeDe(brut) ? brut.slice(brut.indexOf("_") + 1) : brut;
   if (/plan.*\.md$/i.test(nom)) return "plan";
   if (/^(?:[A-Za-z][A-Za-z0-9]*_)?PARTIE_.*\.json$/i.test(nom)) return "chapitre";
   if (/\.(webp|png|jpe?g|svg)$/i.test(nom)) return "figure";
@@ -30,7 +38,7 @@ function fusionner(a: ResultatImport | null, b: ResultatImport): ResultatImport 
   };
 }
 
-export default function Importeur({ bases }: { bases: { slug: string; titre: string; publie: boolean }[] }) {
+export default function Importeur({ bases }: { bases: { slug: string; titre: string; publie: boolean; code: string | null }[] }) {
   const [base, setBase] = useState(bases[0]?.slug ?? "");
   const [fichiers, setFichiers] = useState<File[]>([]);
   const [retirer, setRetirer] = useState(false);
@@ -43,7 +51,16 @@ export default function Importeur({ bases }: { bases: { slug: string; titre: str
   const ajouter = (liste: FileList | null) => {
     if (!liste) return;
     const nouveaux = [...liste].filter((f) => !f.name.startsWith(".") && !/^desktop\.ini$/i.test(f.name));
-    setFichiers((av) => [...av.filter((x) => !nouveaux.some((n) => n.name === x.name)), ...nouveaux]);
+    setFichiers((av) => {
+      const tous = [...av.filter((x) => !nouveaux.some((n) => n.name === x.name)), ...nouveaux];
+      // Sélection automatique du guide d'après le code porté par les fichiers
+      const codes = new Set(tous.map((f) => codeDe(f.name)).filter(Boolean));
+      if (codes.size === 1) {
+        const g = bases.find((b) => b.code?.toUpperCase() === [...codes][0]);
+        if (g) setBase(g.slug);
+      }
+      return tous;
+    });
     setRes(null); setErreur(null);
   };
 
@@ -88,7 +105,7 @@ export default function Importeur({ bases }: { bases: { slug: string; titre: str
     <div className="carte pile">
       <label className="champ" htmlFor="imp-base">Guide concerné
         <select id="imp-base" value={base} onChange={(e) => { setBase(e.target.value); setRes(null); }}>
-          {bases.map((b) => <option key={b.slug} value={b.slug}>{b.titre} ({b.slug}){b.publie ? "" : " — non publié"}</option>)}
+          {bases.map((b) => <option key={b.slug} value={b.slug}>{b.titre} ({b.slug}{b.code ? ` · ${b.code}` : ""}){b.publie ? "" : " — non publié"}</option>)}
           {!bases.length && <option value="">Aucun guide : déposez d&apos;abord bases.json</option>}
         </select>
         <small>Pour créer un nouveau guide, saisissez son slug ci-dessous et déposez bases.json (qui le déclare) avec son plan et ses chapitres.</small>
@@ -119,11 +136,17 @@ export default function Importeur({ bases }: { bases: { slug: string; titre: str
       {fichiers.length > 0 && (
         <div className="defile">
           <table className="tableau">
-            <thead><tr><th>Fichier</th><th>Type</th><th className="chiffre">Taille</th><th></th></tr></thead>
+            <thead><tr><th>Fichier</th><th>Guide</th><th>Type</th><th className="chiffre">Taille</th><th></th></tr></thead>
             <tbody>
               {fichiers.map((f) => (
                 <tr key={f.name}>
                   <td className="num">{f.name}</td>
+                  <td>{(() => {
+                    const c = codeDe(f.name), attendu = bases.find((b) => b.slug === base)?.code?.toUpperCase();
+                    if (typeDe(f.name) === "bases" || typeDe(f.name) === "dossiers") return <span className="muet">commun</span>;
+                    if (!c) return <span className="badge alerte">sans code</span>;
+                    return <span className={`badge ${attendu && c !== attendu ? "alerte" : "ok"}`}>{c}</span>;
+                  })()}</td>
                   <td><span className={`badge ${typeDe(f.name) === "inconnu" ? "alerte" : "neutre"}`}>{LIBELLES[typeDe(f.name)]}</span></td>
                   <td className="chiffre">{(f.size / 1024).toFixed(0)} Ko</td>
                   <td><button type="button" className="btn secondaire petit" onClick={() => setFichiers((l) => l.filter((x) => x !== f))}>Retirer</button></td>

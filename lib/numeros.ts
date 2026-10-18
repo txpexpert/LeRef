@@ -24,3 +24,13 @@ export function normaliserParagraphe(p: Paragraphe): Paragraphe {
   const id = sansPrefixe(p.id);
   return { ...p, id, ...(p.renvois ? { renvois: p.renvois.map(sansPrefixe) } : {}) };
 }
+
+// Fichiers : le nom peut commencer par le code du guide (« DOU_PARTIE_7_CH1.json »,
+// « FISC_liminaires.json », « URB_figure-03.webp »). Ce code évite de déposer par erreur
+// le fichier d'un guide dans un autre : l'import refuse un code différent du guide choisi.
+export function decouperFichier(chemin: string): { code: string | null; nom: string } {
+  const nom = chemin.split(/[\\/]/).pop() ?? chemin;
+  const m = nom.match(/^([A-Za-z][A-Za-z0-9]*)_(.+)$/);
+  if (!m || /^partie$/i.test(m[1])) return { code: null, nom };
+  return { code: m[1].toUpperCase(), nom: m[2] };
+}
