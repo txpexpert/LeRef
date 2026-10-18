@@ -68,7 +68,7 @@ export function lireParcours(base: string): Parcours[] {
 export function trouver(dossier: string, nom: string): string {
   const exact = path.join(dossier, nom);
   if (fs.existsSync(exact) || !fs.existsSync(dossier)) return exact;
-  const v = fs.readdirSync(dossier).find((f) => f.toLowerCase().endsWith("_" + nom.toLowerCase()) && /^[A-Za-z][A-Za-z0-9]*_/.test(f));
+  const v = fs.readdirSync(dossier).find((f) => f.toLowerCase().endsWith("_" + nom.toLowerCase()) && /^[A-Za-z][A-Za-z0-9-]*_/.test(f));
   return v ? path.join(dossier, v) : exact;
 }
 

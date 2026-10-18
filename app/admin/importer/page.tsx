@@ -13,8 +13,8 @@ export default async function Importer() {
     <div className="pile">
       <h1 style={{ fontSize: "1.7rem" }}>Importer des fichiers</h1>
       <p className="muet" style={{ margin: 0 }}>
-        Chaque fichier porte le code de son guide (DOU_, FISC_, CHG_…) : le guide est choisi automatiquement et un fichier
-        d&apos;un autre guide est refusé. Déposez un ou plusieurs fichiers modifiés (chapitre, plan, liminaires, parcours, modèles, logigrammes et leurs images,
+        Chaque fichier commence par le slug de son guide (douane_, fiscal_, commerce-exterieur_…) : le guide est choisi
+        automatiquement et un fichier d&apos;un autre guide est refusé. Déposez un ou plusieurs fichiers modifiés (chapitre, plan, liminaires, parcours, modèles, logigrammes et leurs images,
         bases.json, dossiers.json). Le site est mis à jour dès la publication : seuls les paragraphes réellement modifiés
         sont réécrits, et leur version précédente est archivée.
       </p>

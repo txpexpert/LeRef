@@ -37,7 +37,7 @@ export const ordreDe = (num: string) => { const [p, n] = num.split("-").map(Numb
 function trouver(f: string): string {
   const dossier = path.dirname(f), nom = path.basename(f);
   if (fs.existsSync(f) || !fs.existsSync(dossier)) return f;
-  const v = fs.readdirSync(dossier).find((x) => x.toLowerCase().endsWith("_" + nom.toLowerCase()) && /^[A-Za-z][A-Za-z0-9]*_/.test(x));
+  const v = fs.readdirSync(dossier).find((x) => x.toLowerCase().endsWith("_" + nom.toLowerCase()) && /^[A-Za-z][A-Za-z0-9-]*_/.test(x));
   return v ? path.join(dossier, v) : f;
 }
 

@@ -184,18 +184,18 @@ export async function importer(depot: Depot, opts: {
   }
   const code = guide?.code ?? null;
 
-  // ---------- Code du guide dans le nom des fichiers ----------
-  // Un fichier « FISC_… » déposé dans le guide douane est refusé ; un fichier sans code est refusé
-  // dès que le guide a un code, car son nom (PARTIE_1_CH1.json…) existe dans tous les guides.
+  // ---------- Slug du guide en tête du nom des fichiers ----------
+  // « fiscal_PARTIE_1_CH1.json » déposé dans le guide douane est refusé, de même qu'un fichier
+  // sans slug : son nom (PARTIE_1_CH1.json, liminaires.json…) existe dans tous les guides.
+  const accepte = (p: string) => p === base.toLowerCase() || (!!code && p === code.toLowerCase());
   reste = reste.filter(({ f, type }) => {
-    const fc = decouperFichier(f.nom).code;
-    if (fc && code && fc !== code.toUpperCase()) {
-      ligne(f.nom, type, "erreur", `ce fichier appartient au guide ${fc}, pas au guide « ${base} » (${code}) : choisissez le bon guide`); return false;
+    const { prefixe, nom } = decouperFichier(f.nom);
+    if (!prefixe) {
+      ligne(f.nom, type, "erreur", `nom sans slug de guide : renommez-le « ${base}_${nom} » pour confirmer qu'il appartient au guide « ${base} »`); return false;
     }
-    if (!fc && code) {
-      ligne(f.nom, type, "erreur", `nom sans code de guide : renommez-le « ${code}_${decouperFichier(f.nom).nom} » pour confirmer qu'il appartient au guide « ${base} »`); return false;
+    if (!accepte(prefixe)) {
+      ligne(f.nom, type, "erreur", `ce fichier appartient au guide « ${prefixe} », pas au guide « ${base} » : choisissez le bon guide`); return false;
     }
-    if (fc && !code) R.avertissements.push(`${f.nom} : code ${fc} accepté, mais le guide « ${base} » n'a pas encore de code (déposez bases.json)`);
     return true;
   });
   images = new Map([...images].filter(([, f]) => reste.some((r) => r.f === f)));

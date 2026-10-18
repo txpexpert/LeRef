@@ -12,17 +12,19 @@ const LIBELLES: Record<TypeFichier, string> = {
 };
 const LOT = 3.5 * 1024 * 1024;
 
-// Code du guide en tête du nom (« FISC_PARTIE_1_CH1.json ») ; « PARTIE_… » seul n'en a pas
+// Slug du guide en tête du nom (« fiscal_PARTIE_1_CH1.json ») ; « PARTIE_… » seul n'en a pas
 function codeDe(nom: string): string | null {
-  const m = nom.match(/^([A-Za-z][A-Za-z0-9]*)_(.+)$/);
-  return m && !/^partie$/i.test(m[1]) && !/^(bases|dossiers)\.json$/i.test(nom) ? m[1].toUpperCase() : null;
+  const m = nom.match(/^([A-Za-z][A-Za-z0-9-]*)_(.+)$/);
+  return m && !/^partie$/i.test(m[1]) && !/^(bases|dossiers)\.json$/i.test(nom) ? m[1].toLowerCase() : null;
 }
+const guideDe = (bases: { slug: string; code: string | null }[], p: string) =>
+  bases.find((b) => b.slug.toLowerCase() === p || b.code?.toLowerCase() === p);
 
 function typeDe(brut: string): TypeFichier {
   if (/^(bases|dossiers)\.json$/i.test(brut)) return brut.toLowerCase().startsWith("bases") ? "bases" : "dossiers";
   const nom = codeDe(brut) ? brut.slice(brut.indexOf("_") + 1) : brut;
   if (/plan.*\.md$/i.test(nom)) return "plan";
-  if (/^(?:[A-Za-z][A-Za-z0-9]*_)?PARTIE_.*\.json$/i.test(nom)) return "chapitre";
+  if (/^PARTIE_.*\.json$/i.test(nom)) return "chapitre";
   if (/\.(webp|png|jpe?g|svg)$/i.test(nom)) return "figure";
   const m = nom.toLowerCase().match(/^(liminaires|parcours|modeles|logigrammes|bases|dossiers)\.json$/);
   return m ? (m[1] as TypeFichier) : "inconnu";
@@ -56,8 +58,8 @@ export default function Importeur({ bases }: { bases: { slug: string; titre: str
       // Sélection automatique du guide d'après le code porté par les fichiers
       const codes = new Set(tous.map((f) => codeDe(f.name)).filter(Boolean));
       if (codes.size === 1) {
-        const g = bases.find((b) => b.code?.toUpperCase() === [...codes][0]);
-        if (g) setBase(g.slug);
+        const g = guideDe(bases, [...codes][0] as string);
+        setBase(g ? g.slug : ([...codes][0] as string));   // slug inconnu : nouveau guide
       }
       return tous;
     });
@@ -142,10 +144,11 @@ export default function Importeur({ bases }: { bases: { slug: string; titre: str
                 <tr key={f.name}>
                   <td className="num">{f.name}</td>
                   <td>{(() => {
-                    const c = codeDe(f.name), attendu = bases.find((b) => b.slug === base)?.code?.toUpperCase();
+                    const c = codeDe(f.name);
                     if (typeDe(f.name) === "bases" || typeDe(f.name) === "dossiers") return <span className="muet">commun</span>;
-                    if (!c) return <span className="badge alerte">sans code</span>;
-                    return <span className={`badge ${attendu && c !== attendu ? "alerte" : "ok"}`}>{c}</span>;
+                    if (!c) return <span className="badge alerte">sans slug</span>;
+                    const ok = c === base.toLowerCase() || guideDe(bases, c)?.slug === base;
+                    return <span className={`badge ${ok ? "ok" : "alerte"}`}>{c}</span>;
                   })()}</td>
                   <td><span className={`badge ${typeDe(f.name) === "inconnu" ? "alerte" : "neutre"}`}>{LIBELLES[typeDe(f.name)]}</span></td>
                   <td className="chiffre">{(f.size / 1024).toFixed(0)} Ko</td>

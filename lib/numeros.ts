@@ -7,7 +7,7 @@ import type { Paragraphe } from "./types";
 const RE_NUM = /^(?:([A-Za-z][A-Za-z0-9]*)-)?(\d+-\d{3})$/;
 
 // Fichiers de chapitre : PARTIE_7_CH1.json ou DOU_PARTIE_7_CH1.json
-export const RE_FICHIER_CHAPITRE = /^(?:[A-Za-z][A-Za-z0-9]*_)?PARTIE_.*\.json$/i;
+export const RE_FICHIER_CHAPITRE = /^(?:[A-Za-z][A-Za-z0-9-]*_)?PARTIE_.*\.json$/i;
 
 export function decouperNum(id: unknown): { code: string | null; num: string } | null {
   if (typeof id !== "string") return null;
@@ -25,12 +25,15 @@ export function normaliserParagraphe(p: Paragraphe): Paragraphe {
   return { ...p, id, ...(p.renvois ? { renvois: p.renvois.map(sansPrefixe) } : {}) };
 }
 
-// Fichiers : le nom peut commencer par le code du guide (« DOU_PARTIE_7_CH1.json »,
-// « FISC_liminaires.json », « URB_figure-03.webp »). Ce code évite de déposer par erreur
-// le fichier d'un guide dans un autre : l'import refuse un code différent du guide choisi.
-export function decouperFichier(chemin: string): { code: string | null; nom: string } {
+// Fichiers : le nom commence par le slug de son guide (« douane_PARTIE_7_CH1.json »,
+// « commerce-exterieur_liminaires.json », « urbanisme_figure-03.webp »). Ce marquage évite de
+// déposer par erreur le fichier d'un guide dans un autre : l'import refuse un slug différent
+// du guide choisi. Le code du guide (« DOU_ ») est aussi accepté.
+export const RE_PREFIXE = /^([A-Za-z][A-Za-z0-9-]*)_(.+)$/;
+
+export function decouperFichier(chemin: string): { prefixe: string | null; nom: string } {
   const nom = chemin.split(/[\\/]/).pop() ?? chemin;
-  const m = nom.match(/^([A-Za-z][A-Za-z0-9]*)_(.+)$/);
-  if (!m || /^partie$/i.test(m[1])) return { code: null, nom };
-  return { code: m[1].toUpperCase(), nom: m[2] };
+  const m = nom.match(RE_PREFIXE);
+  if (!m || /^partie$/i.test(m[1]) || /^(bases|dossiers)\.json$/i.test(nom)) return { prefixe: null, nom };
+  return { prefixe: m[1].toLowerCase(), nom: m[2] };
 }
