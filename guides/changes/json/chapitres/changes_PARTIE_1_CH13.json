@@ -1,0 +1,42 @@
+[
+ {
+  "id": "1-120",
+  "p": 1,
+  "ch": "1.13",
+  "c": "Conformité LBC-FT des opérateurs de change",
+  "t": "Conformité LBC-FT des opérateurs de change — présentation",
+  "textes": [
+   "Circulaire OC n° 1/2021 du 2 décembre 2021 — abroge la circulaire 2/2019",
+   "Circulaire OC n° 9/2013 du 1er août 2013 — historique",
+   "Note circulaire 1/2023 (non fournie) ; Instruction 2026, art. 23-26"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-121",
+  "p": 1,
+  "ch": "1.13",
+  "c": "Conformité LBC-FT des opérateurs de change",
+  "t": "Quand identifier le client",
+  "principe": "- toutes les ventes de devises, quel que soit le montant ;\n- les achats de devises identifiés comme présentant un risque, quel que soit le montant ;\n- les achats réalisés dans le cadre d'une relation d'affaires ;\n- les achats d'un montant ≥ 100 000 DH (opération unique ou opérations liées).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-122",
+  "p": 1,
+  "ch": "1.13",
+  "c": "Conformité LBC-FT des opérateurs de change",
+  "t": "Le dispositif interne",
+  "principe": "| Élément | Exigence |\n| Approche par les risques | Évaluation documentée ; évaluation préalable des nouveaux produits et technologies |\n| Manuel de procédures | Écrit, à jour, connu du personnel |\n| Correspondant ANRF / CNASNU | Désigné avec suppléants, indépendant, qualifié |\n| Fiche client | Nom, prénom, date de naissance, adresse exacte, origine des fonds, n° CNIE / carte d'immatriculation / passeport ; dossier avec copies et bordereau |\n| Filtrage | Listes CNASNU publiées au BO et sur le site ; interdiction d'opérer avec les personnes listées |\n| Classification | Risque élevé : PPE (y compris ayant cessé leurs fonctions depuis moins d'un an, famille et proches), pays à risque, pays GAFI |\n| Déclarations | Soupçon : sans délai à l'ANRF ; déclarations systématiques ; descriptif du dispositif transmis à l'ANRF |\n| Conservation | 10 ans |\n| Formation | Continue ; formation à la réglementation des changes et à la LBC-FT |\n| Évaluation | Périodique (la circulaire 9/2013 imposait une vérification interne au moins tous les deux ans : bonne pratique à conserver) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-123",
+  "p": 1,
+  "ch": "1.13",
+  "c": "Conformité LBC-FT des opérateurs de change",
+  "t": "Situations à risque et réflexes",
+  "principe": "| Situation | Réflexe |\n| Client refusant de présenter une pièce ou présentant une pièce douteuse | Ne pas opérer ; déclaration de soupçon sans délai |\n| Opérations fractionnées juste sous 100 000 DH | Traiter comme opérations liées ; identifier ; analyser |\n| Client PPE | Autorisation de la direction, origine des fonds, suivi renforcé |\n| Correspondance avec une liste CNASNU | Refus, gel, information de la CNASNU |\n| Mesure de vigilance qui alerterait le client | Ne pas l'exécuter ; déclarer sans délai |\n### Sanctions\nSanctions pécuniaires de la loi 43-05 et sanctions administratives de l'OC ; article 446 du Code pénal en cas de divulgation d'une déclaration ; sanctions CNASNU pour défaut de filtrage ou de communication. La déclaration faite de bonne foi ouvre droit à immunité.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "6-030",
+    "p": 6,
+    "ch": "6.4",
+    "c": "Envois postaux et express",
+    "t": "Envois postaux et petits envois : déclaration selon les formules postales, franchise de 1 250 DH et exclusion des achats en ligne",
+    "enbref": "Les marchandises importées ou exportées par la poste sont déclarées sur les formules de l'Union postale universelle, mais la douane peut exiger une déclaration en détail. Les envois adressés à des résidents au Maroc sont admis en franchise jusqu'à 1 250 DH, sauf boissons alcoolisées, tabacs et achats effectués par voie électronique.",
+    "textes": [
+      "CDII, art. 164-1°-e)",
+      "Décret n° 2-77-862 du 09/10/1977, art. 190-e)",
+      "Arrêté du ministre des finances n° 1319-77 du 31/10/1977, art. 16 et 17",
+      "Arrêté du ministre des finances n° 1310-77, art. 3",
+      "Circulaire ADII n° 4222/3.1.3 du 01/12/1992",
+      "Circulaire ADII n° 6706/233 du 31/12/2025, annexe I, art. 27"
+    ],
+    "principe": "Déclaration. L'importation et l'exportation de marchandises par la poste ou par colis postal font l'objet d'une déclaration établie sur les modèles prévus par les actes de l'Union postale universelle. L'administration peut toutefois exiger une déclaration en détail (arrêté n° 1319-77, art. 17). Les envois sans caractère commercial peuvent aussi être déclarés sur une déclaration occasionnelle (art. 16).\nFranchise. Le code admet en franchise totale les envois exceptionnels dépourvus de caractère commercial et les marchandises de valeur négligeable (CDII, art. 164-1°-e). Le décret précise que sont admis en franchise, dans les conditions fixées par le directeur de l'administration, les produits et objets envoyés à des résidents au Maroc dans la limite de 1 250 DH (décret, art. 190-e). En sont exclus :\n- les boissons alcoolisées ;\n- les tabacs ;\n- les achats effectués par voie électronique.\nUn colis commandé en ligne ne bénéficie donc pas de cette franchise, quelle que soit sa valeur.\nOrigine. Pour les colis postaux et les envois par messagerie avion, le directeur de l'administration peut convenir avec les pays destinataires de formules simplifiées de certification de l'origine marocaine (arrêté n° 1310-77, art. 3). Dans le cadre de la convention paneuro-méditerranéenne, les petits envois entre particuliers d'une valeur n'excédant pas 500 EUR sont dispensés de preuve d'origine lorsque l'importation est dépourvue de caractère commercial (circ. n° 6706/233).\nExportations d'artisanat. Les commerçants d'artisanat peuvent expédier par la poste à leurs clients non résidents, sous déclaration occasionnelle, des envois d'une valeur n'excédant pas 10 000 DH, sans caractère commercial et sans paiement, avec bordereaux de change et factures (circ. n° 4222/3.1.3). Contrôle. Les agents ont accès aux bureaux de poste pour rechercher les envois, hors transit, contenant des objets prohibés ou taxables, sans jamais porter atteinte au secret des correspondances (CDII, art. 43). Ils peuvent ouvrir, avec l'assistance des agents des postes, les envois non clos et les envois clos portant l'étiquette « Douane », et requérir l'ouverture des autres envois clos en présence ou sur autorisation de l'expéditeur ou du destinataire, ou d'office à l'exportation si l'expéditeur est inconnu (art. 44).",
+    "admin": "Le seuil de 1 250 DH et ses exclusions reposent sur l'article 190-e du décret, qui renvoie aux conditions fixées par le directeur de l'administration.",
+    "donnees": [
+      [
+        "Formule de déclaration",
+        "Modèles de l'Union postale universelle (arrêté n° 1319-77, art. 17)"
+      ],
+      [
+        "Franchise des envois à des résidents",
+        "1 250 DH (décret, art. 190-e)"
+      ],
+      [
+        "Exclusions de la franchise",
+        "Alcools, tabacs, achats par voie électronique (décret, art. 190-e)"
+      ],
+      [
+        "Preuve d'origine pan-euro-méditerranéenne",
+        "Dispense jusqu'à 500 EUR entre particuliers (circ. n° 6706/233)"
+      ],
+      [
+        "Artisanat expédié à des non-résidents",
+        "10 000 DH au plus, déclaration occasionnelle (circ. n° 4222/3.1.3)"
+      ],
+      [
+        "Contrôle postal",
+        "Accès des agents aux bureaux de poste ; respect du secret des correspondances (CDII, art. 43 et 44)"
+      ]
+    ],
+    "cas": "Mme Salma, résidente à Rabat, reçoit deux colis. Le premier, envoyé par sa sœur installée en France, contient des vêtements d'une valeur de 900 DH : il est admis en franchise. Le second contient un casque audio de 800 DH commandé sur un site marchand étranger : la franchise ne s'applique pas aux achats effectués par voie électronique, et les droits et taxes sont dus. L'erreur fréquente : croire que tout colis de moins de 1 250 DH est en franchise.",
+    "juris": "",
+    "conseil": "Pour les entreprises de vente en ligne qui livrent des clients marocains, informez l'acheteur que la franchise ne s'applique pas à ses commandes et intégrez les droits et taxes dans le prix affiché. Pour l'export d'artisanat, conservez le bordereau de change avec la déclaration occasionnelle.",
+    "faq": [
+      [
+        "Un cadeau envoyé de l'étranger à un résident est-il taxé ?",
+        "Non dans la limite de 1 250 DH, sauf s'il s'agit d'alcool, de tabac ou d'un achat effectué par voie électronique (décret, art. 190-e)."
+      ],
+      [
+        "La douane peut-elle exiger une déclaration en détail pour un colis postal ?",
+        "Oui, lorsqu'elle l'estime utile pour la vérification (arrêté n° 1319-77, art. 17)."
+      ],
+      [
+        "La douane peut-elle ouvrir une lettre ?",
+        "Non : le contrôle postal ne peut jamais porter atteinte au secret des correspondances ; il vise les envois contenant des objets prohibés ou taxables (CDII, art. 43-4°)."
+      ]
+    ],
+    "renvois": [
+      "6-031",
+      "3-020",
+      "4-001",
+      "4-030",
+      "3-040"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "6-031",
+    "p": 6,
+    "ch": "6.4",
+    "c": "Envois postaux et express",
+    "t": "Procédure express : enlèvement des envois express non taxables sous déclaration simplifiée et régularisation des échantillons",
+    "enbref": "Les opérateurs de fret express peuvent être autorisés à enlever les envois express non taxables sur simple document commercial ou de transport, puis à déposer sur BADR une déclaration complémentaire dans les 30 jours. Les échantillons arrivés par voie express peuvent être enlevés sur annotation de la lettre de transport aérien, avec régularisation dans les 8 jours.",
+    "textes": [
+      "CDII, art. 76 bis",
+      "Circulaire ADII n° 6037/312 du 17/04/2020",
+      "Circulaire ADII n° 5295/312 du 05/12/2011",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016",
+      "Arrêté du ministre des finances n° 1310-77, art. 3"
+    ],
+    "principe": "Le code autorise une déclaration simplifiée, qui omet certaines énonciations ou documents et peut prendre la forme d'un document commercial ; elle permet l'enlèvement, à charge de déposer une déclaration complémentaire qui forme avec elle un acte unique (CDII, art. 76 bis-3°). La circulaire n° 6037/312 en a fait l'outil de l'« enlèvement des envois express non taxables ».\nLe circuit est le suivant (circ. n° 6037/312) :\n- octroi de la facilité, ponctuelle ou permanente, par le directeur préfectoral ou interprovincial, ou par les directeurs des importations, des exportations et des MEAD, sur demande de l'opérateur ;\n- présentation d'un document commercial ou de transport identifiant la marchandise et son régime, en deux exemplaires ; mainlevée après contrôle d'usage ;\n- dépôt sur BADR d'une déclaration complémentaire dans les 30 jours de la première déclaration simplifiée, une même déclaration complémentaire pouvant couvrir plusieurs déclarations simplifiées ;\n- pour les opérateurs réalisant au moins 15 opérations par mois, remplacement des documents annexes par un état récapitulatif global.\nLes produits soumis à une réglementation particulière sont exclus de cette facilité, et le défaut de dépôt de la déclaration complémentaire dans le délai est sanctionné.\nPour les échantillons et spécimens importés par voie express, l'enlèvement est autorisé sur simple annotation de la lettre de transport aérien, la déclaration de régularisation devant être déposée dans les 8 jours ; le non-respect du délai entraîne la suspension du bénéfice de la procédure (circ. n° 5295/312 ; note n° D7106/16).\nÀ l'exportation, le directeur de l'administration peut convenir avec les pays destinataires de formules simplifiées de certification de l'origine marocaine pour les envois par messagerie avion (arrêté n° 1310-77, art. 3). Lorsque la fréquence des opérations le justifie, le dépôt des déclarations simplifiées peut être organisé par une convention entre l'administration et l'opérateur (CDII, art. 76 bis-5°).",
+    "admin": "La contrepartie de la facilité est une obligation de traçabilité : les opérations hors douane doivent être inscrites dans une comptabilité matières, y compris informatique, accessible à première réquisition des agents, et le contrôle de la déclaration complémentaire obéit aux règles d'une déclaration en détail ordinaire (circ. n° 6037/312).",
+    "donnees": [
+      [
+        "Base légale",
+        "CDII, art. 76 bis-3° (déclaration simplifiée)"
+      ],
+      [
+        "Envois concernés",
+        "Envois express non taxables (circ. n° 6037/312)"
+      ],
+      [
+        "Délai de la déclaration complémentaire",
+        "30 jours (circ. n° 6037/312)"
+      ],
+      [
+        "Récapitulatif global",
+        "Opérateurs à 15 opérations par mois ou plus (circ. n° 6037/312)"
+      ],
+      [
+        "Échantillons par express",
+        "Régularisation dans les 8 jours (circ. n° 5295/312)"
+      ]
+    ],
+    "cas": "La société fictive Atlas Express, opérateur de fret express à l'aéroport Mohammed V, obtient une autorisation permanente de déclaration simplifiée pour ses envois non taxables. Chaque jour, elle présente ses manifestes et lettres de transport, obtient la mainlevée et livre les plis. En fin de mois, elle dépose une déclaration complémentaire récapitulative sur BADR. Un colis contenant un médicament, soumis à réglementation particulière, est écarté de la procédure et dédouané selon le droit commun. L'erreur fréquente : dépasser le délai de 30 jours.",
+    "juris": "",
+    "conseil": "Paramétrez votre système pour isoler automatiquement les envois soumis à réglementation particulière et les envois taxables. Programmez le dépôt des déclarations complémentaires bien avant le 30e jour. Pour les échantillons, déposez la régularisation dans les 8 jours : la suspension de la facilité pénalise l'ensemble des clients.",
+    "faq": [
+      [
+        "Les envois express taxables bénéficient-ils de la déclaration simplifiée ?",
+        "La circulaire n° 6037/312 vise les envois express non taxables."
+      ],
+      [
+        "Dans quel délai régulariser des échantillons arrivés par express ?",
+        "Dans les 8 jours suivant l'enlèvement sur lettre de transport aérien, sous peine de suspension de la facilité (circ. n° 5295/312)."
+      ]
+    ],
+    "renvois": [
+      "6-030",
+      "3-040",
+      "3-020",
+      "4-030",
+      "7-010",
+      "8-020"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe mis à jour"
+    ]
+  }
+]

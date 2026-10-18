@@ -1,0 +1,38 @@
+[
+ {
+  "id": "2-020",
+  "p": 2,
+  "ch": "2.3",
+  "c": "L’adhésion aux téléservices SIMPL",
+  "t": "L’adhésion aux téléservices SIMPL — présentation",
+  "principe": "Depuis le 1er janvier 2017, toutes les entreprises doivent souscrire leurs déclarations et effectuer leurs versements par procédé électronique [CGI art. 155-I, 169-I]. Les contribuables soumis à l’IR doivent également télédéclarer et télépayer [CGI art. 155-III, 169-III], sous réserve de la faculté laissée aux contribuables à la CPU [art. 155-IV]. L’adhésion aux téléservices SIMPL est donc une étape obligatoire du démarrage.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-021",
+  "p": 2,
+  "ch": "2.3",
+  "c": "L’adhésion aux téléservices SIMPL",
+  "t": "Vue d’ensemble",
+  "principe": "La procédure d’adhésion se déroule en deux grandes étapes : l’initialisation de l’adhésion (vérification de l’identité, représentant, confirmation par courriel) puis la finalisation (mot de passe, services, modes de paiement, délégation, utilisateurs, langue, validation).\n### ÉTAPE 1 — INITIALISER L’ADHÉSION\n- Se rendre sur www.tax.gov.ma, cliquer sur « Téléservices SIMPL », puis « Espace Professionnels », « Simpl-Adhésion » et « Accédez au Simpl-Adhésion ».\n- Dans la colonne « Non-adhérent », cliquer sur « ADHÉRER » (la colonne « Espace adhérent » est réservée aux contribuables déjà inscrits).\n- Saisir l’identifiant fiscal, le code d’accès fourni par la DGI et le code de vérification, puis « Se connecter ».\n- Vérification de l’identité : le système affiche l’IF et la raison sociale ou le nom ; aucune saisie n’est requise ; cliquer sur « Suivant ».\n- Représentant du contribuable : renseigner tous les champs obligatoires (astérisque rouge) relatifs au représentant légal ; un clavier virtuel permet la saisie en arabe ; cliquer sur « Confirmer votre demande ».\n- Le système indique qu’un courriel a été envoyé ; cliquer impérativement sur « TERMINER ». La demande prend le statut « en cours d’inscription ».\n- Ouvrir le courriel reçu (en français ou en arabe), qui contient un code confidentiel et un lien de confirmation ; cliquer sur le lien (ou le copier dans le navigateur s’il est inactif).\n- Saisir le code d’authentification à 6 chiffres reçu par courriel (expéditeur « Noreply ») puis « VALIDER ». Un écran confirme l’initialisation et invite à « Poursuivre ».\n### LE COURRIEL DU REPRÉSENTANT\nL’adresse électronique saisie doit être valide et accessible (mot de passe connu). En cas de non-réception du lien de validation, l’inscription doit être recommencée depuis le début. Vérifiez le dossier des courriers indésirables.\n### ÉTAPE 2 — FINALISER L’ADHÉSION\n- Mot de passe : au moins 6 caractères, dont un chiffre, un caractère spécial (@ # $ %) et une majuscule ; choisir une question secrète et sa réponse (nécessaires en cas d’oubli).\n- E-services : les services en ligne sont pré-cochés par la DGI ; aucune action n’est requise.\n- Modes de paiement : le paiement multicanal et la carte bancaire sont disponibles par défaut ; pour le prélèvement bancaire, choisir la banque partenaire, saisir les 24 chiffres du RIB et « Enregistrer ».\n- Délégation : choisir de gérer soi-même ses déclarations et paiements, ou désigner un délégué (souvent l’expert-comptable) en saisissant son identifiant fiscal puis « Rechercher », et fixer le niveau de délégation.\n- Utilisateurs : « Ajouter un utilisateur » et attribuer les habilitations (voir tableau) ; chaque utilisateur reçoit par courriel son identifiant et son mot de passe.\n- Langue : choisir la langue d’utilisation des téléservices.\n- Validation : vérifier, imprimer le récapitulatif, puis « Valider ». Une fois l’inscription activée, l’ensemble des télédéclarations et télépaiements est accessible.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-022",
+  "p": 2,
+  "ch": "2.3",
+  "c": "L’adhésion aux téléservices SIMPL",
+  "t": "Les profils d’habilitation",
+  "principe": "| Profil | Droits |\n| Saisie | Saisir les formulaires et les soumettre pour validation |\n| Validation | Valider, remettre en brouillon, ou déposer les formulaires ne comportant aucun versement |\n| Dépôt | Déposer ou invalider les formulaires |\n| Consultation | Consulter tous les formulaires |\n| Profils « DTS » | Profils dédiés garantissant la confidentialité de la déclaration des traitements et salaires |\n### ORGANISATION INTERNE RECOMMANDÉE\nSéparez les fonctions : un collaborateur en saisie, le responsable financier en validation, le dirigeant ou l’expert-comptable délégué en dépôt. Réservez le profil DTS au service paie. Cette séparation limite les erreurs et constitue un élément de contrôle interne apprécié lors des vérifications.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-023",
+  "p": 2,
+  "ch": "2.3",
+  "c": "L’adhésion aux téléservices SIMPL",
+  "t": "Les principaux téléservices utiles à l’opérateur",
+  "principe": "| Téléservice | Usage |\n| SIMPL-IS, SIMPL-IR, SIMPL-TVA | Télédéclaration et télépaiement des impôts |\n| SIMPL-Attestation | Attestations fiscales, dont l’attestation de régularité fiscale (exigée pour les marchés publics et, en matière de TVA, pour éviter la retenue à la source de l’article 117-IV et V) ; fiche de renseignements relative aux impôts grevant un immeuble |\n| SIMPL-Taxes territoriales | Paiement de la taxe d’habitation et de la taxe de services communaux |\n| SIMPL-Enregistrement | Enregistrement électronique des actes (obligatoire pour notaires, adouls, experts-comptables, comptables agréés) |\n| Demandes en ligne | Exonération de TVA sur biens d’investissement, prorogation du délai de 36 mois, option libératoire sur les revenus fonciers, avis préalable sur les profits fonciers, déclaration de procédure collective, etc. |",
+  "maj": "2026-10-17"
+ }
+]

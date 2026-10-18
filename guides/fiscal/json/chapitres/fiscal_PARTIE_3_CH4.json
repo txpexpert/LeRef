@@ -1,0 +1,83 @@
+[
+ {
+  "id": "3-030",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Le champ d’application",
+  "principe": "Sont obligatoirement soumis à la TVA [CGI art. 89-I], notamment : les ventes des fabricants ; les ventes des commerçants grossistes et des commerçants dont le CA taxable de l’année précédente atteint 2 000 000 DH (ils ne peuvent sortir du régime qu’après trois années consécutives sous ce seuil) ; les ventes en l’état des importateurs ; les travaux immobiliers, opérations de lotissement et de promotion immobilière ; l’installation, la pose, la réparation ; les livraisons à soi-même (y compris de constructions, hors construction d’habitation personnelle relevant de la CSS) ; l’hébergement et la restauration ; les locations de locaux meublés, équipés à usage professionnel ou situés dans des centres commerciaux, ainsi que de locaux non équipés acquis ou construits avec droit à déduction ou en exonération ; et, de manière générale, toutes les prestations de services.\n### COMMERÇANTS DE DÉTAIL SOUS LE SEUIL\nLes commerçants dont le CA taxable de l’année précédente est inférieur à 2 000 000 DH sont hors champ de la TVA pour leurs ventes [CGI art. 89-I-2°-b], comme le rappelle la NC 736 à propos des produits à base de viande transformée. Les personnes physiques dont le CA n’excède pas 500 000 DH bénéficient, sous conditions, de l’exonération de l’article 91 (exemple des avocats, section 18).\n### Les opérations imposables sur option [CGI art. 90]\nExportateurs (pour leur CA à l’export), petits fabricants et prestataires, revendeurs en l’état de produits non exonérés, et — de manière irrévocable — personnes affectant des locaux professionnels à la location. La demande est déposée sur modèle au service local et prend effet 30 jours après son dépôt ; l’engagement est d’au moins trois ans.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-031",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Les taux",
+  "principe": "| Taux | Principales opérations (référentiel CGI 2026, art. 99) |\n| 20 % | Taux normal ; électricité et transport ferroviaire depuis 2026 (fin de la transition) ; levures sèches (depuis 2025) |\n| 14 % | Beurre non artisanal ; véhicules économiques (hors montage) |\n| 10 % | Hébergement, restauration ; location d’immeubles touristiques ; opérations de banque et de crédit, commissions de change ; Mourabaha, Ijara, Istisna’a pour l’habitation ; huiles alimentaires (hors palme) ; sel ; riz usiné ; pâtes (hors pâtes courtes exonérées, art. 91) ; panneaux photovoltaïques et chauffe-eau solaires ; aliments du bétail ; gaz de pétrole et hydrocarbures gazeux ; huiles de pétrole ; engins agricoles et de pêche ; eau des réseaux et assainissement ; énergie renouvelable ; sucre raffiné ; transport urbain et routier de voyageurs et de marchandises ; commissions des courtiers et démarcheurs d’assurances (sans droit à déduction, taux atteint en 2025) |\n| 7 % | Produits pharmaceutiques ; fournitures scolaires ; sucre brut ; lait en poudre ; conserves de sardines ; savon de ménage ; emballages des médicaments |\n### Fin des transitions de la LF 2024 (taux applicables en 2026)\n| Produit | 2023 | 2024 | 2025 | 2026 |\n| Électricité (réseau) | 14 % | 16 % | 18 % | 20 % |\n| Location de compteurs d’électricité | 7 % | 11 % | 15 % | 20 % |\n| Transport ferroviaire | 14 % | 16 % | 18 % | 20 % |\n| Transport urbain et routier | 14 % | 12 % | 10 % | 10 % |\n| Énergie renouvelable (producteurs) | 14 % | 12 % | 10 % | 10 % |\n| Sucre raffiné | 7 % | 8 % | 9 % | 10 % |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-032",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Le fait générateur et la déduction",
+  "principe": "- Fait générateur : l’encaissement du prix (règle générale) ; sur option, le débit (facturation ou inscription en compte), option à exercer avant le 1er janvier ou dans les 30 jours du début d’activité [CGI art. 95].\n- Droit à déduction : il naît le mois de l’établissement de la quittance de douane ou du paiement de la facture, et doit être exercé dans un délai d’un an [art. 101].\n- Conservation des biens : biens meubles amortissables 60 mois, immeubles 10 ans ; une cession anticipée entraîne une régularisation [art. 102].\n- Prorata : les assujettis réalisant concurremment des opérations taxables et exonérées sans droit à déduction appliquent un prorata calculé à la fin de chaque année civile sur les opérations de l’année, retenu pour l’année suivante [art. 104]. En cas de changement de régime (exemple des levures en 2025), le prorata de la première année se calcule sur les opérations de l’année précédente selon le nouveau régime (NC 736).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-033",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Les déclarations et paiements",
+  "principe": "| Régime | Qui | Délai (télédéclaration) |\n| Mensuel | CA taxable de l’année précédente ≥ 1 000 000 DH ; toute personne sans établissement au Maroc réalisant des opérations imposables ; sur demande (avant le 31 janvier) | Avant l’expiration de chaque mois pour le mois précédent |\n| Trimestriel | CA taxable < 1 000 000 DH ; établissements saisonniers, activités périodiques ou occasionnelles ; nouveaux contribuables pour l’année en cours | Avant l’expiration du premier mois de chaque trimestre pour le trimestre précédent |\nLes déclarations papier, résiduelles, devaient être déposées avant le 20 du mois [CGI art. 110, 111, 176]. La déclaration comporte notamment le CA total, non taxable, exonéré et taxable par taux, la taxe exigible, le crédit antérieur et la taxe déductible ventilée entre achats non immobilisés et immobilisations [art. 112-I]. Elle est accompagnée d’un relevé détaillé des déductions (référence de la facture, fournisseur, IF, ICE, désignation, montant HT, TVA, mode et références de paiement) [art. 112-II], et le cas échéant d’un relevé des non-résidents et d’un relevé des retenues à la source de l’article 117.\n### LES RETENUES À LA SOURCE DE TVA [CGI ART. 117]\n- Fournisseurs de biens d’équipement et de travaux : si le fournisseur ne présente pas à son client assujetti une attestation de régularité fiscale datant de moins de six mois, le client retient la TVA à la source (l’État, les collectivités et les organismes soumis aux marchés publics sont dispensés).\n- Prestataires de services (liste réglementaire) : retenue de 75 % de la TVA par l’État, les collectivités, les EEP et leurs filiales ; par les personnes morales et professionnels assujettis lorsqu’ils paient des prestataires personnes physiques ; par les banques, assurances et entreprises de CA ≥ 200 MDH lorsqu’ils paient des prestataires personnes morales. Sans attestation de régularité, la retenue est de 100 %.\n- Non-résidents : la TVA due sur les opérations réalisées au profit de clients marocains exerçant des activités hors champ est retenue par le client et versée au cours du mois suivant le paiement.\nPour un prestataire, renouveler l’attestation de régularité fiscale tous les six mois via SIMPL-Attestation est donc un enjeu de trésorerie direct. Un crédit de TVA né de ces retenues est remboursable [art. 103-6°].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-034",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Les exonérations : sans ou avec droit à déduction",
+  "principe": "- Exonérations sans droit à déduction [CGI art. 91] : produits de base (pain, farines, céréales, pâtes courtes non cuites et non farcies (nouveauté LF 2026), lait, beurre artisanal, sucre brut, dattes conditionnées produites au Maroc, poisson frais, viande fraîche ou congelée — y compris assaisonnée depuis 2025, mais pas les produits transformés tels que merguez, saucisses, nuggets, cordons bleus), presse et livres, opérations d’assurance relevant de la taxe sur les contrats d’assurances, petits fabricants et prestataires dont le CA ≤ 500 000 DH n’ayant pas opté, fournitures scolaires, prestations de restauration, transport et loisirs scolaires des établissements privés d’enseignement, intérêts des prêts aux étudiants, etc. Ces opérateurs ne récupèrent pas la TVA sur leurs achats.\n- Exonérations avec droit à déduction [CGI art. 92] : exportations ; opérations réalisées dans les ZAI ; biens d’investissement acquis pendant les 36 premiers mois d’activité ; transport international ; logements sociaux ; biens d’équipement de l’enseignement privé et de la formation professionnelle ; marchés de l’État financés par dons ; opérations liées à la recherche et à l’exploitation des hydrocarbures, etc.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-035",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "L’exonération des biens d’investissement (36 mois + 24 mois)",
+  "principe": "C’est l’un des avantages les plus significatifs pour tout nouveau projet : les biens d’investissement à inscrire en immobilisation et ouvrant droit à déduction, acquis localement ou importés par les assujettis pendant 36 mois à compter du début d’activité, sont exonérés de TVA avec droit à déduction (hors véhicules acquis par les agences de location de voitures ; l’exonération couvre aussi les acquisitions par Mourabaha) [CGI art. 92-I-6°, 123-22°].\n| Question | Réponse (guide sectoriel DGI 2026) |\n| Qu’est-ce que le « début d’activité » ? | La date du premier acte commercial, qui coïncide avec la première acquisition de biens et services, à l’exclusion des frais de constitution et des premiers frais d’installation dans la limite de 3 mois |\n| Et si l’entreprise construit son projet ? | Le délai court à compter de la date de délivrance de l’autorisation de construire |\n| Et pour une entreprise existante qui investit ? | Pour un projet d’au moins 50 MDH dans le cadre d’une convention avec l’État, le délai court de la signature de la convention (ou de l’autorisation de construire) |\n| Peut-on prolonger ? | Oui, de 24 mois pour les entreprises qui construisent leur projet et pour celles qui réalisent un projet conventionné en cours de validité, sur demande électronique déposée avant l’expiration des 36 mois |\n| Faut-il des garanties ? | Oui, des garanties suffisantes, sauf pour les biens exonérés dans le cadre des conventions avec l’État |\n| Délai de dépôt | Les biens sont exonérés pendant toute la durée d’acquisition ou de construction si les demandes d’achat en exonération sont déposées au service local dans le délai de 36 mois |\n| Importations conventionnées | Les biens d’équipement, matériels et outillages nécessaires aux projets conventionnés d’au moins 50 MDH sont exonérés à l’importation, ainsi que les parties et pièces détachées importées en même temps |\n### OBTENIR L’ACHAT EN EXONÉRATION DE TVA SUR LE MARCHÉ INTÉRIEUR\n- Déposer une demande d’exonération par procédé électronique selon le modèle de l’administration (décret n° 2-06-574 modifié par le décret n° 2-24-1110).\n- Joindre un état descriptif des biens à acquérir (désignation, valeur en dirhams, compte d’immobilisation) et les factures proforma ou devis indiquant la valeur HT et le montant de TVA dont l’exonération est demandée.\n- Fournir les garanties requises (sauf projets conventionnés).\n- Recevoir l’attestation d’achat en exonération, délivrée par voie électronique ; en conserver un exemplaire et remettre l’autre au fournisseur.\n- Le fournisseur appose sur ses factures la mention « vente en exonération de la TVA en vertu de l’article 92 (I-…) du CGI ».\n- Inscrire les biens en immobilisation et les conserver 60 mois (meubles) ou 10 ans (immeubles).\n- Avant l’échéance des 36 mois, déposer si nécessaire la demande de prorogation de 24 mois.\n### ALTERNATIVE : LE REMBOURSEMENT\nSi un bien d’investissement a été acquis TVA payée (exonération non demandée à temps, fournisseur réticent), l’assujetti peut en demander le remboursement [CGI art. 103-3°]. Plus largement, tout assujetti (hors EEP) dont les déclarations font apparaître un crédit non imputable afférent à des biens d’investissement — hors mobilier de bureau et véhicules de tourisme — peut en demander le remboursement [art. 103 bis] : demande trimestrielle, déposée dans le mois qui suit le trimestre, portant sur les factures payées au cours du trimestre ; le crédit doit être annulé sur la déclaration suivante ; liquidation sous 30 jours.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-036",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Le remboursement du crédit de TVA",
+  "principe": "Hors biens d’investissement, le crédit de taxe n’est remboursable que dans les cas limitatifs de l’article 103 : opérations exonérées ou en suspension (exportateurs, art. 92 et 94, hors exportateurs de métaux de récupération) ; cessation d’activité taxable ; crédit-bail ; dessalement d’eau de mer ; crédit issu des retenues à la source de l’article 117.\n### DEMANDE DE REMBOURSEMENT [CGI ART. 103]\n- Déposer la demande au service local à la fin de chaque trimestre civil, au titre des opérations du ou des trimestres écoulés.\n- Délai de dépôt : au plus tard dans l’année suivant le trimestre concerné.\n- Plafond : TVA calculée fictivement sur le CA réalisé sous exonération ou suspension (la marge inutilisée est reportable).\n- Délai de liquidation : 3 mois au maximum à compter du dépôt ; décision ministérielle et ordre de restitution.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-037",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Les prestataires étrangers de services numériques",
+  "principe": "Depuis 2024, les prestations de services fournies à distance de manière dématérialisée par un non-résident sans établissement au Maroc à un client non assujetti établi au Maroc sont réputées faites au Maroc. La LF 2025 a précisé le dispositif [CGI art. 88-2°, 115 bis ; NC 736] :\n- les clients résidant à titre occasionnel au Maroc sont exclus du champ ;\n- le client est réputé domicilié au Maroc si l’un des indicateurs suivants est constaté : adresse de facturation au Maroc ; paiement par carte émise par un établissement établi au Maroc ; adresse IP au Maroc ; indicatif téléphonique marocain ;\n- le prestataire s’identifie sur une plateforme électronique, dépose une déclaration trimestrielle (avant la fin du premier mois de chaque trimestre) et verse la taxe sans droit à déduction.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-038",
+  "p": 3,
+  "ch": "3.4",
+  "c": "La taxe sur la valeur ajoutée",
+  "t": "Les régimes transitoires lors d’un changement de taux ou de régime",
+  "principe": "Lorsqu’une opération change de régime au 1er janvier (assujettissement nouveau, exonération nouvelle, changement de taux), les règles de l’article 125 s’appliquent :\n- Nouveaux assujettis : déposer avant le 1er mars l’inventaire des stocks au 31 décembre ; la TVA ayant grevé ces stocks est déductible à concurrence des ventes ; celle grevant les immobilisations antérieures ne l’est pas [art. 125-II].\n- Ventes facturées avant le 1er janvier et encaissées après : soumises au régime en vigueur à la date d’exécution [art. 125-III].\n- Liste des clients débiteurs : les assujettis au régime de l’encaissement adressent avant le 1er mars la liste nominative des clients débiteurs au 31 décembre, avec les montants dus [art. 125-IV], et continuent à déposer leurs déclarations jusqu’à apurement.",
+  "maj": "2026-10-17"
+ }
+]

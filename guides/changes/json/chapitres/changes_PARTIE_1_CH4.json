@@ -1,0 +1,59 @@
+[
+ {
+  "id": "1-030",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Couvrir les risques de change, de taux et de matières premières — présentation",
+  "textes": [
+   "Circulaire OC n° 1/2018 du 19 janvier 2018 — opérations de couverture",
+   "Circulaire OC n° 2/2025 du 25 février 2025 — couverture des opérations en capital des non-résidents"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-031",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Ce que l'on peut couvrir",
+  "principe": "La circulaire 1/2018 organise quatre familles d'opérations de couverture accessibles aux opérateurs résidents par l'intermédiaire des banques :\n| Risque | Bénéficiaires | Sous-jacents éligibles | Où |\n| Change (devise/dirham et devise/devise) | Personnes morales marocaines ; banques pour compte propre | Opérations courantes et/ou en capital | Banque marocaine |\n| Taux d'intérêt | Emprunteurs résidents | Financements extérieurs | Banque marocaine |\n| Prix des produits de base | Importateurs, exportateurs, stockeurs | Produits miniers, énergétiques, agricoles, bois, charbon, or, argent, métaux précieux | Banque marocaine ou courtier étranger sur marché organisé |\n| Risques sur actifs/dettes | Établissements de crédit, assurances et retraite, OPCVM, FPCT, OPCC | Actifs et passifs | Selon régulateur sectoriel |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-032",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Les conditions de fond : adossement et absence de spéculation",
+  "principe": "La couverture doit être adossée à une opération réelle, à l'exclusion de toute spéculation. L'adossement se prouve par des documents : contrats commerciaux, titres d'importation, déclarations d'exportation, factures définitives, bons de commande. Trois règles quantitatives encadrent l'opération :\n- le montant couvert ne peut dépasser celui de la transaction sous-jacente ;\n- l'échéance de la couverture ne peut dépasser le délai de règlement du sous-jacent ;\n- pour les produits importés et stockés, le dénouement intervient au plus tard à la date de cession des produits.\nLes instruments peuvent être combinés et les positions compensées. La signature d'une convention-cadre de type ISDA, FBF ou EMIR est obligatoire. Les règlements transitent par une banque intermédiaire agréé.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-033",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Annulation et produits de base",
+  "principe": "Si l'opération sous-jacente est annulée, l'opérateur doit demander à sa banque l'annulation de la couverture, ou procéder immédiatement à l'annulation auprès du courtier étranger et en informer sa banque. Pour les produits de base couverts à l'étranger, des comptes en devises dédiés retracent dépôts de garantie, appels de marge et primes ; les soldes créditeurs sont rapatriés et cédés dans le mois suivant la fin de chaque trimestre. L'entreprise qui traite directement avec un courtier étranger transmet ses relevés à l'Office trimestriellement.\n| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Cartographier l'exposition (devise, montant, échéance) | Trésorier | Plan de trésorerie, contrats | — |\n| 2 | Signer la convention-cadre | Entreprise / banque | ISDA, FBF ou EMIR | Avant la 1re opération |\n| 3 | Remettre les justificatifs d'adossement | Entreprise | Contrat, titre d'importation, DUM, facture, bon de commande | À la souscription |\n| 4 | Souscrire l'instrument (terme, option, swap) | Banque | Confirmation | Échéance ≤ règlement |\n| 5 | Surveiller et dénouer / annuler si le sous-jacent change | Trésorier | Avis d'annulation | Immédiat |\n| 6 | Matières premières à l'étranger : rapatrier soldes, transmettre relevés | Entreprise | Relevés courtier | Trimestriel |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-034",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "La couverture au profit des investisseurs non-résidents",
+  "principe": "La circulaire 2/2025 autorise les banques marocaines à couvrir, directement ou via une banque étrangère, le risque de change devises/dirhams supporté par les non-résidents sur leurs flux en capital :\n| Flux couvert | Documents à produire |\n| Dividendes revenant aux non-résidents | PV de l'AG (montant, date de mise en paiement) ; document de la société précisant identité, nationalité, adresse, nombre de titres et montant revenant au non-résident |\n| Échéances (principal et intérêts) de prêts | Contrat signé (montant, devise, taux, modalités) ; échéancier de l'année ; avenants ; justificatifs du financement en devises ou dirhams convertibles |\n| Échéances d'avances en compte courant d'associés | Convention d'avance ; justificatifs du financement en devises ; statuts attestant la qualité d'associé |\n| Produit de cession ou de liquidation d'investissements étrangers (hors dépôts à terme) | Justificatifs du financement en devises et de la réalisation de la cession ou liquidation |\nConditions : convention ISDA ou FBF, adossement à une opération réelle, certaine et effective, échéance au plus égale à celle du règlement, durée totale (prorogations comprises) limitée à 12 mois à compter de la souscription, portant uniquement sur les montants de l'année, et interdiction de compenser les positions.\n### Cas — Filiale marocaine d'un groupe européen\nLa filiale décide en mai le versement de 8 MDH de dividendes payables en novembre à sa maison-mère. Le groupe peut acheter auprès d'une banque marocaine un terme euro/dirham à échéance novembre, sur présentation du PV d'AG et de l'état des actionnaires non-résidents. Une couverture des dividendes de l'exercice suivant n'est pas possible : seuls les montants de l'année sont éligibles.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-035",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Fiche réflexe",
+  "principe": "- Pas de couverture sans sous-jacent documenté.\n- Montant ≤ transaction ; échéance ≤ règlement.\n- Convention-cadre signée avant la première opération.\n- Annulation immédiate si le sous-jacent disparaît.\n- Non-résidents : 12 mois maximum, pas de compensation.",
+  "maj": "2026-10-17"
+ }
+]

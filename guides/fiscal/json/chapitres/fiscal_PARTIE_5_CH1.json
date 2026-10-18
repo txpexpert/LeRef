@@ -1,0 +1,65 @@
+[
+ {
+  "id": "5-001",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "Les prix de transfert — présentation",
+  "principe": "Les transactions intra-groupe transfrontalières — ventes de biens, prestations de services, frais de gestion (« management fees »), prêts et comptes courants, mises à disposition de personnel ou de biens, redevances de brevets et de marques — sont au cœur du contrôle fiscal des groupes. Cette section présente, du point de vue de l’entreprise, l’approche de la DGI telle qu’exposée dans son Guide du contrôle des prix de transfert (2023).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-002",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "Le fondement : l’article 213-II du CGI",
+  "principe": "« Lorsqu’une entreprise a directement ou indirectement des liens de dépendance avec des entreprises situées au Maroc ou hors du Maroc, les bénéfices indirectement transférés, soit par voie de majoration ou de diminution des prix d’achat ou de vente, soit par tout autre moyen, sont rapportés au résultat fiscal et/ou au chiffre d’affaires déclarés. » Ces bénéfices sont déterminés par comparaison avec des entreprises similaires ou par appréciation directe sur la base des informations dont dispose l’administration.\nToute rectification suppose deux prérequis : un lien de dépendance et un transfert indirect de bénéfices.\n| Lien de dépendance | Contenu (NC 717, tome 3) |\n| Direct | Société mère et filiale ; société non résidente et son établissement au Maroc ; société et succursale. La dépendance peut être juridique (capital, pouvoir de décision direct ou par personne interposée : dirigeants et leur famille, sociétés contrôlées, personnes intéressées) ou économique (approvisionnement, marque, brevets) |\n| Indirect | Filiales sœurs d’un même groupe, participations croisées, sous-dépendance ; dépendance de fait en cas de monopole, quasi-monopole ou intérêt commun |\n| Formes de transfert indirect de bénéfices |\n| Majoration des prix d’achat de biens et services importés ou acquis localement |\n| Minoration des prix de vente à l’export ou localement |\n| Taux d’intérêt anormalement bas ou élevés |\n| Redevances et rémunérations excessives |\n| Frais de gestion excessifs ou fictifs |\n| Abandons de créances, renonciation à des recettes |\n| Opérations de compensation |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-003",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "L’obligation documentaire",
+  "principe": "### DOCUMENTATION DES PRIX DE TRANSFERT [CGI ART. 210, 214-III]\n- Qui : entreprises ayant des liens de dépendance avec des entreprises situées hors du Maroc et réalisant des transactions avec elles, dont le CA ou l’actif brut est égal ou supérieur à 50 MDH.\n- Quoi : un fichier principal (master file : activités du groupe, politique globale de prix de transfert, répartition des bénéfices et des activités) et un fichier local (local file : transactions de l’entité marocaine avec les entreprises liées). Contenu détaillé en annexe ci-dessous.\n- Quand : communication par voie électronique à la date de début du contrôle sur place.\n- En cas de manque : l’administration invite à produire les documents manquants dans un délai de 30 jours.\n- Sanctions : amende de 0,5 % du montant des transactions concernées par les documents non produits, avec un minimum de 200 000 DH par exercice, émise par voie de rôle [art. 185-IV] ; le lien de dépendance est présumé établi [art. 214-III-C] ; l’administration peut ajuster par appréciation directe, la charge de la preuve pesant sur l’entreprise.\n### Contenu attendu de la documentation (annexe 1 du guide DGI)\n| Fichier principal (groupe) | Fichier local (entité marocaine) |\n| Organigramme juridique et capitalistique, implantations | Structure de gestion locale, organigramme, rattachements hiérarchiques |\n| Sources de bénéfices ; chaîne d’approvisionnement des cinq principaux produits ou services ; accords de services intra-groupe importants et politique de facturation ; marchés géographiques | Activités et stratégie ; réorganisations et transferts d’incorporels de l’année ou de l’année précédente ; principaux concurrents |\n| Analyse fonctionnelle : fonctions clés, risques importants, actifs importants par entité | Description des transactions contrôlées et de leur contexte ; montants par catégorie et par juridiction ; entités associées concernées ; copie des accords intra-groupe importants |\n| Restructurations, acquisitions et cessions de l’exercice | Analyse fonctionnelle et de comparabilité détaillée par catégorie de transactions |\n| Stratégie en matière d’incorporels, localisation de la R&D, liste des incorporels et de leurs propriétaires, accords de licence et de répartition des coûts, transferts d’incorporels | Méthode retenue et justification ; partie testée et motif ; hypothèses ; analyse pluriannuelle |\n| Financement du groupe, entités de financement centralisé, politique de prix des financements intra-groupe | Comparables (internes ou externes), indicateurs financiers, sources et méthode de recherche ; ajustements de comparabilité |\n| États financiers consolidés ; APP unilatéraux et rescrits obtenus | Comptes annuels locaux ; tableaux de rapprochement avec les données utilisées ; copie des APP et décisions étrangères liées |\n### Le droit de communication spécifique [art. 214-III-B]\nPour les entreprises non soumises à la documentation (moins de 50 MDH), l’administration peut demander, dans un délai de 30 jours : la nature des relations avec l’entreprise étrangère, la nature des services ou produits, la méthode de détermination des prix et ses justifications, les régimes et taux d’imposition des entreprises étrangères. À défaut de réponse, le lien de dépendance est présumé.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-004",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "Comment l’administration contrôle",
+  "principe": "| Phase | Diligences du vérificateur |\n| Préliminaire | Comportement fiscal, historique des contrôles, régime applicable, APP éventuel ; analyse des liasses et des postes abritant des transactions transfrontalières ; rapprochements sectoriels ; Système d’Analyse Risque (SAR) ; sites internet du groupe et des concurrents ; rapports financiers ; presse |\n| Sur place | Entrevues et visites ; compréhension des processus, fonctions, actifs et risques ; examen critique de la documentation (exhaustivité, cohérence avec les contrats, compatibilité de la méthode avec le profil fonctionnel, qualité des comparables) |\n| Comptabilité | Comptes enregistrant les transactions intra-groupe ; cohérence des prix de revient avec la méthode ; contrats ; bons de commande et de livraison, factures, paiements ; réalité et effectivité des prestations ; flux financiers |\n| Biens corporels | Rôles des parties, fonctions, risques ; prix, marges et délais de paiement inhabituels |\n| Incorporels | Nature, étendue, durée, exclusivité, zone des droits ; mode de rémunération ; poids des redevances ; conformité aux contrats |\n| Services | Effectivité, intérêt pour l’entreprise, absence de double emploi, prix de marché (management fees, assistance technique, commissions, loyers) |\n| Financements | Prêts, avances, garanties, abandons de créances : conditions et justification |\n| Information | Droit de communication [art. 214-I] ; échange de renseignements avec les administrations étrangères [art. 214-II] — suspension du délai de vérification jusqu’à 180 jours et interruption de la prescription, le contribuable étant informé sous 15 jours de l’envoi de la demande |\n### L’ANALYSE FONCTIONNELLE, PIÈCE MAÎTRESSE\nLe guide DGI fournit un questionnaire et une grille d’analyse fonctionnelle (fonctions de R&D, achats, production, marketing, distribution, gestion ; actifs ; risques de marché, de stock, de crédit, de change, de produit). Préparer soi-même cette grille, cohérente avec les contrats intra-groupe et la facturation effective, est la meilleure défense : l’administration « ne peut écarter l’étude de comparabilité présentée par le contribuable que sur la base d’éléments solides et suffisamment argumentés ».",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-005",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "Les méthodes",
+  "principe": "| Méthode | Principe | Quand l’utiliser |\n| Prix comparable sur le marché libre (CUP) | Comparer le prix de la transaction contrôlée à celui d’une transaction comparable (comparable interne ou externe) | Matières premières cotées, prêts courants, existence d’un comparable interne ; à privilégier à fiabilité égale |\n| Prix de revente | Prix de revente au client indépendant diminué d’une marge brute de pleine concurrence : PPC = prix de revente × (1 – marge brute) | Distributeur n’ajoutant pas de valeur substantielle, commissionnaire |\n| Coût majoré (cost plus) | Coûts du fournisseur + marge brute de pleine concurrence | Façonnier, sous-traitant, prestataire de services |\n| Marge nette transactionnelle (MTMN) | Comparer un indicateur de marge nette (résultat d’exploitation sur coûts, sur ventes ou sur actifs) à celui d’entreprises comparables | Partie testée aux fonctions simples, faute de comparables de prix ou de marge brute |\n| Partage des bénéfices | Répartir le bénéfice global selon les contributions | Chaque partie apporte des contributions uniques de valeur (incorporels) |\nL’analyse de comparabilité suit huit étapes : choix des années (analyse pluriannuelle recommandée) ; analyse sectorielle et du groupe ; délimitation des transactions et analyse fonctionnelle ; recherche des comparables (internes à privilégier ; externes, y compris étrangers si nécessaire, via bases de données dont les données doivent être communiquées au contribuable) ; choix de la méthode ; sélection des comparables (taille, incorporels, structure des ventes, entreprises atypiques) ; ajustements de comparabilité ; interprétation et détermination de la rémunération de pleine concurrence.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-006",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "Les conséquences d’un redressement",
+  "principe": "- Ajustement primaire : réintégration des bénéfices transférés au résultat imposé au taux de l’entreprise.\n- Ajustement secondaire : les sommes réintégrées sont considérées comme des distributions occultes, soumises à la retenue à la source sur les produits des actions et parts sociales.\n- Ajustement corrélatif : pour éliminer la double imposition économique, l’entreprise liée peut obtenir de l’administration de son pays un ajustement corrélatif, via la procédure amiable (section 23).\n- Accord à l’amiable : l’évaluation des bénéfices indirectement transférés est une question de fait pouvant faire l’objet d’un accord avec l’administration (section 25).\n- La notification doit exposer le lien de dépendance, le transfert de bénéfices, la transaction délimitée, les comparables et correctifs, la justification de la méthode, la base légale et le calcul de l’ajustement.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-007",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Les prix de transfert",
+  "t": "Sécuriser en amont : l’accord préalable sur les prix de transfert (APP)",
+  "principe": "### ACCORD PRÉALABLE SUR LES PRIX DE TRANSFERT [CGI ART. 234 BIS, 234 TER ; DÉCRET N° 2-16-571 DU 3 JUILLET 2017]\n- Objet : convenir avec l’administration de la méthode de détermination des prix des transactions intra-groupe et des éléments qui la justifient (comparables, correctifs, hypothèses).\n- Durée : 4 exercices au maximum.\n- Effet : les transactions couvertes ne peuvent pas être rectifiées au titre des bénéfices indirectement transférés pendant la durée de l’accord.\n- Nullité : présentation erronée des faits, dissimulation, erreurs ou omissions imputables à l’entreprise, non-respect de la méthode ou des obligations, manœuvres frauduleuses — invocables seulement dans le cadre des procédures de rectification des articles 220 ou 221.\n- Lors d’un contrôle, le vérificateur se limite, pour les opérations couvertes, à vérifier le respect des termes de l’accord.",
+  "maj": "2026-10-17"
+ }
+]

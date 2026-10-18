@@ -1,0 +1,65 @@
+[
+ {
+  "id": "4-001",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "Un projet d'investissement est d'abord un projet",
+  "principe": "Un projet est un effort temporaire, doté d'un début et d'une fin, mobilisant des ressources limitées pour atteindre un objectif précis sous contraintes de périmètre, de délai et de coût, auxquelles s'ajoutent la qualité, le risque et la satisfaction des parties prenantes. Pour un investissement conventionné, une contrainte supplémentaire s'impose : le calendrier réglementaire (délais légaux, durée de validité des actes, délai de réalisation de la convention). Les méthodes classiques de gestion de projet s'y appliquent directement.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-002",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "Les cinq groupes de processus appliqués à l'investissement",
+  "principe": "| Groupe de processus | Contenu générique | Traduction pour l'investisseur au Maroc |\n| Démarrage | Charte du projet, identification des parties prenantes, désignation du chef de projet | Note de cadrage (montant, site, emplois, secteur) ; pré-qualification des dispositifs ; premier rendez-vous au CRI ; ouverture de l'espace CRI-invest |\n| Planification | Périmètre, échéancier, budget, qualité, ressources, communication, risques, achats | Business plan et plan de financement ; cartographie des actes à obtenir ; calendrier intégrant les délais légaux ; budget HT ventilé (base du montant primable) ; liste des biens d'équipement |\n| Exécution | Réalisation, coordination de l'équipe et des fournisseurs | Création de la société, foncier, autorisations, convention, construction, importations sous exonération ou RED, recrutements |\n| Suivi et maîtrise | Mesure des écarts, actions correctives, maîtrise des changements | Tableau de bord des engagements (montant investi, emplois CNSS, délais) ; demandes de déblocage des primes ; avenants ; apurement des comptes RED |\n| Clôture | Réception, retour d'expérience, clôture contractuelle | Certificat de conformité, permis d'habiter, dernier déblocage, rapport final de réalisation, décharge des cautions, archivage (10 ans pour le change) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-003",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "L'organigramme des tâches type (OT / WBS)",
+  "principe": "1. Lot 1 — Cadrage et éligibilité : étude de marché, choix du site, simulation des primes, choix du régime (principal, TPME, stratégique).\n2. Lot 2 — Structuration juridique et financière : forme sociale, pacte d'associés, financement (fonds propres en devises, crédit bancaire, garanties).\n3. Lot 3 — Création de la société : dix étapes de la section 10.\n4. Lot 4 — Foncier et urbanisme : note de renseignement, acquisition ou location, actes CRUI, permis, étude d'impact.\n5. Lot 5 — Convention d'investissement : dossier, instruction, négociation, approbation, signature.\n6. Lot 6 — Réalisation physique : études, génie civil, équipements (achats internationaux, dédouanement, exonérations), mise en service.\n7. Lot 7 — Ressources humaines : recrutement, CNSS, formation, salariés étrangers.\n8. Lot 8 — Exploitation et conformité : obligations fiscales, douanières (RED), de change, reporting de la convention.\n9. Lot 9 — Suivi des primes : demandes de déblocage, contrôles, avenants, clôture.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-004",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "Le chemin critique d'un projet industriel type",
+  "principe": "Dans la plupart des projets, le chemin critique passe par le foncier, puis l'autorisation de construire, puis la construction et la réception des équipements. La convention peut être négociée en parallèle, mais certains avantages (exonérations à l'importation) ne s'appliquent qu'après sa signature : si les équipements arrivent avant, ils risquent d'être dédouanés sans avantage. Planifiez donc la signature de la convention avant les premières commandes d'équipements importés.\n### CALENDRIER TYPE INDICATIF\n- Mois 0-1 : cadrage, CRI, simulation, constitution de la société.\n- Mois 1-4 : foncier, note de renseignement, actes CRUI, dépôt du dossier de convention.\n- Mois 3-6 : permis de construire, étude d'impact, approbation et signature de la convention.\n- Mois 6-24 : travaux, importation des équipements, recrutements.\n- Mois 18-30 : mise en service, permis d'habiter ou certificat de conformité, montée en charge des emplois.\n- Jusqu'à 5 ans après la signature : réalisation complète et derniers déblocages.\nCes durées dépendent fortement du projet et de la région ; elles servent seulement à structurer le planning.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-005",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "Le registre des risques réglementaires",
+  "principe": "| Risque | Probabilité | Impact | Réponse |\n| Refus ou retard d'un acte CRUI | Moyenne | Élevé | Pré-instruction au CRI ; dossier complet daté ; suivi des délais légaux ; recours dans les 10 jours |\n| Caducité d'une dérogation ou d'un permis | Moyenne | Élevé | Rétroplanning des délais de 6 mois ; démarrage effectif documenté (procès-verbal d'ouverture de chantier) |\n| Non-atteinte des emplois de la convention | Moyenne | Très élevé | Plan de recrutement réaliste ; CDI ; registre CNSS ; avenant anticipé |\n| Dépassement du délai de 5 ans | Faible à moyenne | Élevé | Suivi trimestriel ; demande d'avenant documentée dès qu'un cas de force majeure survient |\n| Perte de l'exonération à l'importation | Moyenne | Moyen | Convention signée et liste des biens visée avant les importations |\n| Compte RED non apuré | Moyenne | Élevé | Comptabilité matières, rapprochements mensuels, prorogations anticipées |\n| Retard de rapatriement des recettes d'export | Faible | Moyen | Suivi des échéances de 150 et 90 jours ; mobilisation des créances |\n| Perte de la convertibilité | Faible | Élevé | Financement initial en devises tracé et archivé |\n| Restitution des primes | Faible | Très élevé | Pilotage des engagements ; conformité documentaire continue |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-006",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "Gouvernance et parties prenantes",
+  "principe": "Trois rôles structurent la gouvernance : le sponsor (actionnaire ou direction générale), qui autorise et finance le projet et arbitre les décisions majeures ; le chef de projet, qui planifie, coordonne et rend compte ; l'équipe projet, qui exécute. Pour un investissement au Maroc, le chef de projet doit être explicitement chargé de la relation avec le CRI, l'AMDIE, la CRUI, la douane, la banque domiciliataire et la CNSS.\n| Partie prenante | Pouvoir | Intérêt | Stratégie |\n| CRI / wali / CRUI | Élevé | Élevé | Gérer étroitement : réunions de suivi, reporting régulier |\n| AMDIE / Commission nationale | Élevé | Élevé (projets ≥ 250 MDH) | Gérer étroitement |\n| Commune et agence urbaine | Élevé | Moyen | Tenir satisfaites : dossiers complets, concertation sur l'insertion urbaine |\n| Douane / Office des changes | Élevé | Moyen | Conformité stricte, statuts de confiance (OEA, catégorisation) |\n| Banques | Moyen | Élevé | Informer : plan de financement, garanties, domiciliation |\n| Population riveraine, associations | Moyen | Variable | Informer : enquête publique, emplois locaux |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-007",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Appliquer la gestion de projet au parcours administratif",
+  "t": "Le tableau de bord des engagements",
+  "principe": "Un tableau de bord mensuel permet de démontrer à tout moment le respect de la convention et de préparer les demandes de déblocage.\n| Indicateur | Source de preuve | Fréquence | Seuil d'alerte |\n| Montant investi cumulé (HT) | Factures acquittées, DUM, PV de réception | Mensuelle | Écart > 10 % au planning |\n| Emplois stables créés | Bordereaux CNSS nominatifs, contrats | Mensuelle | Écart > 10 % à la trajectoire |\n| Ratio genre | Masse salariale par genre | Trimestrielle | Passage sous 30 % |\n| Taux d'intégration locale | Achats locaux / coûts | Semestrielle | Sous le seuil de l'arrêté |\n| Délai | Planning directeur | Mensuelle | Glissement > 3 mois |\n| Comptes RED | BADR / comptabilité matières | Mensuelle | Échéance < 60 jours |\n| Rapatriements export | Dossiers bancaires | Mensuelle | Échéance < 30 jours |",
+  "maj": "2026-10-17"
+ }
+]

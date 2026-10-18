@@ -1,0 +1,65 @@
+[
+ {
+  "id": "2-020",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Les services de paiement",
+  "principe": "Sont des services de paiement (art. 16 L. 103-12) : les transferts de fonds ; les dépôts et retraits d'espèces sur un compte de paiement ; l'exécution d'opérations de paiement à distance lorsque l'opérateur n'agit que comme intermédiaire entre le payeur et le fournisseur ; l'exécution de prélèvements, paiements par carte et virements portant sur des fonds placés sur un compte de paiement. Ne sont pas des services de paiement les opérations par chèque, lettre de change, mandat postal en espèces ou titre papier similaire.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-021",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Régime de l'établissement de paiement (circulaires 6/W/2016 et 7/W/16)",
+  "principe": "| Exigence | Contenu | Référence |\n| Agrément | Wali de BAM après avis du CEC ; forme SA ou SARL ; capital 6 MDH (transfert seul) ou 10 MDH (tous services) | Art. 34-35 ; circ. 20/G/2006 |\n| Comptabilité et publication | Plan comptable des EC ; publication des états de synthèse | Circ. 6/W/2016, art. 2 |\n| Commissaire aux comptes | Un CAC approuvé par BAM | Art. 3 |\n| Fonds propres | Niveau permanent fixé par BAM (cadre prudentiel dédié en préparation en 2025) | Art. 4 |\n| Contrôle interne, LBC/FT, sécurité SI | Traçabilité, recensement des opérations, position des comptes, prévention de l'intrusion et de la fraude ; traitement en temps réel | Art. 5-8 |\n| Cantonnement des fonds | Fonds des comptes de paiement déposés au plus tard J+1 ouvré sur un compte de cantonnement global, séparé et individualisé ouvert dans une banque ; insaisissable par les créanciers de l'EP ; affecté aux titulaires en cas de liquidation | Art. 17 L. 103-12 ; circ. 7/W/16, art. 14 |\n| Registre des opérations | Conservation 10 ans | Circ. 7/W/16, art. 17 |\n| Information du public, réclamations, médiation | Affichage des conditions dans tout le réseau ; dispositif de réclamations ; adhésion à la médiation | Circ. 6/W/2016, art. 19-21 |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-022",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Transferts de fonds",
+  "principe": "- Transferts entre personnes physiques ; transferts initiés par des personnes morales au profit de personnes physiques seulement à titre exceptionnel et avec justificatifs (circ. 7/W/16, art. 3).\n- Plafond : 80 000 DH par opération et par bénéficiaire (art. 4).\n- Opérations connexes possibles : change manuel, encaissement de redevances et taxes pour compte de tiers, intermédiation en opérations de banque (art. 5).\n- Justificatif remis au donneur d'ordre (identité, montant, commissions, cours de change, bénéficiaire) et bordereau remis au bénéficiaire (art. 6-7).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-023",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Comptes de paiement : trois niveaux de KYC",
+  "principe": "| Niveau | Plafond maximal du solde | Exigences d'identification |\n| Niveau 1 | 200 DH | Numéro national de téléphonie mobile actif |\n| Niveau 2 | 5 000 DH | Entretien, fiche d'ouverture, pièce d'identité officielle avec photo (copie annexée) |\n| Niveau 3 | 20 000 DH | Entretien, pièce d'identité, justificatif de revenus et de domicile |\nLe solde cumulé de plusieurs comptes d'un même client auprès d'un même EP ne peut dépasser ces plafonds ; ils ne s'appliquent pas aux comptes des agents et des commerçants acceptant des paiements mobiles (pour les seuls flux d'acceptation). Le compte de paiement ne peut jamais être débiteur. Les comptes de niveaux 2 et 3 donnent lieu à une convention écrite (identification, fonctionnement, clôture, services, protection, sort du compte au décès).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-024",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Réseau d'agents de paiement",
+  "principe": "L'EP peut mandater des agents principaux (exclusifs d'un EP) et des agents détaillants (pouvant travailler pour plusieurs EP, limités à l'ouverture de comptes de niveau 1 et aux dépôts/retraits d'espèces, disposant d'un « compte de paiement Agent » préalablement alimenté). Chaque mandat fait l'objet d'une convention (services, responsabilités, délais de règlement des avances, formation, contrôle, rémunération) et est notifié à BAM. Les agents affichent leur qualité de mandataire et sont soumis aux interdictions de l'art. 38. Tout manquement entraîne la résiliation du mandat et l'information de BAM et de l'APEP (circ. 6/W/2016, art. 11-18).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-025",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Paiement mobile domestique (m-wallet)",
+  "principe": "- Moyen de paiement émis sur un compte de paiement (EP) ou un compte bancaire, permettant au minimum transferts P2P, paiement commerçant, cash-in et cash-out (décision 392/W/2018).\n- Interopérabilité et instantanéité via le switch mobile ; identifiant transactionnel = numéro de téléphone ; un « m-wallet par défaut » choisi par le client (validation par OTP), modifiable à tout moment.\n- Services gratuits : souscription, recharge en espèces, paiement commerçant pour le payeur, consultation du solde, résiliation. Interchange plafonné à 0,5 %.\n- QR code standardisé (format EMV, 512 caractères max.) ; tout nouveau produit soumis à BAM 15 jours avant lancement.\n- Réclamations : traitement en 5 jours ouvrables maximum ; délai de contestation du client d'au moins 7 jours (LC/BKAM/2018/70).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-026",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Établissements de paiement, monnaie électronique et fintech",
+  "t": "Ouverture du marché de l'acquisition monétique",
+  "principe": "À la suite des engagements rendus obligatoires par le Conseil de la concurrence (31 octobre 2024), le CMI est devenu une plateforme technique multi-acquéreurs et cède ses contrats commerçants aux établissements de paiement. BAM a délivré quatre nouveaux agréments d'acquisition en 2025, portant à dix le nombre d'acteurs. Pour un commerçant, cela signifie un choix accru de prestataires d'encaissement (TPE, Soft POS, paiement en ligne).\n### Parcours d'un porteur de projet fintech\n1. Décrire le modèle d'affaires et les flux financiers ; identifier si l'activité relève de l'art. 1 (EC), de l'art. 16 (EP), de la loi 15-18 (financement collaboratif) ou de l'intermédiation (art. 161).\n2. Solliciter un avis réglementaire de la DSB, directement ou via le Morocco Fintech Center (sprints réglementaires).\n3. Dimensionner le capital minimum et la sécurité SI ; prévoir le compte de cantonnement et le dispositif LBC/FT.\n4. Déposer le dossier d'agrément complet (circ. 5/W/15).",
+  "maj": "2026-10-18"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-200",
+  "p": 1,
+  "ch": "1.21",
+  "c": "Le contrat de voyage et la responsabilité",
+  "t": "La phase précontractuelle (art. 18)",
+  "principe": "Lorsque les opérations entrent dans un forfait, le contrat doit être précédé d'informations détaillées sur : le contenu des prestations, les prix, les modalités de règlement, les conditions d'annulation et les conditions de franchissement des frontières. Ces informations engagent l'agent de voyages, sauf si des modifications ont été portées à la connaissance du client avant la conclusion du contrat, et à condition que l'agent en ait expressément prévu l'éventualité.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-201",
+  "p": 1,
+  "ch": "1.21",
+  "c": "Le contrat de voyage et la responsabilité",
+  "t": "Les mentions obligatoires du contrat (art. 19)",
+  "principe": "| ✓ | Mention obligatoire |\n| ☐ | Noms et adresses de l'organisateur, de l'agent de voyages, du garant et de l'assureur |\n| ☐ | Description détaillée du contenu des prestations |\n| ☐ | Prix et modalités de paiement |\n| ☐ | Calendrier |\n| ☐ | Conditions de révision éventuelle des prix |\n| ☐ | Conditions d'annulation du contrat |\n| ☐ | Information du client avant le début du voyage ou du séjour |\n| ☐ | Conditions de franchissement des frontières |\nTableau 19 — Liste de contrôle du contrat de forfait.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-202",
+  "p": 1,
+  "ch": "1.21",
+  "c": "Le contrat de voyage et la responsabilité",
+  "t": "La responsabilité de plein droit (art. 20)",
+  "principe": "L'agent de voyages est responsable à l'égard du client de la bonne exécution de toutes les obligations du contrat, qu'elles soient exécutées par lui-même ou par d'autres prestataires (hôtels, transporteurs, guides), sans préjudice de son recours contre ceux-ci. Il ne s'exonère qu'en prouvant que l'inexécution est imputable :\n- au client ;\n- à un fait imprévisible et insurmontable d'un tiers étranger à la fourniture des prestations ;\n- à un cas de force majeure.\n### CONSEIL PRATIQUE — Sécuriser la chaîne de sous-traitance\n- Contractualiser avec chaque prestataire (hôtel, transporteur, guide) en prévoyant des clauses de qualité, de substitution et de recours en garantie.\n- Vérifier systématiquement les titres : autorisation d'exploitation et classement de l'hôtel, agrément et cartes d'autorisation du transporteur, agrément et badge du guide.\n- Émettre un bon de commande (voucher) pour chaque prestation de transport : il doit se trouver à bord du véhicule (CDC TTR, art. 13).\n- Conserver la preuve de l'information précontractuelle (brochure, page web horodatée, accusé de lecture).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-203",
+  "p": 1,
+  "ch": "1.21",
+  "c": "Le contrat de voyage et la responsabilité",
+  "t": "L'obligation de recourir à des guides agréés (art. 21)",
+  "principe": "Pour accompagner et guider leurs clients — à l'exclusion des transferts — les agents de voyages ne peuvent utiliser que des guides de tourisme agréés. Cette obligation crée un lien direct entre la loi 11-16 et la loi 05-12 : l'agence doit vérifier l'agrément, la catégorie (villes et circuits / espaces naturels) et, pour les groupes, les seuils de l'arrêté 334-16.",
+  "maj": "2026-10-17"
+ }
+]

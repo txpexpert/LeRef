@@ -1,0 +1,47 @@
+[
+ {
+  "id": "4-020",
+  "p": 4,
+  "ch": "4.3",
+  "c": "L’enseignement privé et la formation professionnelle",
+  "t": "L’enseignement privé et la formation professionnelle — présentation",
+  "principe": "Le CGI et la loi relative à la fiscalité des collectivités territoriales prévoient des incitations en faveur des établissements d’enseignement privé ou de formation professionnelle et de l’insertion des lauréats (guide sectoriel DGI 2026).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-021",
+  "p": 4,
+  "ch": "4.3",
+  "c": "L’enseignement privé et la formation professionnelle",
+  "t": "IS, IR et cotisation minimale",
+  "principe": "| Impôt | Mesure |\n| IS | Taux de droit commun : 20 % (35 % si bénéfice ≥ 100 MDH) |\n| IR — emploi | Indemnités de stage (6 000 DH, 12 mois), salaire post-stage (10 000 DH, 24 mois), entreprises nouvelles (10 salariés, 24 mois), premier emploi (36 mois), doctorants (6 000 DH, 36 mois) — voir section 9 ; déclaration de la liste des salariés exonérés [art. 79-V] |\n| Cotisation minimale | Exonération 36 mois (sociétés, dans la limite de 60 mois après constitution) ou 3 exercices (IR) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-022",
+  "p": 4,
+  "ch": "4.3",
+  "c": "L’enseignement privé et la formation professionnelle",
+  "t": "TVA",
+  "principe": "| Régime | Opérations |\n| Exonération sans droit à déduction | Fournitures scolaires et leurs composants ; intérêts des prêts aux étudiants (au Maroc ou à l’étranger) ; restauration, transport et loisirs scolaires fournis par l’établissement à ses élèves |\n| Exonération avec droit à déduction (intérieur) | Biens d’équipement destinés à l’enseignement ou à la formation acquis pendant 36 mois par l’établissement, ou par une société foncière ou un OPCI créé exclusivement pour construire ces établissements (LF 2025), hors véhicules autres que le transport scolaire aménagé ; biens acquis par les diplômés de la formation professionnelle (36 mois) ; matériels éducatifs, scientifiques ou culturels importés en franchise (accords UNESCO) ; construction de cités, résidences et campus universitaires d’au moins 50 chambres (2 lits max par chambre) en 3 ans, sous convention avec l’État |\n| Exonération à l’importation | Biens d’équipement des établissements (36 mois) ; biens neufs ou d’occasion importés par les diplômés de la formation professionnelle ; matériels UNESCO ; fournitures scolaires |\n| Hors champ (LF 2025) | Location aux établissements de locaux non équipés acquis ou construits en exonération ou avec droit à déduction par les sociétés foncières et OPCI dédiés |\n### SOCIÉTÉS FONCIÈRES ET OPCI DÉDIÉS : EXONÉRATION DES BIENS D’ÉQUIPEMENT\n- Vérifier que la foncière ou l’OPCI est créé exclusivement pour réaliser les projets de construction d’établissements privés d’enseignement ou de formation.\n- Déposer une demande électronique d’exonération avec l’état descriptif des biens (valeur, compte d’immobilisation) et les factures proforma ou devis.\n- Recevoir l’attestation d’achat en exonération ; le fournisseur porte la mention « vente en exonération de la TVA en vertu de l’article 92 (I-8°) du code général des impôts ».\n- Conserver les biens 60 mois (meubles) ou 10 ans (immeubles).\n- Le dispositif s’applique aux foncières et OPCI qui n’avaient pas épuisé leur délai de 36 mois au 1er janvier 2025.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-023",
+  "p": 4,
+  "ch": "4.3",
+  "c": "L’enseignement privé et la formation professionnelle",
+  "t": "Droits d’enregistrement : les cités universitaires",
+  "principe": "Les acquisitions par des promoteurs immobiliers (personnes morales ou physiques au RNR) de terrains nus ou à démolir destinés à des cités, résidences ou campus universitaires sont exonérées de droits d’enregistrement, sous convention avec l’État et cahier des charges (au moins 50 chambres, 2 lits maximum par chambre, réalisation en 3 ans à compter de l’autorisation de construire).\n### GARANTIR L’EXONÉRATION\n- Pour garantir les droits de 5 % [art. 133-I-G], la pénalité et les majorations [art. 205-I, 208] en cas de manquement, le promoteur doit soit fournir un cautionnement bancaire déposé entre les mains de l’inspecteur chargé de l’enregistrement, soit consentir à l’État, dans l’acte d’acquisition ou un acte annexé, une hypothèque de premier rang (ou de second rang après celle des établissements de crédit) sur le terrain ou un autre immeuble.\n- La caution est restituée et la mainlevée délivrée sur présentation des copies certifiées du certificat de réception provisoire ou du certificat de conformité prévus par la loi n° 25-90.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-024",
+  "p": 4,
+  "ch": "4.3",
+  "c": "L’enseignement privé et la formation professionnelle",
+  "t": "Taxe professionnelle",
+  "principe": "Exonération totale et permanente des établissements privés d’enseignement général ou de formation professionnelle pour les locaux affectés à l’instruction et au logement des élèves.",
+  "maj": "2026-10-17"
+ }
+]

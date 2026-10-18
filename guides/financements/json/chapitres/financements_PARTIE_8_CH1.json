@@ -1,0 +1,35 @@
+[
+ {
+  "id": "8-001",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Points de vigilance, contradictions et corrections",
+  "t": "Règles qui font échouer les dossiers",
+  "principe": "| N° | Point | Règle à appliquer |\n| 1 | Trou dans le barème TPME | Éligibilité dès un ratio de 1,5 (1 pour le tourisme), prime emplois dès 2 : entre 1,5 et 2, aucune prime emplois. Un simulateur doit afficher 0 % avec un message explicite |\n| 2 | Crédits limités | Les dossiers TPME éligibles sont classés par date de réception dans la limite des crédits : afficher « éligible sous réserve de crédits », jamais « vous aurez droit à » |\n| 3 | Chiffre d'affaires TPME | « L'une des trois dernières années » (décret), pas « les trois dernières années » (page du CRI) |\n| 4 | Deux barèmes d'emplois | Principal : > 1 à 1,5 = 5 % ; > 1,5 à 3 = 7 % ; > 3 = 10 %. TPME : 2 à 5 = 5 % ; > 5 à 10 = 7 % ; > 10 = 10 % |\n| 5 | Seuil de 150 emplois | « Égal ou supérieur à 150 » (décret 2-23-1, art. 6) |\n| 6 | Filtre région × branche | Plusieurs branches TPME ne sont éligibles que dans six ou neuf régions ; Casablanca-Settat n'est admise que pour les branches ouvertes à toutes les régions et l'aquaculture marine |\n| 7 | Délais de réalisation | 5 ans (principal), 3 ans (TPME) |\n| 8 | Plafond énergie | 30 MDH pour la production éolienne, solaire ou hydraulique, pas pour toutes les énergies renouvelables |\n| 9 | Foncier | Principal : foncier public exclu, foncier privé jusqu'à 20 % du total. TPME : terrain privé retenu seulement pour l'industrie, le tourisme, l'animation touristique et l'artisanat, plafonné à 20 % du montant primable et 5 MDH |\n| 10 | Exclusions TPME | Véhicules et opérations entre sociétés liées exclus du montant primable ; emplois déjà aidés par l'État exclus des emplois stables |\n| 11 | Exclusivité | Un projet déjà conventionné dans un régime aux avantages similaires est exclu du TPME |\n| 12 | Décisions discrétionnaires | Projets stratégiques, participations directes du Fonds Mohammed VI : afficher critères et contacts, jamais un montant |\n| 13 | Circuit régional | Faire confirmer par écrit le circuit (régional ou national) d'une convention du dispositif principal de moins de 250 MDH |\n| 14 | Pas de liste de pièces nationale pour le dispositif principal | Seul le TPME dispose d'une liste officielle (arrêté 3.53.25) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "8-002",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Points de vigilance, contradictions et corrections",
+  "t": "Erreurs relevées dans des sources antérieures et corrigées",
+  "principe": "| Affirmation erronée | Correction | Fondement |\n| La prime emplois n'est pas cumulable avec les autres primes communes | Elle est cumulable ; seuls ses trois paliers ne se cumulent pas entre eux | Décret 2-23-1, art. 7 et 10 |\n| Une prime sectorielle de 10 % existe pour des « secteurs stratégiques » | La prime sectorielle est de 5 % ; les projets stratégiques négocient hors barème | Décret 2-23-1, art. 9 et 15 à 17 |\n| Kénitra est en catégorie A ; Salé en catégorie B à 5 % | Kénitra : aucune prime territoriale ; Salé : catégorie A (10 %) ; il n'existe pas de taux de 5 % | Arrêté 3-14-23 |\n| Un ratio de 1,5 ouvre « la tranche haute » de la prime emplois | 1,5 correspond au palier de 5 % ; 7 % au-delà de 1,5 et jusqu'à 3 ; 10 % au-delà de 3 | Décret 2-23-1, art. 7 |\n| Le taux d'IS au Maroc est de 31 % | Taux de droit commun de 20 % (35 % au-delà de 100 MDH de bénéfice) en 2026 | CGI, réforme de 2023 |\n| VAN de 14,5 MDH et TRI de 15,2 % pour les flux −100, 20, 27, 28, 40, 60 | VAN de 26,1 MDH, TRI de 18,1 % | Recalcul |\n| La prime durable exige une réduction de 20 % des consommations | L'arrêté exige le critère obligatoire (eaux non conventionnelles) et deux critères sur quatre | Arrêté 3-12-23, art. 4 |\n| La CRUI donne un avis consultatif | Ses décisions sont contraignantes, motivées et exécutoires depuis la loi 22-24 | Loi 22-24 (presse) |\n| Damane Express à 60 % ou 75 % | 70 % (80 % femmes) dans toutes les éditions du Kit lues | Kits 2023 à décembre 2025 |\n| Damane Intelak à 85 % pour les femmes et les MDM | Non confirmé ; 80 % dans les Kits lus | Kits 2024 à décembre 2025 |\n| Décret TPME n° 2.22.342 | Décret n° 2.25.342 du 12 juin 2025 | JO n° 7418 |\n| Primes de la Charte : jusqu'à 30 % de prime commune, 15 % territoriale et 10 % sectorielle | Total plafonné à 30 % du montant primable ; primes communes au plus 22 % ; sectorielle 5 % | Décret 2-23-1 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "8-003",
+  "p": 8,
+  "ch": "8.1",
+  "c": "Points de vigilance, contradictions et corrections",
+  "t": "Valeurs datées et programmes à surveiller",
+  "principe": "| Élément | Échéance ou date | Action |\n| Cap Access : taux de 5,5 % | Millésime 2025 | Vérifier le taux de l'année |\n| Cap Hospitality | Annoncé pour 2024-2025 | Vérifier la reconduction |\n| Tahfiz | Création avant le 31 décembre 2026 | Surveiller la prorogation |\n| Go Siyaha, Export Morocco Now | Feuilles de route 2023-2026 et 2024-2026 | Vérifier les éditions 2027 |\n| Aides FDA génisses et reproducteurs | 31 décembre 2026 | Vérifier la reconduction |\n| Aménagements hydro-agricoles FDA | 31 décembre 2027 ou 350 000 ha | Suivre la consommation de l'enveloppe |\n| Dispositif international de la Charte | Non publié | Surveiller le Bulletin officiel |\n| Tech Start, Tech Boost | Montants divergents | Lire le règlement de l'appel en cours |\n| Pacte TPME | Lancé en 2026 | Obtenir de Maroc PME procédure et calendrier |",
+  "faq": [
+   [
+    "Quelles sont les erreurs les plus fréquentes dans les simulations de primes ?",
+    "Appliquer une prime sectorielle de 10 %, se tromper de catégorie de province (Kénitra, Rabat, Casablanca, Marrakech, Agadir et Tanger-Assilah n'ont pas de prime territoriale), oublier le plafond de 30 %, confondre les barèmes d'emplois des deux dispositifs, inclure les véhicules dans le montant primable TPME et ignorer le trou du barème TPME entre les ratios 1,5 et 2."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": "3-040",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Les prérequis de l'importateur et de l'exportateur",
+  "principe": "1. Registre du commerce : le numéro analytique du registre du commerce doit figurer sur les titres d'importation et sur les déclarations en douane. Les personnes non inscrites (coopératives agricoles, universités, ambassades…) reçoivent un code spécifique de la douane.\n2. Titre d'importation, nominatif et incessible, qui permet le règlement financier :\n- engagement d'importation pour les marchandises libres à l'importation : accompagné d'une facture pro forma, valable 6 mois, domicilié auprès d'une banque intermédiaire agréée, aujourd'hui souscrit et domicilié par voie électronique sur PortNet ;\n- autorisation d'importation (licence ou déclaration préalable) délivrée par le département du commerce extérieur pour les marchandises soumises à restriction.\nUn titre d'importation dont la valeur dépasse 2 000 dirhams est soumis à un droit de timbre spécial de 50 dirhams.\n1. Titre d'exportation : engagement de change (valable 3 mois, accompagné du contrat commercial) ou licence d'exportation pour les marchandises soumises à restriction.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-041",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Le circuit de dédouanement à l'importation",
+  "principe": "| N° | Étape | Contenu |\n| 1 | Conduite en douane | Acheminement des marchandises au premier bureau ou poste de douane d'entrée |\n| 2 | Déclaration sommaire | Dépôt électronique par le transporteur (connaissement, lettre de transport aérien ou routière) ; mise sous contrôle douanier ; séjour en magasin et aire de dédouanement (MEAD) limité à 45 jours |\n| 3 | Déclaration détaillée (DUM) | Saisie et validation sur le système BADR : espèce tarifaire, origine, valeur, poids et éléments quantitatifs ; elle engage le déclarant et assigne un régime douanier |\n| 4 | Dépôt physique ou dématérialisé | DUM signée et documents annexés, dans un délai de 24 heures (mise à la consommation), 5 jours (régime économique) ou 15 jours (transfert d'un régime économique) |\n| 5 | Contrôle documentaire | Examen comparatif de la DUM et des pièces ; validation informatique |\n| 6 | Sélectivité | Circuit « admis pour conformité » ou visite physique |\n| 7 | Visite physique | Vérification des marchandises pour les déclarations sélectionnées |\n| 8 | Liquidation et paiement | Droits et taxes en vigueur à la date d'enregistrement de la DUM ; paiement, consignation ou crédit d'enlèvement |\n| 9 | Mainlevée | Bon à enlever délivré sur quittance, récépissé de consignation ou décision d'exonération |\nDocuments annexés à la DUM : facture commerciale ; attestation bancaire de domiciliation (banque, montant en devises, cours, références du titre) ; détail de la valeur par article ; certificat d'origine pour bénéficier d'un tarif préférentiel ; titre d'importation ; certificats de contrôle technique (sécurité sanitaire, normes, vétérinaire…) ; titres de transport ; liste de colisage ; justificatif d'inscription au registre du commerce.\n### GAGNER DU TEMPS AU DÉDOUANEMENT\n- Utilisez la déclaration anticipée, déposée avant l'arrivée des marchandises : elle est recommandée par la douane pour réduire le temps de séjour.\n- Consultez ADIL (www.douane.gov.ma) pour connaître, par produit, la taxation, les avantages tarifaires et les documents exigés par les réglementations spéciales.\n- Une rectification des éléments quantitatifs et qualitatifs reste possible le jour du dépôt, avant la visite et la mainlevée, si la douane n'a pas annoncé de vérification ni relevé d'inexactitude.\n- Le crédit d'enlèvement permet de différer le paiement des droits et taxes ; la consignation permet l'enlèvement en cas de contestation de la liquidation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-042",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Le circuit de dédouanement à l'exportation",
+  "principe": "1. Conduite des marchandises au bureau d'exportation choisi (ouvert aux opérations envisagées).\n2. Mise sous contrôle douanier (bons de quai, récépissés de dépôt).\n3. Déclaration détaillée (DUM export) sur BADR, avec facture, détail de la valeur, certificat d'origine pour les exportations préférentielles, engagement de change ou licence, certificats de contrôle technique (EACCE, artisanat…), liste de colisage.\n4. Contrôle documentaire, sélectivité, visite éventuelle.\n5. Délivrance du bon à embarquer (BAE) sur l'exemplaire de la DUM ; l'embarquement effectif n'est autorisé que sur présentation du BAE (et de l'état de chargement pour les groupages).\nAucun droit de douane n'est perçu à l'exportation. Une redevance de 50 MAD est due par déclaration déposée par voie électronique, ainsi que, le cas échéant, des frais de fumigation des végétaux (10 MAD par m³ de chambre). Les recettes d'exportation doivent être rapatriées dans les délais de la réglementation des changes (section 15).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-043",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Les régimes économiques en douane (RED)",
+  "principe": "Les RED permettent de stocker, transformer, utiliser ou faire circuler des marchandises en suspension des droits et taxes et des mesures de commerce extérieur (hors prohibitions absolues), ou d'obtenir le remboursement forfaitaire des droits (drawback).\n| Régime | Objet | Durée de séjour | Bénéficiaires |\n| Entrepôt de douane (public, privé ordinaire, privé particulier) | Stockage de marchandises en attente de destination ; 15 % maximum des quantités en entrepôt privé particulier mises à la consommation à des conditions avantageuses | 2 ans maximum | Villes, chambres de commerce, personnes physiques ou morales |\n| Admission temporaire pour perfectionnement actif (ATPA) | Importation en suspension de marchandises destinées à être transformées, ouvrées ou complétées puis exportées | 2 ans maximum | Entreprises disposant de l'outil de production adéquat |\n| Transformation sous douane | Transformation de marchandises dont les produits compensateurs sont mis à la consommation sous un régime d'exonération | 1 an maximum | Entreprises disposant de l'outillage nécessaire |\n| Exportation temporaire pour perfectionnement passif (ETPP) | Ouvraison à l'étranger avant réimportation (droits sur la valeur ajoutée) | 1 an, prorogeable au double | Toute entreprise de droit marocain |\n| ETPP avec échange standard | Remplacement gratuit de biens défectueux sous garantie | 6 mois | Toute entreprise de droit marocain |\n| Admission temporaire (AT) | Importation pour un usage déterminé puis réexportation en l'état (échantillons, salons, matériel de chantier, emballages) ; redevance trimestrielle pour certains matériels | 6 mois à 2 ans selon les biens | Industriels, entreprises de travaux, organisateurs de salons |\n| Exportation temporaire (ET) | Sortie temporaire puis réimportation en l'état | 1 an, prorogeable au double | Industriels, entreprises, particuliers |\n| Entrepôt industriel franc (EIF) | Régime combiné : équipements et intrants en suspension pour la production destinée à l'export ; ventes locales limitées à 15 % du CA export de l'année précédente | 2 ans pour les marchandises à ouvrer | Projets de création ou d'extension d'au moins 50 MDH |\n| Transit | Transport de marchandises sous douane entre bureaux ou entrepôts | Fixée par la douane | Transporteurs (acquit-à-caution ou carnet TIR/ATA) |\n| Drawback | Remboursement forfaitaire des droits et taxes sur les matières incorporées dans des produits exportés ; drawback énergie | Exportations de moins de 2 ans ; liquidation trimestrielle | Exportateurs et cédants sous ATPA |\nConditions communes d'accès aux RED :\n1. Demande au bureau de douane compétent, avec modèle J du registre du commerce (ou bulletin des identifiants délivré par le CRI) de moins de 3 mois, statuts, procès-verbal d'assemblée, pièce d'identité du dirigeant.\n2. Garantie des droits et taxes suspendus (caution bancaire, notifiée électroniquement par la banque dans BADR depuis le 16 octobre 2017, ou consignation).\n3. Couverture des marchandises par acquit-à-caution ou par un titre international (carnet ATA, carnet TIR).\nGestion et apurement du compte RED : l'enregistrement de la déclaration d'entrée ouvre un compte (lignes par espèce tarifaire, quantités, valeurs) ; les opérations d'apurement (exportation, mise à la consommation, transfert, entrepôt) le soldent en quantités brutes et nettes ; un compte apuré sans insuffisance donne lieu à un certificat de décharge qui permet de libérer la caution. Un compte échu non apuré constitue un contentieux.\n### LES RISQUES DU COMPTE RED\nUn compte non apuré à l'échéance expose à la liquidation des droits suspendus, à des pénalités et à la mise en jeu de la caution. Tenez une comptabilité matières rapprochée mensuellement des comptes BADR, suivez les taux de rendement (déchets récupérables ou non) et anticipez les demandes de prorogation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-044",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Les magasins et aires de dédouanement (MEAD)",
+  "principe": "Espaces d'entreposage des marchandises en attente de dédouanement, créés sur autorisation de la douane (sauf ceux situés dans les enceintes douanières gérés par des organismes publics). L'exploitant supporte la rétribution mensuelle des agents (environ 10 000 MAD pour l'agent vérificateur et 5 000 MAD pour l'agent visiteur) ; les opérations hors heures légales donnent lieu à une indemnité horaire de 25 MAD, majorée de 25 % les jours fériés et en fin de semaine.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-045",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Les statuts de confiance",
+  "principe": "- Opérateur économique agréé (OEA) : passage en douane plus rapide, contrôles réduits, traitement personnalisé ; reconnaissance internationale via les accords de reconnaissance mutuelle.\n- Exportateur agréé : auto-certification de l'origine sur la facture pour les échanges avec l'UE, l'AELE, la Turquie et les pays de l'accord d'Agadir, avec dispense des certificats EUR.1 et EUR-MED.\n- Catégorisation : le statut douanier ou fiscal d'entreprise catégorisée ouvre aussi des facilités de change (section 15).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-046",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les procédures douanières",
+  "t": "Effets personnels et véhicules des investisseurs qui s'installent",
+  "principe": "- Déménagement : franchise totale pour les étrangers s'installant au Maroc (meubles en usage, outils professionnels…), sur inventaire détaillé, certificat de changement de résidence et attestation sur l'honneur, en un envoi (deux envois admis par le même bureau dans les 6 mois). Sont exclus les matériels industriels ou commerciaux, les stocks et les véhicules immatriculables.\n- Véhicules : admission temporaire automatique de 6 mois pour les résidents à l'étranger s'installant au Maroc ; dédouanement ensuite dans un bureau intérieur ; simulation des droits avec l'application MCV de la douane.",
+  "maj": "2026-10-17"
+ }
+]

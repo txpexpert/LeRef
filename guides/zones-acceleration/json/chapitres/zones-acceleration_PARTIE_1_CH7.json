@@ -1,0 +1,47 @@
+[
+ {
+  "id": "1-060",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Sorties de marchandises",
+  "t": "Sorties de marchandises — présentation",
+  "principe": "La zone a une vocation exportatrice : la sortie normale est l'exportation, et la mise à la consommation dans le TA est l'exception encadrée par l'article 166 quinquies du CDII.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-061",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Sorties de marchandises",
+  "t": "Exportation ou réexportation vers l'étranger",
+  "principe": "- Déclaration d'exportation dans BADR au bureau de la zone, apurant les prises en charge.\n- Contrôle selon le circuit, plombage, puis acheminement sous transit jusqu'au bureau de sortie si nécessaire.\n- Aucun droit ni taxe à l'exportation (art. 21).\n- Origine : les certificats d'origine (EUR.1, EUR-MED, certificat ALE États-Unis, Agadir, Turquie, ZLECAf, etc.) sont délivrés après contrôle du respect des règles d'origine (art. 24). Une marchandise simplement stockée ou peu transformée ne devient pas marocaine : les règles d'ouvraison suffisante de chaque accord s'appliquent.\n### Compléments de la base documentaire\n- Code régime 866 : transit à l'export vers l'étranger à partir des zones d’accélération industrielles , selon le circuit simplifié décrit en 5.3 (confirmation d'arrivée puis « vu embarquer » au bureau de sortie).\n- Produits fabriqués dans une zone franche industrielle : les certificats d'origine des produits éligibles sont délivrés sur la base du bulletin de sortie, des documents commerciaux, de la demande de certificat et de l'état de prise en charge.\n- Réexpédition en l'état depuis une ZFL : des EUR.1 ou EUR-MED de remplacement peuvent être délivrés pour les marchandises originaires de la zone paneuro-méditerranéenne ; même procédure pour la convention de la Ligue arabe. Les exportations hors accord peuvent donner lieu à un certificat d'origine dit « CO Rose ».\n- Code 682 : exportation vers l'étranger en suite d'exportation via une ZFL ; certification de l'origine préférentielle possible dans un délai d'un an à compter de l'exportation vers la ZFL.\n- Règles d'origine révisées (art. 24 « zones d’accélération industrielles ») : les produits transitant en zone franche ne doivent subir ni substitution ni manipulation autre que les manipulations usuelles ; un produit originaire qui y subit un traitement conforme peut recevoir une nouvelle preuve d'origine. Depuis la révision, les certificats EUR-MED et déclarations sur facture EUR-MED sont supprimés et les preuves sont valables 10 mois.\n### Contradiction à signaler\nLa circulaire n° 5549/230 (2015) prévoit la délivrance de certificats EUR-MED de remplacement en sortie de ZFL, alors que la circulaire n° 6706/233 (31 déc. 2025) supprime les certificats EUR-MED dans le cadre des règles révisées. La seconde, plus récente, semble l'emporter pour les accords concernés, mais aucun document du projet ne modifie expressément la circulaire 5549/230.\nSources : circ_5549_230 (I-1) ; circ_6706_233_regles_origine (Titre I, preuves de l'origine).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-062",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Sorties de marchandises",
+  "t": "Mise à la consommation dans le territoire assujetti",
+  "principe": "La sortie vers le TA est une importation (art. 22 de la loi ; art. 166 quinquies et sexies du CDII).\n- Condition préalable : la mise à la consommation n'est autorisée que si, pour des raisons commerciales justifiées, les marchandises ne peuvent être exportées. Préparer un argumentaire écrit : commande locale, rebut commercial, fin de série, marché export fermé.\n- Déclaration en détail d'importation (DUM) déposée par l'acheteur du TA ou pour son compte.\n- Taxation : espèce tarifaire et valeur reconnues ou admises par la douane à la date d'enregistrement de la déclaration ; droits d'importation, TVA à l'importation et, le cas échéant, taxes intérieures de consommation.\n- Déduction : la valeur des produits d'origine marocaine ou nationalisés incorporés est déduite de la base taxable (art. 166 sexies). Justificatif : DUM d'export du fournisseur du TA, nomenclature de fabrication.\n- Préférence tarifaire : possible si la marchandise remplit les conditions d'origine d'un accord, preuve d'origine à l'appui.\n- Formalités du commerce extérieur : comme pour toute importation (engagement d'importation, normes, contrôles techniques d'autres administrations), puis paiement selon la réglementation des changes.\nAlternative : placer la marchandise sous un régime économique au profit d'une entreprise du TA (admission temporaire pour perfectionnement actif, entrepôt de douane), sans paiement immédiat des droits (art. 166 quinquies).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-063",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Sorties de marchandises",
+  "t": "Droit d'importation minimum de 2,5 % (art. 164 bis-1°-i du CDII)",
+  "principe": "Par dérogation au droit commun, les marchandises fabriquées en ZAI et mises à la consommation dans le territoire assujetti peuvent bénéficier du droit d'importation de 2,5 %, dans la limite de 30 % du chiffre d'affaires export annuel de l'entreprise.\nLa note D232/2025 précise que ce régime fiscal de faveur, issu de la circulaire n° 5322/210 du 18 mai 2012 modifiée par la circulaire n° 5740/200 du 28 décembre 2017, s'applique dans le cadre d'une convention conclue entre l'État et l'entreprise. Exemple d'application :\n- Convention du 3 septembre 2025 entre l'État et Lightera Morocco, installée dans la ZAI Tanger Automotive City.\n- Plafond : valeur égale à 10 % du chiffre d'affaires export 2024, pendant 3 ans à compter de la signature.\n- Années suivantes : attestation annuelle du ministère chargé de l'Industrie fixant la valeur autorisée, sur la base du chiffre d'affaires export de l'exercice précédent.\n- Dans BADR : code franchise n° 1084 « MAC de certaines marchandises en provenance des ZAI », renseigné par le service.\n### Codes et cas particuliers de mise à la consommation\n- Code régime 050 : mise à la consommation de marchandises provenant des zones d’accélération industrielles. Codes 221 / 231 : ATPA avec ou sans paiement en provenance d'une zone franche (alternative sous régime économique).\n- Réimportation à 2,5 % depuis une ZAI logistique : les marchandises ayant acquis l'origine marocaine par transformation sous régime économique, puis exportées, sont réimportées sous le régime 050 avec le code franchise n° 4012, dans un délai de 2 ans après l'exportation et sur preuve de l'origine marocaine de cette exportation.\n- Dédouanement préférentiel depuis une ZFL : pour des marchandises originaires entreposées sans transformation, la mise à la consommation se fait au même bureau que l'admission et la sortie, en lot intégral ou partiel, avec preuve d'origine et attestation de non-transformation du gestionnaire (annexe 5). La procédure exige une autorisation préalable du directeur régional, qui répond dans un délai d'un mois et peut la suspendre ou la retirer.\n### Contradiction et point à articuler\nRenvoi de l'article 166 sexies : la circulaire 6398/210 (version « ldf 2023 ») écrit « sous réserve des dispositions de l'article 164-1°-i) », alors que le texte consolidé du CDII renvoie à l'article 164 bis-1-i), qui est bien celui du droit de 2,5 % sur les produits des ZAI. Sources : circ_6398_210_ldf 2023 (circ_6398_I7_ZAI) ; doc_code-douanes_1-77-339 (art. 166 sexies et 164 bis).\nPlafond de 30 % ou de 10 % : le CDII fixe une limite de 30 % du chiffre d'affaires export annuel ; la convention Lightera retient 10 % du chiffre d'affaires export 2024. Les documents ne disent pas si le plafond de 10 % est propre à cette convention ou à toutes. Sources : doc_code-douanes_1-77-339 (art. 164 bis) ; note_D232_2025_ADII_AC_100.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-064",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Sorties de marchandises",
+  "t": "Quotas et engagements export",
+  "principe": "Le décret de la zone et l'autorisation d'installation fixent les engagements de l'entreprise. Selon l'examen de politique commerciale du Maroc par l'OMC (2024), le statut implique d'exporter 15 % de la production. Il faut vérifier le seuil applicable dans son autorisation et suivre mensuellement le ratio exportations / ventes au TA.\n### Base documentaire : engagement d'export\nAucun document du projet ne fixe un seuil d'exportation de 15 % pour les entreprises en ZAI : « Information non trouvée dans les documents du projet ».\nLe seul ratio chiffré lié aux ventes au territoire assujetti est la limite de 30 % du chiffre d'affaires export annuel pour le droit de 2,5 % (art. 164 bis-1°-i ; voir 7.2 bis). Source : doc_code-douanes_1-77-339.\nLe seuil de 15 % figurant dans la base concerne un autre dispositif : l'admission temporaire de matériels restant propriété étrangère, en dispense de redevances, pour des biens destinés à plus de 15 % à l'export (circulaire n° 5276/313). Source : note_D7106_16_ADII_100 (annexe 6, autorisations permanentes).",
+  "maj": "2026-10-17"
+ }
+]

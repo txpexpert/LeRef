@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-100",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Fiches pratiques et tableau récapitulatif",
+  "t": "Les flux en un coup d'œil",
+  "principe": "Un seul passage est taxé : la sortie vers le territoire assujetti, admise seulement si l'export est impossible pour une raison commerciale justifiée. Le tableau détaille les formalités de chaque passage.\n| Flux | Qualification | Déclaration | Droits et TVA | Pièces à conserver |\n| Étranger → zone | Admission en zone | Manifeste, transit si besoin, déclaration d'admission | Aucun | Facture, titre de transport, preuve d'origine des intrants |\n| TA → zone | Exportation | DUM export du fournisseur | Aucun ; TVA exonérée avec déduction pour le fournisseur | DUM export, facture |\n| Zone → zone (même zone) | Cession interne | Écritures de stock | Aucun | Facture, mouvements de stock |\n| ZAI → autre ZAI | Transfert | Transit douanier | Aucun | Document de transit apuré |\n| Zone → étranger | Exportation ou réexportation | DUM export | Aucun | DUM, certificat d'origine éventuel |\n| Zone → TA | Importation (mise à la consommation), seulement si l'export est impossible pour raison commerciale justifiée | DUM import | Droits et TVA à l'importation, base diminuée des intrants marocains | DUM, justification commerciale, nomenclature |\n| Zone → TA sous régime économique | Admission temporaire, entrepôt | DUM du régime | Suspendus | Engagement du régime |\n| Déchets et rebuts | Destruction, export ou consommation | PV de destruction ou DUM | Selon destination, dans l'état | PV, DUM |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-101",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Fiches pratiques et tableau récapitulatif",
+  "t": "Check-list de conformité annuelle",
+  "principe": "- Autorisation d'installation et activités réelles concordantes\n- Inventaire physique réalisé et rapproché de la comptabilité matière\n- Nomenclatures et taux de rendement à jour\n- Ratio exportations / ventes au TA conforme aux engagements\n- Justifications commerciales archivées pour chaque mise à la consommation\n- Preuves d'origine des intrants et des produits finis disponibles\n- Déchets et destructions documentés par procès-verbal\n- Date de début d'exploitation et chiffre d'affaires éligible documentés pour l'IS\n- Flux avec le TA domiciliés et justifiés pour l'Office des changes\n- Stocks en zone tous couverts par une déclaration et compatibles avec l'activité autorisée (art. 282-6° CDII, LF 2026)\n- Cautionnement de type F : plafond suivi, aucun acquit-à-caution 855/856/866 échu, changements de situation déclarés\n- Droit de 2,5 % : convention, attestation annuelle du ministère de l'Industrie et plafond de chiffre d'affaires export suivis\n- Déchets : autorisations du développement durable pour les flux transfrontières ; justificatifs pour les déchets banals et le transit entre ZAI",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-102",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Fiches pratiques et tableau récapitulatif",
+  "t": "Bonnes pratiques",
+  "principe": "- Système d'information : un logiciel de stock et de production relié aux déclarations BADR, avec numéro de déclaration sur chaque lot.\n- Audit interne : une revue douane-fiscale au moins annuelle, menée par une personne extérieure à la logistique.\n- Formation : classement tarifaire, origine, valeur et comptabilité matière pour les équipes logistique, achats et finance.\n- Statut OEA : viser l'agrément d'opérateur économique agréé auprès de l'ADII pour bénéficier de contrôles allégés, comme le recommande l'OMD.\n- Dialogue : un interlocuteur désigné auprès du bureau de la zone et de l'aménageur ; signalement spontané des anomalies.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-103",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Fiches pratiques et tableau récapitulatif",
+  "t": "Codes BADR applicables aux zones d’accélération industrielles et ZAI",
+  "principe": "| Code | Libellé | Source |\n| 050 | Mise à la consommation de marchandises provenant des zones d’accélération industrielles | circ_6047_312 |\n| 221 / 231 | ATPA avec / sans paiement en provenance d'une zone franche | circ_6047_312 |\n| 681 | Exportation définitive en régularisation d'ETPP ou d'ET vers zone franche | circ_6047_312 ; circ_5549_230 |\n| 682 | Exportation vers l'étranger en suite d'exportation via les ZFL | circ_6047_312 |\n| 761 à 768 | Exportations vers zone franche (simple, en suite d'ATPA, d'AT, d'entrepôt, ET, ETPP, TSD, EIF) | circ_6047_312 |\n| 769 | Exportation via les zones d’accélération industrielles logistiques | circ_6047_312 |\n| 855 | Transit à l'import de l'étranger vers une zone franche | circ_6047_312 ; note_D1101_20_ADII_100 |\n| 856 | Transit entre zones d’accélération industrielles autres que portuaires et aéroportuaires | circ_6047_312 ; circ_6191_312 |\n| 866 | Transit à l'export vers l'étranger à partir des zones d’accélération industrielles | circ_6047_312 ; circ_6191_312 |\n| Franchise 1084 | MAC de certaines marchandises en provenance des ZAI (droit de 2,5 %) | note_D232_2025_ADII_AC_100 |\n| Franchise 4012 | Réimportation de marchandises ayant acquis l'origine marocaine sous RED (2,5 %) | circ_6131-313 |",
+  "maj": "2026-10-17"
+ }
+]

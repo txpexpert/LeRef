@@ -1,0 +1,47 @@
+[
+ {
+  "id": "4-040",
+  "p": 4,
+  "ch": "4.5",
+  "c": "Les professions libérales : l’exemple des avocats",
+  "t": "Les professions libérales : l’exemple des avocats — présentation",
+  "principe": "Depuis le 1er janvier 2023, les avocats exerçant en personne physique relèvent d’un régime spécifique, détaillé par le guide fiscal des avocats publié en arabe par la DGI. Ses mécanismes (seuil de TVA, retenue à la source, acomptes, cotisation minimale à 4 %) éclairent plus largement la fiscalité des professions libérales.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-041",
+  "p": 4,
+  "ch": "4.5",
+  "c": "Les professions libérales : l’exemple des avocats",
+  "t": "TVA",
+  "principe": "| Situation | Régime |\n| CA annuel ≤ 500 000 DH | Exonération sans droit à déduction (appréciée sur le CA de l’année précédente) ; pas de déclarations périodiques de TVA, mais maintien de la déclaration d’existence ; les charges sont comptabilisées TTC |\n| CA annuel > 500 000 DH | Assujettissement au taux de 20 % ; sortie possible seulement après 3 années consécutives sous le seuil |\n| Option | Possible pour les avocats sous le seuil ; engagement de 3 ans |\n| Nouveaux exonérés au régime de l’encaissement | Liste des clients débiteurs avant le 1er mars de l’année de changement ; déclarations maintenues jusqu’à encaissement des créances antérieures, taxées au taux en vigueur lors de la prestation |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-042",
+  "p": 4,
+  "ch": "4.5",
+  "c": "Les professions libérales : l’exemple des avocats",
+  "t": "Les acomptes d’IR : deux modes au choix, dossier par dossier",
+  "principe": "### ACOMPTES PROVISIONNELS DES AVOCATS [CGI ART. 173-III]\n- Mode 1 — au greffe : lors du dépôt ou de l’enregistrement d’une requête, d’un recours, d’une constitution ou d’une assistance, l’avocat qui a encaissé tout ou partie des honoraires verse au greffier, pour le compte du receveur, un acompte de 100 DH par dossier (couvrant toutes les instances : première instance, appel, cassation), avec un bordereau-avis (identité, IF, nature et numéro du dossier, juridiction, montant, date). Le greffe reverse électroniquement les sommes dans le mois suivant.\n- Mode 2 — au receveur : un acompte unique, par voie électronique, avant le 1er février de l’année suivante, égal au nombre de dossiers inscrits au nom de l’avocat dont les honoraires ont été encaissés (hors dossiers déjà acquittés au greffe) × 100 DH, accompagné de la liste des dossiers.\n- Exemptions : avocats nouvellement identifiés pendant leurs 60 premiers mois ; ordonnances sur requête et constats (art. 148 du code de procédure civile) ; affaires exonérées de frais judiciaires ou bénéficiant de l’assistance judiciaire (acompte dû seulement à l’exécution du jugement).\n- Imputation : sur la cotisation minimale de l’année, puis sur l’IR afférent au revenu professionnel ; les reliquats non imputables sont acquis au Trésor.\n- Déclaration : les acomptes versés figurent dans la déclaration du revenu global déposée avant le 1er mai [art. 82-I] ; le ministère de la Justice transmet à la DGI la liste des dossiers inscrits au nom de chaque avocat.\n### CAS CHIFFRÉ (GUIDE DGI, 2023)\nAvocat inscrit à la TP depuis 2014 ; 170 dossiers en 2023, dont 20 exemptés, 140 avec honoraires encaissés ; 80 acomptes versés au greffe (8 000 DH). Acompte annuel au receveur avant fin janvier 2024 : (120 – 80) × 100 = 4 000 DH. CA HT 420 000 DH : cotisation minimale à 4 % = 16 800 DH ; à payer avant le 1er février : 16 800 – (8 000 + 4 000 + 2 500 de RAS sur honoraires d’un assureur) = 2 300 DH. Le revenu global (profession 240 000 DH + foncier net 33 000 DH) donne ensuite l’IR, dont la part professionnelle est diminuée de la cotisation minimale. (Le guide applique le barème 2023 ; les montants seraient à recalculer avec le barème 2025.)",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-043",
+  "p": 4,
+  "ch": "4.5",
+  "c": "Les professions libérales : l’exemple des avocats",
+  "t": "Cas particuliers de l’exercice",
+  "principe": "- Association ou cohabitation professionnelle (loi n° 28-08) : chaque avocat est imposé individuellement, tient sa propre comptabilité et déclare sa quote-part de produits et charges.\n- Avocat collaborateur n’intervenant pas en son nom : rémunération imposée en salaires ; s’il traite des dossiers pour son propre compte, les honoraires correspondants relèvent des revenus professionnels avec toutes les obligations du régime.\n- Avocat stagiaire : traité fiscalement comme un salarié.\n- Justification des charges : factures au nom de l’avocat ; à défaut (vendeur non soumis à la TP), bon de dépenses avec identité et CNIE du vendeur ; frais de déplacement, missions et réceptions déductibles s’ils sont justifiés et engagés dans l’intérêt de la profession.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-044",
+  "p": 4,
+  "ch": "4.5",
+  "c": "Les professions libérales : l’exemple des avocats",
+  "t": "Retenue à la source sur les honoraires",
+  "principe": "Les honoraires versés aux avocats par les personnes morales et les professionnels au RNR/RNS subissent une retenue de 10 %, versée avant la fin du mois suivant, imputable sur l’IR avec droit à restitution ; si les retenues excèdent l’impôt annuel, la restitution est automatique avant la fin de l’année de la déclaration.",
+  "maj": "2026-10-17"
+ }
+]

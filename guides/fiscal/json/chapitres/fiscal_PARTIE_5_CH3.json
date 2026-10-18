@@ -1,0 +1,29 @@
+[
+ {
+  "id": "5-020",
+  "p": 5,
+  "ch": "5.3",
+  "c": "La procédure amiable des conventions fiscales",
+  "t": "Objet",
+  "principe": "La procédure amiable (PA) est le mécanisme de règlement des différends prévu par chaque convention de non double imposition (CNDI) conclue par le Maroc. Elle s’ouvre lorsqu’une personne estime que des mesures prises à son égard entraînent ou entraîneront une imposition non conforme à la convention, sans préjudice des recours internes. Elle porte exclusivement sur les impôts visés par la convention.\nCas typiques : double résidence ; qualification d’un revenu différente selon les deux États ; ajustement de prix de transfert à l’issue d’un contrôle (y compris après un accord avec l’administration — l’accès à la PA vise alors à permettre à l’autre État d’éliminer la double imposition, sans engagement implicite de revoir l’accord). Le Maroc ne prévoit pas d’arbitrage dans ses conventions.\n### ATTENTION\nLa PA peut être menée en parallèle des recours administratifs et judiciaires internes ; elle n’interrompt pas les procédures de contrôle et de contentieux et ne suspend pas le recouvrement.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-021",
+  "p": 5,
+  "ch": "5.3",
+  "c": "La procédure amiable des conventions fiscales",
+  "t": "Introduire une demande",
+  "principe": "### DEMANDE D’OUVERTURE D’UNE PROCÉDURE AMIABLE\n- Délai : celui de l’article PA de la convention concernée, généralement 3 ans à compter de la première notification de la mesure ; à défaut de délai exprès, 3 ans (standard international).\n- Lieu : en principe dans l’État de résidence (certaines conventions prévoient autrement). Au Maroc : Direction de la Législation, des Études et de la Coopération Internationale, DGI, Avenue Haj Ahmed Cherkaoui, Quartier administratif Agdal, 10090 Rabat.\n- Signature : par le contribuable ou son mandataire (mandat joint), attestant l’exactitude des faits et s’engageant à fournir tout complément.\n- Contenu : identification (nom, raison sociale, IF, adresse) ; convention et article PA invoqués ; avis d’imposition ou lettres de notification ; impôts et années concernés ; argumentation ; pièces justificatives ; copie des recours internes engagés ; tout autre document utile.\n- Recevabilité : l’autorité marocaine informe l’autre autorité compétente en principe sous 4 semaines ; si la demande est incomplète, elle en avise le contribuable sous 2 mois, puis relance ; à défaut de production, la PA est clôturée. Un refus est motivé et notifié aux deux parties.\n| Date d’ouverture | Règle |\n| Demande complète | La première des deux dates : 1 semaine après la notification à l’autre État, ou 5 semaines après la réception de la demande |\n| Demande incomplète | La dernière des deux dates : date d’ouverture « cas général », ou date de réception des pièces manquantes |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-022",
+  "p": 5,
+  "ch": "5.3",
+  "c": "La procédure amiable des conventions fiscales",
+  "t": "Traitement et clôture",
+  "principe": "- Traitement unilatéral : si l’imposition marocaine est non conforme et relève entièrement de la compétence marocaine, dégrèvement total ou partiel et clôture.\n- Traitement bilatéral : note de position de l’autorité marocaine sous 4 mois après l’ouverture (réponse sous 6 mois si la PA a été engagée dans l’autre État) ; échanges de notes, éventuelle commission mixte ; délai moyen de 24 mois. Le contribuable ne participe pas aux négociations mais peut être sollicité.\n- Issues possibles : allègement unilatéral ; accord éliminant tout ou partie de la double imposition ; accord constatant l’absence d’imposition non conforme ; « accord sur le désaccord ».\n- Clôture : date d’information du contribuable sur le résultat, ou date de retrait de sa demande. Le contribuable accepte ou refuse l’accord ; en cas d’acceptation, il se désiste des instances engagées sur les mêmes points. Le service d’assiette met en œuvre l’accord ; les pénalités et majorations liées sont dégrevées proportionnellement à l’impôt déchargé.",
+  "maj": "2026-10-17"
+ }
+]

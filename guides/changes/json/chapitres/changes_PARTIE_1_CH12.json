@@ -1,0 +1,79 @@
+[
+ {
+  "id": "1-110",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Exploiter une activité de change de devises — présentation",
+  "textes": [
+   "Instruction régissant l'activité de change de devises, en vigueur le 15 juin 2026 — abroge l'instruction de juillet 2018",
+   "Circulaire OC n° 1/2026 du 25 mai 2026 — Plateforme unique",
+   "Circulaire OC n° 3/2025 du 5 décembre 2025 — opérations par cartes internationales",
+   "Cahier des charges de l'activité (non fourni)"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-111",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Qui peut exercer : les quatre catégories",
+  "principe": "| Catégorie | Opérateur | Spécificités |\n| A | Société de change de devises (objet unique) | Capital ≥ 2 MDH libéré ; honorabilité et qualification ; enseigne ; LBC complète |\n| B | Agence propre d'un établissement de paiement | Exigences BAM pour l'honorabilité |\n| C | Agence mandataire d'un établissement de paiement | Capital ≥ 2 MDH libéré |\n| D | Personne morale du secteur touristique (hôtels, etc.) | Activité dans l'espace de réception ; pas de règle de distance ; cession hebdomadaire |\nL'activité est soumise à agrément préalable de l'Office, délivré dans le cadre de campagnes ouvertes par décision et selon un cahier des charges. Exercer sans agrément, ou utiliser une dénomination ou une publicité laissant croire à un agrément, est interdit.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-112",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Les conditions d'agrément",
+  "principe": "| Exigence | Règle |\n| Local | ≥ 16 m² ; façade ≥ 2 m ; un seul accès ; rez-de-chaussée, rue commerçante ou proximité de sites touristiques ; validé par l'OC |\n| Distance | ≥ 100 m linéaires du point A, B ou C le plus proche (non applicable : galeries commerciales, gares, ports, aéroports, catégorie D) |\n| Capital (A et C) | 2 000 000 DH entièrement libérés (droits acquis préservés) |\n| Honorabilité (A) | Aucune condamnation des associés, administrateurs, dirigeants, gérants et préposés (crimes, délits, LBC, code de commerce, déchéance commerciale) ; associés personnes morales hors procédure collective |\n| Qualification du gérant (A) | Bac+3 ; ou Bac + 5 ans d'expérience dans le secteur financier ; ou Bac + 5 ans (sur les 10 dernières années) dans une société de change agréée |\n| Préposés (A) | Niveau baccalauréat minimum |\n| Affichage | Panonceau « CHANGE » multilingue, original de l'agrément, horaires, cours actualisés quotidiennement ; enseigne extérieure (A) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-113",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Du démarrage à l'arrêt : le cycle de vie",
+  "principe": "| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Candidater lors d'une campagne d'agrément | Promoteur | Dossier cahier des charges | Selon décision de campagne |\n| 2 | Faire valider le local | OC | Plans, bail, photos | — |\n| 3 | Obtenir l'agrément | OC | Décision d'agrément | — |\n| 4 | Recevoir le compte gérant, compléter le dossier, créer les comptes préposés sur la Plateforme | Gérant | Pièces juridiques numérisées | — |\n| 5 | Démarrer l'activité (activation des comptes) | Opérateur | — | ≤ 30 jours après l'agrément |\n| 6 | Arrêt provisoire : notification sur la Plateforme | Opérateur | — | Sans délai ; ≤ 30 jours continus, au-delà demande préalable |\n| 7 | Modifications soumises à validation (local, raison sociale, mandante, dénomination) | Opérateur / OC | Restitution de l'agrément pour mise à jour | Avant la modification |\n| 8 | Modifications déclaratives (actionnariat, gérance, personnel, capital C) | Opérateur | Pièces numérisées (voir 12.6) | Sans délai |\n| 9 | Arrêt définitif | Opérateur | Cession des devises, restitution de l'agrément, dépose de la signalétique | — |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-114",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Les opérations au guichet",
+  "principe": "### Achat de devises à la clientèle\nL'opérateur achète les devises contre des dirhams remis en billets, en cartes prépayées chargées ou par chèque tiré sur son compte. Depuis la circulaire 3/2025, il peut aussi acheter des devises par acceptation de cartes bancaires internationales via TPE et remettre au client une carte de paiement chargée en dirhams, dans le cadre d'une convention de tierce introduction avec la banque ou l'établissement de paiement émetteur (recommandation 17 du GAFI). Toute présentation de faux billets est signalée à BAM et aux autorités.\n| Situation | Pièces exigées |\n| Achat de billets ≥ 100 000 DH | CNI ou passeport (Marocains résidents et MRE) ; passeport (étrangers non-résidents) ; carte d'immatriculation ou passeport (étrangers résidents) ; original de la déclaration d'importation de devises, annoté et restitué, copie conservée |\n| Achat par carte internationale | Passeport (MRE, étrangers non-résidents) ; carte d'immatriculation ou passeport (étrangers résidents) |\n| Vente de devises (A/B/C) | Au titre des dotations, sur passeport ; enregistrement sur la base de la CNI ou de la carte d'immatriculation |\n| Rachat de dirhams à un non-résident | Déclaration d'importation annotée et bordereaux < 6 mois ; sans déclaration : 20 000 DH max sur bordereau < 6 mois ; ports/aéroports : 2 000 DH par passeport sur carte d'embarquement |\nChaque opération donne lieu à un bordereau généré automatiquement par la Plateforme, sans rature ni surcharge, dont l'original est remis au client.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-115",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Gestion de l'encaisse et cessions bancaires",
+  "principe": "| Règle | Catégories A, B, C | Catégorie D |\n| Plafond d'encaisse en devises | Contre-valeur de 600 000 DH | — |\n| Cession de l'excédent / des billets | Avant 17 h le premier jour ouvrable suivant | Au plus tard le dernier jour ouvrable de la semaine |\n| Lieu de cession | Agence bancaire de la même localité | Idem |\n| Traçabilité | État préalable sur la Plateforme ; bordereau bancaire scanné | Idem |\nEn zone « arrivée sous douane » des aéroports, l'opérateur dispose d'une encaisse revolving en dirhams de 600 000 DH maximum, introduite sous surveillance douanière ; à épuisement, il cède immédiatement les devises collectées. Le point sous douane peut approvisionner en devises son point hors douane de la même enceinte, par une double écriture sur la Plateforme.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-116",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "Pièces des modifications déclaratives",
+  "principe": "- Changement d'actionnariat (A) : statuts à jour, fiche anthropométrique (Marocains) ou bulletin n° 3 / équivalent étranger, pièce d'identité, déclaration du bénéficiaire effectif (Annexe 1).\n- Changement de gérant ou de préposés (A) : pièce d'identité, fiche anthropométrique ou équivalent, diplôme et attestation CNSS, PV de nomination, statuts à jour, extrait RC récent, engagement de conformité LBC du gérant (Annexe 2).\n- Changement de capital (C) : statuts à jour, extrait RC récent.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-117",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Exploiter une activité de change de devises",
+  "t": "La Plateforme unique de change de devises",
+  "principe": "Obligatoire depuis le 15 juin 2026, la Plateforme (désignée « SARF » dans l'Instruction) remplace les logiciels de change et le Système de gestion des dotations. Elle sert à : enregistrer achats et ventes et éditer les bordereaux ; enregistrer les cessions aux banques ; tenir le dossier juridique et administratif ; déposer la liasse fiscale (catégorie A, au plus tard fin avril pour l'exercice N-1) ; déclarer les arrêts provisoires ; produire les états réglementaires ; assister la LBC-FT. L'accès est nominatif ; l'OC crée le compte du gérant, qui crée et gère, sous sa responsabilité, les comptes de ses préposés.\n### Retrait d'agrément\nOutre les sanctions de change et LBC, l'agrément peut être suspendu ou retiré lorsque l'exploitation ne permet plus un exercice normal, effectif et durable (volume d'activité, continuité, capacité à honorer les engagements).",
+  "maj": "2026-10-17"
+ }
+]

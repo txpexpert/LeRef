@@ -1,0 +1,60 @@
+[
+ {
+  "id": "1-020",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Exporter et rapatrier",
+  "t": "Exporter et rapatrier — présentation",
+  "textes": [
+   "Circulaire OC n° 8/2014 du 27 mai 2014 — suppression de l'engagement de change",
+   "Avis n° 06/14 du 28 mars 2014 du ministère délégué chargé du Commerce extérieur",
+   "Délai de rapatriement : [À vérifier dans l'IGOC en vigueur]"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-021",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Exporter et rapatrier",
+  "t": "La fin de l'engagement de change",
+  "principe": "Jusqu'en 2014, toute exportation devait être précédée d'un engagement de change souscrit auprès d'une banque, par lequel l'exportateur s'obligeait à rapatrier le produit. La circulaire 8/2014 supprime cette formalité pour toute marchandise libre à l'exportation. Seules les marchandises soumises à restriction restent subordonnées à une licence d'exportation délivrée par le département du Commerce extérieur.\nLa suppression d'une formalité n'est pas la suppression de l'obligation de fond : l'exportateur reste tenu d'encaisser et rapatrier le produit de ses exportations avec paiement dans le délai réglementaire, qui court désormais à compter de la date d'enregistrement de la déclaration en douane. La traçabilité de l'opération repose donc sur la déclaration douanière.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-022",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Exporter et rapatrier",
+  "t": "Les exportations sans paiement",
+  "principe": "Les exportations sans paiement restent en principe soumises à autorisation préalable de l'Office. La circulaire dispense toutefois d'autorisation — l'opération étant traitée directement avec la douane — les cas suivants :\n| Cas dispensé | Condition / seuil |\n| Biens sans valeur commerciale | ≤ 10 000 DH |\n| Échantillons | ≤ 20 000 DH |\n| Biens placés sous un régime économique en douane | Selon le régime |\n| Échantillons pharmaceutiques | ≤ 3 % de la valeur des médicaments exportés avec paiement, expédiés simultanément |\n| Déchets toxiques exportés pour élimination | — |\n| Marchandises de remplacement ou de complément | — |\n| Marchandises destinées à des tests et analyses | — |\n| Retours de marchandises non conformes ou défectueuses | — |\n| Invendus de presse | — |\n| Retours pour complément de façon | — |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-023",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Exporter et rapatrier",
+  "t": "La pièce substitutive : la facture visée par la douane",
+  "principe": "Lorsque l'IGOC subordonnait une opération à la production de l'engagement de change (par exemple certaines imputations ou compensations), la banque exige désormais la facture définitive établie à l'ordre du client étranger et visée par la douane. Ce visa est donc un document à obtenir systématiquement lors du dédouanement export, même lorsqu'il ne paraît pas immédiatement utile.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-024",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Exporter et rapatrier",
+  "t": "Processus pas à pas",
+  "principe": "| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Vérifier que le produit est libre à l'export (sinon licence) | Exportateur | Nomenclature, liste des restrictions | Avant expédition |\n| 2 | Établir facture définitive au client étranger | Exportateur | Facture | — |\n| 3 | Déposer la déclaration d'exportation ; faire viser la facture | Déclarant / douane | DUM, facture | Date d'enregistrement = point de départ |\n| 4 | Suivre l'encaissement (crédit documentaire, remise, virement) | Exportateur / banque | Documents d'expédition | Délai IGOC |\n| 5 | Rapatrier et céder / loger en compte devises selon IGOC | Banque | Avis de crédit | Délai IGOC |\n| 6 | En cas d'impayé : documenter les diligences de recouvrement | Exportateur | Relances, mises en demeure | Avant échéance du délai |\n### Point de vigilance\nLes exportations sans paiement non listées (dons, prêts de matériel, envoi gratuit de marchandises de valeur) exigent une autorisation préalable de l'Office. Faute d'autorisation, la sortie de la marchandise sans rapatriement correspondant est susceptible de caractériser une infraction de change.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-025",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Exporter et rapatrier",
+  "t": "Fiche réflexe",
+  "principe": "- Plus d'engagement de change pour les produits libres.\n- Le délai de rapatriement court de l'enregistrement de la déclaration en douane.\n- Exiger le visa douanier sur la facture définitive.\n- Exports gratuits : vérifier la liste des dispenses, sinon autorisation OC.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,34 @@
+{
+ "titre": "Procédures bancaires et établissements financiers",
+ "sous_titre": "À l'usage des opérateurs économiques et des investisseurs : agréments, relation bancaire, financement, change, garanties et recours",
+ "edition": "Édition 2027",
+ "mode_emploi": {
+  "introduction": [
+   "Pourquoi ce guide, comment il a été construit et comment l'utiliser",
+   "Ce guide rassemble, dans une logique de procédures et de processus pratiques, l'essentiel du droit bancaire et financier marocain utile à deux publics : les opérateurs économiques (entreprises, commerçants, importateurs-exportateurs, porteurs de projets, auto-entrepreneurs) qui entretiennent une relation avec un établissement de crédit, et les investisseurs (nationaux ou étrangers) qui envisagent de créer, d'acquérir ou de détenir une participation dans un établissement financier, ou de mobiliser les instruments de financement disponibles sur la place.",
+   "Plutôt que de reproduire les textes article par article, chaque section répond à des questions opérationnelles : qui fait quoi, dans quel ordre, avec quels documents, dans quels délais, et avec quels recours. Les références juridiques sont systématiquement indiquées pour permettre la vérification à la source."
+  ],
+  "rubriques": [
+   {
+    "rubrique": "Couverture",
+    "texte": "Fondé sur la loi n° 103-12 telle que modifiée (lois 44-20, 50-20, 51-20), le recueil des textes de Bank Al-Maghrib mis à jour à fin 2023, les décisions et lettres circulaires 2018-2025 et le rapport annuel sur la supervision bancaire – exercice 2025."
+   },
+   {
+    "rubrique": "Corpus exploité",
+    "texte": "Le contenu repose exclusivement sur le corpus documentaire suivant, transmis sous forme de fichiers structurés :\n| Bloc documentaire | Contenu | Usage dans le guide |\n| Loi n° 103-12 consolidée (31 mars 2022) | Texte intégral de la loi bancaire telle que modifiée par les lois 44-20, 50-20 et 51-20 (200 articles) | Colonne vertébrale de toutes les parties |\n| Version initiale de la loi 103-12 (BO 6340 du 5 mars 2015) ; BO 6918 (loi 44-20, loi 36-20) ; dahir 1-21-77 (loi 51-20) | Textes d'origine et modificatifs | Historique et vérification des modifications |\n| Recueil BAM des textes législatifs et réglementaires (à jour fin 2023) | 183 textes : circulaires, directives, décisions, arrêtés, lois connexes (protection du consommateur, LBC/FT, financement collaboratif, CFC, marchés) | Procédures détaillées, seuils, délais, modèles |\n| Recueil des textes d'application de la loi 40-17 (statut de BAM) | Décret 2-19-1095, plan comptable de BAM, cahier des charges du traitement de la monnaie fiduciaire | Cadre institutionnel de la banque centrale |\n| Décisions 80/W/20 et 49/W/20 ; LC/BKAM/2018/1, 2018/2, 2020/1, 2020/8, 2025/1 | Politique monétaire, régime de change, adjudications, opérations de change, programmes de refinancement | Parties IV et V |\n| Textes antérieurs (décret 2-06-223, arrêtés 31-07 et 32-07, modificatif 2004 de la circulaire 19/G/2002) | Textes pris sous la loi 34-03, partiellement remplacés | Mise en perspective ; signalés comme antérieurs |\n| Rapport annuel sur la supervision bancaire – exercice 2025 | Chiffres clés, réformes adoptées en 2025, projets en cours, statistiques de réclamations et de médiation | Actualisation et état des lieux |"
+   },
+   {
+    "rubrique": "Organisation de l'ouvrage",
+    "texte": "| Partie | Objet | Public prioritaire |\n| I. Cadre institutionnel | Définitions légales, monopole bancaire, catégories d'établissements, autorités, état du secteur en 2025 | Tous |\n| II. Investir dans le secteur financier | Agréments, capital minimum, changements de contrôle, établissements de paiement, microfinance, finance participative, financement collaboratif, offshore, CFC, obligations continues | Investisseurs, fondateurs, fintechs |\n| III. L'entreprise et sa banque | Ouverture de compte et KYC, dossier de crédit, taux, garanties, classement des créances, moyens de paiement, clôture, réclamations et médiation | Opérateurs économiques |\n| IV. Financement et marchés | Programmes de refinancement BAM, garantie publique (Tamwilcom), titres de créances négociables, politique monétaire | Entreprises, directeurs financiers |\n| V. Change et international | Régime de change, cotations, couverture des risques, transferts et virements transfrontaliers | Importateurs, exportateurs, investisseurs étrangers |\n| VI. Protection et sécurité | Garantie des dépôts, traitement des difficultés bancaires, comptes inactifs, secret professionnel, sanctions | Tous |\n| Annexes | Tableau des délais, check-lists, glossaire, table des textes | Consultation rapide |"
+   },
+   {
+    "rubrique": "Conventions de lecture",
+    "texte": "- BAM : Bank Al-Maghrib ; CEC : Comité des établissements de crédit ; EC : établissement de crédit ; EP : établissement de paiement ; SFC : société de financement collaboratif ; CMMB : Centre marocain de médiation bancaire ; MDH : millions de dirhams.\n- Les références du type « art. 34 L. 103-12 » renvoient à la loi n° 103-12 consolidée ; « circ. 5/W/15 » renvoie à une circulaire du Wali de BAM.\n- Les encadrés colorés distinguent : À retenir (synthèse), Point de vigilance (risque d'erreur ou de sanction), Conseil pratique (bonne pratique d'opérateur), Base juridique (références), Cas pratique (mise en situation).\n- Les tableaux de procédure sont présentés sous la forme : étape — acteur — délai — référence."
+   },
+   {
+    "rubrique": "Limites et précautions d'usage",
+    "texte": "- La réglementation des changes de l'Office des Changes (Instruction générale des opérations de change) n'est pas incluse dans le corpus : seules les modalités relevant de BAM sont traitées en détail.\n- Les dispositions fiscales anciennes citées (banques offshore notamment) sont reproduites à titre historique ; le régime fiscal en vigueur relève du Code général des impôts."
+   }
+  ]
+ }
+}

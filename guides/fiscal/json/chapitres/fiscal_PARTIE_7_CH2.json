@@ -1,0 +1,47 @@
+[
+ {
+  "id": "7-010",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Tableaux récapitulatifs des taux 2026",
+  "t": "Impôt sur les sociétés",
+  "principe": "| Catégorie | Taux |\n| Taux normal | 20 % |\n| Bénéfice ≥ 100 MDH (hors CFC, ZAI, conventions ≥ 1,5 Md DH) | 35 % |\n| Établissements de crédit, BAM, CDG, assurances et réassurances | 40 % |\n| Non-résidents adjudicataires de marchés (option) | 8 % du montant HT des marchés |\n| Cotisation minimale | 0,25 % (0,15 % ; 4 %) ; minimum 3 000 DH |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-011",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Tableaux récapitulatifs des taux 2026",
+  "t": "Retenues à la source",
+  "principe": "| Revenu | Taux |\n| Dividendes distribués en 2026 | 11,25 % (10 % en 2027) |\n| Produits bruts versés aux non-résidents | 10 % |\n| Rémunérations de tiers versées à des personnes morales | 5 % |\n| Rémunérations de tiers versées à des personnes physiques au RNR/RNS | 10 % |\n| Loyers versés à des personnes morales ou professionnels | 5 % |\n| Loyers versés à des particuliers | 10 % / 15 % (non libératoire) ou 20 % (libératoire sur option) |\n| Placements à revenu fixe (personnes morales) | 20 % |\n| Surplus > 80 000 DH par client (CPU, auto-entrepreneurs) | 30 % |\n| Rémunérations occasionnelles de non-salariés | 30 % |\n| Indemnités d’expropriation et transferts judiciaires | 5 % |\n| Gains de jeux en ligne de source étrangère | 30 % |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-012",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Tableaux récapitulatifs des taux 2026",
+  "t": "Impôt sur le revenu : taux spécifiques et libératoires (sélection)",
+  "principe": "| Revenu | Taux |\n| Barème | 0 % à 37 % |\n| Profits fonciers | 20 % (cotisation minimale 3 % du prix) |\n| Première cession d’un terrain urbain non bâti | 30 % libératoire (référentiel) |\n| Plus-values sur actions cotées | 15 % |\n| Plus-values sur titres non cotés et obligations | 20 % |\n| Salariés des sociétés CFC | 20 % pendant 10 ans (option pour le barème) |\n| CPU | 10 % du revenu forfaitaire |\n| Auto-entrepreneur | 0,5 % / 1 % du CA encaissé |\n| Revenus de capitaux mobiliers étrangers | 15 % |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-013",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Tableaux récapitulatifs des taux 2026",
+  "t": "TVA, droits d’enregistrement, autres taxes",
+  "principe": "Voir les tableaux des sections 10 (TVA), 12 (droits d’enregistrement) et 13 (TSAV, CSS, ciment, assurances).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-014",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Tableaux récapitulatifs des taux 2026",
+  "t": "Seuils à connaître",
+  "principe": "| Seuil | Effet |\n| 40 000 DH | Tranche exonérée du barème ; dispense de RAS sur loyers ; plafond de revenu des enfants à charge |\n| 80 000 DH par client | RAS de 30 % sur le surplus des prestataires CPU et auto-entrepreneurs |\n| 140 000 DH | Exonération des cessions immobilières annuelles |\n| 200 000 / 500 000 DH | Plafonds de l’auto-entrepreneur (services / commerce) ; 500 000 DH : seuil d’exonération TVA des petits prestataires et plafond RNS/CPU services |\n| 300 000 DH | Prix au-delà duquel s’applique le droit supplémentaire de 2 % en cas de paiement non traçable |\n| 400 000 DH | Plafond d’amortissement des véhicules de tourisme |\n| 1 000 000 DH | TVA mensuelle ; CSS sur les bénéfices |\n| 2 000 000 DH | Assujettissement à la TVA des commerçants ; plafond RNS et CPU (commerce) |\n| 10 MDH | Partage de compétence CRRF / CNRF |\n| 50 MDH | Documentation des prix de transfert ; durée de vérification portée à 6 mois ; projets conventionnés (TVA) |\n| 100 MDH | Taux d’IS de 35 % |\n| 200 MDH | Débiteurs de la RAS sur les tiers personnes morales et de la RAS TVA |\n| 1,5 Md DH | Maintien du taux de 20 % (convention) |\n| 8 122,5 MDH | Déclaration pays par pays |",
+  "maj": "2026-10-17"
+ }
+]

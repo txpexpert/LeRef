@@ -1,0 +1,65 @@
+[
+ {
+  "id": "4-010",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Les notions clés",
+  "principe": "Un produit fait l'objet d'un dumping si son prix à l'exportation vers le Maroc est inférieur à sa valeur normale (loi 15-09, art. 6). La valeur normale est le prix comparable du produit similaire destiné à la consommation dans le pays exportateur ; à défaut, le prix à l'exportation vers un pays tiers ou le coût de production majoré des frais et d'une marge raisonnable ; pour un pays à économie autre que de marché non membre de l'OMC, le prix pratiqué dans un pays tiers à économie de marché comparable (art. 8). Les prix sont appréciés sur les 12 mois précédant l'ouverture de l'enquête (décret, art. 1er et 3). Une subvention est passible de mesures si elle est spécifique (art. 10 et 11).\nLe dommage s'apprécie sur le volume des importations, leur effet sur les prix (sous-cotation, dépression, empêchement de hausse) et leur incidence sur la branche nationale, évaluée sur au moins les trois dernières années (art. 13 ; décret, art. 16 à 18). Le dommage causé par d'autres facteurs n'est pas imputé aux importations (art. 14).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-011",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Qui peut déposer une requête",
+  "principe": "La requête est déposée par la branche de production nationale ou en son nom, en version confidentielle et non confidentielle (loi, art. 16 ; décret, art. 24). Elle est recevable si elle est soutenue par des producteurs représentant plus de 50 % de la production de ceux qui se sont exprimés, et si les producteurs qui la soutiennent expressément représentent plus de 25 % de la production nationale totale (décret, art. 25). L'administration peut aussi ouvrir une enquête d'office, après avis de la Commission.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-012",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Le calendrier d'une enquête",
+  "principe": "| Étape | Délai | Base |\n| Notification de la recevabilité ou de l'irrecevabilité (motivée) | 10 jours ouvrables après réception de la requête | Loi 15-09, art. 16 et 83 |\n| Décision d'ouverture, après avis de la Commission ; avis publié dans au moins deux journaux d'annonces légales | 21 jours ouvrables après acceptation | Art. 17 |\n| Délai pour se faire connaître comme partie intéressée | 30 jours ouvrables après publication de l'avis | Art. 18 |\n| Réponse aux questionnaires | 30 jours ouvrables (+7 jours pour les parties établies à l'étranger ; prorogation unique de 21 jours au plus) | Art. 20 |\n| Mesure provisoire possible | Pas avant 60 jours après l'ouverture | Art. 29 |\n| Communication des faits essentiels ; commentaires des parties | 21 jours ouvrables | Art. 24 |\n| Durée totale de l'enquête | 12 mois, portés à 18 mois au plus | Art. 27 |\n### À RETENIR\nL'ouverture d'une enquête n'empêche pas le dédouanement des produits visés (loi 15-09, art. 17). Mais dès la recevabilité de la requête, l'administration peut placer ces importations sous surveillance, avec visa préalable de l'engagement d'importation (art. 19 ; décret, art. 63).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-013",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Les seuils de clôture",
+  "principe": "L'enquête est close sans mesure à l'égard d'un exportateur dont la marge de dumping est inférieure à 2 % du prix à l'exportation, dont la subvention est inférieure à 1 % de la valeur (2 % pour un pays en développement), ou dont le pays représente moins de 3 % des importations du produit similaire, sauf si les pays sous ce seuil totalisent plus de 7 % (4 % et 9 % pour les pays en développement) (loi 15-09, art. 28). Elle est close à l'égard de tous en cas de preuves insuffisantes ou de retrait de la requête.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-014",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Les droits et leur perception",
+  "principe": "Les droits provisoires sont perçus sous forme de consignation (art. 31). Les droits, provisoires ou définitifs, sont fixés individuellement par exportateur en tenant compte de sa coopération, ne peuvent excéder la marge de dumping ou le montant de la subvention, et sont liquidés et recouvrés comme en matière de douane (art. 32). Lorsque l'enquête est limitée à un échantillon, les exportateurs coopérants non retenus se voient appliquer la moyenne pondérée des marges de l'échantillon, et les non-coopérants et inconnus la marge la plus élevée (décret, art. 11, 15 et 30).\n| Cas | Effet pour l'importateur | Base |\n| Droit définitif supérieur au droit provisoire | Le provisoire est perçu ; la différence n'est pas réclamée | Art. 33 |\n| Droit définitif inférieur au provisoire | Remboursement de la différence sous 90 jours | Art. 33 |\n| Détermination finale négative après mesure provisoire | Remboursement de la consignation sous 90 jours | Art. 33 |\n| Perception rétroactive | Possible jusqu'à 90 jours avant le droit provisoire, jamais avant l'ouverture de l'enquête | Art. 34 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-015",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Les engagements de prix",
+  "principe": "Après une détermination préliminaire ou finale positive, l'exportateur peut s'engager à réviser ses prix ; l'enquête ou la mesure peut alors être suspendue (loi 15-09, art. 35). L'administration dispose de 30 jours pour accepter ou rejeter l'offre (décret, art. 32). La violation de l'engagement entraîne le rétablissement immédiat du droit.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-016",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Antidumping et mesures compensatoires : la procédure",
+  "t": "Réexamens et contournement",
+  "principe": "| Procédure | Ouverture | Durée de l'enquête | Base |\n| Avis d'expiration | Publié au plus tard 90 jours avant l'échéance du droit | — | Art. 40 |\n| Réexamen intermédiaire (révision, maintien, suppression) | Après un an d'application, d'office ou à la demande d'un exportateur, d'un importateur ou de la branche | 12 mois | Art. 41 et 43 |\n| Réexamen « nouvel exportateur » | À tout moment, à la demande d'un exportateur qui n'exportait pas pendant la période d'enquête | 9 mois | Art. 41 et 43 |\n| Réexamen à l'expiration (prorogation) | Dans les 90 jours précédant l'expiration | 12 mois ; le droit peut être maintenu provisoirement | Art. 41, 43 et 46 |\n| Enquête anticontournement | D'office ou à la demande de la branche | 9 mois | Art. 49 à 51 |\nPendant un réexamen, la perception du droit est remplacée par une consignation d'un montant équivalent (art. 44). Le contournement vise la modification mineure du produit, le transbordement par un pays tiers, la réorganisation des circuits de vente via des producteurs à droit plus faible et l'assemblage au Maroc ou dans un pays tiers à partir de pièces de l'exportateur visé (art. 49 et 50).\n### CONSEIL PRATIQUE\nUn importateur est une « partie intéressée » (art. 2). Il a intérêt à se faire connaître dans les 30 jours de l'avis d'ouverture : il pourra répondre au questionnaire, demander une audition publique (décret, art. 60 et 61) et, après un an, solliciter un réexamen intermédiaire.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "id": "6-050",
+  "p": 6,
+  "ch": "6.6",
+  "c": "Recrutement et formation (ANAPEC)",
+  "t": "Idmaj",
+  "principe": "Dispositif des contrats d'insertion et du contrat d'intégration professionnelle. Bénéficiaires : diplômés de l'enseignement supérieur, de la formation professionnelle, bacheliers ; pour le contrat d'intégration, inscrits à l'ANAPEC depuis plus d'un an et diplômés universitaires de formation générale (licence et plus). Avantages pour l'employeur : exonération des cotisations patronales et salariales CNSS et de la taxe de formation professionnelle pendant le stage ; exonération d'impôt sur le revenu pour les candidats inscrits depuis au moins six mois ; prise en charge de l'assurance maladie obligatoire pendant le stage ; en cas de recrutement, prise en charge par l'État pendant un an de la part patronale de la couverture sociale et de la taxe de formation professionnelle ; prime de 25 000 DH à l'employeur en cas de CDI à l'issue d'un stage de six à neuf mois. Indemnité mensuelle de stage de 1 600 à 6 000 DH.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-051",
+  "p": 6,
+  "ch": "6.6",
+  "c": "Recrutement et formation (ANAPEC)",
+  "t": "Tahfiz",
+  "principe": "Aide au recrutement pour les entreprises, associations et coopératives créées entre le 1er janvier 2015 et le 31 décembre 2026, affiliées à la CNSS, d'au plus dix salariés. Le recrutement doit intervenir dans les 24 mois du début d'exploitation, en contrat à durée indéterminée. Avantages : exonération d'impôt sur le revenu du salaire mensuel brut plafonné à 10 000 DH ; prise en charge par l'État de la part patronale CNSS et de la taxe de formation professionnelle.\n### Attention\nla date limite de création est le 31 décembre 2026. Une entreprise créée en 2027 ne sera éligible que si le dispositif est prorogé.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-052",
+  "p": 6,
+  "ch": "6.6",
+  "c": "Recrutement et formation (ANAPEC)",
+  "t": "Taehil",
+  "principe": "Formation de jeunes diplômés (au moins le baccalauréat) et de lauréats de la formation professionnelle pour les besoins des entreprises : formation contractualisée pour l'emploi, formation à la carte, formation d'appui aux secteurs émergents (automobile, aéronautique, électronique, offshoring, énergies renouvelables). Contribution de l'ANAPEC jusqu'à 10 000 DH par participant, pouvant aller jusqu'à 24 000 DH pour les secteurs émergents et les nouveaux investissements.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-053",
+  "p": 6,
+  "ch": "6.6",
+  "c": "Recrutement et formation (ANAPEC)",
+  "t": "Programme historique : Awrach",
+  "principe": "Programme national de 2,25 Md DH visant 250 000 emplois sur 2022-2023 (chantiers généraux provisoires et insertion durable). Volet insertion durable : prime de 1 500 DH par mois et par recrue pendant neuf mois, sous réserve d'un recrutement d'au moins douze mois, d'un salaire au moins égal au SMIG et d'une déclaration mensuelle à la CNSS, pour les très petites entreprises, associations et coopératives. Présent dans le seul Kit 2023 ; période terminée (statut H).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-054",
+  "p": 6,
+  "ch": "6.6",
+  "c": "Recrutement et formation (ANAPEC)",
+  "t": "Articulation avec la Charte",
+  "principe": "Les emplois aidés comptent-ils comme emplois stables ? Le décret TPME exclut expressément des emplois stables ceux qui sont déjà soutenus directement par l'État au titre d'un autre dispositif (art. 1-z). Un salarié recruté avec une prise en charge Idmaj ou Tahfiz risque donc de ne pas être compté pour le ratio et la prime emplois du dispositif TPME. La question doit être posée au CRI avant de combiner les deux dispositifs.\nContacts : www.anapec.org ; direction régionale de Casablanca : 05 22 26 04 64 / 05 22 26 04 66.",
+  "faq": [
+   [
+    "Puis-je cumuler Tahfiz et la prime emplois du dispositif TPME ?",
+    "Avec prudence : le décret 2.25.342 exclut des emplois stables ceux qui sont déjà soutenus directement par l'État au titre d'un autre dispositif. Il faut faire préciser par le CRI si les recrutements Tahfiz ou Idmaj sont décomptés."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

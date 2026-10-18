@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-340",
+  "p": 1,
+  "ch": "1.35",
+  "c": "Listes de contrôle des dossiers",
+  "t": "Dossier de licence d'agent de voyages",
+  "principe": "| ✓ | Pièce |\n| ☐ | Statuts de la société commerciale de droit marocain (objet exclusif pour l'organisateur-distributeur) |\n| ☐ | Certificat d'immatriculation au registre du commerce |\n| ☐ | Pièce d'identité (CNIE) ou titre de séjour du dirigeant |\n| ☐ | Diplômes et attestations d'expérience du dirigeant |\n| ☐ | Extrait de casier judiciaire du dirigeant |\n| ☐ | Justificatif du local « agence » (bail, titre) |\n| ☐ | Garantie financière (dépôt CDG) |\n| ☐ | Police d'assurance responsabilité civile professionnelle |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-341",
+  "p": 1,
+  "ch": "1.35",
+  "c": "Listes de contrôle des dossiers",
+  "t": "Dossier d'agrément de transport touristique (TT11 + TT21)",
+  "principe": "| ✓ | Pièce | TT11 | TT21 |\n| ☐ | Formulaire complété et signé | ✔ | ✔ |\n| ☐ | Cahier des charges paraphé, signé, légalisé (« lu et approuvé… ») | ✔ | ✔ |\n| ☐ | Statuts à jour (personne morale) | ✔ | ✔ |\n| ☐ | PV d'AG désignant le responsable légal | ✔ | ✔ |\n| ☐ | Copie CIN des gérants | ✔ | ✔ |\n| ☐ | Casier judiciaire original < 3 mois des gérants | ✔ | ✔ |\n| ☐ | Récépissé de dépôt du TT11 | — | ✔ |\n| ☐ | Étude économique et financière détaillée + indicateurs sur 4 ans | — | ✔ |\n| ☐ | Quatre exemplaires (original + 3 copies) | — | ✔ |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-342",
+  "p": 1,
+  "ch": "1.35",
+  "c": "Listes de contrôle des dossiers",
+  "t": "Dossier de commercialisation d'une RIPT",
+  "principe": "| ✓ | Pièce |\n| ☐ | Titres fonciers portant la mention « loi 01-07 » |\n| ☐ | Liste des unités relevant du pourcentage géré (≥ 70 %) |\n| ☐ | Licence (provisoire) de la société de gestion |\n| ☐ | Décision de classement provisoire |\n| ☐ | Contrat promoteur / société de gestion (art. 5) |\n| ☐ | Règlement de copropriété |\n| ☐ | Bail type meublé + cahier des charges du mobilier |\n| ☐ | Bordereau de remise des 8 informations signé par l'acquéreur |\n| ☐ | Clause de garantie d'exploitation de 9 ans dans l'acte de vente |\n| ☐ | Attestation de cautionnement (≥ 3 mois de loyer fixe) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-343",
+  "p": 1,
+  "ch": "1.35",
+  "c": "Listes de contrôle des dossiers",
+  "t": "Dossier d'ouverture d'un établissement d'hébergement",
+  "principe": "| ✓ | Pièce |\n| ☐ | Permis de construire et certificat de conformité |\n| ☐ | Plans et descriptif conformes aux normes de classement visées |\n| ☐ | Statuts, RC, identifiants fiscaux et CNSS de l'exploitant |\n| ☐ | Attestation d'assurance incendie, vol des effets des clients, RC |\n| ☐ | Identité et qualifications du directeur |\n| ☐ | Autres autorisations sectorielles (protection civile, hygiène, débit de boissons…) |\n| ☐ | Accès à la plateforme de télé-déclaration et modèle de BIH |\n| ☐ | Grille tarifaire affichable et modèle de facture |",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": "1-400",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "L'appel d'offres avec présélection et le concours",
+  "principe": "Lorsque la complexité le justifie, une phase d'admission précède la remise des offres. L'avis est publié au moins 15 jours avant la séance d'admission ; les admis reçoivent une lettre d'admission au moins 30 jours avant l'ouverture des plis, avec possibilité d'un report unique (art. 49 à 65). Le concours porte sur la conception, éventuellement l'étude, le suivi ou la réalisation d'un projet ; il prévoit des primes pour cinq projets au plus ; l'attribution va au concurrent ayant la meilleure note globale (art. 66 à 86).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-401",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "Fiche MP-P7 — Marché négocié",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 87, art. 88, art. 89, art. 90 |\n| Déclencheur | Cas limitativement prévus par l'art. 89. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Avec publicité : avis sur le portail et dans un journal ; candidatures ≥ 10 jours ; dossier administratif et technique complet (art. 28). | MO / opérateur | ≥ 10 jours | art. 87-4, 88 |\n| 2 | Admission (au moins 3 si possible), lettre de consultation, négociation avec chaque admis sur le prix, les délais et conditions d'exécution — jamais sur l'objet ou la consistance. | Commission de négociation | — | art. 87, 88 |\n| 3 | Attribution à l'offre économiquement la plus avantageuse ; rapport de négociation versé au dossier. | Commission | — | art. 88-8, 88-9 |\n### Cas de recours\n- Avec publicité : AO infructueux (conditions inchangées, avis dans les 21 jours) ; défaillance du titulaire\n- Sans publicité : prestataire unique (technique/expertise) ; défense/sécurité confidentielles (autorisation du Chef du gouvernement) ; brevets ; exclusivité d'un EP ; offre spontanée à technologie exclusive ; extrême urgence imprévisible (catastrophes) ; urgence défense/sécurité ; cérémonies officielles urgentes ; prestations supplémentaires ≤ 10 %",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-402",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "Les bons de commande",
+  "principe": "Jusqu'à 500.000 DH TTC par année, par nature de prestations et par ordonnateur, sur la liste de l'annexe 4, après concurrence préalable et publication d'un avis d'au moins 48 heures sur le portail (art. 91).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-403",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "Fiche MP-P6 — Répondre à un bon de commande",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 91 |\n| Déclencheur | Avis d'achat sur bon de commande publié sur le portail (≥ 48 h). |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Consulter l'avis : objet, consistance, lieu, délai, adresse de dépôt, date limite. | Opérateur | — | art. 91-4 |\n| 2 | Déposer un devis signé sous pli fermé (ou par voie électronique) mentionnant identité, adresse, n° de taxe professionnelle, RIB, n° CNSS. | Opérateur | — | art. 91-5, 91-6 |\n| 3 | Attribution au moins-disant (après correction des erreurs) ; à égalité, préférence à l'opérateur local (commune > province > région) puis tirage au sort. | Maître d'ouvrage | — | art. 91-7, 91-8 |\n| 4 | Résultats affichés 3 jours et publiés sur le portail. | Maître d'ouvrage | 3 jours | art. 91-9 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-404",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "Fiche MP-P8 — Présenter une offre spontanée",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 13 |\n| Déclencheur | Idée, projet ou innovation répondant à un besoin non identifié par le maître d'ouvrage. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Soumettre la proposition (fonctionnalités, services nouveaux, innovations) ; elle ne peut porter sur un projet déjà mis en concurrence ou étudié par le MO (sauf études caduques). | Opérateur | — | art. 13-1 |\n| 2 | Évaluation préalable par le MO ; s'il donne suite : programme fonctionnel puis appel à la concurrence (négocié uniquement si technologie exclusive). | Maître d'ouvrage | — | art. 13-2, 13-3 |\n| 3 | Préciser par écrit les données confidentielles ; participer à l'AO avec un bonus de 5 à 10 % de la note globale ; prime prévue par le règlement de consultation dans les cas visés. | Opérateur | — | art. 13-4 à 13-6 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-405",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "La dématérialisation",
+  "principe": "Le dépôt et le retrait des plis s'effectuent par voie électronique sur le portail, l'ouverture et l'évaluation pouvant elles aussi être électroniques (art. 135 et 136). La TGR tient une base de données électronique des prestataires (art. 137). Le maître d'ouvrage peut recourir à l'enchère électronique inversée pour les fournitures précisément décrites, après un avis d'au moins 10 jours, l'attribution allant au moins-disant (art. 138), ou exiger des catalogues électroniques (art. 139). Des systèmes tiers peuvent alimenter le contrôle des pièces (art. 140). Les signatures prennent la forme scannée ou électronique (art. 141).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-406",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Procédures particulières",
+  "t": "Les prestations architecturales",
+  "principe": "Les architectes sont rémunérés au pourcentage du montant hors taxes des travaux réellement exécutés, dans des fourchettes réglementées (4 à 6 % pour la construction neuve, 3 à 4 % pour l'aménagement, l'entretien et la décoration, 5 à 8 % pour la restauration du patrimoine), au forfait à l'hectare pour les lotissements (art. 93 et 166). Ils sont choisis par consultation architecturale (ouverte jusqu'à 30 MDH de travaux, simplifiée pour les architectes débutants jusqu'à 3 MDH, restreinte jusqu'à 10 MDH, groupée jusqu'à 10 MDH cumulés), par concours architectural (obligatoire au-delà de 30 MDH) ou par consultation négociée (art. 94).",
+  "maj": "2026-10-17"
+ }
+]

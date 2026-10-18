@@ -1,0 +1,25 @@
+{
+ "titre": "Corpus du commerce extérieur",
+ "sous_titre": "Maroc",
+ "edition": "Édition 2027",
+ "mode_emploi": {
+  "introduction": [
+   "Ce guide s'adresse aux importateurs, exportateurs, transitaires, responsables qualité et conseils qui doivent faire entrer une marchandise au Maroc ou la mettre sur le marché marocain. Il décrit, étape par étape, les formalités du commerce extérieur, les règles de conformité applicables aux produits industriels et les mécanismes de défense commerciale. Il les relie systématiquement au texte qui les fonde.",
+   "Il a été construit exclusivement à partir des 35 documents officiels réunis pour ce projet : lois, décrets, arrêtés, listes administratives du Ministère de l'Industrie et du Commerce, portées d'accréditation du Service marocain d'accréditation (SEMAC) et guides publiés par l'administration. Chacun de ces documents a été converti en fichier JSON structuré, article par article ou ligne par ligne ; ces fichiers forment la base de données qui accompagne ce guide (voir l'annexe D). Lorsqu'une information vient d'une source extérieure au corpus, elle est signalée comme telle.",
+   "POINT DE VIGILANCE",
+   "Plusieurs textes du corpus ont été numérisés à partir de scans (lois 15-09, 24-09 et 31-13, décret 2-12-645, arrêté 1675-15, projet de loi 99-21). Les montants, délais et numéros d'articles cités ici ont été relus contre le texte, mais toute citation destinée à un acte juridique ou à un contentieux doit être vérifiée sur l'édition du Bulletin officiel.",
+   "MISE À JOUR RÉGLEMENTAIRE",
+   "Deux documents du corpus sont des avant-projets et non du droit positif : le projet de décret n° 2-22-30 pris pour l'application de la loi n° 91-14 relative au commerce extérieur, et le projet de loi n° 99-21 modifiant la loi n° 28-07 relative à la sécurité sanitaire des produits alimentaires. Ils sont présentés pour anticiper les évolutions, jamais comme règles applicables."
+  ],
+  "rubriques": [
+   {
+    "rubrique": "Comment lire ce guide",
+    "texte": "Chaque procédure suit le même plan : base légale, autorité compétente, étapes et délais, documents exigés, risques et sanctions. Cinq types d'encadrés balisent la lecture : Encadré — Usage · Base légale — Référence exacte du texte et de l'article · Conseil pratique — Recommandation opérationnelle tirée de l'économie du texte · Point de vigilance — Risque de blocage, de sanction ou d'erreur fréquente · À retenir — Synthèse d'une règle essentielle · Mise à jour réglementaire — Texte en projet, liste récemment modifiée ou point à vérifier"
+   },
+   {
+    "rubrique": "Le corpus en un coup d'œil",
+    "texte": "Domaine — Textes et documents · Commerce extérieur — Loi 13-89 et décret 2-93-415 ; arrêté 1675-15 (titres d'importation) ; arrêté 1308-94 (restrictions quantitatives) ; liste DGC des marchandises soumises à licence ; loi 91-14 (citée) et projet de décret 2-22-30 ; Guide de l'opérateur du commerce extérieur (MCE) · Conformité des produits industriels — Loi 12-06 (normalisation, certification, accréditation) ; loi 24-09 (sécurité des produits et services) ; liste des NMO et réglementations techniques (3 versions) ; listes des produits contrôlés à l'origine (3 versions) et à l'arrivée (2 versions) ; liste des OEC agréés ; portées d'accréditation SEMAC (5 recueils, 154 laboratoires) ; avis SEMAC sur les redevances 2026 ; liste des importateurs agréés d'instruments de mesure · Fraudes et sécurité sanitaire — Loi 13-83 (répression des fraudes) ; projet de loi 99-21 (ONSSA) · Défense commerciale — GATT 1994, article VI ; loi 15-09 ; décret 2-12-645 · Droits de l'opérateur et environnement — Loi 31-13 (accès à l'information) ; loi 42-10 (juridictions de proximité) ; loi 17-99 (code des assurances) ; règlement du Fonds de soutien de l'innovation (FSI) 2025"
+   }
+  ]
+ }
+}

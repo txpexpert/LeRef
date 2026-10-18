@@ -1,0 +1,38 @@
+[
+ {
+  "id": "4-030",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Les secteurs minier et des hydrocarbures",
+  "t": "Impôt sur les sociétés",
+  "principe": "- Concessions d’hydrocarbures : exonération totale d’IS pendant 10 années consécutives à compter de la mise en production régulière de toute concession, pour le titulaire et chacun des co-titulaires.\n- Taux : 20 % (droit commun) ; 35 % si le bénéfice ≥ 100 MDH ; 20 % permanent pour les sociétés constituées depuis 2023 engagées par convention à investir au moins 1,5 Md DH en 5 ans (immobilisations corporelles conservées 10 ans), hors EEP et filiales.\n- Retenue à la source : exonération permanente des dividendes distribués par les titulaires de concessions d’exploitation d’hydrocarbures régis par la loi n° 21-90.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-031",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Les secteurs minier et des hydrocarbures",
+  "t": "Cotisation minimale",
+  "principe": "Exonération pendant les 36 premiers mois d’exploitation ; taux de 0,25 % ; taux réduit de 0,15 % pour les ventes de produits pétroliers et de gaz par les entreprises commerciales.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-032",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Les secteurs minier et des hydrocarbures",
+  "t": "TVA",
+  "principe": "| Mesure | Contenu |\n| Biens d’investissement (intérieur et importation) | Exonération 36 mois (+24 mois pour les entreprises qui construisent ou conventionnées) ; garanties requises hors conventions |\n| Équipements des projets conventionnés ≥ 50 MDH | Exonération à l’importation, y compris parties et pièces détachées importées simultanément |\n| Hydrocarbures d’avitaillement | Exonération à l’importation pour les navires en haute mer et aéronefs à destination de l’étranger |\n| Recherche et exploitation d’hydrocarbures | Exonération avec droit à déduction, à l’intérieur et à l’importation, des biens et services nécessaires aux titulaires d’autorisations de reconnaissance, de permis de recherche, de concessions, et à leurs contractants et sous-contractants [art. 92-I-40°, 123-41°] |\n| Gasoil et kérosène | Droit à déduction de la TVA sur le gasoil du transport routier collectif et de marchandises pour compte propre, du transport ferroviaire, et sur le gasoil et le kérosène du transport aérien (modalités réglementaires) |\n| Taux | 10 % sur le gaz de pétrole et hydrocarbures gazeux, huiles de pétrole ou de schistes |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-033",
+  "p": 4,
+  "ch": "4.4",
+  "c": "Les secteurs minier et des hydrocarbures",
+  "t": "Taxe professionnelle",
+  "principe": "- Exonération de 5 ans des activités nouvellement créées et des biens neufs acquis en cours d’exploitation.\n- Exonération permanente des titulaires de permis de recherche ou de concessions d’hydrocarbures (loi n° 21-90).\n- Exonération permanente de la valeur locative correspondant à la partie du prix de revient des investissements dépassant 100 MDH HT (entreprises de production de biens, depuis le 1er juillet 1998) ou 50 MDH HT (production de biens et services, depuis le 1er janvier 2001), hors biens déjà exonérés.",
+  "maj": "2026-10-17"
+ }
+]

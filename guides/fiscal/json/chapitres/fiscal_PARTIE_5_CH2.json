@@ -1,0 +1,20 @@
+[
+ {
+  "id": "5-010",
+  "p": 5,
+  "ch": "5.2",
+  "c": "La déclaration pays par pays (CbCR)",
+  "t": "Champ d’application",
+  "principe": "Instituée par la LF 2020 [CGI art. 154 ter, 199 bis], dans le cadre de l’action 13 du projet BEPS auquel le Maroc a adhéré en mars 2019, la déclaration pays par pays concerne les groupes multinationaux dont le CA consolidé de l’exercice précédent est égal ou supérieur à 8 122 500 000 DH (équivalent de 750 millions d’euros au cours de janvier 2015).\n| Mécanisme | Entité déclarante | Conditions |\n| Primaire | Entreprise mère ultime établie au Maroc | Détient des participations à l’étranger l’obligeant à consolider ; CA consolidé ≥ seuil ; n’est elle-même détenue par aucune autre entreprise |\n| Secondaire | Entité constitutive résidente au Maroc, non mère ultime | La mère ultime n’est pas tenue de déposer dans son pays ; ou son pays n’a pas d’accord d’échange qualifié en vigueur avec le Maroc ; ou une défaillance systémique de ce pays a été notifiée |\n| Entité mère de substitution | Entité marocaine désignée volontairement par le groupe | Doit en informer l’administration au plus tard le dernier jour de l’exercice déclarable |\nLorsque plusieurs entités du groupe sont résidentes au Maroc, le groupe peut en désigner une pour déposer pour toutes. Une entité marocaine est dispensée si la déclaration est déposée par une mère de substitution dans une juridiction qui l’exige, qui a un accord qualifié avec le Maroc, sans défaillance systémique, et qui a été informée de cette désignation. Les filiales marocaines de groupes dont la juridiction de la mère applique un seuil local équivalent non atteint ne sont pas tenues.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-011",
+  "p": 5,
+  "ch": "5.2",
+  "c": "La déclaration pays par pays (CbCR)",
+  "t": "Dépôt, contenu et sanctions",
+  "principe": "- Mode : voie électronique, formulaire standardisé (schéma XML de l’OCDE), en mode EDI selon le guide d’utilisateur et le cahier des charges publiés par la DGI.\n- Délai : au plus tard 12 mois après le dernier jour de l’exercice déclarable (premier exercice : ouvert à compter du 1er janvier 2021).\n- Contenu : tableau 1 — par juridiction : CA (parties indépendantes, liées, total), bénéfice avant impôt, impôts payés, impôts dus, capital, bénéfices non distribués, effectifs, actifs corporels hors trésorerie ; tableau 2 — liste des entités constitutives par juridiction et nature de leurs activités ; tableau 3 — informations complémentaires libres.\n- Utilisation : évaluation des risques de prix de transfert et de BEPS, analyse statistique ; elle ne peut fonder à elle seule un ajustement de prix de transfert ; confidentialité au moins équivalente à celle de la Convention d’assistance administrative mutuelle ; échange automatique sous réserve de réciprocité.\n- Sanction : invitation à déposer ou compléter sous 15 jours ; à défaut, amende de 500 000 DH émise par voie de rôle [art. 199 bis].\n- Mesure transitoire : suspension temporaire de l’obligation pour les entreprises détenues par une entité située dans un État qui n’exige pas la déclaration, ou sans accord d’échange avec le Maroc, ou en défaillance d’échange notifiée — sauf pour les mères ultimes marocaines et les mères de substitution.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "6-010",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Secret professionnel, données personnelles et sanctions pénales",
+  "t": "Le secret bancaire et ses limites",
+  "principe": "Dirigeants, employés, membres des instances et toute personne ayant à connaître d'informations sur les établissements sont tenus au secret professionnel (art. 180 ; sanctions de l'art. 446 du code pénal). Les EC peuvent néanmoins communiquer des informations couvertes par le secret : aux agences de notation ; aux contreparties d'opérations de crédit, d'instruments financiers ou d'assurance, de prises de participation, de cessions de créances ou d'actifs, d'externalisation ; et à toute personne lorsque le client l'a autorisé. Le secret n'est pas opposable à BAM, à l'autorité judiciaire en matière pénale, ni aux autorités d'États liés au Maroc par une convention d'échange de renseignements fiscaux (art. 181). Les informations reçues d'une autorité étrangère ne peuvent être divulguées par BAM sans son accord exprès (art. 112, loi 51-20).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "6-011",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Secret professionnel, données personnelles et sanctions pénales",
+  "t": "Protection des données personnelles",
+  "principe": "Les établissements, SFC et EP sont soumis à la loi 09-08. La convention de compte prévoit le consentement au traitement, les destinataires (maison mère, filiales, sous-traitants, services d'intérêt commun de BAM, assureurs…), les droits d'accès, de rectification et d'opposition, et le transfert à l'étranger sur autorisation de la CNDP. Le dossier d'agrément doit comporter une note sur le dispositif de protection des données.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "6-012",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Secret professionnel, données personnelles et sanctions pénales",
+  "t": "Tableau des infractions pénales de la loi 103-12",
+  "principe": "| Infraction | Peine | Article |\n| Usage d'une dénomination ou publicité faisant croire à un agrément ; confusion sur la catégorie d'agrément | 3 mois – 1 an et/ou 20 000 – 200 000 DH | 182 |\n| Exercice habituel d'opérations de banque ou de paiement sans agrément ; opérations non couvertes par l'agrément | 6 mois – 3 ans et/ou 100 000 – 5 000 000 DH ; fermeture, publication | 183-184 |\n| Violation des interdictions de fonder, diriger ou administrer (art. 38) | 6 mois – 3 ans et/ou 100 000 – 1 000 000 DH | 185 |\n| Cumul de fonctions interdit (art. 44) ; manquement aux déclarations et autorisations de franchissement de seuils (art. 93-95) ; refus de communiquer les états de synthèse de la société contrôlante ; non-signalement des anomalies graves | 100 000 – 1 000 000 DH (200 000 – 2 000 000 DH en récidive) | 186-187 |\n| Intermédiation en opérations de banque en violation de l'art. 161 | 100 000 – 1 000 000 DH | 188 |\n| Intermédiaire tombant sous le coup de l'art. 38 ; défaut de garantie financière pour fonds reçus | 3 mois – 1 an et/ou amende | 189-190 |\n| Informations sciemment inexactes communiquées à BAM | 100 000 – 1 000 000 DH ; récidive : 200 000 – 2 000 000 DH et 3 mois – 1 an | 191 |\nLes poursuites peuvent être engagées sur plainte ou constitution de partie civile de BAM ou de l'association professionnelle concernée (art. 193).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "6-013",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Secret professionnel, données personnelles et sanctions pénales",
+  "t": "Les intermédiaires en opérations de banque",
+  "principe": "Est intermédiaire toute personne qui, à titre habituel, met en rapport les parties à une opération de banque sans se porter ducroire, entre deux parties dont l'une au moins est un EC (art. 161). Il agit sous mandat d'un EC précisant la nature et les conditions des opérations, doit être une personne morale, ne pas tomber sous les interdictions de l'art. 38, justifier d'une garantie financière (caution d'un EC ou d'une assurance) s'il reçoit des fonds, et être autorisé par BAM s'il est mandaté pour recevoir des fonds du public (art. 163-171). Les EC communiquent à BAM la liste de leurs intermédiaires. Les courtiers en crédit, apporteurs d'affaires et plateformes de comparaison doivent en tenir compte.",
+  "maj": "2026-10-18"
+ }
+]

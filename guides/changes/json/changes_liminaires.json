@@ -1,0 +1,17 @@
+{
+ "titre": "Procédures et réglementation des changes",
+ "sous_titre": "Maroc",
+ "edition": "Édition 2027",
+ "mode_emploi": {
+  "introduction": [
+   "Cet ouvrage est un guide de praticien. Il ne commente pas la réglementation des changes marocaine pour elle-même : il en extrait, texte par texte, ce qu'un opérateur économique doit faire, dans quel ordre, avec quelles pièces, devant quel interlocuteur et dans quel délai. Il a été construit à partir d'un corpus de vingt-quatre textes — un dahir, trois lois, une instruction, une circulaire ministérielle et dix-huit circulaires de l'Office des Changes — couvrant la période 1958-2026.",
+   "Chaque section suit la même trame, inspirée des guides de procédures professionnels : les textes applicables et leur statut, les personnes concernées, les règles de fond, le processus pas à pas présenté en tableau (étape, acteur, pièces, délai), les points de vigilance et erreurs fréquentes, un cas pratique, puis une fiche réflexe récapitulative. Les annexes regroupent l'ensemble des seuils, des délais, des pièces justificatives et l'état de vigueur de chaque texte."
+  ],
+  "rubriques": [
+   {
+    "rubrique": "Ce que couvre l'ouvrage — et ce qu'il ne couvre pas",
+    "texte": "Le corpus traité est sélectif. Il ne comprend pas l'Instruction Générale des Opérations de Change (IGOC) en vigueur, texte de référence qui consolide la quasi-totalité du régime et auquel de nombreuses circulaires renvoient. Lorsque la règle opérationnelle dépend d'un article de l'IGOC non fourni (délai de rapatriement des recettes d'exportation, montants des dotations voyages, plafonds actualisés), le livre le signale expressément par la mention [À vérifier dans l'IGOC en vigueur] au lieu de reproduire un chiffre de mémoire. Avertissement Les mécanismes décrits restent en général applicables, mais les numéros d'articles et parfois les plafonds ont évolué. Avant toute opération significative, confirmez la règle auprès de votre banque domiciliataire ou de l'Office des Changes (www.oc.gov.ma). Ce livre est un outil d'aide à la décision ; il ne remplace ni un avis juridique ni la position officielle de l'administration."
+   }
+  ]
+ }
+}

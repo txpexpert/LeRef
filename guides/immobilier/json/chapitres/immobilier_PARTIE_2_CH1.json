@@ -1,0 +1,38 @@
+[
+ {
+  "id": "2-001",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'audit urbanistique",
+  "t": "Avant d'acheter : l'audit du terrain — présentation",
+  "principe": "L'erreur la plus coûteuse d'un promoteur est d'acheter un terrain avant d'avoir établi ce qu'on peut y faire. Cette partie propose une méthode en quatre temps : urbanistique, foncière, sectorielle, puis synthèse.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-002",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'audit urbanistique",
+  "t": "La note de renseignements urbanistiques (NRU)",
+  "principe": "Quand. Avant d'acquérir, de louer ou de concevoir (décret 2-18-577, art. 6 à 9, annexe 1).\nComment.\n1. Déposer la demande à l'agence urbaine contre récépissé daté et signé. Si le document d'urbanisme est homologué, tout intéressé peut la demander ; sinon seul le propriétaire, ou une personne munie de son accord, peut le faire (art. 6).\n2. L'agence délivre la note en 2 jours ouvrables maximum (art. 7).\n3. La note indique : le document d'urbanisme applicable, l'affectation de la zone, les utilisations interdites ou conditionnées, les possibilités maximales d'occupation du sol, l'implantation, la hauteur maximale, les conditions d'accès et de stationnement ; elle est accompagnée de l'extrait du plan et du règlement de zone (art. 8).\n- La note est établie sur la base des données que vous fournissez et ne vaut en aucun cas accord de principe sur un projet (art. 7).\n- Sa validité suit la durée des effets de la déclaration d'utilité publique du document d'urbanisme (art. 9) : vérifiez la date d'approbation du plan.\n### Vigilance\n",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-003",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'audit urbanistique",
+  "t": "Savoir quel document s'applique",
+  "principe": "La loi 12-90 organise une hiérarchie de documents :\n| Document | Rôle | Durée / effet |\n| Schéma directeur d'aménagement urbain (SDAU) | Orientations générales : zones d'urbanisation, destination des sols | 25 ans maximum (art. 3) |\n| Plan de zonage | Règles d'attente avant le plan d'aménagement | 2 ans maximum (art. 17) |\n| Plan d'aménagement (PA) et son règlement | Affectation, servitudes, hauteurs, coefficients, réserves d'équipements | Déclaration d'utilité publique de 10 ans pour les emplacements réservés (art. 28) |\n| Arrêté d'alignement | Fixe le tracé des voies | Effet de 10 ans ; 2 ans s'il emporte cessibilité (art. 34) |\n| Plan de développement (agglomérations rurales) | Équivalent rural du PA | Effet de 10 ans, prorogeable une fois (dahir 1-60-063, art. 4) |\nLes situations transitoires, source de blocages :\n- Arrêté de mise à l'étude d'un plan d'aménagement : 6 mois, renouvelable une fois ; il autorise le sursis à statuer sur vos demandes (art. 21).\n- Enquête publique d'un projet de PA : 1 mois (art. 25). Après la clôture, le projet est opposable pendant 12 mois : les travaux non conformes ne peuvent être autorisés (art. 27).\n- Alignement : enquête d'un mois ; interdiction de construire pendant l'enquête, 6 mois au maximum (art. 33).\n- Absence de plan : le président peut surseoir à statuer (2 ans maximum, motivé) ou autoriser si le projet est compatible avec le SDAU ou la vocation de fait (art. 45). Hors périmètres, des règles de repli s'appliquent : superficie minimale, reculs de 10 m par rapport à la voie et de 5 m par rapport aux limites séparatives (art. 46).\n- Contribution des riverains à la voirie communale : bande de 10 m multipliée par la façade, plafonnée au quart de la parcelle (art. 37).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-004",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'audit urbanistique",
+  "t": "Apprendre à lire un règlement d'aménagement : l'exemple d'Echellalate",
+  "principe": "Le corpus contient un cas réel : le règlement du plan d'aménagement de la commune d'Echellalate (préfecture de Mohammedia), homologué le 18 janvier 2019 (Agence urbaine de Casablanca). Sa structure est typique :\n- Titre I, dispositions générales : champ d'application et division du territoire en zones et secteurs ; puis dispositions communes à toutes les zones : desserte des terrains, accessibilité et stationnement ; équipements publics et privés d'intérêt général ; servitudes ; composition urbaine, architecturale et aspect extérieur ; espaces libres et plantations.\n- Une section par zone (dans cet exemple : zones C, D, E, puis RA, TVR, FR, etc.) avec, à chaque fois, le même fil : définition de la zone → occupations et utilisations du sol interdites → constructibilité des parcelles → hauteur maximale → implantation par rapport aux voies → par rapport aux limites séparatives → les unes par rapport aux autres sur une même parcelle.\nMéthode de lecture en six questions (à appliquer à tout règlement) :\n1. Dans quelle zone exacte se trouve ma parcelle ? (lire le plan, pas seulement la note)\n2. Mon usage (logement, commerce, hôtel, industrie, équipement) est-il autorisé, conditionné ou interdit ?\n3. Quelle constructibilité (emprise, COS, surface minimale de parcelle) ?\n4. Quelle hauteur maximale, et selon quel mode de calcul ?\n5. Quels reculs (voie, limites séparatives, entre bâtiments) ?\n6. Quelles servitudes et exigences (stationnement, plantations, aspect extérieur, couleurs de façade) ?\nPuis, confrontez la réponse aux seuils du RGC 2019 : un projet d'habitation dépasse le régime des « petits projets » au-delà de 15,50 m de hauteur ou R+3 (18,50 m ou R+4 dans un lotissement réceptionné ou restructuré) et entre alors dans la procédure des « grands projets » (décret 2-18-577, art. 18 et 19, annexes 2 et 3).",
+  "maj": "2026-10-18"
+ }
+]

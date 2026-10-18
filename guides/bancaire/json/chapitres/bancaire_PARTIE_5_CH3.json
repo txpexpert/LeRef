@@ -1,0 +1,38 @@
+[
+ {
+  "id": "5-020",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Transferts, virements internationaux et billets étrangers",
+  "t": "Informations accompagnant les virements",
+  "principe": "Tout virement électronique transfrontalier, émis ou reçu, quel que soit son montant, doit comporter (circ. 5/W/2017, art. 27) : nom ou dénomination du donneur d'ordre et du bénéficiaire (et du bénéficiaire effectif), numéros de comptes ou référence unique, adresse du donneur d'ordre (ou numéro d'identification, ou date et lieu de naissance) et objet de l'opération. Les virements nationaux comportent les mêmes informations, sauf si elles peuvent être fournies sur demande sous 3 jours ouvrables (art. 28).\nEn l'absence d'informations, la banque du bénéficiaire peut suspendre l'opération et demander les éléments manquants, puis rejeter l'opération et, le cas échéant, cesser la relation avec la banque correspondante (art. 29).\n### Éviter les blocages de fonds\n- Communiquer à ses clients et fournisseurs étrangers des coordonnées complètes (dénomination exacte, adresse, RIB/IBAN, code SWIFT).\n- Exiger que les virements reçus mentionnent l'objet (référence de facture, de contrat).\n- Anticiper les justificatifs exigés par la réglementation des changes (factures, titres d'importation, contrats de prêt ou d'investissement).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-021",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Transferts, virements internationaux et billets étrangers",
+  "t": "Transferts de fonds par établissements de paiement",
+  "principe": "Les établissements de paiement offrent la réception de fonds en provenance de l'étranger et, dans le respect de la réglementation des changes, l'envoi vers l'étranger, avec un plafond de 80 000 DH par opération et par bénéficiaire, principalement entre personnes physiques (circ. 7/W/16). En 2025, le volume des transferts réalisés par les EP a atteint environ 108,5 milliards de DH.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-022",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Transferts, virements internationaux et billets étrangers",
+  "t": "Billets de banque étrangers",
+  "principe": "Les banques réalisent leurs opérations sur billets étrangers avec BAM contre règlement en euro (billets en euro) ou en dollar (autres devises), par tranche minimale de 10 000 EUR ou USD, moyennant une commission de 1 %. Les retraits sont demandés par message SWIFT MT103 avant 14 h et mis à disposition J+2 ouvrés après crédit du compte de BAM ; les versements sont crédités aux banques à J+2 (LC/BKAM/2018/2, art. 21-27).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-023",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Transferts, virements internationaux et billets étrangers",
+  "t": "Paiements maghrébins",
+  "principe": "Des circulaires de 1992 (2140 à 2143/92/DE) organisent, dans le cadre de la convention de paiement bilatérale unifiée de l'Union du Maghreb arabe, le règlement des transactions courantes avec l'Algérie, la Libye, la Mauritanie et la Tunisie en dirhams ou en monnaie du partenaire, via des comptes étrangers convertibles et un nivellement quotidien des positions auprès de BAM.",
+  "maj": "2026-10-18"
+ }
+]

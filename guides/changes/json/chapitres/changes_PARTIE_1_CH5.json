@@ -1,0 +1,50 @@
+[
+ {
+  "id": "1-040",
+  "p": 1,
+  "ch": "1.5",
+  "c": "Opérer au Maroc par une succursale de société étrangère",
+  "t": "Opérer au Maroc par une succursale de société étrangère — présentation",
+  "textes": [
+   "Circulaire OC n° 12/2014 du 17 juin 2014",
+   "Renvois : IGOC 2013, art. 24 à 27, 284 à 287, 728 (annexe 89), 772 à 776 — [À vérifier dans l'IGOC en vigueur]"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-041",
+  "p": 1,
+  "ch": "1.5",
+  "c": "Opérer au Maroc par une succursale de société étrangère",
+  "t": "Deux régimes selon le statut fiscal",
+  "principe": "La succursale est une entité créée par une société étrangère pour exercer au Maroc une activité de prestation de services, sans personnalité juridique distincte de la maison-mère. La circulaire 12/2014 oppose deux situations, et le choix est structurant pour toute la vie de l'implantation.\n| Critère | Succursale imposée comme société de droit marocain | Succursale non imposée / non immatriculée |\n| Comptes bancaires | Comptes en dirhams ordinaires | Compte « spécial » (un seul compte pour plusieurs marchés depuis 2014) |\n| Opérations courantes | Libres, comme un résident | Régime IGOC art. 24-27 et 284-287 |\n| Financement local | Lignes en dirhams auprès des banques marocaines pour marchés payés en dirhams, sous caution d'une banque étrangère de premier rang | Limité |\n| Financement extérieur | Libre selon l'IGOC | — |\n| Obligations | Rapatriement des recettes d'exportation et des créances sur non-résidents | — |\n| Immatriculation OC | Obligatoire | Non |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-042",
+  "p": 1,
+  "ch": "1.5",
+  "c": "Opérer au Maroc par une succursale de société étrangère",
+  "t": "L'immatriculation à l'Office des Changes",
+  "principe": "La succursale imposée comme société marocaine dépose une demande d'immatriculation (modèle annexé à la circulaire) accompagnée des pièces suivantes :\n- procès-verbal de l'assemblée générale extraordinaire de la société mère décidant la création de la succursale et désignant son représentant ;\n- déclaration d'immatriculation au registre du commerce, visée ;\n- bulletin d'identification fiscale ;\n- justificatif de l'imposition comme société de droit marocain (bilan et CPC visés par l'administration fiscale, ou déclaration d'existence pour une succursale nouvelle).\nLe numéro d'immatriculation attribué doit ensuite figurer sur tous les documents bancaires de la succursale.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-043",
+  "p": 1,
+  "ch": "1.5",
+  "c": "Opérer au Maroc par une succursale de société étrangère",
+  "t": "Transférer les bénéfices et le produit de liquidation",
+  "principe": "| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Clôturer l'exercice et déposer la liasse fiscale | Succursale | Bilan, CPC, états annexes | Délais fiscaux |\n| 2 | Établir l'état des rectifications extracomptables | Succursale / expert-comptable | État visé | — |\n| 3 | Demander le transfert des bénéfices après impôts | Succursale / banque | Documents visés par l'administration fiscale | — |\n| 4 | Compte rendu bancaire du transfert à l'OC | Banque | Annexe 89 IGOC 2013 | 6 mois après l'exercice |\n| 5 | En fin d'activité : transfert du produit de liquidation | Liquidateur / banque | Bilan de liquidation visé, quitus fiscal, attestation CNSS, déclaration de non-endettement local | À la liquidation |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-044",
+  "p": 1,
+  "ch": "1.5",
+  "c": "Opérer au Maroc par une succursale de société étrangère",
+  "t": "Fiche réflexe",
+  "principe": "- Choisir dès l'origine l'imposition comme société marocaine pour bénéficier du régime résident.\n- Obtenir l'immatriculation OC et reporter le numéro sur tous les documents bancaires.\n- Dossier de transfert de bénéfices : liasse visée + rectifications extracomptables.\n- Liquidation : quitus fiscal et attestation CNSS indispensables.",
+  "maj": "2026-10-17"
+ }
+]

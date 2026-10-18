@@ -1,0 +1,56 @@
+[
+ {
+  "id": "3-010",
+  "p": 3,
+  "ch": "3.2",
+  "c": "L’impôt sur les sociétés au quotidien",
+  "t": "Le cycle annuel de l’IS",
+  "principe": "| Échéance | Obligation | Base |\n| Avant la fin du 3e mois de l’exercice | 1er acompte provisionnel (25 % de l’impôt de l’exercice de référence) ; paiement de la cotisation minimale minimale (3 000 DH) en un seul versement lorsqu’elle est due | CGI art. 170-I |\n| Avant la fin des 6e, 9e et 12e mois | 2e, 3e et 4e acomptes | CGI art. 170-I |\n| Dans les 3 mois suivant la clôture | Déclaration du résultat fiscal + liquidation (complément d’impôt ou imputation de l’excédent) + pièces annexes | CGI art. 20-I, 170-IV |\n| Dans les 3 mois suivant la clôture | Déclaration des rémunérations allouées à des tiers, des rémunérations versées aux non-résidents | CGI art. 151, 154 |\n| Dans les 3 mois suivant la clôture | Déclaration de la contribution sociale de solidarité (si bénéfice ≥ 1 MDH) | CGI art. 270 |\n| Avant le 1er mars | Déclaration des traitements et salaires | CGI art. 79 |\n| Avant le 1er avril | Déclaration des dividendes distribués et des produits de placement à revenu fixe versés | CGI art. 152, 153 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-011",
+  "p": 3,
+  "ch": "3.2",
+  "c": "L’impôt sur les sociétés au quotidien",
+  "t": "La déclaration du résultat fiscal",
+  "principe": "### DÉPOSER LA DÉCLARATION DU RÉSULTAT FISCAL [CGI ART. 20]\n- Délai : dans les 3 mois suivant la clôture de l’exercice (avant le 1er avril pour un exercice clos le 31 décembre).\n- Mode : télédéclaration SIMPL-IS, accompagnée du télépaiement du reliquat.\n- Contenu : imprimé-modèle comportant les références des acomptes déjà versés.\n- Annexes : liasse fiscale et pièces annexes fixées par voie réglementaire ; état des ventes indiquant l’ICE de chaque client.\n- Cas particuliers : les sociétés à prépondérance immobilière non cotées joignent la liste nominative des détenteurs de leurs titres à la clôture (nom, adresse, nombre et valeur nominale des titres) [art. 20-I, 83-I] ; les GIE joignent l’état de répartition du résultat entre membres ; les sociétés bénéficiant de l’exclusion du taux de 35 % (convention ≥ 1,5 Md DH) joignent l’état des investissements ; les groupes en restructuration joignent l’état prévu à l’article 20 bis.\n- Résultat nul ou déficitaire : joindre un état explicatif de l’origine du déficit, signé par le représentant légal ; à défaut, sanction de l’article 198 bis [art. 20-IV].\n- Non-résidents : les sociétés au forfait déposent avant le 1er avril une déclaration de leur chiffre d’affaires (clients, marchés, encaissements, transferts) ; les non-résidents sans établissement déclarent leurs plus-values immobilières et mobilières dans les 30 jours suivant le mois de la cession [art. 20-II et III].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-012",
+  "p": 3,
+  "ch": "3.2",
+  "c": "L’impôt sur les sociétés au quotidien",
+  "t": "Les acomptes provisionnels",
+  "principe": "- Chaque acompte est égal à 25 % de l’impôt dû au titre du dernier exercice clos (exercice de référence). Ils sont versés spontanément auprès du receveur, avec un bordereau-avis, avant l’expiration des 3e, 6e, 9e et 12e mois de l’exercice en cours [CGI art. 170-I].\n- Si l’exercice de référence est inférieur à 12 mois, l’impôt est annualisé ; si l’exercice en cours est inférieur à 12 mois, chaque période de trois mois au plus donne lieu à un acompte [art. 170-II].\n- Pour les sociétés sortant d’une période d’exonération d’IS ou de cotisation minimale, les acomptes sont calculés d’après l’impôt qui aurait été dû sans exonération, aux taux de l’exercice en cours [art. 170-III].\n- Dispense : la société qui estime que les acomptes déjà versés couvrent l’impôt final peut cesser ses versements en déposant, 15 jours avant l’échéance suivante, une déclaration datée et signée. Si l’impôt finalement dû dépasse de plus de 10 % les acomptes versés, la pénalité et les majorations de retard s’appliquent aux acomptes non versés [art. 170-IV].\n- Liquidation : avant l’expiration du délai de déclaration, la société paie le complément éventuel ; un excédent est imputé d’office sur les acomptes et l’impôt des exercices suivants [art. 170-IV].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-013",
+  "p": 3,
+  "ch": "3.2",
+  "c": "L’impôt sur les sociétés au quotidien",
+  "t": "La cotisation minimale",
+  "principe": "La cotisation minimale est un minimum d’imposition dû même en l’absence de bénéfice [CGI art. 144].\n| Élément | Règle |\n| Base | CA HT et autres produits d’exploitation, produits financiers, subventions et dons reçus |\n| Taux normal | 0,25 % |\n| Taux réduit | 0,15 % pour les ventes de produits pétroliers, gaz, beurre, huile, sucre, farine, eau, électricité, médicaments par les entreprises commerciales |\n| Taux majoré | 4 % pour certaines professions libérales (art. 89-I-12° et 91-VI-1°) exercées par des personnes à l’IR |\n| Minimum absolu | 3 000 DH (IS) ; 1 500 DH (IR au RNR ou RNS) |\n| Exonération des nouvelles sociétés | 36 premiers mois suivant le début d’exploitation, dans la limite des 60 mois suivant la constitution (hors concessionnaires de service public) |\n| Exonération des nouveaux contribuables à l’IR | 3 premiers exercices suivant le début d’activité (pas de nouvelle période en cas de reprise de la même activité) |\n| Cessation temporaire | Exonération du minimum absolu pour les exercices couverts par la déclaration de l’article 150 bis |\n| Paiement à l’IR | Avant le 1er février de chaque année [art. 173-I] |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-014",
+  "p": 3,
+  "ch": "3.2",
+  "c": "L’impôt sur les sociétés au quotidien",
+  "t": "Les exonérations et régimes particuliers d’IS",
+  "principe": "Les principales exonérations temporaires de l’article 6 du CGI, telles que synthétisées par le référentiel CGI 2026, sont les suivantes (les conditions détaillées doivent être vérifiées dans le texte) :\n| Bénéficiaire | Avantage | Période |\n| Entreprises installées en zones d’accélération industrielle (et sociétés de la zone Tanger-Med) | Exonération totale d’IS, puis taux de 20 % non majoré au-delà de 100 MDH | 5 premiers exercices à compter du début d’exploitation |\n| Sociétés de services ayant le statut CFC (hors établissements de crédit et assurances) | Exonération totale, puis 20 % non majoré | 5 premiers exercices à compter du 1er exercice d’octroi du statut |\n| Entreprises hôtelières et sociétés de gestion de résidences et d’établissements d’animation touristique | Exonération sur la partie du CA réalisée en devises rapatriées | 5 ans |\n| Sociétés sportives (loi n° 30-09) | Exonération totale (régime remanié par la LF 2026) | 5 premiers exercices |\n| Titulaires de concessions d’hydrocarbures | Exonération totale | 10 ans à compter de la mise en production régulière |\n| Centres de gestion de comptabilité agréés | Exonération totale | 4 ans suivant l’agrément |\n| Exploitations agricoles dont le CA < 5 MDH | Exonération permanente (CA inférieur pendant trois exercices consécutifs) | — |\n| Associations, coopératives (conditions de l’article 7), OPCVM, FPCT, OPCC, OPCI (conditions de l’article 7-XI), fondations listées; SONADA (logements sociaux des projets Annassim, Dar Bouazza/Lyssasfa) | Exonération permanente | — |\n| Introduction en bourse | Réduction de 25 % (ouverture du capital) ou de 50 % (augmentation de capital ≥ 20 % avec engagement de non-cession de 3 ans) | 3 exercices |\n| Représentations de la FIFA au Maroc et organismes affiliés (LF 2025) | Exonération d’IS, d’IR salarial, de TVA, de droits d’enregistrement et de timbre | Permanente |\n### BIEN GÉRER LA FIN D’UNE EXONÉRATION\nÀ l’expiration d’une exonération, les acomptes du premier exercice imposable sont calculés sur l’impôt théorique du dernier exercice exonéré [CGI art. 170-III]. Anticipez cette charge de trésorerie dès l’exercice précédent.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-015",
+  "p": 3,
+  "ch": "3.2",
+  "c": "L’impôt sur les sociétés au quotidien",
+  "t": "L’abattement de 70 % sur les plus-values réinvesties (jusqu’en 2030)",
+  "principe": "La LF 2025 a prorogé jusqu’en 2030 l’abattement de 70 % sur la plus-value nette de cession d’éléments de l’actif immobilisé et l’a étendu, pour les cessions réalisées depuis le 1er janvier 2025, aux terrains et constructions [CGI art. 247-XXXV ; NC 736].\n### BÉNÉFICIER DE L’ABATTEMENT DE 70 %\n- Vérifier que plus de 8 ans se sont écoulés entre l’acquisition et la cession de l’élément.\n- Vérifier que l’élément est affecté à l’exploitation (les terrains et constructions hors exploitation — par exemple les biens obtenus par dation en paiement par une banque — sont exclus).\n- Joindre à la déclaration du résultat fiscal un engagement de réinvestir le montant global des produits de cession nets d’impôt en immobilisations dans un délai de 36 mois à compter de la clôture de l’exercice de cession (modèle de l’administration).\n- Joindre ensuite un état du réinvestissement (montant réinvesti, nature des immobilisations, date et prix d’acquisition).\n- Conserver les immobilisations acquises au moins 5 ans.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "8-020",
+    "p": 8,
+    "ch": "8.3",
+    "c": "Procédures accélérées",
+    "t": "Mainlevée accélérée : triple circuit de contrôle sur BADR (vert, orange, rouge) et circuits prioritaires des opérateurs de confiance",
+    "enbref": "BADR affecte automatiquement chaque déclaration à un circuit selon son niveau de risque : en circuit vert la mainlevée est automatique, en circuit orange elle suit un contrôle documentaire, en circuit rouge une visite physique. Les opérateurs de confiance (OEA, entreprises catégorisées) bénéficient du circuit vert ou d'un traitement prioritaire, mais le service peut toujours re-sélectionner une déclaration.",
+    "textes": [
+      "CDII, art. 100 et 101",
+      "Circulaire ADII n° 6175/412 du 02/04/2021",
+      "Circulaire ADII n° 6456/412 du 10/05/2023",
+      "Circulaire ADII n° 6369/312 du 26/09/2022",
+      "Circulaire ADII n° 5477/312 du 12/12/2014",
+      "Note ADII n° D299/2025/ADII/AC/100 du 24/12/2025",
+      "Circulaires ADII n° 5087/313 du 01/02/2008 et n° 5517/313 du 17/02/2015"
+    ],
+    "principe": "Aucune marchandise ne peut être enlevée sans paiement ou garantie préalable des droits et taxes et sans délivrance de la mainlevée (CDII, art. 100). L'ordonnateur peut toutefois autoriser l'enlèvement après vérification et avant liquidation lorsque le paiement est garanti (art. 101).\n\nLe triple circuit, institué par la circulaire n° 6175/412 du 02/04/2021 pour les déclarations en détail à l'import et à l'export, affecte automatiquement chaque déclaration selon son niveau de risque (rappel de la circ. n° 6456/412). Les décisions possibles sont (circ. n° 6456/412) :\n- circuit vert : mainlevée sans contrôle documentaire ni physique ;\n- circuit orange : contrôle documentaire seul ;\n- circuit rouge partiel : contrôle documentaire et visite partielle ;\n- circuit rouge intégral : contrôle documentaire et visite complète.\nDepuis le 15/05/2023, ce dispositif s'applique aussi aux déclarations de transit (circ. n° 6456/412).\n\nCombiné à la déclaration anticipée, il produit ses effets avant l'arrivée : le circuit et l'inspecteur côté sont affichés dès l'enregistrement ; en vert, la mainlevée est automatique et, en orange, elle suit le contrôle documentaire, sous réserve du paiement ou de la garantie et des formalités des réglementations particulières, l'enlèvement intervenant dès l'arrivée ; en rouge, contrôle documentaire, liquidation et paiement sont faits par anticipation et seule la visite attend l'arrivée (circ. n° 6369/312).\n\nAvant toute mainlevée, l'agent doit saisir sur BADR le résultat du contrôle documentaire ou de la visite (circ. n° 5477/312). En circuit rouge, en cas de doute sur le poids ou de risque de glissement entre articles, le pesage doit intervenir avant la mainlevée, et non après (note n° D299/2025).",
+    "admin": "Le service conserve dans tous les cas la latitude de re-sélectionner une déclaration vers un circuit plus renforcé, sur doute fondé ou information fiable (circ. n° 6369/312 et 6456/412). Les opérateurs de confiance bénéficient d'un traitement préférentiel : passage systématique au circuit vert et traitement prioritaire pour l'OEA-Sécurité et Sûreté (circ. n° 5517/313) ; traitement prioritaire et admission pour conforme des déclarations, hors sélection aléatoire, pour les entreprises catégorisées A et B (circ. n° 5087/313).",
+    "donnees": [
+      [
+        "Base légale de la mainlevée",
+        "CDII, art. 100 et 101"
+      ],
+      [
+        "Triple circuit import/export",
+        "Circ. n° 6175/412 du 02/04/2021 (rappel circ. n° 6456/412)"
+      ],
+      [
+        "Extension au transit",
+        "Depuis le 15/05/2023 (circ. n° 6456/412)"
+      ],
+      [
+        "Circuit vert",
+        "Mainlevée automatique sous réserve paiement ou garantie (circ. n° 6369/312)"
+      ],
+      [
+        "OEA-SS",
+        "Passage systématique au circuit vert (circ. n° 5517/313)"
+      ]
+    ],
+    "cas": "La société fictive Agadir Emballages importe chaque mois des bobines de film plastique par Casablanca. Son transitaire dépose la déclaration par anticipation : BADR l'affecte au circuit orange et désigne l'inspecteur. Les documents sont contrôlés avant l'arrivée du navire, la garantie est imputée sur le crédit d'enlèvement et la mainlevée est délivrée ; le conteneur sort dès son déchargement. L'erreur fréquente : déclarer un poids approximatif en comptant sur un circuit vert habituel.",
+    "juris": "",
+    "conseil": "Combinez systématiquement déclaration anticipée et triple circuit : c'est la seule manière de faire jouer le circuit vert ou orange avant l'arrivée. Vérifiez à l'avance les réglementations particulières : elles bloquent la mainlevée même en circuit vert.",
+    "faq": [
+      [
+        "Le circuit vert dispense-t-il du paiement des droits ?",
+        "Non, la mainlevée automatique reste subordonnée au paiement ou à la garantie des droits et taxes et aux formalités des réglementations particulières (circ. n° 6369/312)."
+      ],
+      [
+        "Une déclaration classée en vert peut-elle être contrôlée ?",
+        "Oui, le service peut la re-sélectionner vers un circuit plus renforcé sur doute fondé ou information fiable (circ. n° 6456/412)."
+      ],
+      [
+        "Une déclaration en circuit vert peut-elle être réorientée vers une visite ?",
+        "Oui : le service peut re-sélectionner une déclaration vers un circuit plus renforcé sur doute fondé ou information fiable (circ. n° 6456/412 ; circ. n° 6369/312)."
+      ]
+    ],
+    "renvois": [
+      "3-030",
+      "3-022",
+      "3-033",
+      "3-041",
+      "8-002",
+      "8-012",
+      "6-001"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "8-021",
+    "p": 8,
+    "ch": "8.3",
+    "c": "Procédures accélérées",
+    "t": "Déclaration provisionnelle : opérations éligibles, autorisation et régularisation mensuelle",
+    "enbref": "La déclaration provisionnelle permet de dédouaner des opérations dont les quantités ne sont pas connues, ou seulement approximativement, au moment du dédouanement, ou des flux fréquents, puis de les régulariser globalement. Elle est réservée aux opérations listées par l'ADII, sauf dérogation pour les OEA ou sous convention, et doit être régularisée chaque mois sous peine de sanctions et de retrait de la facilité.",
+    "textes": [
+      "CDII, art. 76 bis et 188-1°",
+      "Arrêté du ministre des finances n° 1319-77 du 31/10/1977",
+      "Arrêté du ministre de l'économie et des finances n° 1075-00 du 24/08/2000",
+      "Circulaire ADII n° 5460/312 du 12/08/2014",
+      "Circulaire ADII n° 5261/312 du 05/04/2011"
+    ],
+    "principe": "La déclaration provisionnelle couvre des importations, des exportations, des enlèvements de produits locaux ou des livraisons en cession sous régimes économiques, lorsque les éléments quantitatifs ne sont pas connus ou ne sont qu'approximatifs au moment du dédouanement. Elle repose sur les articles 76 bis et 188-1° du code et sur les arrêtés n° 1319-77 et n° 1075-00 (circ. n° 5460/312).\nSont éligibles (circ. n° 5460/312) :\n- les cessions de papier journal importé sous entrepôt privé particulier ;\n- les ventes en consignation de produits marocains exportés (agrumes, primeurs, produits de la pêche), dont la valeur n'est connue qu'après exportation ;\n- les exportations de produits périssables et de vrac dont la quantité n'est fixée qu'après embarquement ;\n- les ventes en hors droits aux voyageurs internationaux et aux diplomates accrédités ;\n- les enlèvements de matières soumises à la TIC obtenues localement ;\n- l'avitaillement du secteur de la pêche et certains approvisionnements en carburant ;\n- les flux de plus de huit livraisons par mois d'un même fournisseur ou vers un même client, ainsi que plus de huit cessions par mois à un même cessionnaire, hors exportation préalable indirecte.\nPar dérogation, d'autres opérations peuvent être admises lorsqu'elles sont initiées par un OEA ou prévues par une convention avec l'administration.\nLes importations en vrac (céréales, légumineuses, produits pétroliers, huiles) ne relèvent plus de la provisionnelle : elles font l'objet d'une déclaration définitive sur la quantité du titre de transport, l'écart constaté dans la limite du taux d'incertitude de la facture étant traité sans suites contentieuses (circ. n° 5460/312).\nLa régularisation intervient avant la fin du mois et couvre les opérations du 26 du mois précédent au 25 du mois en cours ; les opérations postérieures au 25 relèvent d'une nouvelle déclaration (circ. n° 5261/312 et 5460/312). La déclaration provisionnelle ne doit pas être confondue avec la déclaration globale, opérationnelle à l'importation depuis le 02/09/2026, qui porte sur des éléments différents formant un ensemble déclaré sous une position unique (circ. n° 6771/312 ; n° 3-042).",
+    "admin": "La clôture tardive est sanctionnée, et le défaut récurrent de clôture ou l'usage à des fins non autorisées entraîne le retrait de la facilité (circ. n° 5460/312).",
+    "donnees": [
+      [
+        "Base légale",
+        "CDII, art. 76 bis et 188-1° (circ. n° 5460/312)"
+      ],
+      [
+        "Autorité compétente",
+        "Sous-directeurs régionaux et chefs de circonscription (circ. n° 5460/312)"
+      ],
+      [
+        "Seuil des flux fréquents",
+        "Plus de 8 livraisons ou cessions par mois (circ. n° 5460/312)"
+      ],
+      [
+        "Période de régularisation",
+        "Du 26 au 25, clôture avant fin de mois (circ. n° 5261/312)"
+      ]
+    ],
+    "cas": "La société fictive Souss Primeurs exporte des tomates en consignation vers l'Europe ; le prix définitif n'est connu qu'après la vente sur le marché de destination. Autorisée par le chef de circonscription, elle exporte sous déclaration provisionnelle tout au long du mois, puis régularise avant la fin du mois les opérations réalisées entre le 26 du mois précédent et le 25. L'erreur fréquente : laisser une provisionnelle ouverte plusieurs mois, ce qui expose aux sanctions et au retrait de la facilité.",
+    "juris": "",
+    "conseil": "Avant de demander la facilité, vérifiez que votre opération figure dans la liste de la circulaire n° 5460/312 ou que vous êtes OEA ; à défaut, l'usage est contentieux. Calez votre calendrier comptable sur la période du 26 au 25 et planifiez la clôture avant la fin du mois.",
+    "faq": [
+      [
+        "Qui accorde la facilité de déclaration provisionnelle ?",
+        "Les sous-directeurs régionaux et les chefs de circonscription, sur BADR, de façon permanente ou pour un nombre limité de déclarations (circ. n° 5460/312)."
+      ],
+      [
+        "Peut-on importer des céréales en vrac sous déclaration provisionnelle ?",
+        "Non, ces importations se font sous déclaration définitive, l'écart dans la limite du taux d'incertitude facturé étant traité sans suites contentieuses (circ. n° 5460/312)."
+      ]
+    ],
+    "renvois": [
+      "8-022",
+      "3-040",
+      "3-042",
+      "4-020",
+      "8-002",
+      "7-040",
+      "3-042"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, renvois mis à jour"
+    ]
+  },
+  {
+    "id": "8-022",
+    "p": 8,
+    "ch": "8.3",
+    "c": "Procédures accélérées",
+    "t": "Nouvelle déclaration provisionnelle dématérialisée sur BADR : DUM initiale, sous-DUM, arrêt et assouplissements",
+    "enbref": "Depuis 2021, la déclaration provisionnelle est dématérialisée en deux temps : une DUM initiale ouvre le dossier, puis une sous-DUM couvre chaque voyage et reçoit sa propre mainlevée. Le déclarant arrête la DUM initiale dans le délai fixé par le service, faute de quoi le système la clôture d'office. Des assouplissements permettent l'apurement global des comptes RED et la rectification des sous-DUM sous 48 heures.",
+    "textes": [
+      "CDII, art. 78, 78 bis, 100 et 203 bis",
+      "Circulaire ADII n° 6168/312 du 12/03/2021",
+      "Circulaire ADII n° 6170/312 du 26/03/2021",
+      "Circulaire ADII n° 6195/312 du 18/05/2021",
+      "Circulaire ADII n° 6221/313 du 16/08/2021",
+      "Circulaire ADII n° 5885/312 du 26/12/2018"
+    ],
+    "principe": "La déclaration provisionnelle est enregistrée en deux étapes (circ. n° 6168/312) :\n- DUM initiale de type « Nouvelle Provisionnelle », avec les codes SH exacts et les quantités et valeurs prévisionnelles, signée électroniquement (CDII, art. 203 bis) ; cautions bancaires et mixtes non admises ;\n- une sous-DUM par voyage, envoi ou arrivage, rattachée à la DUM initiale ; à l'import, chaque sous-DUM pré-apure une ligne de déclaration sommaire.\nLa DUM initiale et ses sous-DUM forment un document unique et indivisible. Chaque sous-DUM est sélectionnée individuellement et l'enlèvement suppose sa mainlevée (CDII, art. 100). Sans sous-DUM dans le délai accordé (un mois au plus), la DUM initiale est annulée d'office. L'arrêt de la DUM initiale clôt le dossier ; à défaut dans le délai, le système le clôt automatiquement, sans préjudice des suites contentieuses.\nEn transit, chaque sous-DUM ouvre un compte de transit garanti par une facilité de cautionnement. Les opérateurs réalisant au moins cinq voyages par jour ou des sous-DUM de plus de dix articles peuvent utiliser le code générique « 9999999999 », hors réglementation particulière, à charge de rectifier les codes NGP réels dans les 48 heures suivant la mainlevée (circ. n° 6168/312).\nLa procédure, obligatoire depuis le 26/03/2021 pour le transit et les régimes sans compte RED (avec période transitoire jusqu'au 26/05/2021, sauf régimes 085, 855 et 060), a été étendue le 26/08/2021 aux régimes avec compte RED, hors exportation préalable : un seul compte RED par dossier, ouvert à la date de la première sous-DUM (circ. n° 6170/312 et 6221/313).\nLa circulaire n° 6195/312 a ajouté l'apurement global des comptes RED et l'imputation globale des titres de change après l'arrêt, sur demande motivée aux directeurs régionaux, ainsi que la rectification des sous-DUM sans suites contentieuses dans les 48 heures suivant la mainlevée. Pour les marchandises bénéficiant d'un crédit d'enlèvement, le délai de paiement ne court qu'à l'expiration du délai imparti pour déclarer les éléments quantitatifs définitifs (CDII, art. 93-1°).",
+    "admin": "L'administration accorde les assouplissements sous condition : les modes de gestion individuel et global ne peuvent pas être combinés pour une même déclaration, et tout abus de la rectification sous 48 heures entraîne, outre les suites contentieuses, le retrait de la facilité (circ. n° 6195/312).",
+    "donnees": [
+      [
+        "Extension aux régimes RED",
+        "26/08/2021, hors exportation préalable (circ. n° 6221/313)"
+      ],
+      [
+        "Transit simplifié",
+        "5 voyages par jour ou plus de 10 articles ; NGP réels sous 48 h (circ. n° 6168/312)"
+      ],
+      [
+        "Rectification des sous-DUM",
+        "48 h après mainlevée, sans suites (circ. n° 6195/312)"
+      ]
+    ],
+    "cas": "La société fictive Tanger Harness, sous admission temporaire, fait transiter chaque jour une dizaine de camions de composants depuis Tanger Med. Elle ouvre une DUM initiale de transit garantie par sa facilité de cautionnement, puis crée une sous-DUM par camion avec le code générique, et rectifie les NGP réels dans les 48 heures. En fin de période, elle arrête la DUM initiale, ce qui n'est possible qu'une fois tous les codes génériques remplacés. L'erreur fréquente : oublier une sous-DUM au code générique, qui bloque l'arrêt et expose à la clôture d'office.",
+    "juris": "",
+    "conseil": "Suivez la liste « Sous DUM » de BADR et désignez un responsable de l'arrêt. Choisissez dès l'ouverture entre imputation par sous-DUM ou globale pour les comptes RED et les titres de change : le choix vaut pour toute la déclaration.",
+    "faq": [
+      [
+        "Une sous-DUM peut-elle être enlevée sans mainlevée propre ?",
+        "Non, chaque sous-DUM est sélectionnée individuellement et l'enlèvement est conditionné par sa mainlevée (circ. n° 6168/312 ; CDII, art. 100)."
+      ],
+      [
+        "Que se passe-t-il si la DUM initiale n'est pas arrêtée à temps ?",
+        "Le système la clôture automatiquement, sans préjudice des suites contentieuses (circ. n° 6168/312)."
+      ],
+      [
+        "Que se passe-t-il si aucune sous-DUM n'est créée après l'ouverture d'une provisionnelle ?",
+        "La DUM initiale est annulée d'office à l'expiration du délai accordé, d'un mois au plus (circ. n° 6168/312)."
+      ]
+    ],
+    "renvois": [
+      "8-021",
+      "8-020",
+      "6-001",
+      "6-003",
+      "7-014",
+      "5-040",
+      "3-023"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  }
+]

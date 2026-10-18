@@ -1,0 +1,38 @@
+[
+ {
+  "id": "3-050",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les retenues à la source : l’entreprise collecteur d’impôt",
+  "t": "Les retenues à la source : l’entreprise collecteur d’impôt — présentation",
+  "principe": "L’entreprise n’est pas seulement contribuable ; elle est aussi collecteur de l’impôt dû par ses salariés, ses fournisseurs, ses bailleurs, ses actionnaires et ses partenaires étrangers. Les manquements dans ce rôle sont lourdement sanctionnés : pénalité de 20 % en cas de défaut ou de retard de versement [CGI art. 208] et majoration de 30 % en cas de rectification [art. 186].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-051",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les retenues à la source : l’entreprise collecteur d’impôt",
+  "t": "Tableau d’ensemble",
+  "principe": "| Revenu versé | Bénéficiaire | Taux | Qui retient | Versement | Déclaration |\n| Salaires | Salariés | Barème | Employeur | Mois suivant | DTS avant le 1er mars |\n| Rémunérations occasionnelles de non-salariés | Personnes physiques | 30 % libératoire | Entreprise versante | Mois suivant | Annexe à la DTS |\n| Honoraires, commissions, courtages (art. 15 bis) | Personnes morales | 5 % (imputable) | État, collectivités, EEP et filiales, banques, assurances, entreprises de CA ≥ 200 MDH | Mois suivant | Avec la déclaration de résultat (art. 151) |\n| Honoraires, commissions, courtages | Personnes physiques au RNR/RNS | 10 % (imputable) | Personnes morales et professionnels au RNR/RNS | Mois suivant | Art. 151 |\n| Loyers (art. 15 ter) | Personnes morales | 5 % | Mêmes débiteurs que ci-dessus (seuil de 200 MDH) | Mois suivant | État des loyers annexé (art. 151-V) |\n| Loyers | Personnes physiques au RNR/RNS | 5 % (LF 2026) | Personnes morales et professionnels | Mois suivant | Art. 151-V |\n| Loyers | Particuliers | 10 % / 15 % non libératoire, ou 20 % libératoire sur option ; dispense ≤ 40 000 DH/an | Personnes morales et professionnels | Mois suivant | État des loyers |\n| Prestations des contribuables CPU et auto-entrepreneurs | Surplus > 80 000 DH par client | 30 % | Client | Mois suivant | État détaillé (art. 151-IV) |\n| Dividendes | Tout bénéficiaire (sauf exonérations) | 11,25 % (2026) ; 10 % (2027) | Société distributrice ou intermédiaire | Mois suivant | Avant le 1er avril (art. 152) |\n| Placements à revenu fixe, Sukuk | Personnes morales, professionnels | 20 % | Débiteur | Mois suivant | Avant le 1er avril (art. 153) |\n| Produits bruts versés aux non-résidents (redevances, assistance technique, intérêts…) | Non-résidents | 10 % (sous réserve des conventions) | Débiteur résident | Mois suivant | Avec la déclaration de résultat (art. 154) |\n| Indemnités d’expropriation et transferts judiciaires | Personnes physiques | 5 % (imputable, restituable) | Personne intervenant dans le paiement | Mois suivant | — |\n| Gains de jeux de hasard en ligne de source étrangère | Personnes physiques | 30 % libératoire | Banques et intermédiaires de paiement | Mois suivant | Avant le 1er mars (art. 154 quater) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-052",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les retenues à la source : l’entreprise collecteur d’impôt",
+  "t": "Les rémunérations allouées à des tiers : le champ précisé par la DGI",
+  "principe": "La RAS vise « les honoraires, commissions, courtages et autres rémunérations de même nature » [CGI art. 15 bis, 45 bis]. La note de service de mai 2023 a tranché les principales hésitations : seules les prestations à caractère intellectuel sont visées.\n| Prestations non soumises à la RAS | Prestations obligatoirement soumises à la RAS |\n| Gardiennage, nettoyage, entretien, accueil, secrétariat | Frais d’intervention et commissions des organismes publics gérant un système de vignettes |\n| Exploitation d’installations, manutention, gerbage | Formations |\n| Entretien et réparation du matériel technique et informatique | Cabinets de recrutement, de conseil et d’évaluation |\n| Fabrication et installation de dispositifs de sécurité ; travaux de signalisation | Maintenance des logiciels |\n| Gestion et maintenance d’un réseau ferroviaire (tramway) | Conception, développement et mise en œuvre de bases de données et de systèmes d’information |\n| Réalisation de stands et pavillons | Archivage, assainissement et conservation des archives |\n| Intérim (mise à disposition de personnel) | Rémunérations versées à l’AMMC |\n| Vente d’espaces et d’annonces publicitaires, insertions réglementaires (appels d’offres) |  |\n| Services du CMI (paiements électroniques) ; hébergement de site web |  |\n| Restauration, billetterie et hébergement par une agence de voyages n’agissant pas comme commissionnaire |  |\n| Primes d’assurance |  |\n| Vente de vignettes de paiement (eau, électricité, carburant) |  |\n### METTRE EN PLACE LA RAS « TIERS » DANS L’ENTREPRISE\n- Déterminer si l’entreprise est débitrice : pour les bénéficiaires personnes morales, seulement si elle est l’État, une collectivité, un EEP ou sa filiale, une banque, une assurance ou une entreprise de CA HT ≥ 200 MDH au dernier exercice clos ; pour les bénéficiaires personnes physiques au RNR/RNS, toute personne morale ou tout professionnel au RNR/RNS.\n- Paramétrer dans le système d’achat la nature de chaque prestation (intellectuelle ou non) selon la note de service.\n- Retenir le taux applicable sur le montant HT.\n- Verser au receveur avant la fin du mois suivant le paiement, la mise à disposition ou l’inscription en compte (y compris en compte courant d’associé).\n- Délivrer au bénéficiaire les éléments lui permettant d’imputer la retenue sur son IS ou IR (avec droit à restitution).\n- Reporter les montants versés et retenus, par bénéficiaire, dans la déclaration des rémunérations allouées à des tiers (art. 151), déposée avec la déclaration de résultat ou de revenu global.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-053",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Les retenues à la source : l’entreprise collecteur d’impôt",
+  "t": "La déclaration des rémunérations allouées à des tiers [CGI art. 151]",
+  "principe": "Toute entreprise exerçant au Maroc qui alloue à des contribuables (TP, IS ou IR) des honoraires, commissions, courtages, ou des rabais, remises et ristournes accordés après facturation, dépose, avec sa déclaration de résultat ou de revenu global, une déclaration des sommes comptabilisées au cours de l’exercice précédent, indiquant pour chaque bénéficiaire : identité, activité, adresse, identifiant (TP, IS ou IR), numéro CNSS, montants par catégorie, montants soumis à la RAS et impôt retenu. Y sont annexés l’état des rémunérations versées aux contribuables CPU et auto-entrepreneurs et l’état des produits de location soumis à la RAS.",
+  "maj": "2026-10-17"
+ }
+]

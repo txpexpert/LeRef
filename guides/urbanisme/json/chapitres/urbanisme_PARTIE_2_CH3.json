@@ -1,0 +1,56 @@
+[
+ {
+  "id": "2-020",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Annexe C — Check-lists techniques de la construction",
+  "t": "Annexe C — Check-lists techniques de la construction — présentation",
+  "principe": "### NOUVEAU DANS CETTE ÉDITION\nAnnexe nouvelle. Elle traduit en points de contrôle les règlements techniques fournis dans le corpus : sécurité incendie (décret 2-14-499 et référentiel de la protection civile), construction parasismique (RPS 2000 version 2011 et règlement des constructions en terre), performance énergétique (décret 2-13-874 et RTCM) et accessibilité (loi 10-03). Ces check-lists aident le maître d'ouvrage à dialoguer avec ses concepteurs ; elles ne remplacent ni les notes de calcul ni les avis des services compétents.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-021",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Annexe C — Check-lists techniques de la construction",
+  "t": "Sécurité contre l'incendie et la panique (RSI)",
+  "principe": "Le règlement s'organise en livres : connaissances de base (prévention, comportement au feu, conception des bâtiments, compartimentage, désenfumage, dégagements), puis dispositions propres aux établissements recevant du public (ERP), aux habitations, aux immeubles de grande hauteur (IGH) et aux établissements industriels.\n| Point de contrôle | Ce qu'il faut vérifier |\n| Classement | Type d'établissement (ERP, habitation, IGH, industriel) ; pour un ERP, catégorie selon l'effectif : 1re (> 1 500 personnes), 2e (701 à 1 500), 3e (301 à 700), 4e (≤ 300 au-dessus du seuil du type), 5e (sous le seuil du type) |\n| Hauteur et IGH | Plancher bas du dernier niveau à plus de 50 m (habitation) ou 28 m (autres usages) : régime IGH ; un ERP au-delà de 28 m relève de l'IGH |\n| Accès des secours | Voies-engins et voies-échelles selon la hauteur (seuils de 8 m et 28 m) ; colonnes sèches au-delà de 18 m |\n| Isolement et stabilité | Isolement par rapport aux tiers ; stabilité au feu des structures adaptée à la hauteur et à l'effectif ; réaction au feu des matériaux et des façades |\n| Compartimentage | Recoupement des volumes pour limiter la propagation ; portes coupe-feu |\n| Désenfumage | Dispositif naturel ou mécanique des circulations, escaliers et grands volumes |\n| Dégagements | Nombre et largeur des sorties et escaliers proportionnés à l'effectif ; balisage et éclairage de sécurité (centralisé en 1re et 2e catégories) |\n| Équipements | Système de sécurité incendie de catégorie adaptée (B pour la 1re catégorie, C, D ou E pour la 2e), alarme, extincteurs, robinets d'incendie armés selon le cas |\n| Avis | Avis de la protection civile sur les dossiers et les dérogations (dispositifs de verrouillage, maisons d'hôtes en médina…) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-022",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Annexe C — Check-lists techniques de la construction",
+  "t": "Construction parasismique (RPS 2000 version 2011)",
+  "principe": "- Identifier la zone sismique du site à partir des cartes de vitesse et d'accélération du règlement.\n- Déterminer la classe d'importance du bâtiment : classe I (bâtiments d’importance vitale), classe II (bâtiments du grand public), classe III (bâtiments ordinaires).\n- Exiger une note de calcul conforme : action sismique, vérification de la stabilité, de la résistance et des déformations limites.\n- Vérifier la régularité du bâtiment en plan et en élévation ; à défaut, analyse dynamique.\n- Pour les maçonneries de 1 à 2 niveaux, appliquer les règles simplifiées.\n- Faire contrôler l'exécution des dispositions constructives (chaînages, ferraillage, joints) par le bureau de contrôle.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-023",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Annexe C — Check-lists techniques de la construction",
+  "t": "Constructions en terre (RPCTerre et RPACTerre 2011)",
+  "principe": "- Nombre de niveaux limité à 1 en zones d'accélération 4 et 3, et à 2 en zones 2, 1 et 0.\n- Terrains interdits : sols mous, expansifs, marécageux, inondables ou instables, nappe superficielle, moins de 2 km d'une faille active.\n- Constructions en terre d'importance vitale (hôpitaux, cliniques, protection civile, police, centres de décision) limitées à 1 niveau dans toutes les zones.\n- Distinguer le RPACTerre (auto-construction : bâtiments d'habitation construits sans obligation de recours à un architecte ou à un ingénieur au sens des articles 50 et 51 de la loi 12-90) et le RPCTerre (constructions en terre soumises à ce recours).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-024",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Annexe C — Check-lists techniques de la construction",
+  "t": "Performance énergétique (décret 2-13-874 et RTCM)",
+  "principe": "- Vérifier que le bâtiment est résidentiel ou tertiaire neuf (exclus : existant, agricole, artisanal, industriel, stockage, serres et entrepôts).\n- Identifier la zone climatique (Z1 Agadir, Z2 Tanger, Z3 Fès, Z4 Ifrane, Z5 Marrakech, Z6 Errachidia).\n- Calculer le taux global de baies vitrées (TGBV) : au-delà de 45 %, l'approche performancielle (simulation) est obligatoire.\n- Approche prescriptive : respecter les coefficients U des toitures, murs, planchers sur pilotis et vitrages, le facteur solaire des baies et la résistance thermique des planchers sur sol.\n- Systèmes de chauffage, ventilation et climatisation : performances minimales des équipements.\n- Programme listé : étude d'impact énergétique et décision d'acceptabilité (loi 47-09).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-025",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Annexe C — Check-lists techniques de la construction",
+  "t": "Accessibilité (loi 10-03)",
+  "principe": "- Constructions concernées : bâtiments administratifs, commerciaux, industriels, d'enseignement, de santé, de formation, d'emploi, religieux, sportifs, culturels, touristiques et de loisirs, campings, structures d'accueil, gares ; logements collectifs (art. 2 et 4).\n- Plans d'accès depuis les voies extérieures et cheminements piétons praticables (art. 7 et 9).\n- Places de stationnement réservées dans les parcs publics et garages des constructions ouvertes au public (art. 8).\n- Pourcentages de chambres, salles de bain et sanitaires adaptés, notamment dans les hôtels et les hôpitaux ; ascenseurs et installations électriques utilisables (art. 10).\n- Guichets, étagères et écritoires accessibles en fauteuil roulant (art. 11) ; sièges réservés dans les salles publiques (art. 12).\n- Les règlements de construction, les plans d'aménagement et les dossiers de lotissement doivent comporter des dispositions d'accessibilité (art. 5 et 6).",
+  "maj": "2026-10-17"
+ }
+]

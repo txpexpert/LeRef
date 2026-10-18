@@ -1,0 +1,29 @@
+[
+ {
+  "id": "6-030",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Réclamations, dégrèvements et remises",
+  "t": "La réclamation [CGI art. 235]",
+  "principe": "### CONTESTER UNE IMPOSITION\n- Destinataire : le directeur général des impôts ou la personne déléguée.\n- Délai : en cas de paiement spontané, 6 mois suivant l’expiration des délais légaux ; en cas d’imposition par rôle, état de produits ou ordre de recettes, 6 mois suivant le mois de la mise en recouvrement.\n- Contenu : identification, imposition contestée, motifs, pièces.\n- Décision : par le ministre des finances ou son délégué ; à défaut de réponse dans 3 mois, ou en cas de désaccord, saisine du tribunal (art. 243).\n- Recouvrement : la réclamation ne suspend pas le recouvrement ; restitution après décision ou jugement.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-031",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Réclamations, dégrèvements et remises",
+  "t": "Dégrèvement d’office et remise gracieuse [CGI art. 236]",
+  "principe": "- Le ministre ou son délégué doit prononcer, dans le délai de prescription, le dégrèvement des impositions formant surtaxe, double ou faux emploi.\n- Il peut, à la demande du contribuable et au vu des circonstances invoquées, accorder remise ou modération des majorations, amendes et pénalités.\n### LA DEMANDE DE REMISE GRACIEUSE\nJoindre la preuve du paiement du principal (ou un échéancier), exposer les circonstances (difficultés de trésorerie, cas de force majeure, bonne foi, erreur d’un tiers), et rappeler l’historique de conformité. La demande est d’autant mieux accueillie que la régularisation est spontanée.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-032",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Réclamations, dégrèvements et remises",
+  "t": "Les restitutions",
+  "principe": "Les retenues à la source excédentaires (honoraires, expropriations, loyers) sont restituées au vu de la déclaration annuelle [art. 241 bis] ; les excédents d’IS sont imputés sur les acomptes suivants [art. 170-IV] ; les crédits de TVA remboursables suivent les règles des articles 103 et 103 bis.",
+  "maj": "2026-10-17"
+ }
+]

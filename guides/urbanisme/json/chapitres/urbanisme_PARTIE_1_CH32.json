@@ -1,0 +1,46 @@
+[
+ {
+  "id": "1-420",
+  "p": 1,
+  "ch": "1.32",
+  "c": "Réclamations, recours et sanctions",
+  "t": "Les réclamations",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-421",
+  "p": 1,
+  "ch": "1.32",
+  "c": "Réclamations, recours et sanctions",
+  "t": "Fiche MP-P9 — Réclamer et exercer un recours",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 163, art. 164 |\n| Déclencheur | Vice de procédure, clauses discriminatoires ou disproportionnées, conflit d'intérêts d'un membre, contestation des motifs d'écartement. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Réclamation au maître d'ouvrage (date certaine) : cas a), b), c) — dès la publication de l'avis et au plus tard 5 jours après la publication du résultat sur le portail ; cas d) — dans les 5 jours de la réception de la lettre de rejet. | Concurrent | 5 jours | art. 163-I |\n| 2 | Réponse motivée du MO sous 5 jours : rejet, redressement de l'anomalie ou proposition d'annulation. | Maître d'ouvrage | 5 jours | art. 163-II |\n| 3 | En l'absence de réponse ou si insatisfait : saisir dans les 5 jours le ministre concerné, le ministre de l'intérieur (collectivités) ou le président de l'organe délibérant (EP) ; en informer le MO. Le stand-still est prolongé de 15 jours pour le cas d). | Concurrent | 5 jours | art. 163-III |\n| 4 | L'autorité saisie peut suspendre la procédure jusqu'à 10 jours (réclamation fondée, risque de préjudice) ; elle répond sous 15 jours : rejet motivé, redressement ou annulation (sauf poursuite pour urgence d'intérêt général). | Autorité de recours | Suspension ≤ 10 jours ; réponse ≤ 15 jours | art. 163-IV |\n| 5 | Saisine directe possible de la CNCP (décret 2-14-867), en informant simultanément le MO. | Concurrent | — | art. 164 |\n### Ne peuvent pas être contestés\n- Le choix de la procédure de passation\n- La décision d'écarter toutes les offres (infructuosité)\n- L'annulation de la procédure par l'autorité compétente\n### POINT DE VIGILANCE\n▪ Délais de 5 jours : mettre en place une veille quotidienne du portail après chaque séance.\n▪ Toute réclamation est inscrite au registre spécial (art. 163-VII).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-422",
+  "p": 1,
+  "ch": "1.32",
+  "c": "Réclamations, recours et sanctions",
+  "t": "Les mesures coercitives",
+  "principe": "| Fait | Conséquence | Base |\n| Déclaration sur l'honneur inexacte, pièces falsifiées, fraude ou corruption, infractions réitérées au droit du travail, manquements graves | Exclusion temporaire ou définitive (ministre / organe délibérant / ministre de l'intérieur, après avis de la CNCP, extension possible par le Chef du gouvernement) ; résiliation aux frais et risques | art. 152 |\n| Retrait d'offre pendant la validité, refus de signer, offre écartée pour non-production ou non-justification | Confiscation du cautionnement provisoire (ou pénalité de 1 % de l'estimation) | art. 24 |\nLa décision d'exclusion n'intervient qu'après communication des griefs et un délai d'observations d'au moins 15 jours ; elle est motivée, notifiée et publiée sur le portail (art. 152). Le maître d'ouvrage peut aussi résilier le marché aux frais et risques du titulaire.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-423",
+  "p": 1,
+  "ch": "1.32",
+  "c": "Réclamations, recours et sanctions",
+  "t": "Gouvernance et transparence",
+  "principe": "Tout marché fait l'objet d'un rapport de présentation (objectifs, besoins, mode de passation, critères, choix de l'attributaire) (art. 156) ; les marchés d'au moins 1 MDH TTC donnent lieu à un rapport d'achèvement dans les trois mois de la réception définitive (art. 157) ; contrôles et audits sont obligatoires au-delà de 3 MDH TTC (1 MDH pour les marchés négociés) et leurs extraits publiés (art. 159). Les intervenants sont tenus au secret, à la confidentialité de la procédure et à la prévention des conflits d'intérêts (art. 160 à 162).\n### À RETENIR\nCes documents publiés (rapports, extraits d'audits, listes) sont accessibles sur le portail ; à défaut, la loi 31-13 permet d'en demander communication, notamment pour préparer une réclamation ou mesurer les prix pratiqués.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-424",
+  "p": 1,
+  "ch": "1.32",
+  "c": "Réclamations, recours et sanctions",
+  "t": "Tableau des délais — décret 2-22-431",
+  "principe": "| Objet | Délai | Base |\n| Publication du programme prévisionnel triennal | Avant la fin du 1er trimestre ; affichage ≥ 30 jours | art. 17 |\n| Dossier transmis aux membres de la commission | ≥ 6 jours avant publication ; 6 jours pour observations | art. 22 |\n| Publicité AO ouvert | ≥ 21 jours (≥ 40 jours au-delà des seuils) | art. 23 |\n| Publicité AO ouvert simplifié | ≥ 10 jours | art. 19 |\n| Lettre circulaire AO restreint | ≥ 10 jours | art. 23 |\n| Publicité AO avec présélection / concours | ≥ 15 jours avant la séance d'admission | art. 50, 68 |\n| Lettre d'admission (présélection) | ≥ 30 jours avant l'ouverture des plis | art. 58 |\n| Dialogue compétitif : candidatures / offres finales | ≥ 15 jours / ≥ 30 jours | art. 12 |\n| Procédure négociée avec publicité | ≥ 10 jours pour les candidatures | art. 88 |\n| Enchère électronique inversée | Avis ≥ 10 jours | art. 138 |\n| Avis d'achat sur bon de commande | ≥ 48 heures | art. 91 |\n| Modification du dossier d'AO | Au plus tard J-7 ; sinon avis rectificatif et séance ≥ J+10 | art. 22 |\n| Demande d'éclaircissement / réponse | ≥ J-7 / ≤ J-3 | art. 25 |\n| Visite des lieux | Dernier tiers du délai, au plus tard J-5 (restreint : J-3) | art. 23 |\n| Report de séance pour absence de membres obligatoires | 48 heures | art. 39 |\n| Validité des offres | 60 jours | art. 36 |\n| Complément de dossier de l'attributaire pressenti | ≥ 7 jours | art. 43 |\n| Extrait du PV (publication et affichage) | 24 heures ; affichage ≥ 15 jours | art. 46 |\n| Information de l'attributaire et des écartés | 3 jours | art. 47 |\n| Restitution du cautionnement provisoire aux écartés | 48 heures | art. 47 |\n| Restitution des échantillons | Après 15 jours | art. 47 |\n| Conservation des pièces d'écartement | 5 ans minimum | art. 47 |\n| AO infructueux → marché négocié | Avis dans les 21 jours | art. 89 |\n| Régularisation d'un échange de lettres (urgence) | 3 mois | art. 90 |\n| Délai d'attente avant approbation | 15 jours (+15 en cas de réclamation sur les motifs) | art. 142, 163, 164 |\n| Notification de l'approbation | 60 jours (+ prorogation ≤ 30 jours) | art. 143 |\n| Récusation d'un sous-traitant | 15 jours | art. 151 |\n| Observations avant mesure coercitive | ≥ 15 jours | art. 152 |\n| Rapport d'achèvement (≥ 1 MDH TTC) | 3 mois après réception définitive | art. 157 |\n| Réclamation au MO / réponse / saisine de l'autorité / suspension / réponse finale | 5 j / 5 j / 5 j / ≤ 10 j / ≤ 15 j | art. 163 |",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "id": "6-020",
+    "p": 6,
+    "ch": "6.3",
+    "c": "Carnets ATA et TIR",
+    "t": "Carnet ATA : admission temporaire et exportation temporaire de marchandises pour foires, expositions, échantillons et matériel professionnel",
+    "enbref": "Le carnet ATA est un document douanier international couvrant l'admission temporaire, l'exportation temporaire et le transit de marchandises destinées notamment aux expositions, démonstrations ou à la recherche scientifique. Au Maroc, la chambre de commerce, d'industrie et de services de Casablanca l'émet et en garantit les droits. Il couvre les échantillons sans limitation de valeur.",
+    "textes": [
+      "Convention douanière sur le carnet ATA",
+      "Décret n° 2-77-862 du 09/10/1977, art. 125-E et 132",
+      "Circulaire ADII n° 4541/321 du 20/07/1998",
+      "Circulaires ADII n° 5208/312 du 12/05/2010 et n° 5295/312 du 05/12/2011",
+      "Notes ADII n° D7106/16/ADII/100 du 26/07/2016 et n° 23605/320 du 23/11/1998",
+      "Circulaire ADII n° 6636/312 du 10/02/2025"
+    ],
+    "principe": "Le carnet ATA est un document douanier international couvrant l'importation, l'admission temporaire, l'exportation temporaire et le transit de marchandises destinées notamment à des expositions, manifestations, démonstrations ou à la recherche scientifique. La chambre de commerce, d'industrie et de services de Casablanca en est l'association émettrice et garante (note n° D7106/16).\nL'admission temporaire sous carnet relève des marchandises « visées par les conventions internationales ratifiées par le Maroc » (décret, art. 125-E), dont la durée de séjour suit ces conventions (art. 132). Les délais de réexportation, la validité du carnet et la procédure de régularisation sont fixés par la convention ATA et par la circulaire d'application n° 4541/321.\nPlusieurs usages sont précisés par les textes :\n- échantillons, modèles, spécimens et coupes-types destinés à être réexportés en l'état : admission temporaire sous carnet ATA sans limitation de valeur (circ. n° 5295/312) ; au-delà de 5 000 DH hors carnet, ils relèvent de l'admission temporaire pour perfectionnement actif de droit commun ;\n- exportation temporaire des mêmes articles pour une réimportation en l'état : sous carnet délivré par la chambre de Casablanca (circ. n° 5295/312) ;\n- petit matériel et outillage des techniciens non résidents : la procédure simplifiée d'admission temporaire sur annotation du passeport ne s'applique pas aux importations couvertes par un carnet ATA (note n° 23605/320).\nLes carnets ATA sont pris en charge à l'importation temporaire par les bureaux figurant sur la liste annexée à la circulaire n° 4541/321, dont le bureau de Tanger-Méditerranée depuis 2010 (circ. n° 5208/312). Lorsqu'une marchandise sous carnet ATA arrive dans un MEAD sous DS MEAD, celle-ci fait l'objet d'un apurement exceptionnel (circ. n° 6636/312). Hors carnet, le décret fixe la durée de séjour des matériels et produits divers en admission temporaire au temps nécessaire à l'emploi envisagé, dans la limite de six mois pour la plupart des produits de la catégorie D (échantillons, marchandises pour expositions et foires, objets pour essais) et de deux ans pour certaines catégories, prorogeable au double (décret, art. 132).",
+    "admin": "L'ADII range le carnet ATA parmi les « supports déclaratifs allégés » et demande une célérité particulière pour les échantillons, compte tenu de leur rôle dans la promotion des exportations (note n° D7106/16 ; circ. n° 5295/312).",
+    "donnees": [
+      [
+        "Émetteur et garant au Maroc",
+        "Chambre de commerce, d'industrie et de services de Casablanca (note n° D7106/16)"
+      ],
+      [
+        "Opérations couvertes",
+        "Importation, admission temporaire, exportation temporaire, transit (note n° D7106/16)"
+      ],
+      [
+        "Valeur des échantillons",
+        "Sans limitation sous carnet (circ. n° 5295/312)"
+      ],
+      [
+        "Durée de séjour",
+        "Catégorie E : durée fixée par la convention internationale applicable (décret, art. 132)"
+      ],
+      [
+        "Bureau Tanger-Méditerranée",
+        "Ouvert aux carnets ATA (circ. n° 5208/312)"
+      ]
+    ],
+    "cas": "La société fictive Casa Design expose ses meubles au salon de Milan, puis les rapporte au Maroc. Elle obtient un carnet ATA auprès de la chambre de commerce de Casablanca, le fait viser à la sortie, puis à la réimportation. Inversement, un fabricant italien de machines textiles fait entrer à Tanger Med, sous carnet ATA émis en Italie, une machine de démonstration pour un salon à Casablanca et la réexporte ensuite. L'erreur fréquente : vendre sur place une partie des articles exposés sans régulariser leur situation douanière.",
+    "juris": "",
+    "conseil": "Établissez la liste générale du carnet avec précision (désignation, numéros de série, valeur) : c'est elle qui permet le rapprochement à la sortie et au retour. Si vous décidez de vendre un article en cours de séjour, déclarez-le pour la consommation avant la fin de validité du carnet.",
+    "faq": [
+      [
+        "Où obtenir un carnet ATA au Maroc ?",
+        "Auprès de la chambre de commerce, d'industrie et de services de Casablanca, association émettrice et garante (note n° D7106/16)."
+      ],
+      [
+        "Les échantillons de valeur élevée peuvent-ils voyager sous carnet ATA ?",
+        "Oui, l'admission temporaire d'échantillons sous carnet ATA se fait sans limitation de valeur (circ. n° 5295/312)."
+      ],
+      [
+        "Le carnet ATA est-il nécessaire pour un salon au Maroc ?",
+        "Il n'est pas obligatoire : les marchandises pour expositions et foires peuvent aussi être placées en admission temporaire de droit commun sous acquit à caution, dans les délais du décret (décret, art. 125-D et 132)."
+      ]
+    ],
+    "renvois": [
+      "6-021",
+      "6-002",
+      "7-020",
+      "7-021",
+      "7-030",
+      "7-010"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "6-021",
+    "p": 6,
+    "ch": "6.3",
+    "c": "Carnets ATA et TIR",
+    "t": "Carnet TIR : transport international routier sous scellement sans rupture de charge, bureaux ouverts et prise en charge sur BADR",
+    "enbref": "Le carnet TIR couvre le transport routier international de marchandises, sans rupture de charge, d'un bureau de départ à un bureau de destination, sous la garantie d'une association garante. Il remplace l'acquit à caution national. Au Maroc, il est pris en charge et déchargé sur BADR, et seuls certains bureaux sont ouverts aux opérations TIR.",
+    "textes": [
+      "Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR, 1975",
+      "Décret n° 2-77-862 du 09/10/1977, art. 166",
+      "Circulaire ADII n° 4199/222 du 07/04/1992",
+      "Circulaires ADII n° 4709/312 du 25/06/2001, n° 5125/312 du 22/12/2008, n° 5428/312 du 20/01/2014, n° 5603/312 du 01/07/2016 et n° 6050/312 du 26/05/2020",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016"
+    ],
+    "principe": "Le carnet TIR est un document douanier conventionnel couvrant le transport de marchandises sans rupture de charge d'un bureau de départ à un bureau de destination (note n° D7106/16). Lorsque le transit a lieu sous couvert d'un tel document, la signature du transporteur et de sa caution vaut engagement envers l'administration (décret, art. 166). Les règles d'utilisation du carnet (émission, validité, bureaux, remplissage, incidents) restent régies par la convention TIR de 1975 (circ. n° 5603/312).\nLes carnets sont imprimés et délivrés par l'Union internationale des transports routiers (IRU) aux associations garantes. Depuis le 01/07/2016, le nouveau modèle est délivré en formules de 6 et 14 volets ; les anciens modèles de 4, 6, 14 et 20 volets restent acceptés jusqu'à épuisement des stocks (circ. n° 5603/312).\nLes bureaux ouverts aux opérations TIR figurent à l'annexe VI-10-07 de la RDII :\n- Tanger-Méditerranée : départ, passage et destination (circ. n° 5125/312) ;\n- Nouasseur : départ et destination (circ. n° 4709/312).\nLe carnet est pris en charge sur BADR dans le module « PEC TIR » et déchargé dans le module « Fin opération TIR » (circ. n° 6050/312). Au bureau de destination, la marchandise peut faire l'objet d'une déclaration provisoire, possibilité réservée après transit aux envois en groupage et aux envois sous carnet TIR (circ. n° 5428/312). Aux bureaux de passage, les marchandises sous carnet TIR ne sont en règle générale pas visitées, les agents se bornant à vérifier l'intégrité des scellements et à viser les documents (décret, art. 167).",
+    "admin": "En 2020, l'ADII a admis à titre temporaire, pour six mois, les carnets TIR imprimés à partir de la version numérique « print@home » de l'IRU, à condition qu'ils portent les cachets de tous les bureaux de l'itinéraire, ainsi que les certificats d'agrément des véhicules arrivés à échéance pendant la crise sanitaire. En cas de doute sur l'authenticité d'un carnet, le service peut solliciter l'IRU (circ. n° 6050/312).",
+    "donnees": [
+      [
+        "Formules en circulation",
+        "6 et 14 volets depuis le 01/07/2016 (circ. n° 5603/312)"
+      ],
+      [
+        "Émetteur des carnets",
+        "IRU, via les associations garantes (circ. n° 5603/312)"
+      ],
+      [
+        "Bureaux ouverts",
+        "Annexe VI-10-07 de la RDII (circ. n° 5125/312)"
+      ],
+      [
+        "Gestion sur BADR",
+        "Modules « PEC TIR » et « Fin opération TIR » (circ. n° 6050/312)"
+      ],
+      [
+        "Déclaration provisoire après TIR",
+        "Admise (circ. n° 5428/312)"
+      ]
+    ],
+    "cas": "La société fictive Trans Atlas, transporteur international, charge à Barcelone une semi-remorque de pièces automobiles pour une usine proche de Casablanca. Le carnet TIR est ouvert au départ, visé au passage et présenté à Tanger-Méditerranée, ouvert aux opérations TIR. Le carnet est pris en charge sur BADR, la marchandise poursuit sous scellement, puis le bureau de destination décharge l'opération et l'importateur dépose sa déclaration, provisoire si nécessaire. L'erreur fréquente : choisir un bureau de destination non ouvert aux opérations TIR.",
+    "juris": "",
+    "conseil": "Avant de planifier un transport TIR, vérifiez que les bureaux de départ, de passage et de destination figurent à l'annexe VI-10-07. Contrôlez l'agrément du véhicule et le nombre de volets disponibles par rapport aux bureaux de l'itinéraire. À destination, faites décharger le carnet sans délai pour libérer la garantie.",
+    "faq": [
+      [
+        "Peut-on déposer une déclaration provisoire après un transport TIR ?",
+        "Oui, la déclaration provisoire après transit est admise pour les envois sous carnet TIR (circ. n° 5428/312)."
+      ],
+      [
+        "Quels formats de carnets TIR sont acceptés ?",
+        "Le nouveau modèle à 6 ou 14 volets, et les anciens modèles jusqu'à épuisement des stocks (circ. n° 5603/312)."
+      ]
+    ],
+    "renvois": [
+      "6-020",
+      "6-001",
+      "6-002",
+      "6-003",
+      "6-004",
+      "3-021"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe mis à jour"
+    ]
+  }
+]

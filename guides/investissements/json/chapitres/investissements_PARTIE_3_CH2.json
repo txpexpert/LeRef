@@ -1,0 +1,38 @@
+[
+ {
+  "id": "3-010",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Foncier, urbanisme et autorisations administratives",
+  "t": "Sécuriser le foncier : les options",
+  "principe": "| Option | Procédure | Incidence sur les primes |\n| Foncier public (domaine privé de l'État) | Demande de cession ou de location via le CRI ; décision de la CRUI, qui fixe la valeur vénale ou locative (art. 29-B-1 L. 47-18) | Exclu du montant primable ; compte dans le montant total (ratio emploi) |\n| Lot en zone industrielle ou zone d'activités | Demande d'attribution auprès de l'aménageur ; avis de la CRUI selon la convention d'aménagement (art. 29-B-10) | Selon le statut du foncier (public ou privé) |\n| Domaine public ou forestier | Occupation temporaire ou échange immobilier ; décision de la CRUI et fixation des redevances (art. 29-B-5) | Redevances : foncier public |\n| Foncier privé (acquisition ou location) | Promesse de vente, vérification du titre foncier, acte notarié, inscription à la conservation foncière | Primable dans la limite de 20 % du montant total, à la valeur vénale |\n| Terrain agricole | Attestation de vocation non agricole (CRUI, art. 29-B-2) ; autorisation de morcellement en périmètre irrigué ou de mise en valeur (art. 29-B-3) | — |\n### ACCÈS DES ÉTRANGERS À LA PROPRIÉTÉ\nL'acquisition immobilière est ouverte aux personnes physiques et morales étrangères, à l'exception des terrains à vocation agricole, qui ne peuvent qu'être loués. Le financement en devises de l'acquisition ouvre droit au transfert du produit de cession (voir section 15).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-011",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Foncier, urbanisme et autorisations administratives",
+  "t": "Coûts d'une acquisition immobilière",
+  "principe": "Les montants ci-dessous figurent dans le référentiel Smart-Invest.ia et doivent être actualisés selon la loi de finances en vigueur.\n| Poste | Montant indicatif |\n| Droits d'enregistrement — locaux construits | 4 % du prix |\n| Conservation foncière — droit proportionnel | 1,5 % |\n| Conservation foncière — droit fixe | 100 MAD |\n| Droit de timbre | 20 MAD par feuille ou document électronique |\n| Honoraires du notaire | 0,5 % à 1,5 % selon tranches, minimum 4 000 MAD, plus TVA |\n| Profit foncier à la revente — immeubles bâtis | IR 20 % (taux spécifiques pour la première cession de terrains nus urbains) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-012",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Foncier, urbanisme et autorisations administratives",
+  "t": "Les autorisations d'urbanisme et d'exploitation",
+  "principe": "Pour les projets d'investissement, les autorisations d'urbanisme (permis de construire, de lotir, de morceler, de créer des groupes d'habitations, permis d'habiter, certificat de conformité) sont délivrées par le président de la commune après avis conforme de la CRUI, avis qui s'impose à la commune (articles 29-B-6 et 36 L. 47-18).\n| Autorisation | Intervention CRUI | Pièces types |\n| Permis de construire | Avis conforme | Plans d'architecte, études techniques, titre ou bail, note de renseignement urbanistique de l'agence urbaine |\n| Permis d'habiter / certificat de conformité | Avis conforme | Déclaration d'achèvement, certificats des bureaux de contrôle |\n| Étude d'impact sur l'environnement | Avis sur l'acceptabilité environnementale | Étude d'impact pour les projets assujettis, enquête publique le cas échéant |\n| Établissement touristique | Avis sur le classement et l'autorisation d'exploitation | Dossier du ministère du tourisme |\n| Activité en zone d'accélération industrielle | Avis conforme | Dossier de l'aménageur-développeur |\n| Projet sur le littoral non couvert ou zone sensible | Décision | Études spécifiques, avis des départements concernés |\n### ENCHAÎNER LES AUTORISATIONS SANS PERTE DE TEMPS\n- Demandez la note de renseignement urbanistique à l'agence urbaine avant de signer pour le terrain : elle révèle la constructibilité, les servitudes et les risques (zone inondable, littoral).\n- Lancez l'étude d'impact en parallèle des plans : l'acceptabilité environnementale conditionne souvent le permis.\n- Pour les établissements classés (activités dangereuses, insalubres ou incommodes), l'accord de principe est exigé dès l'inscription à la taxe professionnelle (étape 7 de la création).\n- Gardez trace des dates de dépôt du dossier complet : elles font courir les délais légaux de la CRUI.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-013",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Foncier, urbanisme et autorisations administratives",
+  "t": "Les dérogations urbanistiques : procédure",
+  "principe": "1. Vérifier que le projet est productif et générateur d'emplois et qu'il n'est pas un projet immobilier résidentiel (hors habitat social et lutte contre l'habitat insalubre).\n2. Vérifier que le terrain n'est pas frappé d'une interdiction absolue (équipements publics, espaces verts, voirie, zones irriguées, inondables ou à risque, aires protégées).\n3. Déposer au CRI une demande motivée : justification économique, emplois, impact urbanistique, insertion architecturale.\n4. Décision nominative et motivée de l'instance compétente (CRUI dans la version initiale de la loi ; voir l'encadré sur la loi n° 22-24 à la section 3).\n5. Déposer le dossier de permis dans les six mois de la notification, démarrer les travaux dans les six mois du permis, respecter strictement les conditions, ne pas modifier le projet.",
+  "maj": "2026-10-17"
+ }
+]

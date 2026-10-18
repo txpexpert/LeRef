@@ -1,0 +1,153 @@
+[
+ {
+  "id": "2-040",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Fiche signalétique",
+  "principe": "| Rubrique | Contenu |\n| Intitulé arabe | نظام الدعم الخاص الموجه إلى المقاولات الصغيرة جدا والصغرى والمتوسطة |\n| Base juridique | Décret n° 2.25.342 du 12 juin 2025 (JO n° 7418 du 3 juillet 2025) ; arrêtés du chef du gouvernement du 31 octobre 2025 (JO n° 7454 du 6 novembre 2025) : 3.51.25 (branches d'activité par région), 3.52.25 (activités prioritaires), 3.53.25 (pièces du dossier), 3.54.25 (catégories des provinces et préfectures) |\n| Entrée en vigueur | À la publication des arrêtés, le 6 novembre 2025 |\n| Investisseur | Très petite, petite ou moyenne entreprise, personne morale de droit privé marocain |\n| Projet | De 1 MDH à moins de 50 MDH, dans une branche éligible de la région, avec un ratio d'emplois stables d'au moins 1,5 (1 pour le tourisme) et au moins 10 % de fonds propres |\n| Primes | Emplois stables (5, 7 ou 10 %), territoriale (10 ou 15 %), activités prioritaires (10 %), cumulables dans la limite de 30 % du montant primable |\n| Instrument | Convention d'investissement signée au niveau régional |\n| Délai de réalisation | 3 ans à compter de la signature, sauf stipulation contraire |\n| Guichet | CRI de la région du projet, dépôt électronique |\n| Appui technique | Maroc PME (assistance aux CRI, art. 21) |\n| Statut | A (traduction de l'arabe à faire valider par un juriste) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-041",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les définitions du décret",
+  "principe": "Projet d'investissement : tout projet réalisé par un investisseur sur le territoire national, qui crée des emplois stables et vise à produire des biens ou fournir des services (art. 1-a). Investisseur : la très petite, petite ou moyenne entreprise (art. 1-b). Emploi stable : emploi nouveau, sous contrat d'au moins 18 mois continus, créé directement par l'investisseur pendant l'exploitation, occupé par un salarié de nationalité marocaine affilié à la CNSS ; les emplois déjà soutenus directement par l'État au titre d'un autre dispositif ne comptent pas (art. 1-z). Ratio d'emplois stables : (emplois stables ÷ investissement total en DH) × 1 000 000, soit le nombre d'emplois par million de dirhams (art. 1-t). Montant d'investissement total : coût total hors taxes de la création ou de l'extension, y compris études, enregistrement de marques et dépôt de brevets, prix du terrain privé, construction, acquisition, location ou location avec option d'achat des bâtiments, infrastructures internes, génie civil, aménagements, acquisition, renouvellement, location ou location avec option d'achat des équipements, matériels et machines (art. 1-w). Terrain privé : terrain qui ne relève pas du domaine privé de l'État, des collectivités territoriales, des établissements ou entreprises publics (art. 1-h). Montant primable : montant sur la base duquel les primes sont calculées (art. 1-d et 2).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-042",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les conditions relatives à l'entreprise",
+  "principe": "| Condition | Règle | Référence |\n| Forme | Personne morale de droit privé soumise au droit marocain | Art. 1-c |\n| Chiffre d'affaires | CA hors taxes d'au moins 1 MDH et inférieur à 200 MDH, réalisé durant l'une des trois dernières années d'activité | Art. 1-c-1 |\n| Capital | Pas plus de 25 % du capital détenu, directement ou indirectement, par une société dont le CA annuel dépasse 200 MDH HT | Art. 1-c-2 |\n| Associés | Aucune personne morale de droit public ni entreprise publique parmi les associés | Art. 1-c-3 |\n| Entreprise récente | Moins de trois ans à la date de dépôt (à compter de l'immatriculation au registre du commerce) : dispensée de la condition de CA, les autres conditions restant applicables | Art. 20 |\n### Attention\nla page du CRI indique un CA compris entre 1 et 200 MDH « durant les 3 dernières années ». Le décret dit « durant l'une des trois dernières années ». C'est le décret qui fait foi : une seule année suffit.\nAttention : une personne physique, un auto-entrepreneur ou une entreprise individuelle n'est pas éligible. Il faut une société (SARL, SARL AU, SA, SAS, etc.).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-043",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les conditions relatives au projet",
+  "principe": "| Condition | Règle | Référence |\n| Montant | Investissement total d'au moins 1 MDH et inférieur à 50 MDH | Art. 7 |\n| Ratio d'emplois stables | Au moins 1,5 ; au moins 1 pour les projets touristiques | Art. 7 |\n| Fonds propres | Au moins 10 % de l'investissement total financés par des ressources propres | Art. 7 |\n| Branche d'activité | Branche figurant sur la liste de la région d'implantation (arrêté 3.51.25) | Art. 7 |\n| Absence de convention antérieure | Le projet ne doit pas déjà faire l'objet d'une convention avec l'État dans un autre régime offrant des avantages similaires | Art. 8 |\n| Nouvelle demande | Le même investisseur ne peut bénéficier de nouveau du dispositif qu'après avoir exécuté toutes les obligations de sa convention précédente | Art. 9 |\n| Délai | Trois ans à compter de la signature, sauf stipulation contraire ; prorogation par accord des parties ou force majeure, par avenant | Art. 5 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-044",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Le calcul du montant primable",
+  "principe": "Le montant primable est égal à l'investissement total hors taxes, sous réserve des règles de l'article 2 :\n- études, marques et brevets : retenus dans la limite de 5 % du montant primable et de 500 000 DH ;\n- terrain privé : pris en compte uniquement pour les projets de l'industrie, du tourisme, de l'animation touristique et de l'artisanat ; plafonné à 20 % du montant primable et à 5 MDH ; durée maximale de location ou de location avec option d'achat de sept ans ;\n- location de bâtiments, d'équipements, de matériels ou de machines : durée prise en compte selon la durée du projet de convention initial ;\n- véhicules : acquisition, location ou location avec option d'achat exclues ;\n- opérations entre sociétés liées : dépenses réalisées entre deux entreprises dont l'investisseur détient tout ou partie du capital exclues.\n### Attention\npour un projet de services (numérique, logistique, formation), le terrain privé n'entre pas dans le montant primable. Il compte néanmoins dans l'investissement total qui sert au seuil de 1 MDH et au ratio d'emplois.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-045",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les primes et leur barème",
+  "principe": "| Prime | Critère | Taux du montant primable |\n| Création d'emplois stables | Ratio d'au moins 2 et au plus 5 | 5 % |\n| Création d'emplois stables | Ratio supérieur à 5 et au plus 10 | 7 % |\n| Création d'emplois stables | Ratio supérieur à 10 | 10 % |\n| Territoriale | Province ou préfecture de catégorie A | 10 % |\n| Territoriale | Province ou préfecture de catégorie B | 15 % |\n| Activités prioritaires | Activité figurant sur la liste de l'arrêté 3.52.25 | 10 % |\nLes primes sont cumulables dans la limite de 30 % du montant primable (art. 12), alors que leur somme théorique peut atteindre 35 %. Le dispositif est cumulable avec les régimes régionaux de soutien aux entreprises et d'attraction des investissements (art. 19).\n### Attention\nun ratio compris entre 1,5 et moins de 2 rend le projet éligible, mais ne donne droit à aucune prime emplois. Seules les primes territoriale et prioritaire peuvent alors être versées. Un projet à Casablanca (sans prime territoriale) dans une activité non prioritaire, avec un ratio de 1,8, est éligible mais ne reçoit aucune prime : il ne présente pas d'intérêt.\n### À retenir\nle barème des emplois du dispositif TPME est différent de celui du dispositif principal. Principal : au-dessus de 1 jusqu'à 1,5 donne 5 %, au-dessus de 1,5 jusqu'à 3 donne 7 %, au-dessus de 3 donne 10 %. TPME : de 2 à 5 donne 5 %, au-dessus de 5 jusqu'à 10 donne 7 %, au-dessus de 10 donne 10 %.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-046",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "L'ordre de vérification",
+  "principe": "Avant tout calcul, l'investisseur vérifie dans l'ordre :\n- la région du projet ;\n- la branche d'activité dans la liste de cette région (arrêté 3.51.25) ; hors liste, le projet est exclu ;\n- la catégorie de la province ou préfecture (arrêté 3.54.25) ;\n- l'éventuelle activité prioritaire dans la branche (arrêté 3.52.25) ;\n- les conditions relatives à l'entreprise ;\n- le montant, le ratio d'emplois et les fonds propres ;\n- le montant primable, puis les primes et le plafond.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-047",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les branches éligibles et les activités prioritaires",
+  "principe": "Les deux arrêtés se combinent : l'arrêté 3.51.25 fixe les branches éligibles par région ; l'arrêté 3.52.25 désigne, parmi elles, les activités prioritaires qui ouvrent droit à la prime de 10 %. Regroupements de régions : « Toutes » désigne les douze régions ; « Six régions » désigne L'Oriental, Béni Mellal-Khénifra, Drâa-Tafilalet, Guelmim-Oued Noun, Laâyoune-Sakia El Hamra et Dakhla-Oued Ed-Dahab (rattachement des trois branches concernées à confirmer sur le PDF du Journal officiel, la cellule étant fusionnée) ; « Neuf régions minières » désigne L'Oriental, Fès-Meknès, Béni Mellal-Khénifra, Drâa-Tafilalet, Marrakech-Safi, Souss-Massa, Guelmim-Oued Noun, Laâyoune-Sakia El Hamra et Dakhla-Oued Ed-Dahab ; « Neuf régions côtières » désigne Tanger-Tétouan-Al Hoceïma, L'Oriental, Rabat-Salé-Kénitra, Casablanca-Settat, Marrakech-Safi, Souss-Massa, Guelmim-Oued Noun, Laâyoune-Sakia El Hamra et Dakhla-Oued Ed-Dahab.\n### Agriculture, pêche et industries extractives\n| Branche éligible | Régions | Activités prioritaires (+10 %) |\n| Élevage d'organismes aquatiques en mer et zones côtières | Neuf régions côtières | Aquaculture en eaux marines et zones côtières |\n| Élevage d'organismes aquatiques en eau douce | Toutes | Aquaculture en eau douce |\n| Traitement et valorisation des produits de l'élevage aquatique | Toutes | Transformation, traitement et valorisation des produits de l'aquaculture |\n| Extraction de minerais | Neuf régions minières | – |\n| Services d'appui aux activités extractives | Neuf régions minières | – |\n| Valorisation et transformation des produits miniers | Neuf régions minières | – |\n### Industries manufacturières (toutes les régions)\n| Branche éligible | Activités prioritaires (+10 %) |\n| Industries alimentaires | Transformation de produits d'origine végétale ; transformation de produits d'origine animale et aliments pour animaux ; biscuits, chocolat, confiserie, boulangerie-pâtisserie ; aliments pour enfants, diététiques et compléments alimentaires ; transformation, préparation et conservation des produits de la mer ; sous-produits de la mer et de l'aquaculture (alginates, oméga 3, spiruline, collagène) |\n| Industrie des boissons | Boissons, café, thé et infusions |\n| Industrie des produits du tabac | – |\n| Industrie textile | Tricotage et bonneterie ; teinture ; finissage ; impression |\n| Industrie de l'habillement | Vêtements en cuir ; vêtements en tissu |\n| Industrie du cuir et de la chaussure | Tannerie ; chaussures et chaussures de sport ; maroquinerie |\n| Travail du bois et articles en bois, liège, vannerie | Sciage, rabotage, imprégnation ; panneaux ; charpentes et menuiserie du bâtiment ; emballages en bois ; menuiserie industrielle |\n| Papier et carton | Papier, carton et articles ; papeterie ; emballages en papier ou carton |\n| Imprimerie et reproduction d'enregistrements | Impression industrielle |\n| Industrie chimique | Produits chimiques agricoles ; peintures et vernis ; savons, parfums et produits d'entretien ; cosmétiques |\n| Industrie pharmaceutique | Produits pharmaceutiques de base |\n| Appareils et équipements médicaux | – |\n| Caoutchouc et plastique | Articles en caoutchouc ; plaques, feuilles, tubes, profilés et emballages plastiques ; éléments de construction en plastique |\n| Autres produits minéraux non métalliques | Verre et produits en verre ; préfabriqués en béton, céramique et plâtre |\n| Métallurgie | Sidérurgie ; fusion des métaux |\n| Produits métalliques hors machines | Tubes, tuyaux et accessoires métalliques ; emballages métalliques ; première transformation des métaux |\n| Informatique, électronique et optique | Équipements informatiques et électroniques (composants, cartes), horlogerie, instruments de mesure, appareils de communication ; électroménager et électronique grand public |\n| Matériel et appareils électriques | Moteurs, générateurs, transformateurs, appareils de distribution et de commande ; batteries et accumulateurs |\n| Machines et équipements | Machines agricoles ; équipements de dessalement et de recyclage de l'eau ; équipements industriels ; produits ménagers en métal ou céramique |\n| Industrie automobile | Mobilité électrique ; micromobilité (deux et trois roues) ; véhicules lourds et engins mobiles ; batteries électriques, technologies et infrastructures de recharge ; outils mécaniques |\n| Autres moyens de transport | – |\n| Fabrication de meubles | Fabrication de meubles |\n| Autres industries manufacturières | Aéronautique (traitement de pièces, outillage, maintenance et modification d'avions, éléments d'intérieur) ; ferroviaire (sous-ensembles, peinture, traitement anticorrosion et de surface) ; naval (construction, maintenance et réparation de navires et structures flottantes, systèmes et composants marins) |\n| Réparation et installation de machines | – |\n| Industrie des énergies renouvelables | Chauffe-eau solaires ; composants des chaînes de valeur solaire et éolienne ; équipements de stockage d'énergie |\n| Ingénierie et services techniques liés à l'industrie | – |\n| Services d'appui aux activités industrielles | – |\n### Énergie, eau, déchets, transport, tourisme, artisanat (toutes les régions)\n| Secteur | Branche éligible | Activités prioritaires (+10 %) |\n| Électricité | Production d'électricité d'origine renouvelable | – |\n| Eau, assainissement, déchets | Recyclage, transformation et valorisation des déchets non importés | Recyclage, transformation et valorisation des déchets non importés |\n| Eau, assainissement, déchets | Collecte, traitement et élimination des déchets dangereux | – |\n| Eau, assainissement, déchets | Dépollution et gestion des déchets non ménagers | – |\n| Transport et stockage | Stockage et services annexes au transport | Stockage réfrigéré ; unités logistiques dans les ports |\n| Transport et stockage | Services postaux | – |\n| Hébergement et restauration | Établissements d'hébergement touristique classés (hors résidences immobilières rattachées et résidences de promotion touristique) | Mêmes établissements classés |\n| Hébergement et restauration | Restaurants touristiques | Restaurants touristiques |\n| Artisanat | Artisanat productif d'art et d'utilité | Produits traditionnels à base de matières végétales ou animales, d'argile, de pierre, de bois, de cuir, de textile ou de métaux |\n### Information, communication, services\n| Branche éligible | Régions | Activités prioritaires (+10 %) |\n| Édition | Toutes | – |\n| Films, vidéo, télévision, enregistrement sonore, édition musicale | Toutes | – |\n| Programmation et diffusion | Toutes | – |\n| Installation d'infrastructures de télécommunications | Toutes | – |\n| Logiciels, conseil et autres activités informatiques | Toutes | Cloud, cybersécurité, big data, intelligence artificielle, e-commerce, blockchain ; conception de sites web ; développement et test de logiciels et d'applications mobiles ; appareils connectés ; centres d'appels |\n| Services d'information (délocalisation, centres d'appels, IA, traitement de données, hébergement, centres de données) | Toutes | – |\n| Contrôle et analyse techniques | Six régions | – |\n| Formation professionnelle | Six régions | Création d'établissements de formation professionnelle |\n| Santé humaine | Six régions | – |\n| Création artistique et spectacles | Toutes | Restauration de monuments historiques ; musées ; salles de cinéma ; salles de théâtre ; jeux vidéo |\n| Activités récréatives | Toutes | Animation de tourisme écologique ; animation liée à l'art culinaire |\n| Réparation d'ordinateurs et de biens personnels et domestiques | Six régions | – |\nLa région de Casablanca-Settat n'est admise que pour l'élevage aquatique marin et pour les branches ouvertes à toutes les régions.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-048",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les provinces et préfectures par catégorie",
+  "principe": "L'arrêté 3.54.25 classe 36 provinces et préfectures en catégorie A (10 %) et 24 en catégorie B (15 %), selon la même liste que l'arrêté 3-14-23 du dispositif principal. Le tableau régional figure à la section 2 (section 2.4) et la liste complète à l'annexe A.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-049",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Les pièces du dossier (arrêté 3.53.25)",
+  "principe": "| Réf. | Pièce | Validité ou précision |\n| a | Extrait des statuts de l'entreprise et copie du dernier procès-verbal de son organe délibérant | – |\n| b | Copie du certificat d'immatriculation au registre du commerce (modèle J) pour les entreprises tenues de s'immatriculer, ou tout document attestant de la création de l'entreprise et de la nature de son activité | Moins de six mois |\n| c | Attestation de régularité fiscale délivrée par l'administration fiscale, ou copie | Moins de six mois |\n| d | Attestation de régularité délivrée par la CNSS, ou copie | Moins de six mois |\n| e | États financiers des trois derniers exercices (entreprises de plus de trois ans) ou états financiers établis (entreprises de moins de trois ans) | – |\n| f | Déclaration indiquant la nature du projet, le montant total estimé et sa répartition par poste, le calendrier de réalisation, le lieu, le nombre d'emplois stables à créer, la branche d'activité et le mode de financement | Modèle sur la plateforme électronique du CRI |\n| g | Copie des contrats d'acquisition, de location ou de location avec option d'achat du terrain affecté au projet, ou copie de la promesse de vente ou de location | – |\n| h | Copie des pièces d'identité du représentant légal | – |\n### À retenir\nles attestations fiscale et CNSS et le modèle J doivent dater de moins de six mois au dépôt. Un dossier incomplet est renvoyé : commander ces pièces en dernier, mais avant le dépôt.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-050",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "La procédure pas à pas",
+  "principe": "- Préparer le dossier : réunir les huit pièces ; remplir la déclaration (pièce f) sur la plateforme du CRI.\n- Déposer électroniquement auprès du CRI du lieu du projet (décret, art. 13 ; arrêté 3.53.25, art. 2).\n- Instruction par le CRI (art. 15) : vérification de la complétude, des conditions d'éligibilité, calcul du montant primable et des primes, préparation du projet de convention.\n- Classement (art. 16) : le CRI dresse la liste des dossiers acceptés selon leur date de réception, dans la limite des crédits affectés au dispositif. L'éligibilité ne garantit pas la prime.\n- Approbation par la commission régionale unifiée d'investissement (art. 17), conformément à l'article 30 bis-1 de la loi 47.18.\n- Signature de la convention (art. 18) par le wali de la région, le directeur du CRI, le représentant régional du ministère de l'Économie et des Finances, le représentant régional du département concerné et l'investisseur.\n- Réalisation dans les trois ans (art. 5).\n- Versement des primes (art. 14).\n- Suivi : rapports semestriels du CRI à l'autorité de tutelle, au wali, aux gouverneurs et à la Commission nationale (art. 15).\nContenu de la convention (art. 4) : nature du projet, branche, lieu, montant total estimé, montant primable, emplois stables prévus, primes et modalités de versement, obligations de l'investisseur et de l'État, délai, méthode de contrôle, mesures en cas de manquement, règlement des litiges.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-051",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Le versement des primes et la restitution",
+  "principe": "Primes territoriale et activités prioritaires : deux tranches. La première, de 50 % du montant global de ces deux primes, est versée lorsque l'investisseur justifie avoir investi au moins 50 % du montant convenu. Le solde est versé après constat de l'exécution de toutes les obligations contractuelles. Prime emplois stables : versée sur la base des justificatifs de la CNSS (art. 14). L'investisseur qui ne respecte pas ses obligations restitue les primes reçues (art. 6), selon des modalités fixées par arrêté.\n### Exemple chiffré\nune société agroalimentaire de Béni Mellal (catégorie A), créée il y a six ans, au CA de 25 MDH, investit 12 MDH : terrain privé 1,5 MDH, études 0,4 MDH, bâtiment 4 MDH, équipements 5,6 MDH, véhicule 0,5 MDH. Elle crée 30 emplois stables et transforme des produits d'origine végétale (activité prioritaire). Éligibilité : 12 MDH entre 1 et 50 ; ratio 30 ÷ 12 = 2,5 ≥ 1,5. Montant primable : 12 − 0,5 (véhicule exclu) = 11,5 MDH ; études 0,4 ≤ min(5 % × 11,5 = 0,575 ; 0,5) ; terrain 1,5 ≤ min(20 % × 11,5 = 2,3 ; 5). Primes : 5 % (ratio 2,5) + 10 % (catégorie A) + 10 % (prioritaire) = 25 %, soit 2,875 MDH. Versements : 1,15 MDH (50 % des primes territoriale et prioritaire) après 6 MDH investis ; 1,15 MDH à l'achèvement ; 0,575 MDH sur justificatifs CNSS. Fonds propres minimaux : 1,2 MDH.\nExemple chiffré : la même entreprise implantée en catégorie B, avec 48 emplois sur un montant primable de 8 MDH (ratio 6, palier de 7 %), dans une activité prioritaire, atteindrait 7 + 15 + 10 = 32 %. La prime est plafonnée à 30 %, soit 2,4 MDH au lieu de 2,56 MDH.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-052",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Le dispositif de soutien aux TPME",
+  "t": "Ce que les textes ne disent pas",
+  "principe": "Les textes ne fixent pas de délai d'instruction par le CRI, ni le montant des crédits affectés au dispositif, ni le sort des dépenses engagées avant le dépôt. Ils ne précisent pas non plus l'articulation avec les garanties Tamwilcom, qui restent mobilisables par ailleurs. Il faut obtenir ces informations auprès du CRI et les faire figurer dans un échange écrit. La loi de finances 2026 prévoit par ailleurs une offre d'accompagnement des TPME, et Maroc PME porte un nouveau programme d'assistance technique « à la carte » dans le cadre d'un contrat-programme État–Maroc PME 2025-2030 (statut C).",
+  "faq": [
+   [
+    "Une SARL créée il y a un an sans chiffre d'affaires est-elle éligible ?",
+    "Oui : une entreprise de moins de trois ans à la date du dépôt est dispensée de la condition de chiffre d'affaires (art. 20). Elle doit respecter les autres conditions : capital non détenu à plus de 25 % par une société de plus de 200 MDH de CA, aucun associé public, projet de 1 à moins de 50 MDH, ratio d'emplois d'au moins 1,5 et 10 % de fonds propres."
+   ],
+   [
+    "Comment se calcule le ratio d'emplois du dispositif TPME ?",
+    "Nombre d'emplois stables divisé par l'investissement total, multiplié par un million (art. 1-t) : c'est le nombre d'emplois par MDH investi. 30 emplois pour 12 MDH donnent 2,5."
+   ],
+   [
+    "Mon ratio est de 1,8 : ai-je droit à la prime emplois ?",
+    "Non. Le projet est éligible (ratio d'au moins 1,5), mais la prime emplois commence à un ratio de 2. Seules les primes territoriale et prioritaire peuvent être obtenues."
+   ],
+   [
+    "Les véhicules entrent-ils dans le montant primable ?",
+    "Non : l'acquisition, la location ou la location avec option d'achat de véhicules est exclue du montant primable (art. 2). Ils restent comptés dans l'investissement total."
+   ],
+   [
+    "Le terrain est-il pris en compte pour un projet de services informatiques ?",
+    "Non. Le terrain privé n'est retenu que pour l'industrie, le tourisme, l'animation touristique et l'artisanat, dans la limite de 20 % du montant primable et de 5 MDH."
+   ],
+   [
+    "L'éligibilité garantit-elle la prime ?",
+    "Non. Le CRI classe les dossiers éligibles selon leur date de réception, dans la limite des crédits affectés au dispositif (art. 16). Il faut déposer tôt un dossier complet."
+   ],
+   [
+    "Quand la prime est-elle versée ?",
+    "50 % des primes territoriale et prioritaire lorsque 50 % de l'investissement convenu est réalisé, le solde après exécution de toutes les obligations ; la prime emplois sur justificatifs CNSS."
+   ],
+   [
+    "Peut-on cumuler le dispositif TPME avec une aide de la région ?",
+    "Oui, l'article 19 autorise le cumul avec les régimes régionaux de soutien aux entreprises et d'attraction des investissements. En revanche, un projet déjà conventionné avec l'État dans un régime aux avantages similaires est exclu (art. 8)."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

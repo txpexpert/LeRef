@@ -1,0 +1,35 @@
+[
+ {
+  "id": "5-010",
+  "p": 5,
+  "ch": "5.2",
+  "c": "L'introduction en bourse",
+  "t": "Le Marché Principal (grandes entreprises)",
+  "principe": "L'introduction des grandes entreprises à la Bourse de Casablanca se fait par le Marché Principal. Exigences par compartiment (Kit de décembre 2025, tableau à recontrôler sur le document de la Bourse) :\n| Exigence | Compartiments A et B | Compartiment E | Compartiment F |\n| Part minimale des titres diffusés dans le public | 25 % si le capital est inférieur à 5 Md DH ; 20 % entre 5 et 10 Md DH ; 15 % entre 10 et 40 Md DH ; 10 % au-delà | Compartiment réservé aux investisseurs qualifiés ou aux actionnaires antérieurs | 10 % du capital à l'admission ; dérogation de l'AMMC possible jusqu'à 5 % |\n| Montant minimal diffusé | 1,25 Md DH (capital de 5 à 10 Md DH) ; 2 Md DH (10 à 40 Md DH) ; 6 Md DH (au-delà) | – | Fixé par la Bourse, au moins 100 MDH |\n| Exercices certifiés | 3 | 1 | 3 |\nContacts : département Grandes Entreprises de la Bourse (05 22 45 26 30) ; www.casablanca-bourse.com ; www.ipo.ma.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-011",
+  "p": 5,
+  "ch": "5.2",
+  "c": "L'introduction en bourse",
+  "t": "Le Marché Alternatif (PME)",
+  "principe": "Conditions : répondre à au moins un critère (chiffre d'affaires inférieur à 500 MDH, total du bilan inférieur à 200 MDH, moins de 300 salariés) ; lever au moins 5 MDH ; présenter un exercice certifié. Avantages : réduction de 50 % des commissions d'introduction ; guichet unique ; formation et accompagnement. Département PME de la Bourse : 05 22 45 74 90.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-012",
+  "p": 5,
+  "ch": "5.2",
+  "c": "L'introduction en bourse",
+  "t": "Les étapes d'une introduction",
+  "principe": "- Diagnostic de préparation : gouvernance, qualité de l'information financière, certification des comptes.\n- Choix des conseils : conseiller financier, société de bourse, commissaires aux comptes, conseil juridique.\n- Transformation en société anonyme si nécessaire, mise à niveau des statuts et de la gouvernance (administrateurs indépendants, comité d'audit).\n- Rédaction du prospectus, visé par l'AMMC.\n- Admission par la Bourse de Casablanca, puis période de souscription et cotation.\n- Obligations d'information permanente et périodique après la cotation.\nL'avantage fiscal lié à l'introduction en bourse est décrit à la section 8 (section 8.5).",
+  "faq": [
+   [
+    "Une PME peut-elle lever des fonds en bourse ?",
+    "Oui, sur le Marché Alternatif, si elle respecte au moins un critère de taille (CA inférieur à 500 MDH, bilan inférieur à 200 MDH ou moins de 300 salariés), lève au moins 5 MDH et présente un exercice certifié. Les commissions d'introduction sont réduites de moitié."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

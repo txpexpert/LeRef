@@ -1,0 +1,61 @@
+[
+ {
+  "id": "1-020",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Construire le plan de financement",
+  "t": "Le principe d'équilibre",
+  "principe": "Le plan de financement présente, en face des emplois (investissement hors taxes, TVA à préfinancer, besoin en fonds de roulement de démarrage, frais d'établissement), les ressources qui les couvrent (fonds propres, quasi-fonds propres, crédits, crédit-bail, primes et subventions). Il doit être équilibré chaque année de la période de réalisation, et pas seulement en total. C'est la trésorerie annuelle qui révèle le besoin de préfinancement des primes et de la TVA.\n| Emplois | Ressources |\n| Études, frais préliminaires, marques et brevets | Capital social et augmentation de capital |\n| Terrain (privé ou public), aménagement | Comptes courants d'associés bloqués |\n| Constructions, génie civil, infrastructures | Quasi-fonds propres (dette subordonnée, prêt participatif, prêt d'honneur) |\n| Équipements, matériel, outillage | Crédit d'investissement à moyen et long terme |\n| Matériel de transport | Crédit-bail mobilier et immobilier |\n| Besoin en fonds de roulement de démarrage | Crédit de fonctionnement |\n| TVA à préfinancer (si non exonérée) | Crédit de TVA, préfinancement bancaire |\n| Frais financiers intercalaires | Primes et subventions (au rythme de leur versement réel) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-021",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Construire le plan de financement",
+  "t": "Les ratios regardés par les banques et les comités",
+  "principe": "Les banques marocaines appliquent leurs propres politiques de crédit ; les ratios ci-dessous sont des repères de place, pas des règles réglementaires. Ils doivent être confirmés avec la banque.\n| Ratio | Définition | Repère courant | Commentaire |\n| Apport en fonds propres | Fonds propres ÷ coût total du projet | 20 à 40 % selon le risque | Minimum légal de 10 % pour le dispositif TPME ; 20 % pour MDM Invest ; au moins 2 MDH de fonds propres pour Cap Access |\n| Couverture du service de la dette (DSCR) | (Excédent brut d'exploitation − impôt) ÷ (intérêts + remboursement du capital) | Au moins 1,2 à 1,3 | En dessous de 1, l'entreprise ne peut pas rembourser avec son exploitation |\n| Endettement | Dettes financières ÷ fonds propres | Au plus 2 à 3 | Cap Hospitality exige un ratio inférieur à 5 |\n| Capacité de remboursement | Dettes financières ÷ capacité d'autofinancement | Au plus 4 à 5 ans |  |\n| Délai de récupération | Années pour récupérer l'investissement par les flux de trésorerie | Selon le secteur | Plus long pour le tourisme et l'industrie lourde |\n### Exemple chiffré\nune PME emprunte 9,6 MDH sur sept ans à 6 % en mensualités constantes. Le service annuel de la dette est d'environ 1,683 MDH. Si l'excédent brut d'exploitation prévu est de 3,2 MDH et l'impôt sur les sociétés de 0,35 MDH, le DSCR vaut (3,2 − 0,35) ÷ 1,683 = 1,69 : le projet supporte la dette avec une marge confortable.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-022",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Construire le plan de financement",
+  "t": "L'ordre de mobilisation des ressources",
+  "principe": "L'expérience des dossiers montre qu'un ordre précis évite les blocages.\n- Constituer l'apport : capital libéré ou comptes courants bloqués, justifiés par des relevés bancaires. Sans apport démontré, ni la banque ni le CRI n'avancent.\n- Sécuriser le foncier : titre de propriété, promesse de vente ou contrat de location. Le foncier conditionne le dossier CRI (pièce g de l'arrêté 3.53.25 pour le TPME) et les autorisations.\n- Obtenir un accord de principe de la banque sur le crédit, sous réserve de la garantie Tamwilcom et de la convention.\n- Déposer la demande de convention et de primes au CRI. Ne pas engager de dépenses importantes avant d'avoir vérifié si le dispositif admet les dépenses antérieures au dépôt (point à confirmer avec le CRI : les textes ne le précisent pas).\n- Signer la convention, puis lever les crédits et la garantie.\n- Réaliser l'investissement et réunir les justificatifs au fil de l'eau (factures, déclarations CNSS).\n- Demander les versements de primes aux jalons prévus (par exemple 50 % de l'investissement réalisé pour la première tranche TPME).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-023",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Construire le plan de financement",
+  "t": "Préfinancer les primes et la TVA",
+  "principe": "Les primes du dispositif TPME sont versées ainsi (décret 2.25.342, art. 14) : la prime territoriale et la prime pour activités prioritaires en deux tranches, la première de 50 % de leur montant global lorsque l'investisseur justifie avoir investi au moins 50 % du montant convenu, le solde après constat de l'exécution de toutes les obligations ; la prime liée aux emplois stables sur la base des justificatifs de la CNSS, donc après les recrutements. Les primes du dispositif principal sont versées par tranches, au fur et à mesure de la réalisation (décret 2-23-1, art. 4).\nIl en résulte un besoin de trésorerie temporaire égal aux primes attendues. Trois solutions existent : un apport supplémentaire des associés, remboursé par la prime ; un crédit relais bancaire adossé à la convention ; un échéancier de dépenses aligné sur les versements. La troisième est rarement possible.\nLa TVA sur les biens d'investissement est un second besoin de trésorerie. Les entreprises qui signent une convention d'investissement avec l'État bénéficient, sous conditions, d'une exonération de TVA à l'importation et à l'intérieur pendant 36 mois, prorogeable de 24 mois par la loi de finances 2026 (section 8). À défaut, la TVA payée est récupérable mais doit être avancée.\n### Attention\nune prime n'est pas une ressource au jour 1. Un plan de financement qui inscrit la prime comme ressource de l'année de démarrage, sans préfinancement, sera rejeté par la banque ou laissera l'entreprise en défaut de trésorerie.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-024",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Construire le plan de financement",
+  "t": "Modèle de plan de financement",
+  "principe": "| Rubrique | Année 0 | Année 1 | Année 2 | Année 3 | Total |\n| Investissements hors taxes |  |  |  |  |  |\n| TVA sur investissements non exonérée |  |  |  |  |  |\n| Variation du BFR |  |  |  |  |  |\n| Remboursements d'emprunts |  |  |  |  |  |\n| Total des emplois |  |  |  |  |  |\n| Apport en capital |  |  |  |  |  |\n| Comptes courants d'associés |  |  |  |  |  |\n| Capacité d'autofinancement |  |  |  |  |  |\n| Crédits à moyen et long terme |  |  |  |  |  |\n| Crédit-bail (valeur financée) |  |  |  |  |  |\n| Primes encaissées (Charte, programmes) |  |  |  |  |  |\n| Crédit relais (encaissement − remboursement) |  |  |  |  |  |\n| Total des ressources |  |  |  |  |  |\n| Trésorerie de fin d'année |  |  |  |  |  |",
+  "faq": [
+   [
+    "Quel apport minimal prévoir pour un projet présenté au dispositif TPME ?",
+    "Le décret 2.25.342 (art. 7) impose qu'au moins 10 % de l'investissement total soient financés par des ressources propres. C'est un minimum légal ; la banque qui finance le reste demandera généralement davantage, et certains cofinancements exigent 20 % (MDM Invest)."
+   ],
+   [
+    "Peut-on inscrire la prime de la Charte en ressource dans le plan de financement ?",
+    "Oui, mais à la date réelle de son versement : après 50 % de l'investissement réalisé pour la première tranche des primes territoriale et prioritaire du TPME, après les déclarations CNSS pour la prime emplois, et le solde après constat de l'exécution des obligations. Il faut prévoir un crédit relais ou un apport temporaire."
+   ],
+   [
+    "Quel DSCR une banque exige-t-elle ?",
+    "Aucun texte ne fixe de minimum ; chaque banque applique sa politique. Le repère courant est un DSCR d'au moins 1,2 à 1,3. Il faut le calculer année par année, en particulier la première année pleine d'exploitation."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

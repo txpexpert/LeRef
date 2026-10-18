@@ -1,0 +1,168 @@
+[
+  {
+    "code": "M1",
+    "titre": "Demande de décision anticipée (renseignement tarifaire, origine ou valeur)",
+    "usage": "Obtenir de l'ADII, avant l'opération, une décision anticipée sur le classement tarifaire, l'origine ou la méthode d'évaluation d'une marchandise. L'administration dispose de 150 jours au plus pour répondre.",
+    "textes": [
+      "CDII, art. 45 ter-2° à 4°",
+      "Décret n° 2-77-862 du 09/10/1977, art. 216 bis",
+      "Circulaires ADII de classement de la série 232 (n° 6709/232, 6710/232, 6729/232 et 6732/232), pour le niveau de description attendu"
+    ],
+    "corps": [
+      "Raison sociale : ………………………… RC n° : ………………………… ICE : …………………………",
+      "Adresse : ………………………… Représentée par : …………………………, en qualité de : …………………………",
+      "À l'Administration des douanes et impôts indirects — service chargé des décisions anticipées",
+      "Objet : demande de décision anticipée (CDII, art. 45 ter-2°) portant sur : ☐ le classement tarifaire ☐ l'origine ☐ la méthode d'évaluation de la valeur en douane",
+      "En application de l'article 45 ter-2° du Code des douanes et impôts indirects et de l'article 216 bis du décret n° 2-77-862, nous avons l'honneur de solliciter une décision anticipée pour la marchandise décrite ci-après, que nous prévoyons d'importer / d'exporter à compter du ………………………….",
+      "1. Désignation commerciale : …………………………. Composition : …………………………. Présentation et conditionnement : …………………………. Usage : …………………………. Procédé de fabrication : ………………………….",
+      "2. Opération envisagée : pays d'origine et de provenance : ………………………… ; fournisseur ou client : ………………………… ; volume annuel prévisionnel : ………………………… ; bureau de dédouanement : ………………………….",
+      "3. Notre proposition motivée : sous-position tarifaire …………………………, en application des règles générales interprétatives ………………………… (ou : critère d'origine ………………………… ; ou : méthode d'évaluation …………………………), pour les motifs suivants : ………………………….",
+      "4. Confidentialité : les informations figurant aux pièces n° ………………………… ont un caractère confidentiel et relèvent du secret professionnel (CDII, art. 45 ter-3°).",
+      "Nous certifions l'exactitude et le caractère complet des informations fournies et nous nous engageons à signaler toute modification des éléments décrits.",
+      "Fait à …………………………, le …………………………. Signature et cachet : …………………………"
+    ],
+    "pieces": [
+      "Fiche technique et, le cas échéant, bulletin d'analyse de la composition",
+      "Photographies, catalogue ou échantillon",
+      "Facture pro forma, contrat ou bon de commande",
+      "Pour l'origine : nomenclature des matières utilisées, avec leur origine et leur valeur, et description des ouvraisons",
+      "Pour la valeur : contrat de vente, conditions de prix, contrats de licence et liens éventuels entre acheteur et vendeur",
+      "Pièces exigées par l'arrêté du ministre chargé des finances fixant le dossier (décret, art. 216 bis), qui prévalent sur la présente liste"
+    ],
+    "vigilance": [
+      "Déposer la demande au moins cinq mois avant la première opération, compte tenu du délai de réponse de 150 jours (CDII, art. 45 ter-2°).",
+      "Une demande incomplète retarde la réponse et fragilise la décision.",
+      "La validité de la décision est limitée dans le temps et cède devant une modification des textes (n° 2-061)."
+    ],
+    "renvois": [
+      "2-060",
+      "2-061",
+      "2-002",
+      "2-005"
+    ],
+    "figures": [
+      1
+    ]
+  },
+  {
+    "code": "M2",
+    "titre": "Engagement du soumissionnaire et de la caution (régime économique en douane)",
+    "usage": "Formaliser l'engagement solidaire du soumissionnaire et de sa caution pour des marchandises placées sous régime suspensif, notamment à l'appui d'une demande de cautionnement. L'acquit à caution lui-même est établi sur la formule de la déclaration en détail ou simplifiée (CDII, art. 116-1°) ; lorsque l'ADII impose un formulaire de demande et d'engagement, ce formulaire prévaut.",
+    "textes": [
+      "CDII, art. 116-1° à 3°, 116 ter, 117 et 222-c",
+      "Décret n° 2-77-862 du 09/10/1977, art. 107 et 108",
+      "Circulaires ADII n° 6164/313 du 09/02/2021, n° 5458/313 du 23/07/2014 et n° 5496/400 du 13/01/2015"
+    ],
+    "corps": [
+      "Le soussigné …………………………, agissant au nom de la société ………………………… (RC n° …………………………, ICE …………………………), ci-après « le soumissionnaire »,",
+      "et …………………………, agissant au nom de …………………………, ci-après « la caution »,",
+      "s'engagent solidairement envers l'Administration des douanes et impôts indirects, pour les marchandises placées sous le régime ………………………… (code …………………………) par la déclaration n° ………………………… du …………………………, bureau de …………………………, à :",
+      "1. représenter les marchandises à toute réquisition de l'administration pendant leur séjour sous le régime ;",
+      "2. apurer le compte dans le délai de séjour fixé, soit au plus tard le …………………………, par l'une des destinations autorisées : exportation, entreposage, cession autorisée ou mise à la consommation autorisée, au moyen des fiches d'imputation jointes aux déclarations de sortie (décret, art. 107 et 108) ;",
+      "3. tenir les écritures de suivi des marchandises placées, des produits compensateurs et des déchets (CDII, art. 116 ter), et régulariser les déchets taxables pendant la validité du compte (circ. n° 5458/313) ;",
+      "4. à défaut d'apurement régulier, acquitter les droits et taxes dont les marchandises sont passibles, avec l'intérêt de retard et les pénalités encourues.",
+      "Le soumissionnaire reconnaît qu'il demeure pénalement responsable de l'inexécution des engagements souscrits (CDII, art. 222-c) et que le mandat donné à un transitaire ne le décharge pas de ses obligations (circ. n° 5496/400). L'engagement prend fin par la délivrance du certificat de décharge, total ou partiel à proportion des quantités apurées (CDII, art. 117).",
+      "Fait à …………………………, le …………………………. Le soumissionnaire (signature légalisée) : ………………………… La caution (signature légalisée) : …………………………"
+    ],
+    "pieces": [
+      "Statuts, registre de commerce et pouvoirs des signataires",
+      "Mandat du transitaire, visant expressément la souscription des acquits à caution (circ. n° 5496/400)",
+      "Pièces propres à la demande de cautionnement, selon le type de cautionnement sollicité (n° 7-005)"
+    ],
+    "vigilance": [
+      "Une société qui opère pour la première fois en ATPA, TSD ou EIF doit obtenir une autorisation préalable après enquête d'outillage (circ. n° 6538/313 ; n° 7-002).",
+      "Le compte échu non apuré expose à la liquidation d'office et à des sanctions (n° 7-006).",
+      "La décharge sans observation n'empêche pas la constatation ultérieure d'infractions (CDII, art. 234-2°)."
+    ],
+    "renvois": [
+      "7-002",
+      "7-003",
+      "7-004",
+      "7-005",
+      "7-006"
+    ],
+    "figures": [
+      8
+    ]
+  },
+  {
+    "code": "M3",
+    "titre": "Demande de transaction douanière",
+    "usage": "Solliciter de l'administration un règlement transactionnel après la constatation d'une infraction, avant ou après jugement. La transaction peut réduire ou supprimer amendes et confiscations, jamais les droits et taxes, sauf abandon des marchandises.",
+    "textes": [
+      "CDII, art. 217, 273, 274, 275, 276 et 278",
+      "Circulaire ADII n° 6522/210 du 29/12/2023 (LF 2024, art. 275)"
+    ],
+    "corps": [
+      "Raison sociale ou nom : ………………………… Adresse : ………………………… Représentée par : …………………………",
+      "À Monsieur …………………………, autorité compétente de l'Administration des douanes et impôts indirects, …………………………",
+      "Objet : demande de règlement transactionnel — procès-verbal n° ………………………… du …………………………, bureau ou service de …………………………",
+      "Par procès-verbal n° ………………………… du …………………………, les agents de l'administration ont constaté à notre encontre l'infraction suivante : …………………………, portant sur ………………………… (marchandises, quantité, valeur).",
+      "Nous exposons les circonstances suivantes : …………………………. Éléments à prendre en compte : bonne foi, régularisation spontanée, absence d'antécédents, coopération lors du contrôle : ………………………….",
+      "Conformément à l'article 275 du CDII, nous nous engageons à acquitter l'intégralité des droits et taxes exigibles, soit ………………………… DH — ou : nous proposons l'abandon des marchandises litigieuses au profit de l'administration.",
+      "Nous sollicitons la remise ☐ totale ☐ partielle des amendes, confiscations et autres sommes dues, et proposons le versement de ………………………… DH, selon les modalités suivantes : ………………………….",
+      "La présente demande est présentée au nom des personnes suivantes, qui entendent être parties à la transaction : ………………………… (société, dirigeant, transporteur).",
+      "Nous prenons acte que la transaction ne deviendra définitive qu'après sa ratification par le ministre chargé des finances ou le directeur de l'administration (CDII, art. 274).",
+      "Fait à …………………………, le …………………………. Signature : …………………………"
+    ],
+    "pieces": [
+      "Copie du procès-verbal et, le cas échéant, du procès-verbal de saisie",
+      "Justificatifs à l'appui des circonstances invoquées",
+      "Quittance ou engagement de paiement des droits et taxes",
+      "Pouvoir du signataire"
+    ],
+    "vigilance": [
+      "Conclue avant jugement définitif, la transaction éteint l'action publique et l'action de l'administration ; après jugement, l'emprisonnement subsiste (CDII, art. 273).",
+      "Elle ne vaut qu'entre les parties : un co-auteur qui n'a pas transigé reste poursuivi pour l'amende intégrale (CDII, art. 217).",
+      "Une nouvelle infraction commise dans les trois ans d'une transaction est punie d'une amende du double du maximum (CDII, art. 257 ter)."
+    ],
+    "renvois": [
+      "9-030",
+      "9-031",
+      "9-020",
+      "9-023"
+    ],
+    "figures": [
+      12
+    ]
+  },
+  {
+    "code": "M4",
+    "titre": "Saisine de la commission locale de concertation et recours devant la commission consultative et de recours",
+    "usage": "Porter une contestation ou un litige douanier (classement, valeur, origine, résultats de visite) devant la commission locale de concertation, puis, en cas de contestation de l'avis local ou de silence de l'administration, devant la commission consultative et de recours.",
+    "textes": [
+      "CDII, art. 22 bis, 22 ter et 22 quater",
+      "Arrêté du ministre de l'économie et des finances n° 1067-00 du 24/08/2000 (conditions de saisine et de fonctionnement)"
+    ],
+    "corps": [
+      "Raison sociale : ………………………… Qualité : ☐ opérateur économique ☐ déclarant Adresse : …………………………",
+      "À Monsieur le Directeur régional (ou chef de circonscription) de …………………………, président de la commission locale de concertation",
+      "Objet : saisine de la commission locale de concertation (CDII, art. 22 bis) — déclaration n° ………………………… du …………………………, bureau de …………………………",
+      "Opération : marchandise …………………………, sous-position déclarée …………………………, valeur déclarée ………………………….",
+      "Décision contestée : ………………………… (classement, valeur, origine, résultats de vérification), notifiée le ………………………….",
+      "Notre position et ses motifs : ………………………….",
+      "Nous demandons l'inscription de ce litige à la prochaine réunion de la commission, l'audition de notre représentant, M. …………………………, et l'invitation du groupement professionnel concerné, ………………………….",
+      "Fait à …………………………, le …………………………. Signature : …………………………",
+      "Variante — recours devant la commission consultative et de recours : adresser la demande à Monsieur le Ministre chargé des finances, président de la commission consultative et de recours (CDII, art. 22 ter), en visant l'avis de la commission locale du ………… ou, à défaut, le silence de l'administration dans les quinze jours suivant la réunion du …………, et en reprenant les rubriques ci-dessus."
+    ],
+    "pieces": [
+      "Copie de la déclaration et de la décision ou des résultats contestés",
+      "Dossier technique : fiches produit, analyses, avis ou décisions de classement",
+      "Avis de la commission locale, pour le recours devant la commission nationale"
+    ],
+    "vigilance": [
+      "L'administration statue dans les quinze jours suivant la réunion de chaque commission (CDII, art. 22 bis et 22 ter) : notez la date de la réunion.",
+      "Les avis des commissions sont consultatifs ; la décision appartient à l'administration.",
+      "Les conditions de forme fixées par l'arrêté n° 1067-00 prévalent sur le présent modèle."
+    ],
+    "renvois": [
+      "9-050",
+      "3-034",
+      "9-051"
+    ],
+    "figures": [
+      3,
+      13
+    ]
+  }
+]

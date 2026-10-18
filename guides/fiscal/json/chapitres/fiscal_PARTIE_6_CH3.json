@@ -1,0 +1,29 @@
+[
+ {
+  "id": "6-020",
+  "p": 6,
+  "ch": "6.3",
+  "c": "La prescription",
+  "t": "Le délai de droit commun : quatre ans",
+  "principe": "L’administration peut réparer les insuffisances, erreurs et omissions, les omissions résultant d’un défaut de déclaration et les insuffisances de prix dans les actes jusqu’au 31 décembre de la quatrième année suivant [CGI art. 232] :\n| Situation | Point de départ |\n| Impôts sur les résultats et revenus, TVA | Année de clôture de l’exercice, d’acquisition du revenu ou au titre de laquelle la taxe est due |\n| Profits fonciers | Année de révélation de la cession (enregistrement d’un acte, déclaration, dépôt de la déclaration de l’article 83) |\n| Profits sur valeurs mobilières | Année de révélation de la cession |\n| Retenues à la source | Année au cours de laquelle les sommes devaient être versées au Trésor |\n| Droits d’enregistrement | Date d’enregistrement de l’acte ou de la convention |\n| Droits d’enregistrement d’actes non présentés | 10 ans à compter de la date des actes [art. 234-I-1°] (Recueil DGI, Q08) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-021",
+  "p": 6,
+  "ch": "6.3",
+  "c": "La prescription",
+  "t": "L’extension aux exercices prescrits",
+  "principe": "Lorsque des déficits ou des crédits de TVA d’exercices prescrits sont imputés sur une période non prescrite, le droit de réparer s’étend aux quatre dernières périodes prescrites, dans la limite des déficits ou crédits imputés [art. 232-III].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-022",
+  "p": 6,
+  "ch": "6.3",
+  "c": "La prescription",
+  "t": "Interruption et suspension",
+  "principe": "- Interruption par : la notification de l’examen de situation fiscale, la 1re lettre de notification (procédure normale ou accélérée), la notification d’erreurs matérielles ou de dépassement de seuils (art. 221 bis), la rectification des retenues, la rectification des profits fonciers, l’invitation à déposer en taxation d’office, la lettre de l’article 229, et l’envoi des demandes de renseignements internationales [art. 232-V].\n- Effet de l’interruption (Recueil DGI, Q07) : elle annule la prescription commencée et fait courir, à compter de l’acte interruptif, un nouveau délai de même durée (et non une simple suspension).\n- Suspension : entre le pourvoi devant une commission et l’expiration de 3 mois suivant la notification de sa décision ; entre le recours judiciaire et 3 mois après la décision définitive [art. 232-VI].",
+  "maj": "2026-10-17"
+ }
+]

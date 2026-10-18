@@ -1,0 +1,507 @@
+[
+  {
+    "id": "7-010",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Admission temporaire pour perfectionnement actif (ATPA) : principe, marchandises admissibles et destination des produits compensateurs",
+    "enbref": "L'ATPA permet d'importer en suspension des droits et taxes des marchandises destinées à être transformées, ouvrées ou à recevoir un complément de main-d'œuvre, à condition que les produits compensateurs soient exportés, entreposés ou placés en admission temporaire avant l'échéance du compte. À défaut, les droits deviennent immédiatement exigibles ; la vente sur le marché local reste une dérogation.",
+    "textes": [
+      "CDII, art. 114 et 135",
+      "CDII, art. 139 et 139 bis",
+      "Décret n° 2-77-862, art. 101 à 104 et 110",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexe I",
+      "Circulaire ADII n° 6063/313 du 23/06/2020",
+      "Circulaire ADII n° 6190/313 du 05/05/2021"
+    ],
+    "principe": "L'article 135-1° du CDII ouvre l'ATPA aux marchandises importées en suspension des droits pour subir une transformation, une ouvraison ou un complément de main-d'œuvre, ainsi qu'aux marchandises qui ne se retrouvent pas dans les produits compensateurs mais permettent de les obtenir, dans la limite d'une liste fixée par arrêté. Les marchandises soumises à licence d'importation au titre de l'article 13 de la loi n° 91-14 n'y sont admises que sur autorisation, après avis ministériel (art. 135-1° ; décret n° 2-77-862, art. 110). Après transformation, les produits doivent, sauf dérogation du directeur, être exportés, mis en entrepôt ou placés en admission temporaire avant l'expiration du délai de l'article 137 ; à défaut, les droits sont immédiatement exigibles, sauf exportation tardive autorisée (art. 135-2°). Une partie des produits compensateurs peut être mise à la consommation dans des proportions fixées par arrêté (art. 135-2° bis). Les produits compensateurs peuvent être cédés (art. 139) et la transformation sous-traitée à une personne outillée, sous la responsabilité du soumissionnaire (art. 139 bis). L'opération est couverte par un acquit à caution déposé au bureau de souscription, qui tient le compte (décret, art. 101 à 104). L'entrée et la sortie sous ATPA ne peuvent avoir lieu que par l'un des treize bureaux désignés par le décret (art. 99). L'acquit à caution porte la signature du déclarant et du bénéficiaire, dit soumissionnaire, et un exemplaire lui est remis, à présenter à toute réquisition (décret, art. 101 et 102). Lors de la vérification, les agents peuvent prélever des échantillons et marquer ou estampiller les marchandises lorsque les transformations envisagées ne s'y opposent pas (art. 103).",
+    "admin": "La circulaire n° 6164/313 (annexe I) rappelle les conditions maintenues malgré la suppression des autorisations : outillage, délai de deux ans, apurement par exportation, cession ou mise à la consommation (art. 141). La circulaire n° 6063/313 permet de calculer la garantie sur le droit préférentiel lorsque la déclaration d'ATPA, avec ou sans paiement (codes régimes 22 et 23), mentionne l'accord applicable et joint la preuve d'origine. La circulaire n° 6190/313 impose de déclarer les produits compensateurs obtenus sans paiement à leur valeur brute, intrants compris.",
+    "donnees": [
+      [
+        "Destination obligatoire",
+        "Exportation, entrepôt ou admission temporaire avant échéance (CDII, art. 135-2°)"
+      ],
+      [
+        "Durée maximale de séjour",
+        "2 ans à compter de l'enregistrement de la déclaration d'importation (CDII, art. 137)"
+      ],
+      [
+        "Codes régimes",
+        "22 avec paiement, 23 sans paiement (circ. 6063/313 du 23/06/2020)"
+      ],
+      [
+        "Valeur des produits compensateurs exportés",
+        "Valeur brute : intrants et ouvraison (circ. 6190/313 du 05/05/2021)"
+      ],
+      [
+        "Bureaux ouverts",
+        "13 bureaux désignés (décret, art. 99)"
+      ]
+    ],
+    "cas": "Casa Électronique SARL, société fictive, reçoit sans paiement d'un donneur d'ordres français des composants d'une valeur de 2 000 000 DH pour assembler des cartes de commande. Elle les déclare sous le code régime 23 et, les composants étant d'origine européenne, joint la preuve d'origine pour que la garantie soit calculée sur le droit préférentiel (circ. 6063/313). Les cartes sont exportées en trois envois pour une valeur brute de 2 600 000 DH, soit les composants plus 600 000 DH d'ouvraison. Erreur à éviter : déclarer à l'export la seule valeur de façon de 600 000 DH ; la valeur brute est obligatoire (circ. 6190/313).",
+    "juris": "",
+    "conseil": "Avant la première importation, vérifiez que la marchandise n'est pas soumise à licence et qu'une nomenclature de fabrication relie chaque intrant à chaque produit compensateur. Si une partie de la transformation est confiée à un sous-traitant, formalisez chaque mouvement par un bon de livraison avec accusé de réception et reportez-le dans vos écritures de suivi : c'est la première pièce demandée en contrôle. Enfin, joignez systématiquement la preuve d'origine des intrants : elle réduit la garantie à constituer.",
+    "faq": [
+      [
+        "Puis-je vendre au Maroc une partie de ma production réalisée sous ATPA ?",
+        "Seulement par dérogation : mise à la consommation dans des proportions fixées par arrêté (CDII, art. 135-2° bis) ou régularisation dans les conditions de l'article 141 du CDII (voir n° 7-015)."
+      ],
+      [
+        "Puis-je faire réaliser une partie de la transformation par un sous-traitant ?",
+        "Oui, à condition que le sous-traitant dispose de l'outillage nécessaire ; vous restez responsable, avec accusé de réception sur bon de livraison et inscription dans les écritures de suivi (CDII, art. 139 bis)."
+      ],
+      [
+        "Puis-je mettre en libre pratique une partie des produits compensateurs sans régulariser tout le compte ?",
+        "Oui, dans les proportions fixées par arrêté (CDII, art. 135-2° bis), la mise à la consommation dans la limite de 15 % des quantités exportées étant dispensée d'amende (circ. n° 6348/313, annexe I)."
+      ]
+    ],
+    "renvois": [
+      "7-001",
+      "7-002",
+      "7-003",
+      "7-011",
+      "7-012",
+      "7-013",
+      "7-014",
+      "7-015",
+      "7-016",
+      "2-021"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-011",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Accès à l'ATPA : condition d'outillage, enquête préalable et cas des opérateurs non outillés",
+    "enbref": "L'ATPA est réservée aux personnes qui disposent ou peuvent disposer de l'outillage nécessaire ; les autres n'y accèdent que sur autorisation du directeur. Depuis le 15/02/2024, une société qui veut opérer en ATPA pour la première fois doit obtenir une autorisation après enquête d'outillage, les artisans en étant dispensés.",
+    "textes": [
+      "CDII, art. 138, 139 et 139 bis",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexes I et II",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021, annexe ATPA",
+      "Circulaire ADII n° 6538/313 du 06/02/2024",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+    ],
+    "principe": "Le bénéfice de l'ATPA est réservé aux personnes disposant ou pouvant disposer de l'outillage nécessaire à la fabrication, à l'ouvraison ou au complément de main-d'œuvre envisagés (CDII, art. 138-1°) ; le directeur peut l'accorder à d'autres personnes (art. 138-2°). La même condition s'applique au cessionnaire de produits compensateurs ou de marchandises non transformées, sauf autorisation (art. 139-1°). La sous-traitance n'est possible qu'au profit d'une personne outillée, sous la responsabilité du soumissionnaire (art. 139 bis).",
+    "admin": "La circulaire n° 6164/313 a supprimé les autorisations préalables pour plusieurs variantes de l'ATPA (annexe II) : produits agricoles, sous réserve de l'autorisation du département de l'agriculture ou de l'ONICL pour les céréales et légumineuses ; opérateurs non outillés livrant à des sous-traitants, avec une comptabilité matières par sous-traitant (raison sociale, ICE, adresse) et une exportation réalisée par le soumissionnaire ; ATPA et cession simultanées entre commerçants et industriels ; ATPA des artisans, limitée à trois mois. La note D885/21/ADII/100 prévoit un suivi a posteriori des opérateurs non outillés. La circulaire n° 6538/313 réinstaure provisoirement, à compter du 15/02/2024, une autorisation préalable après enquête d'outillage pour les nouvelles sociétés ; les demandes des sociétés non outillées travaillant avec des sous-traitants locaux sont examinées par le service central des RED. La circulaire n° 6348/313 (annexe II) soumet à l'autorisation de l'ordonnateur la sous-traitance entre industriels en dispense des formalités de cession.",
+    "donnees": [
+      [
+        "Condition d'accès",
+        "Disposer ou pouvoir disposer de l'outillage nécessaire (CDII, art. 138-1°)"
+      ],
+      [
+        "Nouvelles sociétés",
+        "Autorisation après enquête d'outillage, demande examinée sous huitaine (circ. 6538/313 du 06/02/2024)"
+      ],
+      [
+        "Sociétés non outillées",
+        "Demande examinée par le service central des RED (circ. 6538/313)"
+      ],
+      [
+        "Artisans",
+        "Hors enquête d'outillage ; séjour limité à 3 mois (circ. 6538/313 ; circ. 6164/313, annexe II)"
+      ],
+      [
+        "Céréales et légumineuses",
+        "Autorisation de l'ONICL (circ. 6164/313, annexe II)"
+      ],
+      [
+        "Sous-traitance entre industriels sans cession",
+        "Autorisation de l'ordonnateur (circ. 6348/313, annexe II)"
+      ]
+    ],
+    "cas": "Rabat Négoce Textile SARL, société de négoce fictive sans atelier, veut importer sans paiement 30 000 mètres de denim pour un donneur d'ordres espagnol et faire confectionner les pantalons par deux ateliers de Salé. Opérant pour la première fois en ATPA, elle dépose la demande prévue par la circulaire n° 6538/313 en listant ses sous-traitants à la place du matériel ; le dossier est examiné par le service central des RED. Une fois l'accès ouvert, elle tient une comptabilité matières par atelier (raison sociale, ICE, adresse) et réalise elle-même les exportations (circ. 6164/313, annexe II). Erreur à éviter : laisser un atelier exporter les pantalons en son nom ; l'exportation doit être faite par le soumissionnaire.",
+    "juris": "",
+    "conseil": "Pièces à tenir prêtes pour l'enquête d'outillage :\n- liste des machines avec factures, valeur, état et origine ;\n- photos de la ligne de production et plan du site ;\n- nomenclatures de fabrication et taux de déchets justifiés ;\n- pour un opérateur non outillé, contrats et attestations d'outillage de chaque sous-traitant.\nActualisez ce dossier à chaque changement de site ou de ligne : l'éligibilité est contrôlée a posteriori.",
+    "faq": [
+      [
+        "Un artisan doit-il déposer la demande d'outillage ?",
+        "Non, l'ATPA initiée par les artisans est hors champ de la circulaire n° 6538/313 ; le service vérifie la qualité d'artisan et le séjour ne peut dépasser trois mois (note D885/21/ADII/100)."
+      ],
+      [
+        "Puis-je importer du blé sous ATPA pour fabriquer des pâtes destinées à l'export ?",
+        "Oui, l'autorisation douanière préalable est supprimée, mais l'autorisation de l'ONICL reste exigée pour les céréales et légumineuses (circ. 6164/313, annexe II)."
+      ],
+      [
+        "Mon sous-traitant doit-il lui-même remplir la condition d'outillage ?",
+        "Oui, la sous-traitance n'est possible qu'au profit d'une personne disposant de l'outillage nécessaire (CDII, art. 139 bis)."
+      ],
+      [
+        "Une société sans usine peut-elle opérer sous ATPA ?",
+        "Oui, en confiant la transformation à des sous-traitants outillés, avec une comptabilité matières par sous-traitant ; sa demande est examinée par le service central des RED (circ. n° 6164/313, annexe II ; circ. n° 6538/313)."
+      ]
+    ],
+    "renvois": [
+      "7-002",
+      "7-010",
+      "7-012",
+      "7-013",
+      "7-014",
+      "1-033",
+      "9-003"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-012",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Taux de rendement en ATPA : éléments d'apurement déclarés, déchets et contrôle de l'administration",
+    "enbref": "Le compte d'ATPA est apuré sur la base des éléments déclarés par le soumissionnaire : quantité d'intrants consommée par produit compensateur et déchets correspondants. L'administration dispose de deux mois après l'enregistrement de la déclaration d'exportation pour les contrôler ; passé ce délai, ils sont réputés admis.",
+    "textes": [
+      "CDII, art. 136",
+      "CDII, art. 116 ter, 116 quater et 140",
+      "Décret n° 2-77-862, art. 111, 113 et 114",
+      "Circulaire ADII n° 6538/313 du 06/02/2024, annexe",
+      "Circulaire ADII n° 5458/313 du 23/07/2014",
+      "Circulaire ADII n° 6325/313 du 18/05/2022"
+    ],
+    "principe": "L'apurement des comptes d'ATPA se fait sur la base des éléments déclarés par le soumissionnaire (CDII, art. 136-1°). L'administration peut les contrôler dans un délai de deux mois à compter de l'enregistrement de la déclaration d'exportation ; au-delà, ils sont réputés admis (art. 136-2°). En cas de divergence, les résultats du contrôle remplacent les éléments déclarés (art. 136-3°). La composition des produits peut être vérifiée en laboratoire, avec contre-analyse possible (art. 140). Les comptes sont tenus en poids, mètre, volume, surface ou nombre selon la nature des marchandises, le poids retenu étant le poids réel sans emballage (décret n° 2-77-862, art. 111). Les déchets de fabrication sont exportés, mis à la consommation, abandonnés ou détruits sous contrôle (art. 113) ; mis à la consommation, ils sont taxés aux conditions du jour (art. 114). Lorsque les opérations sont fréquentes, une convention peut fixer les éléments d'apurement (CDII, art. 116 quater). Certaines destinations, désignées par voie réglementaire, peuvent être exclues de l'apurement (CDII, art. 136-4°).",
+    "admin": "Dès l'accès au régime, le formulaire de la circulaire n° 6538/313 demande les modalités d'apurement, le taux de déchets et leur caractère récupérable ou non. La circulaire n° 5458/313 impose de régulariser les déchets taxables pendant la validité du compte, faute de quoi les droits sont liquidés d'office. La circulaire n° 6325/313 automatise sur BADR la liquidation des déchets mis à la consommation (« MAC déchets de fabrication »), selon les règles de l'article 114 du décret.",
+    "donnees": [
+      [
+        "Base de l'apurement",
+        "Éléments déclarés par le soumissionnaire (CDII, art. 136-1°)"
+      ],
+      [
+        "Délai de contrôle",
+        "2 mois après l'enregistrement de la déclaration d'exportation ; à défaut, éléments réputés admis (CDII, art. 136-2°)"
+      ],
+      [
+        "Déchets",
+        "Exportation, mise à la consommation, abandon ou destruction sous contrôle (décret, art. 113)"
+      ],
+      [
+        "Taxation des déchets",
+        "Espèce, valeur et taux du jour de la mise à la consommation (décret, art. 114 ; circ. 6325/313)"
+      ],
+      [
+        "Opérations fréquentes",
+        "Convention fixant les éléments d'apurement (CDII, art. 116 quater)"
+      ]
+    ],
+    "cas": "Oujda Aluminium SARL, société fictive, importe 100 tonnes de billettes d'aluminium pour produire des profilés exportés. Sa fiche technique retient 1,08 kg de billette par kilo de profilé, les 8 % de chutes étant récupérables. Elle exporte 90 tonnes de profilés et impute donc 97,2 tonnes de billettes ; les 7,2 tonnes de chutes sont des déchets taxables, qu'elle cède à un recycleur local sous déclaration de mise à la consommation, taxée à leur valeur du jour (décret, art. 114). Les 2,8 tonnes de billettes restantes demeurent au compte. Erreur à éviter : surévaluer le taux de chute pour « libérer » des billettes ; si le contrôle mené dans les deux mois retient un taux inférieur, ses résultats remplacent les éléments déclarés (CDII, art. 136-3°).",
+    "juris": "",
+    "conseil": "Établissez une fiche technique par produit compensateur, appuyée sur des essais de production datés, et mettez-la à jour à chaque changement de procédé. Distinguez dès la conception les déchets récupérables, qui seront taxés, des déchets irrécupérables, qui peuvent être détruits ou abandonnés. Si vos exportations sont fréquentes et vos procédés stables, demandez une convention d'apurement : elle évite de discuter le rendement à chaque envoi.",
+    "faq": [
+      [
+        "Que se passe-t-il si la douane ne conteste pas mon taux dans les deux mois ?",
+        "Les éléments déclarés sont réputés admis pour l'exportation concernée (CDII, art. 136-2°)."
+      ],
+      [
+        "Les chutes de fabrication doivent-elles être déclarées ?",
+        "Oui. Elles sont exportées, mises à la consommation, abandonnées ou détruites (décret, art. 113) ; les déchets taxables non régularisés à l'échéance donnent lieu à liquidation d'office (circ. 5458/313 du 23/07/2014)."
+      ],
+      [
+        "Peut-on fixer les rendements une fois pour toutes avec la douane ?",
+        "Oui, lorsque la fréquence des opérations le justifie, une convention entre l'administration et le soumissionnaire peut fixer les éléments d'apurement (CDII, art. 116 quater)."
+      ],
+      [
+        "L'administration peut-elle remettre en cause mes taux de rendement plusieurs mois après l'exportation ?",
+        "Au titre de l'article 136, elle dispose de deux mois après l'enregistrement de la déclaration d'exportation, faute de quoi les éléments sont réputés admis ; un contrôle a posteriori reste toutefois possible pour des éléments inexacts (CDII, art. 136-2° et 86 bis)."
+      ]
+    ],
+    "renvois": [
+      "7-004",
+      "7-010",
+      "7-011",
+      "7-014",
+      "7-015",
+      "9-003"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-013",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Délai de séjour en ATPA : durée initiale, prolongations, délais particuliers et exportation hors délai",
+    "enbref": "Les marchandises placées en ATPA séjournent six mois, prorogeables par l'administration dans la limite de dix-huit mois supplémentaires, soit deux ans au total à compter de l'enregistrement de la déclaration d'importation. Au-delà, une dérogation est nécessaire ; sans exportation dans le délai, les droits deviennent immédiatement exigibles.",
+    "textes": [
+      "CDII, art. 135-2°, 137 et 144",
+      "Décret n° 2-77-862, art. 105 et 106",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexes I et II",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+    ],
+    "principe": "La durée maximale de séjour en ATPA est de deux ans à compter de l'enregistrement de la déclaration d'importation, sauf dérogation ministérielle ; la durée initiale et les prolongations sont fixées par décret (CDII, art. 137). Le décret fixe le séjour initial à six mois, prorogeable par l'administration sans excéder dix-huit mois supplémentaires, sauf dérogation du ministre chargé des finances après avis du ministre de la ressource (décret n° 2-77-862, art. 105). Pendant tout le séjour, les marchandises doivent être présentées à première réquisition (art. 106). Le directeur peut exiger que l'exportation ou la mise en entrepôt suive immédiatement la fabrication, avant même l'expiration du délai (CDII, art. 144). Faute d'exportation, d'entreposage ou de placement en admission temporaire avant l'échéance, les droits sont immédiatement exigibles, sauf exportation tardive autorisée (art. 135-2°). Pour les marchandises sous ATPA destinées à l'exportation, l'administration peut suspendre l'application des sanctions jusqu'au parfait accomplissement des engagements dans les délais, ce qui entraîne alors leur non-application (CDII, art. 303-2°).",
+    "admin": "La circulaire n° 6164/313 retient un délai maximum de deux ans à compter de l'importation et ramène ce délai à un an en cas de cession de produits compensateurs lorsque le reliquat de validité est inférieur à douze mois (annexe I). Elle prévoit des délais propres à certaines variantes : trois mois pour l'ATPA des artisans, six mois pour les marchandises réimportées pour retouches (annexe II), ce que rappelle la note D885/21/ADII/100. La circulaire n° 6348/313 (annexe II) réserve à l'Administration centrale la prorogation au-delà du délai réglementaire et confie l'exportation hors délai en suite d'ATPA aux directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations.",
+    "donnees": [
+      [
+        "Séjour initial",
+        "6 mois (décret n° 2-77-862, art. 105)"
+      ],
+      [
+        "Prolongations",
+        "18 mois au plus, par l'administration (décret, art. 105)"
+      ],
+      [
+        "Durée maximale",
+        "2 ans à compter de l'enregistrement de la déclaration d'importation (CDII, art. 137)"
+      ],
+      [
+        "Délais particuliers",
+        "Artisans : 3 mois ; retouches : 6 mois ; cession avec reliquat inférieur à 12 mois : 1 an (circ. 6164/313, annexes I et II)"
+      ],
+      [
+        "Prorogation au-delà du délai réglementaire",
+        "Administration centrale (circ. 6348/313, annexe II)"
+      ],
+      [
+        "Exportation hors délai",
+        "Directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313, annexe II)"
+      ]
+    ],
+    "cas": "Tétouan Chaussures SARL, société fictive, a placé en ATPA, le 15/01/2026, des tiges en cuir pour 20 000 paires destinées à un distributeur italien. En novembre 2027, le client reporte sa dernière commande de 4 000 paires au printemps 2028, après l'échéance maximale du 15/01/2028. L'entreprise dépose avant l'échéance une demande motivée de prorogation auprès de l'Administration centrale, avec la commande modifiée et la correspondance du client (circ. 6348/313). Erreur à éviter : attendre l'échéance en comptant sur une prolongation automatique ; une fois le délai expiré, les droits sont exigibles et seule une exportation hors délai autorisée peut régulariser le compte (CDII, art. 135-2°).",
+    "juris": "",
+    "conseil": "Tenez un échéancier de tous vos comptes d'ATPA, rapproché chaque mois de BADR, avec une alerte à J-90 pour les prorogations au-delà du délai réglementaire, qui remontent à l'Administration centrale. Joignez toujours à la demande la preuve que l'exportation reste prévue : commande, contrat, échange avec le client. Lorsque vous cédez des produits compensateurs, vérifiez le reliquat de validité du compte : en dessous de douze mois, le cessionnaire ne dispose que d'un an.",
+    "faq": [
+      [
+        "À partir de quand court le délai de séjour ?",
+        "De l'enregistrement de la déclaration d'importation sous ATPA (CDII, art. 137)."
+      ],
+      [
+        "De quel délai dispose le cessionnaire de produits compensateurs ?",
+        "D'un an lorsque le reliquat de validité du compte d'origine est inférieur à douze mois (circ. 6164/313 du 09/02/2021, annexe I)."
+      ],
+      [
+        "La douane peut-elle m'obliger à exporter avant l'échéance ?",
+        "Oui, le directeur peut exiger que l'exportation ou la mise en entrepôt suive immédiatement la fabrication (CDII, art. 144)."
+      ]
+    ],
+    "renvois": [
+      "7-002",
+      "7-004",
+      "7-010",
+      "7-014",
+      "7-015",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe mis à jour"
+    ]
+  },
+  {
+    "id": "7-014",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Apurement du compte d'ATPA : exportation, entreposage, cession et imputation des produits compensateurs",
+    "enbref": "Le compte d'ATPA s'apure par l'exportation des produits compensateurs, leur mise en entrepôt ou en admission temporaire, leur cession sous régime suspensif ou, par dérogation, leur mise à la consommation. Chaque sortie est imputée au compte par une fiche jointe à la déclaration, et la décharge définitive est délivrée par le bureau de souscription.",
+    "textes": [
+      "CDII, art. 135-2°, 136, 139 et 141-1° b",
+      "Décret n° 2-77-862, art. 104, 107, 108 et 109",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexe I",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe I",
+      "Circulaire ADII n° 6190/313 du 05/05/2021",
+      "Circulaire ADII n° 6464/313 du 29/05/2023"
+    ],
+    "principe": "Le bureau de souscription tient pour chaque opération un compte annoté des quantités placées sous le régime et des produits compensateurs déclarés, mis à la consommation ou exportés (décret n° 2-77-862, art. 104). Les produits compensateurs sont exportés, mis en entrepôt ou placés en admission temporaire (CDII, art. 135-2°) ; ils peuvent aussi être cédés (art. 139). Le directeur peut autoriser l'exportation ou la mise en entrepôt en l'état des marchandises non transformées (art. 141-1° b). Des fiches d'imputation, signées par le déclarant et le soumissionnaire, sont jointes aux déclarations d'exportation, d'entrepôt ou d'admission temporaire, puis transmises au bureau de souscription après annotation par le service de la visite (décret, art. 107). Le compte peut être apuré en une fois ou par apurements partiels successifs (art. 108), sur la base des éléments déclarés par le soumissionnaire (CDII, art. 136). La décharge définitive est délivrée par le bureau de souscription (décret, art. 109).",
+    "admin": "La circulaire n° 6164/313 (annexe I) retient trois modes de régularisation : exportation, cession sous régime suspensif et mise à la consommation selon l'article 141. La circulaire n° 6348/313 (annexe I) supprime l'autorisation préalable pour l'exportation en l'état : le déclarant indique le motif en case 38 ou joint un justificatif. Les circulaires n° 6190/313 et n° 6464/313 imposent de déclarer à l'export la valeur brute des produits compensateurs ; la seconde qualifie de contraire aux bonnes pratiques la déclaration de la seule valeur ajoutée et annonce des sanctions.",
+    "donnees": [
+      [
+        "Pièce d'imputation",
+        "Fiche signée par le déclarant et le soumissionnaire, jointe à la déclaration de sortie (décret, art. 107)"
+      ],
+      [
+        "Mode d'apurement",
+        "Global ou par apurements partiels successifs (décret, art. 108)"
+      ],
+      [
+        "Décharge définitive",
+        "Bureau de souscription (décret, art. 109)"
+      ],
+      [
+        "Exportation en l'état des intrants",
+        "Sans autorisation préalable ; motif en case 38 (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Valeur à déclarer à l'export",
+        "Valeur brute, intrants compris (circ. 6190/313 ; circ. 6464/313 du 29/05/2023)"
+      ]
+    ],
+    "cas": "Kénitra Câbles SA, société fictive, a placé en ATPA 50 tonnes de fil de cuivre souscrites au bureau de Kénitra. Elle exporte les faisceaux en trois envois, dont un par Tanger Med : à chaque fois, une fiche d'imputation est jointe à la déclaration d'exportation, annotée par la visite et transmise au bureau de souscription (décret, art. 107). Le dernier envoi est déclaré pour 3 200 000 DH, soit 2 400 000 DH de cuivre et 800 000 DH d'ouvraison. Elle réexporte en l'état 1,5 tonne de cuivre inutilisée, motif en case 38 (circ. 6348/313). Erreur à éviter : déclarer seulement les 800 000 DH d'ouvraison ; la valeur brute est exigée (circ. 6464/313).",
+    "juris": "",
+    "conseil": "Préparez la fiche d'imputation en même temps que la déclaration d'exportation, jamais après : une exportation non imputée ne vous protège pas à l'échéance. Lorsque vous exportez par un autre bureau que celui de souscription, suivez la remontée de la fiche jusqu'au compte. Rapprochez chaque mois les quantités imputées de votre comptabilité matières et de vos taux de rendement : un écart non expliqué est le premier signal d'un redressement.",
+    "faq": [
+      [
+        "Puis-je exporter par un autre bureau que celui où j'ai importé ?",
+        "Oui ; la fiche d'imputation jointe à la déclaration est annotée par le service de la visite puis transmise au bureau de souscription (décret, art. 107)."
+      ],
+      [
+        "Puis-je réexporter des intrants non utilisés pour apurer le compte ?",
+        "Oui ; l'exportation en l'état n'est plus soumise à autorisation préalable, le déclarant indiquant son motif en case 38 (circ. 6348/313 du 06/07/2022, annexe I)."
+      ],
+      [
+        "Faut-il une autorisation pour réexporter des intrants non transformés ?",
+        "Non depuis la circulaire n° 6348/313 : le déclarant indique le motif en case 38 de la déclaration d'exportation ou joint un justificatif (annexe I)."
+      ]
+    ],
+    "renvois": [
+      "7-004",
+      "7-012",
+      "7-013",
+      "7-015",
+      "7-016",
+      "9-003"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-015",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Mise à la consommation en suite d'ATPA : autorisation, calcul des droits et part de 15 % dispensée d'amende",
+    "enbref": "La vente au Maroc de marchandises ou de produits compensateurs placés en ATPA est une dérogation : les droits sont calculés sur l'espèce, la valeur et les quotités du jour de la déclaration d'admission temporaire, majorés de l'intérêt de retard s'ils n'avaient pas été consignés. Dans la limite de 15 % des quantités exportées, la mise à la consommation est dispensée d'amende.",
+    "textes": [
+      "CDII, art. 135-2° bis et 141",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexes I et II",
+      "Circulaire ADII n° 6325/313 du 18/05/2022",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexe I"
+    ],
+    "principe": "Par dérogation à l'article 135, le directeur peut autoriser la régularisation du compte par mise à la consommation des marchandises en l'état ou des produits compensateurs, sous réserve du contrôle du commerce extérieur et des changes (CDII, art. 141-1° a). Les droits sont alors exigibles sur l'espèce et les quantités admises temporairement, au tarif en vigueur à la date d'enregistrement de la déclaration d'admission temporaire, majorés de l'intérêt de retard s'ils n'ont pas été consignés (art. 141-2°), la valeur retenue étant celle de cette même date (art. 141-3°). Pour les produits compensateurs mis à la consommation dans les proportions fixées par arrêté (art. 135-2° bis), les droits suivent les quotités du jour de la mise à la consommation, appliquées à la valeur des marchandises initialement importées à cette date (art. 141-4°). Pour raisons commerciales justifiées, l'abandon ou la destruction en exonération sont possibles (art. 141-5°) ; les fins de lots offerts à des entités publiques ou caritatives et les déchets irrécupérables peuvent être mis à la consommation en exonération (art. 141-6°).",
+    "admin": "La circulaire n° 6348/313 (annexe I) supprime l'autorisation préalable de mise à la consommation en suite d'ATPA (code 040) : la mainlevée intervient après contrôle. Elle dispense d'amende la mise à la consommation dans la limite de 15 % des quantités exportées sous ATPA, ainsi que les articles de 2e choix du textile-cuir. L'annexe II réserve à l'Administration centrale la destruction, l'abandon et les dons en exonération. Selon la circulaire n° 6325/313, BADR liquide automatiquement aux conditions de l'importation initiale, mais la part de 15 % de produits compensateurs reste liquidée manuellement (mode « Autres »).",
+    "donnees": [
+      [
+        "Taxation des intrants mis à la consommation",
+        "Espèce, quantité, valeur et quotités du jour de la déclaration d'ATPA, plus intérêt de retard si non consignés (CDII, art. 141-2° et 3°)"
+      ],
+      [
+        "Taxation des produits compensateurs (art. 135-2° bis)",
+        "Quotités du jour de la mise à la consommation sur la valeur des intrants à cette date (CDII, art. 141-4°)"
+      ],
+      [
+        "Part dispensée d'amende",
+        "15 % des quantités exportées sous ATPA (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Destruction, abandon, dons en exonération",
+        "Administration centrale (circ. 6348/313, annexe II)"
+      ],
+      [
+        "Liquidation BADR",
+        "Automatique aux conditions de l'importation initiale ; manuelle pour la part de 15 % (circ. 6325/313 du 18/05/2022)"
+      ]
+    ],
+    "cas": "Fès Mobilier SARL, société fictive, a exporté 2 000 chaises fabriquées sous ATPA avec du hêtre importé. Elle souhaite vendre 250 chaises à un hôtel de Fès, soit 12,5 % des quantités exportées : la mise à la consommation est dispensée d'amende (circ. 6348/313). Sur la DUM, elle choisit le mode de taxation « Autres » (circ. 6325/313). Erreur à éviter : retenir le mode « conditions du jour de l'importation initiale » pour des produits compensateurs relevant de l'article 135-2° bis ; leurs droits suivent les quotités du jour de la mise à la consommation (CDII, art. 141-4°).",
+    "juris": "",
+    "conseil": "Si vous anticipez des ventes locales, consignez les droits dès l'importation : vous éviterez l'intérêt de retard. Suivez le ratio des mises à la consommation en continu, pas en fin d'année : au-delà de 15 %, la dispense d'amende tombe.",
+    "faq": [
+      [
+        "Quel taux de droit s'applique à des intrants mis à la consommation deux ans après leur importation ?",
+        "Le tarif et la valeur en vigueur à la date d'enregistrement de la déclaration d'admission temporaire, avec intérêt de retard si les droits n'ont pas été consignés (CDII, art. 141-2° et 3°)."
+      ],
+      [
+        "Puis-je détruire un stock invendable sans payer de droits ?",
+        "Oui, pour raisons commerciales justifiées, sans frais pour le Trésor (CDII, art. 141-5°), sur autorisation de l'Administration centrale (circ. 6348/313, annexe II)."
+      ],
+      [
+        "Sur quelle valeur sont taxés des intrants d'ATPA mis à la consommation ?",
+        "Sur la valeur et aux quotités en vigueur à la date d'enregistrement de la déclaration d'admission temporaire, majorées de l'intérêt de retard si les droits n'ont pas été consignés (CDII, art. 141-2° et 3°)."
+      ]
+    ],
+    "renvois": [
+      "7-010",
+      "7-012",
+      "7-013",
+      "7-014",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-016",
+    "p": 7,
+    "ch": "7.2",
+    "c": "Admission temporaire pour perfectionnement actif",
+    "t": "Compensation par équivalence et exportation préalable : importer en franchise après avoir exporté des produits déjà dédouanés",
+    "enbref": "Une entreprise qui exporte des produits fabriqués avec des marchandises étrangères ayant acquitté les droits peut importer ensuite en franchise des marchandises équivalentes, en apurement de cette exportation. L'opération doit être autorisée, se dénouer dans un délai de deux ans, et la franchise ne peut dépasser les droits acquittés à l'origine.",
+    "textes": [
+      "CDII, art. 142",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexe II",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021, annexe export préalable"
+    ],
+    "principe": "L'article 142 du CDII permet d'apurer une admission temporaire ultérieure de marchandises équivalentes par l'exportation de produits obtenus à partir de marchandises étrangères ayant acquitté les droits (1°), y compris en cas de vente hors droits à des personnes bénéficiant d'une franchise (1° bis). Lorsque les nécessités économiques le justifient, la compensation peut porter sur des marchandises de caractéristiques similaires, sans dépasser le montant des droits acquittés initialement (2°). Le même mécanisme s'applique aux taxes intérieures de consommation pour les marchandises d'origine marocaine (3°). Ces opérations doivent intervenir dans un délai de deux ans à compter de la mise à la consommation ou du paiement des taxes et être préalablement autorisées (4°) ; la compensation doit elle-même intervenir dans ce délai de deux ans (5°).",
+    "admin": "La circulaire n° 6164/313 range l'exportation préalable (codes 079, 084 et 849) et la compensation par marchandise similaire (codes 020 et 021) parmi les opérations dont l'autorisation préalable est supprimée : la déclaration vaut demande et la mainlevée vaut autorisation. La note D885/21/ADII/100 fixe les points de vigilance : les marchandises exportées et importées doivent en principe présenter des caractéristiques techniques identiques ; en cas de compensation par des articles similaires, le service examine le justificatif et limite la compensation aux droits et taxes acquittés. Pour une vente à une personne bénéficiant d'une franchise légale, un bon de franchise est annexé à la déclaration et la facture est établie hors droits et taxes.",
+    "donnees": [
+      [
+        "Délai",
+        "2 ans à compter de la mise à la consommation, compensation incluse (CDII, art. 142-4° et 5°)"
+      ],
+      [
+        "Plafond en cas de marchandises similaires",
+        "Montant des droits acquittés initialement (CDII, art. 142-2°)"
+      ],
+      [
+        "Codes régimes",
+        "Exportation préalable : 079, 084, 849 ; compensation similaire : 020, 021 (circ. 6164/313, annexe II)"
+      ],
+      [
+        "Vente à un franchisé",
+        "Bon de franchise annexé, facture hors droits et taxes (note D885/21/ADII/100)"
+      ]
+    ],
+    "cas": "Marrakech Chemises SA, société fictive, reçoit en mars 2026 une commande urgente d'un client belge. Faute de délai, elle utilise du tissu importé en droit commun, pour lequel elle a acquitté 180 000 DH de droits, et exporte les chemises en déclarant une exportation préalable. En septembre 2026, elle importe un tissu de mêmes caractéristiques en compensation, en franchise des droits (CDII, art. 142-1°). Erreur à éviter : importer en compensation un tissu différent et plus taxé en espérant une franchise totale ; pour des marchandises similaires, la franchise est plafonnée aux 180 000 DH acquittés à l'origine (art. 142-2°).",
+    "juris": "",
+    "conseil": "Conservez, pour chaque exportation préalable, la déclaration d'importation d'origine, la quittance des droits et la fiche technique du tissu : sans lien documenté entre les deux flux, la compensation est refusée. Programmez la réimportation bien avant le terme des deux ans, car le délai court depuis la mise à la consommation initiale et non depuis l'exportation. Ce mécanisme est utile pour honorer une commande urgente sans attendre l'arrivée d'intrants sous ATPA.",
+    "faq": [
+      [
+        "Les marchandises importées en compensation doivent-elles être identiques ?",
+        "En principe oui ; des marchandises similaires sont admises si les nécessités économiques le justifient, dans la limite des droits acquittés initialement (CDII, art. 142-2° ; note D885/21/ADII/100)."
+      ],
+      [
+        "Dois-je obtenir une autorisation écrite avant l'opération ?",
+        "L'autorisation préalable a été supprimée pour ces codes : la souscription de la déclaration vaut demande et la mainlevée vaut autorisation (circ. 6164/313 du 09/02/2021)."
+      ],
+      [
+        "L'exportation préalable doit-elle encore être autorisée ?",
+        "Non : depuis la circulaire n° 6164/313, la déclaration vaut demande et la mainlevée vaut autorisation (codes 079, 084 et 849), sous réserve du contrôle des conditions de l'article 142."
+      ]
+    ],
+    "renvois": [
+      "7-002",
+      "7-010",
+      "7-014",
+      "7-020",
+      "7-060"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  }
+]

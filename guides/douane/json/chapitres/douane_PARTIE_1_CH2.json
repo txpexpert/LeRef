@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1-010",
+    "p": 1,
+    "ch": "1.2",
+    "c": "Territoire et rayon des douanes",
+    "t": "Territoire assujetti : définition, distinction avec le territoire douanier et conséquences pour l'importation et l'exportation",
+    "enbref": "Le territoire assujetti est la partie terrestre du territoire douanier, avec les ports, rades, plateformes offshore et installations en eaux territoriales, à l'exclusion des zones d'accélération industrielle. C'est le franchissement de sa limite, et non celui de la frontière politique, qui constitue l'importation ou l'exportation.",
+    "textes": [
+      "CDII, art. 1er, 1 bis et 14",
+      "CDII, art. 24, 35 et 41",
+      "CDII, art. 66 bis et 181",
+      "Circulaire ADII n° 6255/210 du 24/12/2021",
+      "Circulaire ADII n° 6522/210 du 29/12/2023"
+    ],
+    "principe": "L'article 1er du CDII distingue deux espaces. Le territoire douanier comprend le territoire national et les eaux territoriales. Le territoire assujetti en est la partie terrestre, à laquelle s'ajoutent les ports, rades, plateformes offshore, dragues et installations situées dans les eaux territoriales ; les zones d'accélération industrielle (ZAI) en sont exclues. Cette distinction commande tout le code : l'importation est l'entrée sur le territoire assujetti de marchandises venant de l'étranger ou des ZAI, l'exportation en est la sortie, et la mise à la consommation permet aux marchandises importées d'y demeurer à titre définitif moyennant paiement des droits et taxes (CDII, art. 1er). Les lois et règlements douaniers s'y appliquent sans égard à la qualité des personnes (art. 1 bis).\nÀ l'importation, les éléments d'assiette sont appréciés au moment de l'entrée sur le territoire assujetti, sous réserve des articles 13 et 86-5° (CDII, art. 14). Le territoire assujetti délimite aussi l'obligation de déclarer, à l'entrée ou à la sortie, les moyens de paiement et instruments financiers d'une valeur égale ou supérieure à 100 000 dirhams (art. 66 bis), et le champ de l'article 181 : tout détenteur ou transporteur de marchandises passibles de droits d'importation ou de TIC doit justifier, à première réquisition, leur introduction régulière ou leur origine.\nL'action de l'administration s'exerce, elle, sur l'ensemble du territoire douanier, autoroutes comprises (CDII, art. 24), avec drones, caméras et scanners (art. 35) et, sur autorisation, perquisition pour la recherche des marchandises de l'article 181 (art. 41). Les agents peuvent en outre exiger la justification de l'identité et de la qualité des personnes qui entrent sur le territoire douanier ou en sortent, ces informations pouvant être recueillies au préalable auprès des entreprises de transport (CDII, art. 45). À l'intérieur du territoire assujetti, l'importateur doit déclarer dans la déclaration en détail le lieu effectif de stockage ou de transformation des marchandises (art. 19 bis), dont la fausse déclaration constitue une contravention de troisième classe (art. 297-9°).",
+    "admin": "La circulaire n° 6255/210 présente l'article 181 comme la règle de circulation d'application générale sur l'ensemble du territoire assujetti, qui remplace les règles du rayon des douanes supprimé en 2022. Selon la circulaire n° 6522/210, l'article 181 vise depuis la LF 2024 les marchandises soumises à la TIC produites localement, et non plus seulement les marchandises importées.",
+    "donnees": [
+      [
+        "Territoire douanier",
+        "Territoire national et eaux territoriales (CDII, art. 1er)"
+      ],
+      [
+        "Territoire assujetti",
+        "Partie terrestre, ports, rades, plateformes offshore, hors ZAI (CDII, art. 1er)"
+      ],
+      [
+        "Moment de l'assiette à l'importation",
+        "Entrée sur le territoire assujetti (CDII, art. 14)"
+      ],
+      [
+        "Déclaration des moyens de paiement",
+        "À partir de 100 000 DH, entrée ou sortie (CDII, art. 66 bis)"
+      ],
+      [
+        "Justificatifs (art. 181)",
+        "Délai de 48 heures sur demande ; conservation 4 ans (CDII, art. 181)"
+      ],
+      [
+        "Contrôle des personnes",
+        "Identité et qualité à l'entrée et à la sortie du territoire douanier (CDII, art. 45)"
+      ],
+      [
+        "Destination déclarée",
+        "Lieu effectif de stockage ou de transformation (CDII, art. 19 bis ; sanction : art. 297-9°)"
+      ]
+    ],
+    "cas": "La société fictive Atlas Pièces SARL, à Kénitra, achète des composants à une entreprise implantée en ZAI à Tanger. Son acheteur traite l'opération comme un achat intérieur, sur simple facture. C'est une erreur : la ZAI est exclue du territoire assujetti, et l'entrée des composants à Kénitra est une importation (CDII, art. 1er). Elle exige une déclaration de mise à la consommation, aux conditions des articles 166 quinquies et 166 sexies. Sans elle, la société ne pourra pas produire les justificatifs exigés par l'article 181 et s'expose aux sanctions de l'importation sans déclaration.",
+    "juris": "",
+    "conseil": "Raisonnez en termes de territoire assujetti, pas de frontière : une marchandise peut être physiquement au Maroc sans y être importée (ZAI, marchandise sous douane au port), et une vente entre deux sociétés marocaines peut être une importation. Conservez quittances et déclarations des marchandises taxables au moins quatre ans après leur cession, l'article 181 permettant de les réclamer pendant cette durée.",
+    "faq": [
+      [
+        "Les eaux territoriales font-elles partie du territoire assujetti ?",
+        "Elles font partie du territoire douanier ; seules les rades, plateformes offshore, dragues et installations qui s'y trouvent relèvent du territoire assujetti (CDII, art. 1er)."
+      ],
+      [
+        "Les agents peuvent-ils contrôler loin de la frontière ?",
+        "Oui : leur action s'exerce sur tout le territoire douanier, autoroutes comprises, et l'article 181 vaut sur tout le territoire assujetti (CDII, art. 24 et 181)."
+      ],
+      [
+        "Dois-je indiquer où les marchandises seront stockées après leur dédouanement ?",
+        "Oui, la déclaration en détail doit mentionner le lieu effectif de stockage ou de transformation (CDII, art. 19 bis)."
+      ]
+    ],
+    "renvois": [
+      "1-011",
+      "1-012",
+      "3-001",
+      "5-040",
+      "7-072",
+      "9-001"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "1-011",
+    "p": 1,
+    "ch": "1.2",
+    "c": "Territoire et rayon des douanes",
+    "t": "Rayon des douanes : suppression par la loi de finances 2022 et règle de circulation qui le remplace (article 181 du CDII)",
+    "enbref": "Le rayon des douanes, zone de surveillance spéciale le long des frontières, a été supprimé du CDII par la loi de finances 2022, puis du décret d'application par le décret n° 2-21-847 du 31/12/2021. Il ne crée plus d'obligation propre ; reste, partout sur le territoire assujetti, l'obligation de justifier l'origine régulière des marchandises taxables (art. 181).",
+    "textes": [
+      "Loi de finances n° 76-21 pour 2022, art. 3",
+      "Décret n° 2-21-847 du 31/12/2021",
+      "CDII, art. 24, 167 à 180 (abrogés), 181, 282-3° et 283",
+      "Décret n° 2-77-862, titre VI (abrogé) et art. 216",
+      "Circulaire ADII n° 6255/210 du 24/12/2021",
+      "Circulaire ADII n° 6270/212 du 03/01/2022"
+    ],
+    "principe": "Avant 2022, l'action de l'administration s'exerçait sur le territoire douanier et, en outre, sur une zone de surveillance spéciale, le rayon des douanes, organisée le long des frontières terrestres et maritimes, où la circulation des marchandises était soumise à des conditions particulières (circ. n° 6255/210). L'article 3 de la loi de finances n° 76-21 pour 2022 a supprimé cette notion et modifié en conséquence les articles 24 à 27, 34, 39, 41, 45, 47, 53, 167 à 180, 221, 279 ter, 282 et 302 du CDII (circ. n° 6255/210). Dans le code consolidé, les articles 167 à 180 sont abrogés ; seul l'article 181 subsiste dans le titre VII.\nLe décret n° 2-21-847 du 31/12/2021 a abrogé, dans le décret n° 2-77-862, le chapitre premier du titre II et le titre VI (art. 206 à 214 : rayon maritime, circulation dans la zone terrestre, bétail, dépôts) (circ. n° 6270/212). L'article 216 du décret cite encore certains de ces articles (209, 212) parmi les habilitations du ministre ; ces renvois sont devenus sans objet.\nLa règle applicable est désormais l'article 181 : quiconque détient ou transporte des marchandises passibles de droits d'importation ou de TIC doit produire, à première réquisition, les quittances d'introduction régulière ou les justificatifs d'origine émanant de personnes établies sur le territoire, avec un délai possible de 48 heures ; ceux qui les ont détenues, vendues ou cédées doivent les présenter pendant quatre ans. La détention non justifiée, ou justifiée par des documents faux ou incomplets, est un acte de contrebande (art. 282-3°), et le détenteur qui connaissait l'irrégularité encourt les mêmes peines (art. 283). Le détenteur interpellé peut demander à être accompagné pour présenter ses justificatifs en un autre lieu ou obtenir un délai de 48 heures (art. 181-1°). Les agents sont placés sous la sauvegarde de la loi sur tout le territoire douanier, autoroutes comprises, et les autorités civiles et militaires doivent leur prêter main-forte à première réquisition (art. 32).",
+    "admin": "Selon la circulaire n° 6255/210, le rayon n'était plus jugé opportun, les prérogatives de contrôle des agents ayant été renforcées sur tout le territoire douanier ; ses dispositions sont « supplantées » par l'article 181, de portée générale.",
+    "donnees": [
+      [
+        "Suppression législative",
+        "LF n° 76-21 pour 2022, art. 3 (circ. n° 6255/210)"
+      ],
+      [
+        "Suppression réglementaire",
+        "Décret n° 2-21-847 du 31/12/2021 (circ. n° 6270/212)"
+      ],
+      [
+        "Règle de remplacement",
+        "CDII, art. 181, sur tout le territoire assujetti"
+      ],
+      [
+        "Qualification du défaut de justification",
+        "Contrebande (CDII, art. 282-3°)"
+      ],
+      [
+        "Délai de justification",
+        "48 heures, ou accompagnement vers le lieu de présentation (CDII, art. 181-1°)"
+      ]
+    ],
+    "cas": "La société fictive Sahel Distribution, grossiste à Oujda, transporte des pneumatiques vers Fès. Son responsable logistique, formé avant 2022, cherche un titre de circulation pour la bande frontalière, puis estime qu'au-delà de cette zone aucun justificatif n'est nécessaire. Le premier réflexe est inutile, le rayon n'existant plus. Le second est dangereux : à Fès comme à Oujda, les agents peuvent exiger les justificatifs d'origine de ces marchandises soumises à la TIC (CDII, art. 181 et 182). Le chauffeur doit avoir à bord la facture du fournisseur établi au Maroc ou la référence de la déclaration d'importation.",
+    "juris": "",
+    "conseil": "Retirez des procédures internes, contrats de transport et supports de formation toute référence au rayon des douanes et à ses titres de circulation. Généralisez à tous les flux de marchandises taxables (alcools, tabacs, pneumatiques, produits énergétiques, appareils électroniques) la règle « pas de transport sans justificatif d'origine à bord », et archivez ces justificatifs au moins quatre ans après la vente. Rappelez aux chauffeurs que la présentation peut être différée de 48 heures : mieux vaut un justificatif complet produit dans le délai qu'un document approximatif présenté sur-le-champ, qui exposerait à la qualification de contrebande.",
+    "faq": [
+      [
+        "Le rayon des douanes existe-t-il encore ?",
+        "Non : la LF 2022 l'a supprimé du CDII et le décret n° 2-21-847 du 31/12/2021 a abrogé les dispositions réglementaires correspondantes (circ. n° 6255/210 et 6270/212)."
+      ],
+      [
+        "Que risque un transporteur sans justificatif d'origine ?",
+        "La détention non justifiée de marchandises visées à l'article 181 est une contrebande (CDII, art. 282-3°), délit douanier de deuxième classe (art. 281-1°)."
+      ]
+    ],
+    "renvois": [
+      "1-010",
+      "1-012",
+      "9-001",
+      "9-011",
+      "9-013"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, conseil pratique mis à jour"
+    ]
+  },
+  {
+    "id": "1-012",
+    "p": 1,
+    "ch": "1.2",
+    "c": "Territoire et rayon des douanes",
+    "t": "Zones soumises à un régime douanier particulier : zones d'accélération industrielle, zones franches logistiques et magasins sous douane",
+    "enbref": "Les zones d'accélération industrielle (ZAI) font partie du territoire douanier mais sont soustraites à tout ou partie des lois et règlements douaniers. Les échanges entre ces zones et le territoire assujetti sont des importations et des exportations, déclarées et placées sous surveillance douanière permanente.",
+    "textes": [
+      "CDII, art. 1er, 119 et 164 bis-1°-i)",
+      "CDII, art. 166 quater à 166 sexies et 282-6°",
+      "Loi n° 19-94, art. 24",
+      "Arrêté n° 1319-77, art. 17 terdecies",
+      "Circulaires ADII n° 6398/210 du 29/12/2022 et 6702/210 du 26/12/2025",
+      "Circulaires ADII n° 5549/230 du 04/11/2015, 6047/312 du 20/05/2020 et 6542/313 du 20/02/2024",
+      "Note ADII n° D232/2025/ADII/AC/100 du 29/09/2025",
+      "Lettre du Premier ministre n° 2008 du 27/11/2009 (citée par la circ. 5549/230)"
+    ],
+    "principe": "Le CDII définit les ZAI comme des zones du territoire douanier soustraites à tout ou partie des lois et règlements douaniers, et les exclut du territoire assujetti (art. 1er). Leur statut figure au titre VI ter, introduit par la LF 2023 (circ. n° 6398/210). Le service surveille en permanence les accès et contrôle à tout moment l'entrée, le séjour et la sortie des marchandises (art. 166 quater). Les marchandises sortant d'une ZAI peuvent être exportées, réexportées ou placées sous un régime douanier ; la mise à la consommation n'est admise que si l'exportation est impossible pour des raisons commerciales justifiées (art. 166 quinquies). Elle se fait d'après l'espèce et la valeur reconnues au jour de la déclaration, après déduction des produits marocains ou nationalisés incorporés (art. 166 sexies), au droit de 2,5 % dans la limite de 30 % du chiffre d'affaires export annuel (art. 164 bis-1°-i)). Les entrées et sorties sont déclarées selon l'annexe X de l'arrêté n° 1319-77 (art. 17 terdecies).\nLes zones franches à vocation logistique (ZFL), régies par la loi n° 19-94, ont des règles propres de prise en charge et de certification de l'origine (circ. n° 5549/230), l'article 24 de cette loi habilitant l'administration à certifier l'origine des marchandises qui y sont placées.\nD'autres espaces restent dans le territoire assujetti mais sont placés sous douane : ainsi les magasins de vente sous douane des enceintes portuaires et aéroportuaires, soumis au régime de l'entrepôt d'exportation (CDII, art. 119 ; circ. n° 6542/313). Pour les ZFL, la lettre du Premier ministre n° 2008 du 27/11/2009 autorise le dédouanement des marchandises qui y transitent sans transformation aux mêmes conditions que celles importées directement de l'étranger ; la recevabilité des preuves de l'origine obéit donc aux règles des accords en vigueur (circ. 5549/230). L'entrée en ZFL se fait, selon la provenance, au vu du bulletin d'entrée du gestionnaire et de l'état de prise en charge et de suivi de l'origine (reste du monde), sous le régime 765 d'exportation temporaire vers les zones franches (marchandises du territoire assujetti) ou sous acquit de transit 856 (marchandises d'une zone franche industrielle) (circ. 5549/230).",
+    "admin": "La circulaire n° 6047/312 a créé les codes régimes 769 (exportation via les ZFL) et 682 (expédition finale de la ZFL vers l'étranger). Depuis le 01/01/2026, des marchandises non déclarées et incompatibles avec l'activité du soumissionnaire, découvertes avec des marchandises en transit vers une ZAI, constituent une contrebande (art. 282-6° ; circ. n° 6702/210). La note D232/2025 en donne une application conventionnelle (code franchise 1084). À la sortie de la ZFL, le service peut délivrer des certificats EUR.1 ou EUR-MED de remplacement pour les marchandises réexpédiées en l'état vers la zone pan-euro-méditerranéenne ; les marchandises marocaines exportées dans un cadre préférentiel sont déclarées sous le régime 681, qui apure la déclaration d'exportation temporaire initiale et, le cas échéant, les comptes RED des intrants (circ. 5549/230).",
+    "donnees": [
+      [
+        "Statut des ZAI",
+        "Territoire douanier, hors territoire assujetti (CDII, art. 1er)"
+      ],
+      [
+        "Mise à la consommation",
+        "Si l'exportation est impossible pour raisons commerciales (CDII, art. 166 quinquies)"
+      ],
+      [
+        "Taux réduit",
+        "2,5 %, limite 30 % du CA export annuel (CDII, art. 164 bis-1°-i))"
+      ],
+      [
+        "Déclaration entrée / sortie ZAI",
+        "Annexe X (arrêté n° 1319-77, art. 17 terdecies)"
+      ],
+      [
+        "Codes régimes ZFL",
+        "769 et 682 (circ. n° 6047/312)"
+      ],
+      [
+        "Codes d'entrée en ZFL",
+        "765 (territoire assujetti) ; 856 (transit entre zones franches) ; 681 (exportation définitive en régularisation) (circ. 5549/230)"
+      ]
+    ],
+    "cas": "La société fictive Rif Câblage, installée en ZAI, veut vendre un surplus de faisceaux électriques à un client de Casablanca, sur simple facture. Son transitaire l'arrête : la sortie vers le territoire assujetti est une importation, qui exige une déclaration de mise à la consommation. Celle-ci n'est admise que si la société justifie l'impossibilité commerciale d'exporter ce surplus (art. 166 quinquies), et le taux de 2,5 % ne joue que dans la limite de 30 % de son chiffre d'affaires export (art. 164 bis-1°-i)).",
+    "juris": "",
+    "conseil": "Avant toute vente d'une entreprise de ZAI sur le marché local, constituez le dossier justifiant l'impossibilité d'exporter et vérifiez le plafond disponible. Pour les livraisons vers une ZAI, contrôlez que le chargement correspond à l'activité autorisée du destinataire. En ZFL, choisissez le bon code régime dès la première déclaration : il conditionne l'apurement et la certification de l'origine.",
+    "faq": [
+      [
+        "Un magasin duty free est-il hors du territoire assujetti ?",
+        "Non : il est placé sous le régime de l'entrepôt d'exportation (CDII, art. 119 ; circ. n° 6542/313), qui suspend les droits sans exclure le local du territoire assujetti."
+      ],
+      [
+        "Le taux de 2,5 % est-il automatique pour les produits de ZAI ?",
+        "Non : il est limité à 30 % du chiffre d'affaires export annuel (CDII, art. 164 bis-1°-i)), et la note D232/2025 l'applique dans le cadre d'une convention avec l'État."
+      ],
+      [
+        "Une marchandise étrangère stockée en ZFL garde-t-elle son origine préférentielle à l'importation au Maroc ?",
+        "Oui si elle n'y a pas été transformée : elle est dédouanée aux mêmes conditions qu'une importation directe et la preuve d'origine est examinée selon l'accord applicable (circ. 5549/230)."
+      ]
+    ],
+    "renvois": [
+      "1-010",
+      "1-011",
+      "2-026",
+      "6-001",
+      "7-040",
+      "7-070",
+      "7-071",
+      "7-072",
+      "9-011"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  }
+]

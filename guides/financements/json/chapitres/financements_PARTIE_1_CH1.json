@@ -1,0 +1,65 @@
+[
+ {
+  "id": "1-001",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Panorama des mécanismes de financement de l'investissement",
+  "t": "Les huit familles d'instruments",
+  "principe": "Un projet d'investissement ne se finance jamais avec un seul instrument. Il combine des ressources de nature différente, qui ne répondent pas au même besoin, ne s'obtiennent pas auprès du même guichet et n'engagent pas l'entreprise de la même manière. La première erreur des promoteurs est de confondre une prime, une garantie et un crédit : la prime réduit le coût net du projet, la garantie facilite l'obtention d'un crédit sans rien financer elle-même, le crédit apporte la trésorerie mais doit être remboursé.\n| Famille | Nature | Remboursable ? | Exemples au Maroc | Guichet |\n| Fonds propres | Capital apporté par les associés, autofinancement, comptes courants d'associés | Non (rémunération par les dividendes et la plus-value) | Apport des promoteurs, augmentation de capital, entrée d'un fonds | Associés, fonds, bourse |\n| Quasi-fonds propres | Dette subordonnée, prêt participatif, prêt d'honneur, avance remboursable | Oui, mais après les autres créanciers ou à conditions souples | Cap Access, Innov Dev, Innov Risk, prêts d'honneur Intelaka, Machrou3i | Banque, Tamwilcom, sociétés de gestion, associations |\n| Dette bancaire | Crédit d'investissement à moyen et long terme, crédit de fonctionnement, crédit immobilier professionnel | Oui | Crédits des banques commerciales | Banque |\n| Crédit-bail (leasing) | Location d'un bien avec option d'achat | Oui (loyers) | Leasing mobilier et immobilier | Sociétés de leasing, banques |\n| Garantie | Engagement d'un tiers de rembourser une partie du crédit en cas de défaillance | Sans objet (commission) | Damane Intelak, Damane Express, Damane Istitmar, Damane Atayssir | Banque, qui saisit Tamwilcom |\n| Subvention et prime | Contribution non remboursable sous conditions | Non, sauf manquement aux engagements | Primes de la Charte, MDM Invest, FDA, Go Siyaha, INDH | CRI, opérateur du programme |\n| Avantage fiscal et douanier | Exonération ou réduction d'impôt ou de droits | Non | Exonération de TVA sur les biens d'investissement, taux d'IS des zones d'accélération industrielle | DGI, ADII, via convention |\n| Accompagnement | Prise en charge de prestations de conseil, de formation, d'export | Non | Pacte TPME de Maroc PME, Power Export, ANAPEC | Opérateur du programme |\nÀ ces huit familles s'ajoutent des canaux spécialisés : la finance participative (produits conformes aux principes de la charia : mourabaha, ijara, moucharaka, salam), la microfinance, le financement collaboratif (« crowdfunding »), les marchés de capitaux (Bourse de Casablanca) et les lignes des bailleurs de fonds internationaux distribuées par les banques marocaines.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-002",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Panorama des mécanismes de financement de l'investissement",
+  "t": "Les acteurs et leur rôle",
+  "principe": "| Acteur | Rôle dans un dossier de financement |\n| Centres régionaux d'investissement (CRI) | Guichet unique de l'investisseur : dépôt des demandes de convention et de primes au titre de la Charte, instruction, secrétariat de la commission régionale unifiée d'investissement (CRUI), suivi de la convention, versement des primes du dispositif TPME |\n| Commission régionale unifiée d'investissement (CRUI) | Décide au niveau régional (actes administratifs, foncier public, conventions de moins de 250 MDH) ; ses décisions sont motivées et exécutoires depuis la réforme de 2024 |\n| Agence marocaine de développement des investissements et des exportations (AMDIE) | Secrétariat de la Commission nationale de l'investissement ; promotion de l'investissement et de l'export ; guichet des Marocains du monde |\n| Commission nationale de l'investissement | Présidée par le chef du gouvernement ; approuve les conventions du niveau central (250 MDH et plus) et attribue le caractère stratégique |\n| Ministère de l'Investissement, de la Convergence et de l'Évaluation des politiques publiques | Pilotage de la Charte ; interlocuteur des projets stratégiques |\n| Tamwilcom (Société nationale de garantie et de financement de l'entreprise) | Garanties des crédits bancaires, cofinancements, quasi-fonds propres, fonds d'appui aux startups ; n'est pas saisie directement par l'entreprise pour la plupart des produits |\n| Banques, sociétés de leasing, banques et fenêtres participatives | Distribuent le crédit, présentent les demandes de garantie et de cofinancement à Tamwilcom |\n| Maroc PME (Agence nationale pour la promotion de la petite et moyenne entreprise) | Programmes d'accompagnement (Pacte TPME), d'innovation et d'export ; assistance technique aux CRI pour le dispositif TPME |\n| Finéa (groupe CDG) | Avances sur marchés publics et privés, cautions, financement des titulaires de commandes publiques |\n| Fonds Mohammed VI pour l'investissement | Fonds souverain ; financement indirect via des fonds sectoriels et thématiques ; participations directes dans de grandes entreprises |\n| Société marocaine d'ingénierie touristique (SMIT) | Programmes du tourisme (Cap Hospitality, incubation) |\n| Agence nationale de promotion de l'emploi et des compétences (ANAPEC) | Aides au recrutement et à la formation (Idmaj, Tahfiz, Taehil) |\n| Directions provinciales de l'agriculture et ORMVA | Guichet du Fonds de développement agricole |\n| Bourse de Casablanca, Autorité marocaine du marché des capitaux (AMMC) | Introduction en bourse, agrément des plateformes de financement collaboratif de catégorie « investissement » |\n| Bank Al-Maghrib | Régulation bancaire, agrément des plateformes de financement collaboratif de catégories « prêt » et « don », refinancement des crédits aux TPE |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-003",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Panorama des mécanismes de financement de l'investissement",
+  "t": "Les trois questions qui décident de tout",
+  "principe": "Avant de choisir un mécanisme, l'investisseur doit répondre à trois questions, dans cet ordre.\nLa première porte sur la taille et le statut du porteur : personne physique ou morale, auto-entrepreneur, très petite entreprise, PME, entreprise de taille intermédiaire ou grande entreprise ; chiffre d'affaires réalisé ; ancienneté ; composition du capital (présence d'une société de plus de 200 MDH de chiffre d'affaires, d'une personne publique, d'associés Marocains du monde ou de femmes majoritaires). Ces éléments ouvrent ou ferment l'accès à la plupart des dispositifs.\nLa deuxième porte sur le projet : montant total hors taxes, nombre d'emplois stables créés, secteur et branche d'activité, lieu d'implantation (province ou préfecture), part du foncier, nature des dépenses (matérielles, immatérielles, besoin en fonds de roulement). Ces éléments déterminent les primes et leurs taux.\nLa troisième porte sur le besoin financier : faut-il renforcer les fonds propres, obtenir un crédit, réduire le risque supporté par la banque, réduire le coût net de l'investissement, financer la trésorerie d'un marché public, ou préparer une ouverture du capital ? Un même projet a généralement plusieurs besoins à la fois.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-004",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Panorama des mécanismes de financement de l'investissement",
+  "t": "Le coût réel de chaque ressource",
+  "principe": "Chaque ressource a un coût, visible ou caché, qu'il faut intégrer au plan de financement.\n| Ressource | Coût visible | Coût caché ou contrainte |\n| Apport en fonds propres | Aucun intérêt | Rendement attendu par les associés ; dilution en cas d'entrée d'un tiers |\n| Crédit bancaire | Taux d'intérêt, frais de dossier | Sûretés (hypothèque, nantissement, caution personnelle), assurance, covenants |\n| Garantie Tamwilcom | Commission de garantie, généralement répercutée par la banque | Délai d'obtention ; conditions d'éligibilité à respecter pendant toute la vie du crédit |\n| Crédit-bail | Loyers | Bien non inscrit à l'actif jusqu'à la levée d'option ; premier loyer majoré fréquent |\n| Prime de la Charte | Aucun | Convention à signer, engagements d'emplois et d'investissement, contrôle, restitution en cas de manquement, versement différé qui impose un préfinancement |\n| Subvention sectorielle | Aucun | Approbation préalable souvent obligatoire ; engagement de conservation du bien |\n| Capital-investissement | Aucun intérêt | Part du capital cédée, pacte d'associés, gouvernance partagée, sortie à organiser en cinq à sept ans |\n| Financement collaboratif | Commission de la plateforme | Campagne de six mois au plus ; obligation d'information des contributeurs |\n### À retenir\nune prime n'est jamais disponible au démarrage du projet. Elle est versée par tranches, sur justificatifs, après réalisation de tout ou partie de l'investissement. Le plan de financement doit prévoir comment la financer en attendant (fonds propres supplémentaires ou crédit relais).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-005",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Panorama des mécanismes de financement de l'investissement",
+  "t": "Les combinaisons classiques par taille d'entreprise",
+  "principe": "| Segment | Combinaison type | Dispositifs mobilisables |\n| Auto-entrepreneur, très petite entreprise en création | Apport personnel faible + crédit garanti à taux réduit + prêt d'honneur + accompagnement | Programme Intelaka (Damane Intelak), INDH, Machrou3i (Casablanca-Settat), microfinance, aides ANAPEC (Tahfiz) |\n| Très petite entreprise en activité | Crédit bancaire garanti + crédit-bail | Damane Express, Damane Moubachir (participatif), Pacte TPME |\n| PME (projet de 1 à moins de 50 MDH) | Fonds propres d'au moins 10 % + crédit MLT garanti + prime TPME + cofinancement spécialisé | Dispositif TPME de la Charte, Damane Istitmar, Damane Atayssir, Green Invest, Ilayki Invest, MDM Invest, MDM Tamwil, Cap Access (CA de 10 à 500 MDH) |\n| Entreprise de taille intermédiaire, grande entreprise (projet d'au moins 50 MDH et 50 emplois, ou 150 emplois) | Fonds propres + dette bancaire ou syndiquée + primes du dispositif principal + avantages fiscaux et douaniers | Dispositif principal de la Charte, exonération de TVA sur les biens d'investissement, financements des bailleurs internationaux, capital-développement, bourse |\n| Projet d'au moins 2 Md DH | Montage sur mesure négocié avec l'État | Dispositif des projets à caractère stratégique, Fonds Mohammed VI pour l'investissement |\n| Startup innovante | Subvention d'amorçage + prêt d'honneur + capital-risque + avance remboursable | Tech Start, Tech Boost, Innov Risk, Innov Dev, fonds de capital-risque, business angels |\n| Marocains du monde | Contribution non remboursable + cofinancement + crédit | MDM Invest, MDM Tamwil |\n| Entreprises féminines | Garanties majorées + cofinancement à 2 % | Damane Express (80 %), Damane Moubachir (80 %), Ilayki Invest, Women in Business |",
+  "faq": [
+   [
+    "Quelle différence entre une prime, une garantie et un crédit ?",
+    "La prime est une contribution non remboursable de l'État qui réduit le coût net de l'investissement, versée par tranches après réalisation et sous réserve du respect de la convention. La garantie, accordée par Tamwilcom, couvre une partie du risque de la banque et facilite l'obtention du crédit, sans rien financer elle-même ; elle coûte une commission. Le crédit apporte la trésorerie et doit être remboursé avec intérêts."
+   ],
+   [
+    "Peut-on financer un projet uniquement avec des aides publiques ?",
+    "Non. Tous les dispositifs exigent un apport : au moins 10 % de fonds propres pour le dispositif TPME de la Charte, 20 % pour MDM Invest, environ 10 % du coût du projet pour l'appui INDH à l'entreprenariat des jeunes, et les banques demandent en pratique un apport significatif. Les primes sont plafonnées (30 % du montant primable pour la Charte) et versées après réalisation."
+   ],
+   [
+    "À qui s'adresser en premier pour un projet d'investissement ?",
+    "Au Centre régional d'investissement de la région du projet pour les primes de la Charte et les autorisations, et à sa banque pour le crédit et les garanties Tamwilcom, qui se demandent par l'intermédiaire de la banque. Les deux démarches doivent être menées en parallèle, car la banque demande souvent la convention et le CRI demande le plan de financement."
+   ],
+   [
+    "Les garanties Tamwilcom se demandent-elles directement à Tamwilcom ?",
+    "Non, pour la quasi-totalité des produits. L'entreprise dépose sa demande de crédit auprès d'une banque, d'une société de leasing ou d'une association de microcrédit conventionnée, qui sollicite la garantie. Les produits destinés aux startups (Innov Risk, Innov Dev) passent par les sociétés de gestion partenaires ou les structures labellisées."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

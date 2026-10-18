@@ -1,0 +1,66 @@
+[
+ {
+  "id": "7-050",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Spécificités sectorielles et projets multisites",
+  "t": "Industrie",
+  "principe": "L'industrie ouvre droit à la prime sectorielle de 5 % du dispositif principal et, dans le dispositif TPME, à de nombreuses activités prioritaires. Pièces techniques à prévoir : schéma de fabrication ; bilan matière (intrants, produits, sous-produits, déchets) ; liste des équipements (marque, modèle, puissance, origine) ; capacité de production ; plans d'implantation ; besoins énergétiques (puissance souscrite, consommation, eau, vapeur, froid) ; traitement des effluents et des déchets ; prévention des risques (incendie, explosion, produits chimiques) ; étude de trafic poids lourds ; étude géotechnique ; contrats ou lettres d'intention fournisseurs et clients ; certifications visées (ISO 9001, 14001, 45001 ; IATF 16949 pour l'automobile ; AS9100 pour l'aéronautique) ; programme d'intégration locale.\nAutorisations : étude ou notice d'impact environnemental selon la catégorie (loi 12-03 et textes subséquents) ; permis de construire ; autorisation d'exploitation des établissements classés ; autorisation de rejet (agence du bassin hydraulique) ; autorisations sectorielles (ONSSA pour l'agroalimentaire ; produits dangereux pour la chimie). Le terrain doit être situé en zone industrielle ou compatible.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-051",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Spécificités sectorielles et projets multisites",
+  "t": "Tourisme",
+  "principe": "Voir la section 21 (sections 21.4 et 21.5).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-052",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Spécificités sectorielles et projets multisites",
+  "t": "Agro-industrie et agriculture",
+  "principe": "Séparer l'exploitation agricole (FDA, section 22) de l'unité de transformation (Charte ou FDA unités de valorisation). Autorisations ONSSA et agrément sanitaire ; traçabilité ; approvisionnement (contrats d'agrégation).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-053",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Spécificités sectorielles et projets multisites",
+  "t": "Numérique et services",
+  "principe": "Prime sectorielle « numérique » et « outsourcing » (dispositif principal) ; branches « logiciels, conseil et autres activités informatiques » et « services d'information » éligibles au TPME dans toutes les régions, avec activités prioritaires (cloud, cybersécurité, big data, IA, e-commerce, blockchain, développement logiciel, centres d'appels). Le terrain n'entre pas dans le montant primable TPME ; l'investissement est souvent immatériel (développement, licences), ce qui rend le seuil de 1 MDH et le ratio d'emplois décisifs.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-054",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Spécificités sectorielles et projets multisites",
+  "t": "Logistique, énergies renouvelables, aquaculture",
+  "principe": "Logistique : prime sectorielle « logistique et transport » ; activités prioritaires TPME : stockage réfrigéré, unités logistiques dans les ports. Énergies renouvelables : prime sectorielle de 5 %, mais plafond de 30 MDH pour la production éolienne, solaire ou hydraulique ; la fabrication d'équipements solaires et éoliens est prioritaire dans le TPME. Aquaculture : prime sectorielle du dispositif principal ; branches TPME en eau douce (toutes régions) et en mer (neuf régions côtières), prioritaires ; agrément de l'agence de développement de l'aquaculture.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-055",
+  "p": 7,
+  "ch": "7.6",
+  "c": "Spécificités sectorielles et projets multisites",
+  "t": "Projets multisites et multisectoriels",
+  "principe": "Pour un projet réparti sur plusieurs provinces ou activités, présenter un tableau de ventilation : par site, la province ou préfecture et sa catégorie, le secteur ou la branche, l'investissement, les emplois stables et la prime territoriale applicable. Chaque site a son propre programme d'investissement ; les emplois sont affectés au site où ils sont exercés ; les secteurs correspondent à l'activité réelle de chaque site.\n| Province ou préfecture | Activité | Investissement (MDH) | Emplois stables | Catégorie | Prime territoriale |\n| Kénitra | Industrie automobile | 150 | 400 | Sans prime territoriale | 0 |\n| Salé | Logistique | 50 | 120 | A | 10 % × 50 = 5 MDH |\n| Rabat | Siège et services | 30 | 80 | Sans prime territoriale | 0 |\n| Total |  | 230 | 600 |  | 5 MDH |\n### Attention\nun exemple diffusé lors d'une session antérieure classait Kénitra en catégorie A (10 %) et Salé en catégorie B (5 %). C'est inexact : Kénitra et Rabat ne bénéficient d'aucune prime territoriale, Salé est en catégorie A (10 %), et aucune catégorie n'ouvre droit à 5 %. Le ratio global de ce projet est de 600 ÷ 230 = 2,6 (palier de 7 % du dispositif principal).\nAttention : un siège administratif ne relève pas du secteur industriel, même au sein d'un groupe industriel. Séparer des activités uniquement pour multiplier les primes expose à une requalification ; la ventilation doit refléter la réalité économique.",
+  "faq": [
+   [
+    "Comment ventiler l'investissement par région ?",
+    "Établir un programme d'investissement par site (terrain, bâtiment, équipements), affecter les emplois au site où ils sont exercés, indiquer l'activité réelle de chaque site et appliquer à chacun la catégorie de sa province. Le plafond de 30 % s'apprécie sur le montant primable du projet."
+   ],
+   [
+    "Quelles spécificités pour un projet industriel ?",
+    "Un dossier technique (procédé, bilan matière, équipements, capacité, utilités, effluents, risques) et des autorisations propres (impact environnemental, établissement classé, rejets, autorisations sectorielles), en plus du socle commun ; l'industrie ouvre droit à la prime sectorielle de 5 % du dispositif principal et à de nombreuses activités prioritaires du dispositif TPME."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

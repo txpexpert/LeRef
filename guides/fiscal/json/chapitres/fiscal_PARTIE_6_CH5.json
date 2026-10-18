@@ -1,0 +1,38 @@
+[
+ {
+  "id": "6-040",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Le barème des sanctions",
+  "t": "Défaut ou retard de déclaration [CGI art. 184]",
+  "principe": "| Situation | Majoration |\n| Dépôt dans les 30 jours suivant l’échéance ; déclaration rectificative hors délai entraînant des droits complémentaires | 5 % |\n| Dépôt au-delà de 30 jours | 15 % |\n| Taxation d’office (défaut de déclaration, déclaration incomplète ou insuffisante) | 20 % |\n| Minimum de la majoration | 500 DH (100 DH pour l’auto-entrepreneur et pour les droits simples) |\n| Déclaration incomplète sans incidence sur l’impôt | Amende de 500 DH (100 DH auto-entrepreneur) |\n| Actes exonérés déposés hors délai | 0,5 % (0,25 % si retard ≤ 30 jours), entre 500 et 100 000 DH |\nLa majoration est calculée sur les droits correspondants, ou sur la cotisation minimale si elle est supérieure ou si le résultat déclaré est nul ou déficitaire.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-041",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Le barème des sanctions",
+  "t": "Rectification de la base imposable [CGI art. 186]",
+  "principe": "| Situation | Majoration |\n| Rectification du résultat, du CA, des profits, d’un déficit ; omissions de recettes, déductions abusives, manœuvres pour obtenir une exonération ou un remboursement ; insuffisance de prix dans les actes | 20 % |\n| Même situation pour la TVA et les retenues à la source | 30 % |\n| Mauvaise foi établie (manœuvres frauduleuses) ; dissimulation du prix d’une vente d’immeuble ou de fonds de commerce, du caractère véritable d’un contrat | 100 % (minimum 1 000 DH en cas de dissimulation) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-042",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Le barème des sanctions",
+  "t": "Paiement tardif [CGI art. 208]",
+  "principe": "| Élément | Taux |\n| Pénalité | 10 % (ramenée à 5 % si retard ≤ 30 jours ; portée à 20 % pour la TVA et les retenues à la source) |\n| Majoration de retard | 5 % pour le premier mois + 0,50 % par mois ou fraction de mois supplémentaire |\n| Droits d’enregistrement, TSAV | Minimum 100 DH |\n| TSAV constatée par procès-verbal | Pénalité de 100 % |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-043",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Le barème des sanctions",
+  "t": "Amendes spécifiques",
+  "principe": "| Infraction | Sanction | Base |\n| Défaut de présentation des documents comptables, refus de contrôle | 2 000 DH (IR : 500 à 2 000 DH) + astreinte 100 DH/jour (max 1 000 DH) | Art. 191-I |\n| Non-production de la documentation des prix de transfert | 0,5 % des transactions concernées, minimum 200 000 DH par exercice | Art. 185-IV |\n| Défaut ou insuffisance de déclaration pays par pays | 500 000 DH | Art. 199 bis |\n| Défaut de déclaration d’identité fiscale (dont « autres revenus et gains ») | 500 DH | Art. 201 |\n| Informations erronées ou incomplètes dans l’enregistrement électronique, non-transmission de l’acte | 1 000 DH (sauf correction sous 30 jours) | Art. 206 bis |\n| Défaut d’état explicatif d’un résultat nul ou déficitaire | Sanction de l’article 198 bis | Art. 20-IV |\n| Défaut de liste des détenteurs de titres d’une SPI | Amendes de l’article 199 | Art. 83 |\n| Promoteur ne réalisant pas son programme de logements sociaux | 15 % de la TVA exigible | Art. 191-III |\n| Acquéreur de logement social ne respectant pas ses engagements | 15 % de la TVA versée + pénalités de retard | Art. 191-IV |\n| Programmes de l’article 247-XXII non respectés | 7 500 DH par logement | Art. 191-VI |\n| Gains de jeux en ligne : défaut de déclaration ou de versement | Majorations de l’article 184 ; pénalité de 20 % | Art. 203 ter, 208 |\n### SANCTIONS PÉNALES\nLes infractions les plus graves (fausses factures, dissimulations, comptabilité occulte) relèvent de la procédure des sanctions pénales de l’article 231 du CGI ; les fournisseurs définitivement condamnés figurent sur la liste publique des fournisseurs défaillants dont les factures ne sont pas déductibles.",
+  "maj": "2026-10-17"
+ }
+]

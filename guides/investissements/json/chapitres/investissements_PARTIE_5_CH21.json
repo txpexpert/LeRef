@@ -1,0 +1,56 @@
+[
+ {
+  "id": "5-250",
+  "p": 5,
+  "ch": "5.21",
+  "c": "Historique des éditions du Kit de l'accompagnement",
+  "t": "Historique des éditions du Kit de l'accompagnement — présentation",
+  "principe": "Les cinq éditions du Kit fournies (2023, septembre 2024, octobre 2025, novembre 2025, décembre 2025) ont été comparées par extraction du texte, puis les écarts repérés ont été relus à la main. L'édition de 2023 est composée en doubles pages, ce qui fait parfois éclater les titres à l'extraction : pour cette édition, la présence d'un programme a été confirmée par la lecture directe du document. Le Kit d'août 2026 n'a pas pu être retrouvé : l'historique s'arrête donc à décembre 2025.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-251",
+  "p": 5,
+  "ch": "5.21",
+  "c": "Historique des éditions du Kit de l'accompagnement",
+  "t": "Les éditions",
+  "principe": "| Édition | Date du fichier | Pages | Remarque |\n| 2023 | 2 octobre 2023 | 49 (doubles pages) | Édition de référence la plus ancienne |\n| Septembre 2024 | 18 septembre 2024 | 100 | Nombreuses créations et disparitions |\n| Octobre 2025 | 3 octobre 2025 | 96 | Quatre programmes disparus, quatre nouveautés |\n| Novembre 2025 | 13 novembre 2025 | 96 | Seul ajout : renvoi au décret 2-25-342 |\n| Décembre 2025 | 8 décembre 2025 | 96 | Aucune différence chiffrée détectée |\nDe novembre à décembre 2025, la comparaison automatique du texte ne relève aucune différence de valeur. D'octobre à novembre 2025, la page « Charte de l'investissement » gagne un renvoi au décret n° 2-25-342 et aux arrêtés qui s'y rapportent, ainsi qu'un lien vers la page Charte du CRI. L'essentiel des changements a donc eu lieu entre 2023 et septembre 2024, puis entre septembre 2024 et octobre 2025.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-252",
+  "p": 5,
+  "ch": "5.21",
+  "c": "Historique des éditions du Kit de l'accompagnement",
+  "t": "Programmes disparus",
+  "principe": "| Programme | 2023 | Sept. 2024 | Oct. 2025 | Nov. 2025 | Déc. 2025 | Observation |\n| Ligne française | oui | – | – | – | – | Disparue dès septembre 2024 |\n| Renovotel | oui | – | – | – | – | Disparu dès 2024 ; Cap Hospitality apparaît en 2024 |\n| Forsa | oui | – | – | – | – | Disparu dès 2024 ; Machrou3i (régional) apparaît en 2024 |\n| FDII | oui | – | – | – | – | Disparu dès 2024 |\n| Awrach | oui | – | – | – | – | Programme 2022-2023 |\n| Start-TPE | oui | – | – | – | – | Prêt gratuit lié à Intelaka |\n| Go-To-Market 2023-2024 | oui | – | – | – | – | Édition échue |\n| Industry'ELLE | oui | – | – | – | – |  |\n| Min Ajliki | oui | – | – | – | – |  |\n| Accélérateur d'efficacité énergétique (AEEIM) | oui | – | – | – | – |  |\n| Ana Moukawil | oui | oui | – | – | – | Disparu entre septembre 2024 et octobre 2025 |\n| Istitmar PME (Maroc PME) | oui | oui | – | – | – | Disparu entre septembre 2024 et octobre 2025 |\n| Mouwakaba (six volets) | oui | oui | – | – | – | Disparu entre septembre 2024 et octobre 2025 ; seul INMAA subsiste |\n| Tatwir Croissance Verte | oui | oui | – | – | – | Disparu entre septembre 2024 et octobre 2025 |\nLa seconde vague de disparitions (les quatre dernières lignes) est la plus importante pour une plateforme : ces programmes figuraient encore dans le Kit de septembre 2024 et avaient des conditions chiffrées (par exemple, Istitmar PME : prime de 20 % de l'investissement, plafonnée à 10 MDH). Rien ne prouve qu'ils aient cessé d'exister : ils peuvent avoir été retirés du Kit sans être abrogés. Il faut interroger Maroc PME avant de les retirer d'une base publique.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-253",
+  "p": 5,
+  "ch": "5.21",
+  "c": "Historique des éditions du Kit de l'accompagnement",
+  "t": "Nouveautés",
+  "principe": "| Programme | Première apparition | Observation |\n| Cap Access | Septembre 2024 | Dette subordonnée, avec le Fonds Mohammed VI pour l'investissement |\n| MDM Tamwil | Septembre 2024 | Cofinancement pour projets d'au moins 2,5 MDH |\n| Ilayki Invest | Septembre 2024 | Entreprises féminines |\n| Machrou3i | Septembre 2024 | Programme de la Région Casablanca-Settat |\n| Go Siyaha | Septembre 2024 | Maroc PME, tourisme |\n| Cap Hospitality | Septembre 2024 | La mention « période 2024-2025 » est restée inchangée jusqu'en décembre 2025 |\n| Incubation SMIT (gastronomie, digitalisation, gaming) | Septembre 2024 | Trois programmes |\n| Export Morocco Now Women | Septembre 2024 |  |\n| Financement collaboratif (crowdfunding) | Septembre 2024 | Plafonds de 3 MDH, 450 000 DH et 5 MDH |\n| Power Export | Octobre 2025 | Pacte du commerce extérieur 2025-2027 |\n| Damane Tasdir | Octobre 2025 | Garantie des cautionnements à l'export |\n| She Industriel 2025-2026 | Octobre 2025 | AFEM et ministère de l'Industrie |\n| Programme d'appui à l'innovation industrielle | Octobre 2025 | Remplace Tatwir R&D et Innovation ; l'opérateur indiqué passe de Maroc PME au ministère de l'Industrie et du Commerce |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-254",
+  "p": 5,
+  "ch": "5.21",
+  "c": "Historique des éditions du Kit de l'accompagnement",
+  "t": "Valeurs suivies d'une édition à l'autre",
+  "principe": "| Valeur | 2023 | Sept. 2024 | Oct. à déc. 2025 | Constat |\n| INDH – plafond de l'appui à l'entreprenariat | 150 000 DH | 100 000 DH | 100 000 DH (150 000 DH à titre exceptionnel en décembre) | Baisse dès 2024 |\n| MDM Invest – assiette | 10 % de la quote-part des MRE | 10 % du montant d'investissement | Idem | Changement dès 2024 |\n| Damane Express – quotité | 70 % (80 % pour l'ESS et les entreprises féminines) | 70 % (80 % pour les entreprises féminines) | Idem | 70 % constant ; aucune édition ne donne 60 % ou 75 % |\n| Damane Intelak – quotité | Non explicitée dans l'extrait | 80 % | 80 % | Aucune édition ne donne 85 % |\n| Damane Istitmar – quotité | 60 % | 60 % | 60 % | Constant |\n| Damane Atayssir – plafonds | 15 et 30 MDH | 15 et 30 MDH | 15 et 30 MDH | Constant |\n| Cap Access – taux | – | 5,5 % (dossiers 2024) | 5,5 % (millésime 2025) | Taux inchangé, millésime mis à jour |\n| Istitmar PME – prime | 20 %, plafond 10 MDH | 20 %, plafond 10 MDH | Programme absent | Disparition |\n| Idmaj – prime à l'employeur en cas de CDI | 25 000 DH | 25 000 DH | 25 000 DH | Constant |\n| Tahfiz – période de création | 2015 à 2026 | 2015 à 2026 | 2015 à 2026 | Constant ; échéance le 31 décembre 2026 |\nLes deux valeurs contestées lors de la première session sont ainsi tranchées par les documents : la quotité de Damane Express n'a jamais été autre que 70 % dans les cinq éditions, et la quotité de 85 % de Damane Intelak n'apparaît dans aucune d'elles. Les valeurs avancées dans d'autres sources (60 %, 75 %, 85 %) restent à vérifier directement chez Tamwilcom ; elles ne doivent pas figurer dans la base tant qu'elles n'ont pas de source.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-255",
+  "p": 5,
+  "ch": "5.21",
+  "c": "Historique des éditions du Kit de l'accompagnement",
+  "t": "Conséquences pour la conception de la base",
+  "principe": "- Versionner chaque valeur. Une valeur n'est pas « vraie » en soi : elle l'est dans une édition donnée. Le plafond de l'INDH l'illustre : 150 000 DH jusqu'en 2023, 100 000 DH ensuite.\n- Conserver les programmes disparus. Un programme absent d'une édition n'est pas nécessairement supprimé. Il faut enregistrer sa dernière apparition et son statut, et vérifier auprès de l'opérateur.\n- Séparer la date de l'édition et la date de validité. Cap Access montre un taux resté à 5,5 % alors que son millésime change ; Cap Hospitality garde la mention « 2024-2025 » dans une édition de décembre 2025.\n- Prévoir un rythme de mise à jour. En deux ans, le Kit a connu près de trente créations ou disparitions de programmes, mais très peu de modifications chiffrées sur les programmes conservés. Les changements de structure (apparition, disparition, changement d'opérateur) sont plus fréquents que les changements de taux : la veille doit surveiller d'abord la liste des programmes.\n- Documenter les changements de texte juridique. Le décret 2-25-342 n'est cité par le Kit qu'à partir de novembre 2025, soit plusieurs mois après sa publication au Journal officiel du 3 juillet 2025 : une base fondée uniquement sur le Kit aurait pris du retard sur les textes.",
+  "maj": "2026-10-17"
+ }
+]

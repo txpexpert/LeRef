@@ -1,0 +1,29 @@
+[
+ {
+  "id": "5-240",
+  "p": 5,
+  "ch": "5.20",
+  "c": "Recommandations pour la plateforme publique",
+  "t": "Un modèle de données par fiche",
+  "principe": "La structure suivante, déjà appliquée dans le classeur d'accompagnement, permet de tenir à jour une base dont les valeurs changent d'une édition à l'autre :\n- Dispositif : identifiant, nom, opérateur, nature (subvention, garantie, prêt, quasi-fonds propres, fiscalité, accompagnement).\n- Ciblage : taille de l'entreprise (très petite, petite, moyenne, grande), stade (création, croissance, transmission), secteur, région, profil (femmes, Marocains du monde, jeunes).\n- Conditions : seuils de chiffre d'affaires, d'investissement, d'emplois, ancienneté, exclusions.\n- Avantage : taux ou quotité, plafond, durée, date de validité.\n- Procédure : étapes, pièces, canal de dépôt, délais, contacts.\n- Source : document, page, édition, URL, texte juridique éventuel, date de relevé, statut de vérification.\n- Cumul : compatibilités et exclusions entre dispositifs (par exemple, le dispositif TPME est cumulable avec les régimes régionaux et exclut une convention préalable à avantages similaires).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-241",
+  "p": 5,
+  "ch": "5.20",
+  "c": "Recommandations pour la plateforme publique",
+  "t": "Règles d'affichage",
+  "principe": "- Afficher la source, l'édition et la date de relevé à côté de chaque chiffre.\n- Distinguer visuellement les valeurs issues d'un texte juridique de celles issues d'un guide ou d'un Kit.\n- Pour les dispositifs soumis à des crédits limités ou à une décision discrétionnaire, remplacer toute promesse de montant par « éligible sous réserve ».\n- Placer la région et la branche d'activité en tête du parcours de l'investisseur pour le dispositif TPME.\n- Conserver les programmes disparus avec leur date de dernière apparition plutôt que de les supprimer.\n- Prévoir un double contrôle humain pour toute modification d'un seuil entre deux relevés, ainsi qu'un avertissement signalant que le contenu n'a pas valeur de conseil juridique.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-242",
+  "p": 5,
+  "ch": "5.20",
+  "c": "Recommandations pour la plateforme publique",
+  "t": "Questions ouvertes",
+  "principe": "Trois choix de produit restent à faire : la fréquence de mise à jour de la base et la personne qui en répond ; la responsabilité en cas d'éligibilité erronée ; le droit de reproduire les contenus des opérateurs (citer et renvoyer plutôt que reproduire est la solution la plus prudente). Les droits de réutilisation de chaque source n'ont pas été vérifiés.",
+  "maj": "2026-10-17"
+ }
+]

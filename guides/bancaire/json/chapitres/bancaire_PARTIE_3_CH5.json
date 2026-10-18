@@ -1,0 +1,47 @@
+[
+ {
+  "id": "3-040",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Tarification, relevés, clôture du compte et mobilité bancaire",
+  "t": "Transparence tarifaire",
+  "principe": "- Les conditions (taux débiteurs et créditeurs, commissions, dates de valeur) sont affichées dans toutes les agences et chez les mandataires, au moins sur papier et par affichage, en précisant HT ou TTC et les frais réels récupérés à l'identique (circ. 23/G/2006).\n- Toute modification est portée à la connaissance des clients avant application — deux mois selon la convention type de compte.\n- Les banques communiquent leurs conditions à BAM avant le 31 janvier de chaque année.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-041",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Tarification, relevés, clôture du compte et mobilité bancaire",
+  "t": "Le relevé de compte : un moyen de preuve",
+  "principe": "Établi selon les modalités de BAM, le relevé fait foi jusqu'à preuve du contraire en justice (art. 156). Il doit indiquer pour chaque opération : libellé normalisé, montant, sens, date d'exécution et date de valeur, TEG pour les crédits sans contrat spécifique, taux appliqué aux dépôts rémunérés, cours de change, nature et taux des commissions, frais et taxes (circ. 3/G/10). La banque adresse au moins une fois par an un récapitulatif des frais par rubrique, au plus tard 2 mois après la période. Le relevé invite le client à vérifier les écritures et signaler toute erreur.\n### Conseil pratique\nMettre en place un contrôle mensuel des relevés (dates de valeur, commissions de mouvement, agios, cours de change appliqués) et réclamer sans tarder : la valeur probante du relevé joue contre le client qui n'a pas contesté.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-042",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Tarification, relevés, clôture du compte et mobilité bancaire",
+  "t": "Clôture du compte (directive 2/W/2022)",
+  "principe": "| À l'initiative du client | À l'initiative de la banque |\n| Demande signée déposée en agence, par canal digital ou autre canal | Compte débiteur sans mouvement créditeur depuis 1 an : clôture obligatoire (art. 503 C. com.) |\n| Accusé de réception immédiat | Notification préalable par lettre recommandée à la dernière adresse |\n| Restitution des cartes et chéquiers non utilisés | Compte réputé clôturé si le client ne manifeste pas sa volonté de le maintenir sous 60 jours |\n| Réponse sous 1 mois avec attestation de clôture, ou motifs de non-clôture | Document détaillant la créance (principal, intérêts, frais) |\n| Rupture sans préavis | Préavis de 60 jours pour toute rupture à l'initiative de la banque |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-043",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Tarification, relevés, clôture du compte et mobilité bancaire",
+  "t": "Fermeture d'agence",
+  "principe": "La banque informe sa clientèle au moins deux mois avant la fermeture d'une agence, indique l'agence de transfert et permet de clôturer ou transférer les comptes sans frais (art. 155).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-044",
+  "p": 3,
+  "ch": "3.5",
+  "c": "Tarification, relevés, clôture du compte et mobilité bancaire",
+  "t": "Changer de banque : la mobilité bancaire (directive 5/W/2019)",
+  "principe": "| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Ouvrir le nouveau compte et signer l'accord écrit autorisant la banque d'accueil à effectuer les formalités | Client / banque d'accueil | — | Art. 3 |\n| 2 | Demander à la banque d'origine la liste des prélèvements et virements réguliers des 6 derniers mois | Banque d'accueil | Dès l'accord | Art. 3 |\n| 3 | Transmettre gratuitement la liste et les documents | Banque d'origine | 30 jours ouvrés | Art. 4 |\n| 4 | Informer les émetteurs de prélèvements et virements du changement de domiciliation | Banque d'accueil | 30 jours après réception | Art. 3 |\n| 5 | Mettre en place les virements permanents approuvés par le client | Banque d'accueil | 30 jours ouvrés | Art. 3 |\n| 6 | Transférer le solde et clôturer l'ancien compte si le client le demande | Banque d'origine | Sur demande | Art. 4 |\nLe service d'aide à la mobilité est gratuit et inconditionnel pour les personnes physiques titulaires d'un compte à vue ; un guide commun est mis à disposition par les banques.",
+  "maj": "2026-10-18"
+ }
+]

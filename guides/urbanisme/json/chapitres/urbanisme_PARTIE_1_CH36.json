@@ -1,0 +1,20 @@
+[
+ {
+  "id": "1-470",
+  "p": 1,
+  "ch": "1.36",
+  "c": "Cas n° 3 — Un lotissement résidentiel de 35 hectares",
+  "t": "La situation",
+  "principe": "Un promoteur obtient en septembre 2026 une autorisation de lotir pour 35 ha en périphérie urbaine.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-471",
+  "p": 1,
+  "ch": "1.36",
+  "c": "Cas n° 3 — Un lotissement résidentiel de 35 hectares",
+  "t": "Le parcours",
+  "principe": "| N° | Étape | Règle | Délai |\n| 1 | Calculer la durée de l'autorisation : 35 ha relèvent de la tranche 20–100 ha | Loi 25-90, art. 11 (nouveau) | 5 ans dès l'obtention |\n| 2 | Désigner un coordinateur de chantier (architecte ou ingénieur topographe) ; ouvrir le cahier de chantier | Art. 17 | — |\n| 3 | En cas d'arrêt dû au gestionnaire de réseau : demande de suspension, commission (15 j), PV (3 j), décision (7 j) | Art. 11 bis | 25 j au total |\n| 4 | Déclarer l'achèvement avant l'échéance, avec l'attestation du coordinateur | Art. 22 | Avant l'expiration des 5 ans |\n| 5 | Convocation de la commission de réception provisoire ; à défaut, saisine du gouverneur | Art. 23-24 | 30 j |\n| 6 | PV de réception provisoire : voies et réseaux au domaine public communal, inscription d'office et gratuite | Art. 24 | — |\n| 7 | Inscription du lotissement à la conservation foncière ; ouverture des ventes (le notaire exige le PV) | Art. 32, 33, 35 | — |\n| 8 | Réception définitive | Art. 27-28 | 1 an + 30 j |\n| 9 | Pour les lots bâtis par le promoteur : permis d'habiter après réception provisoire | Loi 12-90, art. 57 | — |\n### ATTENTION\nToute vente ou réservation de lot avant la réception provisoire est une infraction autonome et l'acte est nul de nullité absolue (art. 69 et 72). Les contrats de réservation doivent être rédigés en conséquence.",
+  "maj": "2026-10-17"
+ }
+]

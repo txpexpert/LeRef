@@ -1,0 +1,66 @@
+[
+ {
+  "id": "6-030",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Agriculture : le Fonds de développement agricole",
+  "t": "Le principe et la procédure",
+  "principe": "Le Fonds de développement agricole (FDA) accorde des subventions à l'investissement agricole selon un barème fixé par arrêtés. Le guichet est le guichet unique de la direction provinciale de l'agriculture (DPA) ou de l'office régional de mise en valeur agricole (ORMVA) dont dépend l'exploitation.\n- Demande d'approbation préalable du projet (obligatoire pour l'irrigation, le matériel agricole et d'élevage, les unités de valorisation, les reproducteurs ovins et caprins).\n- Réalisation de l'investissement dans le délai fixé (par exemple 24 mois pour l'irrigation individuelle, 30 mois pour l'irrigation collective, 24 mois pour les unités de valorisation après approbation).\n- Demande de subvention après réalisation, avec les factures et justificatifs.\n- Contrôle et versement.\n- Respect de l'engagement de conservation de l'investissement (5 ans pour le matériel, 7 ans pour les serres et filets, 8 ans pour les unités de valorisation).\nLa grille ci-dessous provient de la présentation « FDA édition 2026 » de la Chambre d'agriculture de l'Oriental (statut C). Le guide officiel du FDA et les arrêtés font foi.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-031",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Agriculture : le Fonds de développement agricole",
+  "t": "Aménagements hydro-agricoles",
+  "principe": "| Projet | Taux | Plafond |\n| Collectif, irrigation localisée liée au réseau sous pression | 100 % | 38 000 DH/ha net équipé |\n| Collectif, irrigation localisée non liée au réseau | 100 % | 38 000 DH/ha ; bassin 50 DH/m³ (max 12 000 DH/ha) |\n| Collectif, irrigation de complément | 100 % | 34 000 DH/ha ; bassin 50 DH/m³ (max 10 000 DH/ha) |\n| Individuel, irrigation de complément ≤ 20 ha | 75 % | 21 000 DH/ha ; bassin 35 DH/m³ ; total 25 000 DH/ha |\n| Individuel, irrigation de complément > 20 ha | 60 % | 16 000 DH/ha ; bassin 25 DH/m³ ; total 20 000 DH/ha |\n| Individuel, irrigation localisée | Barème dégressif selon la superficie (petits, 5-20 ha, plus de 20 ha) | Voir l'arrêté |\nArrêté 1323.22 ; validité jusqu'au 31 décembre 2027 ou jusqu'à 350 000 ha approuvés. Un projet pilote de pompage solaire (convention du 19 février 2024) subventionne des kits de pompage solaire en remplacement du gaz butane pour 51 000 ha.\n### Exemple chiffré\nun exploitant équipe 15 ha en irrigation de complément pour un coût de 30 000 DH/ha. La subvention est de min(75 % × 30 000 ; 21 000) = 21 000 DH/ha, soit 315 000 DH, hors bassin.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-032",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Agriculture : le Fonds de développement agricole",
+  "t": "Équipement des exploitations",
+  "principe": "| Équipement | Taux | Plafond (régime universel) |\n| Tracteur 2 roues motrices < 50 CV / 50-70 CV / ≥ 70 CV | 30 % | 52 000 / 62 000 / 72 000 DH |\n| Tracteur 4 roues motrices < 50 CV / 50-70 CV / ≥ 70 CV | 30 % | 60 000 / 70 000 / 80 000 DH |\n| Semoir en ligne > 3,90 m | 50 % | 45 000 DH |\n| Pulvérisateur à rampe tracté | 50 % | 42 000 DH |\n| Moissonneuse-batteuse < 100 CV | 20 % | 200 000 DH |\n| Machine à traire (2 × 4 postes) | 30 % | 60 000 DH |\n| Ensileuse automotrice | 30 % | 300 000 DH |\n| Serres à armature métallique | 25 % | 27 DH/m² couvert |\n| Filets anti-grêle sur fruitiers | 40 % | 50 000 DH/ha |\n| Bâtiments d'élevage (étable entravée, bergerie moderne) | 25 % | 200 DH/m² ; 80 DH/m² |\n### Exemple chiffré\nun tracteur 4 roues motrices de 60 CV coûtant 600 000 DH ouvre droit à 30 %, soit 180 000 DH, plafonnés à 70 000 DH : la subvention est de 70 000 DH.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-033",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Agriculture : le Fonds de développement agricole",
+  "t": "Unités de valorisation (arrêté 3285.17)",
+  "principe": "| Unité | Taux | Plafond |\n| Conditionnement d'agrumes | 30 % | 6 MDH (< 5 000 t/an), 14 MDH (5 000 à 10 000 t), 21 MDH (≥ 10 000 t) |\n| Conditionnement maraîcher ou arboricole hors agrumes | 30 % | 4, 10 ou 15 MDH selon le tonnage |\n| Stockage frigorifique | 25 % | 3 MDH (dattes : 800 000 DH) |\n| Valorisation du lait | 30 % | 3 MDH |\n| Abattoir industriel de viande rouge avec découpe | 30 % | 18 MDH |\n| Abattoir avicole avec découpe | 30 % | 12 MDH |\n| Trituration d'olives | 10 % | 2 MDH |\n| Autres valorisations végétales | 20 % | 2 MDH |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-034",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Agriculture : le Fonds de développement agricole",
+  "t": "Plantations, génétique, jeunes et agrégation",
+  "principe": "Plantations fruitières : par exemple palmier dattier en extension 70 % (plafond 35 000 DH/ha), olivier irrigué au goutte-à-goutte 5 000 DH/ha, amandier irrigué 60 % (5 000 DH/ha), arganier bour 80 % (6 000 DH/ha). Amélioration génétique : génisses laitières importées 6 000 DH/tête et de race pure produites au Maroc 3 000 DH/tête, jusqu'au 31 décembre 2026. Jeunes membres des terres collectives (arrêté 3017.23, jusqu'au 31 décembre 2030) : aide à l'investissement de 2 000 à 7 000 DH/ha selon le niveau et le type de culture, plafond de 20 ha, et aide à la location de 70 % de la valeur locative (plafond 2 500 DH/ha/an, 50 000 DH par an et 150 000 DH par projet). Projets d'agrégation (arrêté 2411-19 modifié) : seconde tranche de subvention après la première année de livraison à l'agrégateur, et forfaits par hectare ou par tête. Aides à l'export : agrumes 1 000 DH/t (2024 à 2028), huile d'olive 2 000 DH/t, tomate fraîche hors marchés traditionnels 750 DH/t (2026).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-035",
+  "p": 6,
+  "ch": "6.4",
+  "c": "Agriculture : le Fonds de développement agricole",
+  "t": "Agriculture et Charte",
+  "principe": "L'agriculture primaire n'est pas une branche éligible du dispositif TPME (hors aquaculture), et n'est pas un secteur de la prime sectorielle du dispositif principal. En revanche, l'agro-industrie (industries alimentaires) est éligible au TPME dans toutes les régions avec de nombreuses activités prioritaires, et relève de l'industrie pour la prime sectorielle. Un même groupe peut donc financer son exploitation par le FDA et son unité de transformation par la Charte, en séparant clairement les deux programmes d'investissement.",
+  "faq": [
+   [
+    "Faut-il une approbation avant d'acheter un tracteur subventionné ?",
+    "Oui. L'approbation préalable est requise pour tout le matériel, sauf exceptions (capsules à phéromone, attractants). Acheter avant l'approbation fait perdre la subvention."
+   ],
+   [
+    "Une unité de conditionnement d'agrumes peut-elle cumuler FDA et Charte ?",
+    "Le FDA subventionne les unités de valorisation (30 % plafonné selon le tonnage). La Charte (TPME ou principal) subventionne l'investissement industriel. Le cumul sur les mêmes dépenses n'est pas réglé par les textes lus ; le dispositif TPME exclut les projets déjà conventionnés dans un régime aux avantages similaires. Il faut interroger le CRI et la DPA avant de déposer."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

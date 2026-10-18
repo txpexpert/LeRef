@@ -1,0 +1,47 @@
+[
+ {
+  "id": "1-110",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Les obligations de la société de promotion",
+  "t": "Avant toute vente (art. 2)",
+  "principe": "| N° | Étape / action | Acteur / guichet | Délai | Pièces & observations |\n| 1 | Requérir l'inscription sur les titres fonciers de chaque unité de la mention : « Immeuble soumis aux dispositions de la loi n° 01-07 … telle que modifiée et complétée » | Conservateur de la propriété foncière | Avant la première vente | Mention levée à la fin de la qualité RIPT (art. 17). |\n| 2 | Désigner les unités relevant du pourcentage géré (≥ 70 %) | Société de promotion | Avant la vente | Les autres unités restent libres mais contribuent aux charges. |\n| 3 | Désigner la société de gestion (titulaire d'une licence) | Société de promotion | Avant la vente | Une seule société de gestion par résidence (art. 4). |\n| 4 | Obtenir le classement provisoire de la résidence | Administration du tourisme | Avant la vente | Selon les normes des RIPT / résidences de tourisme. |\n| 5 | Conclure le contrat promoteur / société de gestion | Promoteur + gestionnaire | Avant la vente | Contenu minimal fixé par l'art. 5. |\nTableau 9 — Préalables obligatoires à la commercialisation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-111",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Les obligations de la société de promotion",
+  "t": "L'information précontractuelle de l'acquéreur (art. 3)",
+  "principe": "Le contrat de vente obéit au droit commun de la vente immobilière, mais la société de promotion doit en outre informer « parfaitement » l'acquéreur des droits et obligations découlant de la loi, et lui communiquer au moins huit éléments :\n| N° | Information à remettre | Pièce justificative suggérée |\n| 1 | Tous renseignements sur la société de promotion | Extrait RC (modèle 7), statuts, références |\n| 2 | Tous renseignements sur la société de gestion | Extrait RC, licence, références d'exploitation |\n| 3 | Désignation et descriptif de la résidence et de l'unité proposée | Plans, descriptif technique, notice |\n| 4 | Classement provisoire de la résidence | Copie de la décision |\n| 5 | Contrat de location attaché à l'unité | Projet de bail conforme au contrat type |\n| 6 | Contrat conclu entre la société de promotion et la société de gestion | Copie du contrat |\n| 7 | Copie du règlement de copropriété | Règlement de copropriété |\n| 8 | Licence provisoire de la société de gestion | Copie de la licence |\nTableau 10 — Dossier d'information de l'acquéreur.\n### CONSEIL PRATIQUE — Se ménager la preuve\nFaire signer par l'acquéreur un bordereau de remise listant les huit documents, daté et annexé à l'acte. La charge de la preuve de l'information pèse en pratique sur le promoteur, et le non-respect de l'article 3 est pénalement sanctionné (amende de 100 000 à 200 000 DH, art. 19).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-112",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Les obligations de la société de promotion",
+  "t": "La garantie d'exploitation de neuf ans (art. 4)",
+  "principe": "Chaque contrat de vente d'une unité relevant du pourcentage doit contenir l'engagement de la société de promotion de garantir à l'acquéreur l'exploitation de son unité par la société de gestion pendant neuf ans, à compter de la date du contrat de vente de la première unité de logement. Le contrat fixe les services que la société de gestion assurera à l'acquéreur. La gestion de la résidence ne peut être confiée qu'à une seule société de gestion.\n### POINT DE VIGILANCE — Point de départ du délai\nLe délai de neuf ans court à compter de la vente de la première unité et non de chaque vente. Un acquéreur tardif bénéficie donc d'une garantie résiduelle plus courte. À expliciter dans l'information précontractuelle.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-113",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Les obligations de la société de promotion",
+  "t": "Le contrat promoteur / société de gestion (art. 5)",
+  "principe": "Ce contrat fixe les obligations de la société de gestion à l'égard des acquéreurs. Il doit obligatoirement prévoir :\n- l'accueil de la clientèle ;\n- le nettoyage quotidien des unités ;\n- la fourniture des draps et du linge de toilette ;\n- l'engagement d'assurer le bon entretien et la maintenance des unités gérées (rédaction 80-13) ;\n- leur commercialisation auprès d'une clientèle de passage.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-114",
+  "p": 1,
+  "ch": "1.12",
+  "c": "Les obligations de la société de promotion",
+  "t": "Remplacement de la société de gestion défaillante (art. 15)",
+  "principe": "Si la société de gestion résilie des baux au point de faire passer les unités gérées sous le seuil réglementaire au cours des neuf premières années, la société de promotion, informée sans délai, doit dans le mois désigner une nouvelle société de gestion permettant aux acquéreurs de bénéficier, dans les mêmes conditions au moins, de l'exploitation de leur bien pour la durée du bail restant à courir. À défaut, les copropriétaires peuvent agir eux-mêmes (voir section 14). Le non-respect de l'article 15 par le promoteur est pénalement sanctionné (art. 19).",
+  "maj": "2026-10-17"
+ }
+]

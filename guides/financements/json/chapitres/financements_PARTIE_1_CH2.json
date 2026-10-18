@@ -1,0 +1,65 @@
+[
+ {
+  "id": "1-010",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Choisir le bon mécanisme : arbres de décision et matrices",
+  "t": "L'arbre de décision principal",
+  "principe": "L'arbre ci-dessous se parcourt de haut en bas. À chaque nœud, la réponse oriente vers une famille de dispositifs. Il ne remplace pas la vérification des conditions détaillées de chaque fiche.\n| Étape | Question | Si oui | Si non |\n| 1 | Le projet atteint-il au moins 2 Md DH et contribue-t-il à la sécurité hydrique, énergétique, alimentaire ou sanitaire, à l'emploi, au rayonnement du Maroc, à un écosystème ou aux technologies d'avant-garde ? | Demander le caractère stratégique à la Commission nationale (section 6) ; examiner aussi le dispositif principal | Étape 2 |\n| 2 | Le projet atteint-il au moins 50 MDH avec au moins 50 emplois stables, ou crée-t-il au moins 150 emplois stables ? | Dispositif principal de la Charte (section 5) | Étape 3 |\n| 3 | Le porteur est-il une personne morale de droit privé réalisant entre 1 et moins de 200 MDH de chiffre d'affaires (ou créée depuis moins de trois ans), et le projet est-il compris entre 1 et moins de 50 MDH, avec un ratio d'au moins 1,5 emploi stable par MDH (1 pour le tourisme) et 10 % de fonds propres ? | Dispositif TPME (section 7), après vérification de la branche d'activité dans la région | Étape 4 |\n| 4 | Le projet relève-t-il d'un secteur doté d'un programme propre (agriculture, tourisme, export, industrie innovante, économie verte) ? | Programme sectoriel (sections 21 à 26) | Étape 5 |\n| 5 | Le porteur est-il une très petite entreprise, un auto-entrepreneur ou un jeune porteur de projet (entreprise de moins de cinq ans, CA d'au plus 10 MDH) ? | Programme Intelaka, INDH, microfinance (sections 15 et 19) | Étape 6 |\n| 6 | Le besoin est-il un crédit bancaire que la banque hésite à accorder faute de sûretés ? | Garantie Tamwilcom adaptée au montant et à l'objet (section 9) | Étape 7 |\n| 7 | Le besoin est-il un renforcement des fonds propres ? | Capital-investissement, business angels, quasi-fonds propres (Cap Access, Innov Dev), bourse, financement collaboratif (sections 10, 16 à 18) | Financement bancaire classique ou crédit-bail (sections 12 et 13) |\n### Attention\nles étapes 2 et 3 sont exclusives pour un même projet. Le dispositif TPME exclut les projets ayant déjà fait l'objet d'une convention avec l'État dans un autre régime offrant des avantages similaires (décret 2.25.342, art. 8). En revanche, les garanties, cofinancements et crédits des sections 9 à 13 se combinent avec les primes.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-011",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Choisir le bon mécanisme : arbres de décision et matrices",
+  "t": "Matrice taille × besoin",
+  "principe": "| Besoin | Très petite entreprise / auto-entrepreneur | PME | ETI et grande entreprise | Startup |\n| Créer l'entreprise | Intelaka, INDH, Machrou3i, microfinance, prêt d'honneur | Fonds propres + crédit garanti (Damane Istitmar majorée de 10 points en création) | Fonds propres, capital-investissement | Tech Start, Tech Boost, prêts d'honneur, business angels |\n| Investir (matériel, bâtiment) | Damane Express, Damane Intelak, crédit-bail | Dispositif TPME + Damane Istitmar + crédit-bail ; Green Invest pour les projets verts | Dispositif principal + dette bancaire, syndication, bailleurs internationaux | Innov Dev, Innov Risk, capital-risque |\n| Financer l'exploitation | Damane Express (court terme), microcrédit | Damane Atayssir, affacturage, escompte | Lignes bancaires | Innov Dev (BFR) |\n| Exécuter un marché public | Finéa (cautions, avances) | Finéa, Tamwil Istitmar+, Damane Tasdir (marchés à l'étranger) | Cautions bancaires | – |\n| Exporter | Power Export, Export Morocco Now | Power Export, Damane Tasdir, assurance-crédit | Export Morocco Now, assurance-crédit | Innov Dev (prospection) |\n| Renforcer les fonds propres | – | Cap Access (CA de 10 à 500 MDH), capital-développement, Marché alternatif | Capital-développement, Marché principal, Fonds Mohammed VI | Capital-risque, crowdfunding « investissement » |\n| Restructurer, transmettre | – | Damane Istitmar (restructuration à 50 %, transmission à 60 %), Pact'Restructuration, Pact'Transmission | Capital-transmission, capital-retournement | – |\n| Recruter, former | Tahfiz, Idmaj | Idmaj, Taehil | Taehil (jusqu'à 24 000 DH par participant pour les nouveaux investissements) | Idmaj |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-012",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Choisir le bon mécanisme : arbres de décision et matrices",
+  "t": "Matrice par profil du porteur",
+  "principe": "| Profil | Dispositifs réservés ou majorés | Condition clé |\n| Femme entrepreneure | Damane Express à 80 % ; Damane Moubachir à 80 % ; Ilayki Invest (jusqu'à 40 % du projet, 1 à 5 MDH, 2 % HT) ; Women in Business (BERD) ; She Industriel ; prime « genre » de 3 % dans le dispositif principal | Entreprise dirigée par une femme ou à capital majoritairement féminin, selon le produit |\n| Marocain du monde | MDM Invest (10 % non remboursable, plafond 5 MDH) ; MDM Tamwil (jusqu'à 40 %, 1 à 5 MDH) | Titre de séjour, pièce d'identité étrangère ou carte consulaire, ou retour définitif depuis un an au plus ; capital majoritairement détenu par des MDM pour MDM Tamwil |\n| Jeune (18 à 45 ans) | INDH entreprenariat des jeunes ; Intelaka (jeunes porteurs) ; Machrou3i (Casablanca-Settat) | Chômage, sous-emploi ou activité de moins de 12 mois pour l'INDH |\n| Monde rural | Intelak Al Moustatmir Al Qarawi ; FDA ; INDH | Implantation en milieu rural |\n| Startup innovante | Fonds Innov Invest (Tech Start, Tech Boost), Innov Risk, Innov Dev, fonds de capital-risque | Levée de fonds auprès d'investisseurs pour Innov Risk et Innov Dev |\n| Exportateur | Power Export, Damane Tasdir, majorations de quotité (Damane Istitmar, Atayssir) pour les comptes certifiés | Chiffre d'affaires à l'export selon le programme |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-013",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Choisir le bon mécanisme : arbres de décision et matrices",
+  "t": "Matrice par région : l'effet de la localisation",
+  "principe": "La localisation change le résultat d'un dossier de trois façons. D'abord, la prime territoriale (10 % en catégorie A, 15 % en catégorie B) n'existe que dans 60 provinces et préfectures ; Casablanca, Rabat, Marrakech, Kénitra, Tanger-Assilah, Agadir Ida-Outanane et les autres préfectures non listées n'y ouvrent pas droit. Ensuite, pour le dispositif TPME, certaines branches d'activité ne sont éligibles que dans six ou neuf régions : un projet de réparation d'ordinateurs est éligible à Errachidia, pas à Casablanca. Enfin, certains programmes sont régionaux (Machrou3i en Casablanca-Settat, Export Morocco Now Women dans trois régions, Salama PME à Casablanca, Tanger et Salé).\n| Région | Provinces et préfectures en catégorie A (10 %) | Provinces en catégorie B (15 %) | Sans prime territoriale |\n| Tanger-Tétouan-Al Hoceïma | Tétouan, Larache, M'diq-Fnideq, Ouazzane, Chefchaouen | Al Hoceïma | Tanger-Assilah, Fahs-Anjra |\n| L'Oriental | Nador, Berkane | Oujda-Angad, Taourirt, Driouech, Jerada, Guercif, Figuig | – |\n| Fès-Meknès | Fès, Meknès, Sefrou, Boulemane, Taza, El Hajeb, Ifrane | Moulay Yacoub, Taounate | – |\n| Rabat-Salé-Kénitra | Salé, Sidi Slimane, Khémisset, Sidi Kacem | – | Rabat, Kénitra, Skhirate-Témara |\n| Béni Mellal-Khénifra | Béni Mellal, Khénifra, Khouribga, Fquih Ben Salah | Azilal | – |\n| Casablanca-Settat | Sidi Bennour | – | Casablanca, Mohammédia, Nouaceur, Médiouna, Berrechid, Benslimane, Settat, El Jadida |\n| Marrakech-Safi | Safi, Youssoufia, Al Haouz, El Kelâa des Sraghna, Essaouira, Rehamna, Chichaoua | – | Marrakech |\n| Drâa-Tafilalet | Ouarzazate | Errachidia, Midelt, Tinghir, Zagora | – |\n| Souss-Massa | Taroudant, Chtouka Aït Baha, Inezgane-Aït Melloul | Tata, Tiznit | Agadir Ida-Outanane |\n| Guelmim-Oued Noun | – | Guelmim, Sidi Ifni, Assa-Zag, Tan-Tan | – |\n| Laâyoune-Sakia El Hamra | Laâyoune | Boujdour, Tarfaya, Es-Smara | – |\n| Dakhla-Oued Ed-Dahab | Oued Ed-Dahab | Aousserd | – |\nSource : arrêtés 3-14-23 (dispositif principal) et 3.54.25 (dispositif TPME), qui donnent la même liste de 36 provinces en catégorie A et 24 en catégorie B (statut A). Le rattachement aux régions est un ajout éditorial.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-014",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Choisir le bon mécanisme : arbres de décision et matrices",
+  "t": "La grille d'auto-diagnostic du promoteur",
+  "principe": "Avant tout rendez-vous, le promoteur remplit la grille suivante. Elle sert de fiche d'entrée au CRI, à la banque et au conseil.\n| Rubrique | Information à réunir | Utilité |\n| Porteur | Forme juridique, date d'immatriculation au registre du commerce, ICE, identifiant fiscal | Ancienneté (moins de 3 ans, moins de 5 ans), éligibilité |\n| Chiffre d'affaires | CA hors taxes des trois derniers exercices | Seuils de 1, 10, 200 et 500 MDH |\n| Capital | Répartition, nationalité et sexe des associés, présence d'une société de plus de 200 MDH de CA ou d'une personne publique | Exclusions TPME, produits femmes et MDM |\n| Projet | Nature (création, extension), activité, branche, code d'activité | Prime sectorielle, branche éligible, activités prioritaires |\n| Lieu | Commune, province ou préfecture, région | Prime territoriale, branches régionales |\n| Montant | Investissement total hors taxes ventilé par poste (études, terrain privé ou public, construction, équipements, véhicules, BFR) | Montant primable, seuils |\n| Emplois | Emplois stables à créer par année, part de la masse salariale féminine | Ratio d'emplois, prime genre |\n| Critères qualitatifs | Eaux non conventionnelles, énergies renouvelables, efficacité énergétique, déchets, programmes sociaux, intégration locale | Primes de 3 % du dispositif principal |\n| Financement | Apport disponible, crédits envisagés, sûretés possibles | Plan de financement, garanties |\n| Calendrier | Date de démarrage, durée de réalisation | Délais de 3 ans (TPME) et 5 ans (principal) |",
+  "faq": [
+   [
+    "Mon projet fait 45 MDH et crée 160 emplois : dispositif principal ou TPME ?",
+    "Le projet crée au moins 150 emplois stables : il est éligible au dispositif principal quel que soit son montant (décret 2-23-1, art. 6). Il pourrait aussi relever du dispositif TPME si l'entreprise remplit les conditions de chiffre d'affaires et de capital, mais les deux dispositifs ne peuvent pas être cumulés pour le même projet. Il faut simuler les deux : le dispositif principal offre davantage de primes communes (genre, métiers d'avenir, durabilité, intégration locale) et un délai de réalisation de cinq ans au lieu de trois."
+   ],
+   [
+    "Mon entreprise est à Casablanca : puis-je bénéficier de la prime territoriale ?",
+    "Non. La préfecture de Casablanca ne figure ni en catégorie A ni en catégorie B. Dans la région Casablanca-Settat, seule la province de Sidi Bennour est classée (catégorie A, 10 %). Les autres primes restent possibles."
+   ],
+   [
+    "Quel dispositif pour une startup qui n'a pas encore de chiffre d'affaires ?",
+    "Les dispositifs de la Charte supposent une entreprise et un projet créateurs d'emplois stables ; le dispositif TPME dispense de la condition de chiffre d'affaires les entreprises de moins de trois ans, mais exige un projet d'au moins 1 MDH avec un ratio d'au moins 1,5 emploi stable par MDH. Une startup s'oriente plutôt vers le Fonds Innov Invest (Tech Start, Tech Boost), les structures d'accompagnement labellisées, les business angels et, après une levée de fonds, Innov Risk ou Innov Dev."
+   ],
+   [
+    "Un projet multisite peut-il cumuler plusieurs primes territoriales ?",
+    "Oui, à condition de ventiler l'investissement, les emplois et l'activité par site : chaque site reçoit la prime territoriale de sa province ou préfecture. Le plafond de 30 % s'apprécie sur le montant primable du projet. Voir la section 32."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

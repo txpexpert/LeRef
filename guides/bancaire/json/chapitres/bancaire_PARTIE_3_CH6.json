@@ -1,0 +1,20 @@
+[
+ {
+  "id": "3-050",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Réclamations, médiation et recours",
+  "t": "Les trois niveaux de recours",
+  "principe": "Parcours d'une réclamation\n| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Réclamation auprès de l'interlocuteur habituel (chargé de clientèle, directeur d'agence), avec justificatifs | Client | — | Circ. 10/W/16, art. 6 |\n| 2 | Accusé de réception immédiat ; décision sur la recevabilité | Banque | 10 jours ouvrés (motivation et voies de recours en cas d'irrecevabilité) | Art. 3 |\n| 3 | Réponse au fond ; à défaut de satisfaction, saisine de l'entité centrale des réclamations de la banque | Banque | 40 jours ouvrés (prorogation possible, avec information du client) | Art. 4-6 |\n| 4 | Demande de médiation auprès du Centre marocain de médiation bancaire (CMMB), uniquement après instruction infructueuse par la banque | Client | — | Circ. 9/W/16, art. 6 |\n| 5 | Décision du médiateur sur la recevabilité | CMMB | 10 jours ouvrés | Art. 7 |\n| 6 | Instruction et proposition ; accord transactionnel signé ou PV d'échec | CMMB | 30 jours ouvrés maximum pour une demande recevable | Art. 5, 8 |\n| 7 | Saisine de BAM par toute personne s'estimant lésée par un manquement à la loi bancaire ; contrôle sur place possible | Client | Après saisine de la banque | Art. 159 L. 103-12 |\n| 8 | Action judiciaire | Client | À tout moment | Droit commun |\nLe client reste libre d'accepter ou de refuser la proposition du médiateur, et autorise la banque à communiquer au médiateur les documents utiles (levée du secret à cette fin).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-051",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Réclamations, médiation et recours",
+  "t": "Ce que montrent les statistiques 2025",
+  "principe": "Figure 4 — Réclamations reçues par BAM et demandes de médiation au CMMB (2024 estimé à partir de la croissance de 31 %)\n- BAM a reçu 3 591 réclamations en 2025 (2 298 en 2024) ; 83 % ont été transférées au CMMB. Moyens de paiement (retraits GAB non servis, chèques) : 28 % ; fonctionnement des comptes (soldes, frais, clôtures) : 28 % ; conditions de crédit : 20 %. 51 % ont été dénouées en faveur des plaignants.\n- Le CMMB a reçu 6 674 demandes (+31 %) : 53 % ont abouti à un accord transactionnel, 24 % n'ont pas été résolues, 24 % étaient en cours. 36 % concernaient le fonctionnement du compte, 35 % les conditions de crédit, 21 % les moyens de paiement.\n- Opération de Mystery Shopping dans environ 500 agences de six grandes banques : qualité de l'accueil satisfaisante à 62 %, pertinence de l'information à 53 %.\n### Rédiger une réclamation efficace\n- Identifier précisément le compte, l'opération (date, montant, référence) et l'objet du différend.\n- Joindre relevés, contrats, correspondances, captures d'écran.\n- Exiger un accusé de réception et noter les délais réglementaires (10 et 40 jours ouvrés).\n- Conserver la réponse de la banque : elle conditionne la recevabilité de la médiation.",
+  "maj": "2026-10-18"
+ }
+]

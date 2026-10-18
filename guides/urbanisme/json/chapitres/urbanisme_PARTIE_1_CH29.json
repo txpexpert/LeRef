@@ -1,0 +1,83 @@
+[
+ {
+  "id": "1-380",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Le déroulement des séances",
+  "principe": "La séance d'ouverture est publique (art. 39). Le président reçoit les plis non encore déposés et les « pièces manquantes » sous enveloppe fermée, arrête la liste des plis, vérifie la présence des membres obligatoires (report de 48 heures à défaut), remet l'estimation, annonce les supports de publication et recueille les réserves des membres, ouvre les plis et annonce les pièces. La commission poursuit à huis clos l'examen administratif et technique, puis, le cas échéant, l'examen des prospectus et des offres techniques (art. 40 et 41), avant la reprise de la séance publique pour l'ouverture des offres financières (art. 42).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-381",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Le prix de référence et l'offre la mieux-disante",
+  "principe": "Après élimination des offres excessives (plus de 20 % au-dessus de l'estimation) et anormalement basses (plus de 20 % en dessous pour les travaux, 25 % pour les fournitures et services), la commission calcule le prix de référence, moyenne arithmétique entre l'estimation du maître d'ouvrage et la moyenne des offres retenues (art. 44). L'offre la mieux-disante est la plus proche du prix de référence par défaut ; à défaut d'offre inférieure, la plus proche par excès.\n### EXEMPLE CHIFFRÉ\nEstimation E = 10.000.000 DH ; trois offres retenues : 8.600.000, 9.300.000 et 10.400.000 DH (une offre de 7.700.000 DH, inférieure de 23 %, a été éliminée comme anormalement basse en travaux).\nMoyenne des offres = 9.433.333 DH ; P = (10.000.000 + 9.433.333) / 2 = 9.716.667 DH.\nOffres inférieures à P : 8.600.000 et 9.300.000 ; la plus proche par défaut est 9.300.000 DH : c'est l'offre la mieux-disante, et non la moins-disante.\nPour les études, l'évaluation est technico-financière : note technique sur 100 avec seuil d'admissibilité, note financière inversement proportionnelle aux prix, pondération financière de 10 à 40 points (art. 144). Pour les fournitures induisant des coûts d'usage ou de maintenance, ceux-ci sont intégrés au prix comparé (art. 21). En cas d'égalité, tirage au sort, avec préférence aux coopératives, unions de coopératives et auto-entrepreneurs (art. 43).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-382",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "La préférence nationale",
+  "principe": "Lorsque des concurrents non installés au Maroc soumissionnent, l'offre de ceux-ci est corrigée de 15 % pour le classement (minorée ou majorée selon sa position par rapport au prix de référence et aux offres des concurrents installés), et simplement majorée de 15 % pour les études (art. 147). La préférence ne joue pas contre un groupement dont les membres installés au Maroc détiennent au moins 30 %.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-383",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Résultats, approbation et notification",
+  "principe": "Un extrait du procès-verbal est publié sur le portail et affiché dans les 24 heures, pendant au moins 15 jours (art. 46). L'attributaire est informé dans les 3 jours ; les écartés reçoivent dans le même délai une lettre motivée, et leur cautionnement provisoire est restitué dans les 48 heures (art. 47). Le choix de la commission ne peut être modifié. L'approbation ne peut intervenir qu'après un délai d'attente de 15 jours (art. 142) et doit être notifiée dans les 60 jours suivant l'ouverture des plis (art. 143) ; à défaut, la procédure est annulée et l'attributaire n'a droit à aucune indemnité (art. 48).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-384",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Fiche MP-P1 — Veille et préparation en amont",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 17, art. 18, art. 134, art. 137 |\n| Déclencheur | Positionnement sur la commande publique. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Consulter chaque année (au plus tard fin du 1er trimestre) les programmes prévisionnels triennaux publiés sur le portail et dans un journal national ; repérer les marchés réservés aux TPME, coopératives et auto-entrepreneurs. | Opérateur | — | art. 17 |\n| 2 | Répondre aux appels à manifestation d'intérêt (sans droit acquis à être consulté). | Opérateur | — | art. 18 |\n| 3 | S'inscrire au portail des marchés publics (TGR) et alimenter la base de données électronique des prestataires ; préparer la signature électronique. | Opérateur | — | art. 134, 135, 137, 141 |\n| 4 | Tenir à jour les attestations fiscale et CNSS (< 1 an), le RC (modèle 9), les certificats de qualification-classification ou d'agrément, les attestations de référence. | Opérateur | — | art. 27, 28 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-385",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Fiche MP-P2 — Retirer le dossier et préparer l'offre (appel d'offres ouvert)",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 21, art. 22, art. 23, art. 25, art. 26 |\n| Déclencheur | Publication d'un avis d'appel d'offres. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Télécharger gratuitement le dossier (avis, CPS, plans, modèles d'acte d'engagement, BPDE, déclaration sur l'honneur, plan de charge, règlement de consultation). En cas de non-remise, exiger une attestation le jour même puis saisir l'autorité hiérarchique / wali / gouverneur. | Opérateur | — | art. 22 |\n| 2 | Analyser le règlement de consultation : pièces, critères d'admissibilité et d'attribution, variantes, lots, monnaies, langues, prix unitaires principaux. | Opérateur | — | art. 21 |\n| 3 | Demander des éclaircissements par écrit (date certaine) au moins 7 jours avant l'ouverture des plis ; réponse au plus tard 3 jours avant, communiquée à tous. | Opérateur / MO | J-7 / J-3 | art. 25 |\n| 4 | Délai jugé insuffisant : demander le report pendant la première moitié du délai de publicité (un seul report par procédure). | Opérateur | — | art. 22-8 |\n| 5 | Participer, si utile, à la visite des lieux (dernier tiers du délai, au plus tard J-5) ; l'absence n'est pas éliminatoire mais interdit toute réclamation sur son déroulement. | Opérateur | — | art. 23, 26 |\n| 6 | Surveiller les modifications du dossier (au plus tard J-7) et les avis rectificatifs (séance à J+10 minimum). | Opérateur | — | art. 22-7 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-386",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Fiche MP-P3 — Constituer et déposer le pli",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 27, art. 28, art. 29, art. 30, art. 31, art. 32, art. 34, art. 35, art. 36, art. 37 |\n| Déclencheur | Décision de soumissionner. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Enveloppe 1 « dossiers administratif et technique » : pouvoirs du signataire ; déclaration sur l'honneur ; récépissé original du cautionnement provisoire (ou caution personnelle et solidaire) ; convention de groupement ; note des moyens humains et techniques ; attestations de référence (prestations non courantes) ; plan de charge et pièces financières si exigés ; CPS et règlement de consultation paraphés, signés « lu et accepté ». | Opérateur | — | art. 28, 29, 32 |\n| 2 | Enveloppe 2 « offre financière » : acte d'engagement (montant en chiffres et en lettres, RIB) ; bordereau des prix et détail estimatif (ou bordereau du prix global et décomposition) ; sous-détail et bordereau des approvisionnements si prévus. | Opérateur | — | art. 30 |\n| 3 | Enveloppe 3 « offre technique » si exigée (méthodologie, moyens, planning, environnement, experts marocains, etc.) — les attestations de référence n'y figurent pas. | Opérateur | — | art. 31 |\n| 4 | Pli distinct pour les prospectus/notices (au plus tard le jour ouvrable précédant l'ouverture) et pli « offre variante » si admise. | Opérateur | — | art. 33, 37 |\n| 5 | Dépôt : par voie électronique sur le portail (régime de droit commun) ou, selon les cas, contre récépissé, par recommandé, ou remise au président en début de séance ; retrait et redépôt possibles avant l'heure limite. | Opérateur | — | art. 34, 35, 135 |\n| 6 | Les offres engagent pendant 60 jours à compter de l'ouverture des plis (prorogation possible avec accord ; refus = mainlevée du cautionnement sous 48 h). | Opérateur | 60 jours | art. 36 |\n### Pièces et justificatifs\n- Déclaration sur l'honneur (identification, RC, IF/TP, CNSS, RIB ; engagements assurance, sous-traitance ≤ 50 %, autorisations, absence de liquidation, anti-corruption, absence de conflit d'intérêts, non-participation à la préparation du dossier)\n- Pièces justifiant les pouvoirs\n- Cautionnement provisoire (≤ 2 %)\n- Note de moyens, références, plan de charge\n- Acte d'engagement + BPDE/BPG\n- Offre technique (si exigée)\n- Pour l'attributaire pressenti : attestation fiscale (< 1 an, mentionnant l'activité), attestation CNSS (< 1 an), RC modèle 9, autorisations requises ; équivalents étrangers\n### POINT DE VIGILANCE\n▪ En cas de discordance : montant en lettres > chiffres ; bordereau des prix > détail estimatif ; décomposition > bordereau du prix global ; détail estimatif / BPDE > acte d'engagement (art. 30).\n▪ Un même concurrent ne peut présenter plus d'une offre pour un même lot, seul ou en groupement (art. 150).\n▪ Les pièces manquantes peuvent encore être remises en séance sous enveloppe « pièces manquantes » avant l'arrêt de la liste des plis (art. 39-2).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-387",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Fiche MP-P4 — Suivre la séance d'ouverture et l'évaluation",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 39, art. 40, art. 41, art. 42, art. 43, art. 44, art. 45, art. 46, art. 47 |\n| Déclencheur | Jour et heure de la séance publique. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Séance publique : remise des plis tardifs en séance, pièces manquantes, lecture des journaux de publication, ouverture des plis et annonce des pièces administratives et techniques. | Commission | — | art. 39 |\n| 2 | Huis clos : examen administratif et technique ; écartement des concurrents non conformes (conditions de l'art. 27, présentation, pièces manquantes, même représentant, cautionnement non conforme, capacités insuffisantes, plan de charge excessif) ; erreurs matérielles admises sous réserve de rectification. | Commission | — | art. 39-8, 39-9 |\n| 3 | Le cas échéant, examen des prospectus et des offres techniques (notation, seuil d'admissibilité). | Commission / sous-commission | — | art. 40, 41 |\n| 4 | Reprise de la séance publique : liste des admis, ouverture et lecture des offres financières. | Commission | — | art. 42 |\n| 5 | Huis clos : écartement des offres non conformes, non signées ou avec réserves ; correction arithmétique ; élimination des offres excessives ou anormalement basses ; calcul du prix de référence ; classement ; préférence nationale. | Commission | — | art. 43, 44, 147 |\n| 6 | Invitation du mieux-disant (lettre recommandée) à produire le complément administratif, confirmer les rectifications, justifier les prix unitaires principaux anormaux, produire échantillons ; délai ≥ 7 jours. En cas d'écartement, invitation du suivant. | Commission / opérateur | ≥ 7 jours | art. 43-4 à 43-11 |\n| 7 | Égalité : tirage au sort, avec préférence aux coopératives, unions de coopératives et auto-entrepreneurs. | Commission | — | art. 43-II-2 |\n| 8 | Extrait du PV publié sur le portail et affiché dans les 24 h (15 jours d'affichage) ; lettre à l'attributaire et lettres motivées aux écartés sous 3 jours ; restitution du cautionnement sous 48 h. | Maître d'ouvrage | 24 h / 3 jours / 48 h | art. 46, 47 |\n### POINT DE VIGILANCE\n▪ Le choix de la commission ne peut être modifié par le MO ou l'autorité compétente (art. 47).\n▪ Aucune indemnité en cas de rejet ou d'annulation (art. 47, 48).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-388",
+  "p": 1,
+  "ch": "1.29",
+  "c": "L'évaluation des offres et l'attribution",
+  "t": "Fiche MP-P5 — Approbation, notification et démarrage",
+  "principe": "| Rubrique | Contenu |\n| Texte | Décret 2-22-431 |\n| Base légale | art. 142, art. 143, art. 24, art. 48 |\n| Déclencheur | Attribution. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Délai d'attente (stand-still) : l'approbation ne peut intervenir qu'après 15 jours suivant la fin des travaux de la commission (ou la signature, pour un marché négocié) ; prolongé de 15 jours en cas de réclamation sur les motifs d'écartement. | Autorité compétente | 15 jours (+15) | art. 142, 163, 164 |\n| 2 | Notification de l'approbation dans les 60 jours de l'ouverture des plis (prorogeable avec la validité des offres ; prorogation supplémentaire ≤ 30 jours avec accord de l'attributaire). | Maître d'ouvrage | 60 jours | art. 143 |\n| 3 | À défaut de notification dans le délai, l'appel d'offres est annulé ; l'attributaire peut refuser de proroger et récupérer son cautionnement sous 48 h. | — | — | art. 48-2-d, 143 |\n| 4 | Aucune exécution avant approbation (sauf échange de lettres en extrême urgence, art. 90-b). | — | — | art. 142 |\n### POINT DE VIGILANCE\n▪ Refuser de signer le marché ou de recevoir la notification d'approbation entraîne la confiscation du cautionnement provisoire (art. 24).",
+  "maj": "2026-10-17"
+ }
+]

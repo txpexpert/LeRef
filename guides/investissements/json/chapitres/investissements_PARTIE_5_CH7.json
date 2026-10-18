@@ -1,0 +1,83 @@
+[
+ {
+  "id": "5-060",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "Qui peut en bénéficier",
+  "principe": "Le dispositif principal s'adresse aux projets d'investissement dont le montant total atteint au moins 50 MDH et qui créent au moins 50 emplois stables, ou qui créent au moins 150 emplois stables quel que soit le montant. Le Kit de décembre 2025 écrit « au moins 150 emplois » alors que la page du CRI écrit « supérieur à 150 » : le décret 2-23-1 (art. 6) tranche en faveur du Kit, avec un seuil « égal ou supérieur à 150 » emplois.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-061",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "La structure des primes",
+  "principe": "La prime globale peut atteindre 30 % du montant primable (l'investissement éligible à la prime). Elle se compose de cinq primes communes, d'une prime territoriale et d'une prime sectorielle. Les primes communes, territoriale et sectorielle sont cumulables dans la limite de 30 % du montant primable. Pour les projets de production d'énergie éolienne, solaire ou hydraulique, le cumul des primes est plafonné à 30 MDH (décret art. 11).\n| Prime | Critère | Taux |\n| Emplois stables | Ratio emplois stables / investissement (en MDH) supérieur à 1 et au plus 1,5 | 5 % |\n| Emplois stables | Ratio supérieur à 1,5 et au plus 3 | 7 % |\n| Emplois stables | Ratio supérieur à 3 | 10 % |\n| Genre | Masse salariale réservée aux femmes rapportée à la masse salariale totale (ratio d'au moins 30 %, décret art. 7) | 3 % |\n| Métiers d'avenir et montée en gamme | Activité figurant dans les listes d'arrêtés publiés au Bulletin officiel du 13 mars 2023 | 3 % |\n| Développement durable | Critère obligatoire et au moins deux critères parmi quatre (voir 2.4) | 3 % |\n| Intégration locale | Taux d'intégration locale de 20 % ou 40 % selon l'activité (voir 2.5) | 3 % |\n| Territoriale | Catégorie A ou B (voir 2.6) | 10 % ou 15 % |\n| Sectorielle | Secteur porteur (voir 2.7) | 5 % |\nLe ratio d'emplois stables se calcule en divisant le nombre d'emplois stables créés par le montant total de l'investissement exprimé en millions de dirhams. Un projet de 80 MDH créant 100 emplois a donc un ratio de 1,25.\nIllustration (calcul de l'auteur, non issu des sources). Un projet industriel de 80 MDH, 100 emplois stables, implanté en catégorie B, dans un secteur porteur et respectant les critères de développement durable, obtiendrait 5 % (emplois, ratio 1,25) + 3 % (développement durable) + 15 % (territoriale) + 5 % (sectorielle), soit 28 % du montant primable, sous le plafond de 30 %. Sur un montant primable de 80 MDH, la prime serait de 22,4 MDH.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-062",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "Métiers d'avenir et montée en gamme (prime de 3 %)",
+  "principe": "Les arrêtés publiés au Bulletin officiel du 13 mars 2023 distinguent deux listes.\nMétiers d'avenir par secteur. Technologies du numérique et du digital : biotechnologie, cybersécurité, blockchain, cloud computing et centres de données, domotique, équipements et infrastructures télécoms de nouvelle génération (5G, 6G), intelligence artificielle et big data, jeux vidéo, objets connectés, nanotechnologie, nouvelles technologies pour l'efficacité énergétique et hydrique, technologies au service de l'agriculture, de la santé, de l'industrie (industrie 4.0), de l'éducation, de la finance et de l'administration digitale, réalité virtuelle et augmentée. Industrie pharmaceutique : transformation et fabrication du cannabis à des fins médicales, pharmaceutiques et industrielles. Industrie navale : construction et maintenance navale. Énergies renouvelables : équipements de production et de stockage. Mobilité : autonome, électrique, ferroviaire et maritime. Autres secteurs : semi-conducteurs (EMS) et composants associés, bornes de recharge, compteurs intelligents, électronique de puissance, fabrication additive (impression 3D), emballages techniques et intelligents, robotique.\nMontée en gamme par secteur. Automobile : pièces et composants de moteurs thermiques et électriques, de véhicules poids lourds, pneumatiques. Aéronautique : sous-ensembles et produits, pièces de moteurs, maintenance et démantèlement d'avions. Agro-industrie : alimentation animale et infantile, compléments alimentaires, produits alimentaires « santé », plats cuisinés, matériel d'irrigation par pivot, outils digitaux pour les exploitations agricoles. Textile et cuir : textile technique, cuir technique. Industries diverses : moules, matériaux composites. Industrie navale : démantèlement de navires. Industrie pharmaceutique : dispositifs médicaux, médicaments, vaccins et principes actifs, transformation des plantes aromatiques et médicinales, valorisation de la biomasse algale. Secteur minier : valorisation des ressources minérales par des dérivés à plus forte valeur ajoutée, valorisation des coproduits du phosphate. Transition énergétique : équipements de dessalement de l'eau de mer.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-063",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "Projets d'investissement durables (prime de 3 %)",
+  "principe": "Un projet est durable s'il remplit un critère obligatoire et au moins deux des quatre critères suivants. Le critère obligatoire est l'utilisation d'eaux non conventionnelles (eaux recyclées, eaux usées retraitées ou eaux dessalées) avec la mise en place d'un système d'économie d'eau. Les quatre critères au choix sont la consommation d'énergies renouvelables, la mise en place de dispositifs d'efficacité énergétique, la mise en place d'un dispositif de traitement des déchets et la mise en place de programmes sociaux engageants en matière de responsabilité sociétale.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-064",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "Projets d'intégration locale (prime de 3 %)",
+  "principe": "Le taux d'intégration locale minimum est de 20 % pour les projets des secteurs agroalimentaire, pharmaceutique et des dispositifs médicaux, et de 40 % pour les autres activités manufacturières (activités qui utilisent un procédé de fabrication ou de transformation à l'aide d'équipements ou de matériels industriels). Il se calcule ainsi : (achats locaux + valeur ajoutée + marge brute) divisé par le chiffre d'affaires. Les achats locaux sont ceux effectués auprès de fournisseurs implantés au Maroc, c'est-à-dire exerçant au Maroc des activités manufacturières.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-065",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "La prime territoriale",
+  "principe": "La prime vise l'équité territoriale : 10 % du montant primable en catégorie A et 15 % en catégorie B. La brochure de 2023 (arrêté 3-14-23, qui compte en réalité 36 provinces en catégorie A) répartit les provinces et préfectures ainsi.\nCatégorie A (36 provinces et préfectures, dont Sidi Slimane que la brochure omet). Tanger-Tétouan-Al Hoceïma : Tétouan, Larache, M'diq-Fnideq, Ouazzane, Chefchaouen. L'Oriental : Nador, Berkane. Fès-Meknès : Séfrou, Boulemane, Taza, Fès, Meknès, El Hajeb, Ifrane. Rabat-Salé-Kénitra : Sidi Slimane, Khémisset, Sidi Kacem, Salé. Béni Mellal-Khénifra : Béni Mellal, Khénifra, Khouribga, Fquih Ben Salah. Casablanca-Settat : Sidi Bennour. Marrakech-Safi : Safi, Youssoufia, Al Haouz, El Kelâa des Sraghna, Essaouira, Rehamna, Chichaoua. Drâa-Tafilalet : Ouarzazate. Souss-Massa : Taroudant, Chtouka Aït Baha, Inezgane-Aït Melloul. Laâyoune-Sakia El Hamra : Laâyoune. Dakhla-Oued Ed-Dahab : Oued Ed-Dahab.\nCatégorie B (24 provinces). Tanger-Tétouan-Al Hoceïma : Al Hoceïma. L'Oriental : Taourirt, Driouech, Jerada, Guercif, Oujda-Angad, Figuig. Fès-Meknès : Moulay Yacoub, Taounate. Béni Mellal-Khénifra : Azilal. Drâa-Tafilalet : Errachidia, Midelt, Tinghir, Zagora. Souss-Massa : Tata, Tiznit. Guelmim-Oued Noun : Sidi Ifni, Assa-Zag, Guelmim, Tan-Tan. Laâyoune-Sakia El Hamra : Boujdour, Tarfaya, Es-Smara. Dakhla-Oued Ed-Dahab : Aousserd.\nSans prime territoriale (15 provinces et préfectures). Benslimane, Berrechid, Casablanca, El Jadida, Médiouna, Mohammédia, Nouaceur, Settat, Marrakech, Kénitra, Rabat, Skhirate-Témara, Agadir Ida-Outanane, Fahs-Anjra, Tanger-Assilah.\nL'arrêté 3-14-23 compte au total 36 provinces en catégorie A, 24 en catégorie B (60) : sa liste est identique à celle de l'arrêté TPME 3.54.25 (section 4). Seule la brochure est incomplète.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-066",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "La prime sectorielle (5 %)",
+  "principe": "La prime sectorielle de 5 % vise à dynamiser les secteurs porteurs : l'industrie, le tourisme et les loisirs, l'industrie culturelle, le numérique, les énergies renouvelables, la transformation et la valorisation des déchets, la logistique et le transport, l'aquaculture et l'outsourcing.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-067",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "Procédure",
+  "principe": "Le projet fait l'objet d'une convention d'investissement avec l'État, déposée via la plateforme des CRI (cri-invest.ma). Pour un projet de moins de 250 MDH, l'élaboration, l'approbation et la signature se font au niveau régional ; à partir de 250 MDH, elles relèvent du niveau central et de la Commission nationale des investissements. Les délais d'instruction, la liste des pièces et les modalités de versement du dispositif principal ne figurent ni dans le décret 2-23-1 ni dans ses arrêtés (voir 2.9) ; à demander au CRI.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-068",
+  "p": 5,
+  "ch": "5.7",
+  "c": "Le dispositif principal de soutien à l'investissement",
+  "t": "Ce que disent le décret 2-23-1 et ses arrêtés",
+  "principe": "Le décret n° 2-23-1 du 25 rejeb 1444 (16 février 2023), publié au Bulletin officiel n° 7174 du 2 mars 2023, et les arrêtés du chef du gouvernement 3-12-23, 3-13-23 et 3-14-23 du 1er mars 2023 (textes arabes publiés au Bulletin officiel n° 7177 du 13 mars 2023, textes français aux n° 7184 et 7188) ont été lus dans un second temps. Le décret entre en vigueur à la publication des arrêtés (art. 30). Ils confirment l'essentiel de la brochure et corrigent ou complètent quatre points : le seuil de 150 emplois, le ratio genre, le périmètre du plafond de 30 MDH et la liste des provinces (Sidi Slimane).\n| Rubrique | Règle | Référence |\n| Investisseur | Personne physique ou personne morale de droit privé, à l'exclusion des entreprises publiques | décret art. 1-b |\n| Projets éligibles | Montant total d'au moins 50 MDH et au moins 50 emplois stables à créer (jusqu'à 149) ; OU au moins 150 emplois stables, quel que soit le montant | décret art. 6 ; arrêté 3-13-23 art. 1 |\n| Emploi stable | Contrat d'au moins 18 mois consécutifs, créé directement par l'investisseur lors de l'exploitation ; salariés de nationalité marocaine immatriculés à la CNSS | décret art. 1-f |\n| Ratio d'emplois stables | Nombre d'emplois stables créés divisé par le montant d'investissement total en millions de dirhams | décret art. 1-j |\n| Prime emplois | Ratio > 1 et ≤ 1,5 : 5 % ; > 1,5 et ≤ 3 : 7 % ; > 3 : 10 % du montant primable. Les trois paliers ne se cumulent pas entre eux ; les autres primes communes sont cumulables | décret art. 7 |\n| Prime genre | 3 % si le ratio genre (masse salariale réservée aux femmes ÷ masse salariale totale) est d'au moins 30 % | décret art. 1-k et 7 |\n| Métiers d'avenir et montée en gamme | 3 % ; listes en annexe de l'arrêté 3-12-23 (reprises en 2.3) | décret art. 7 ; arrêté 3-12-23 art. 3 |\n| Projet durable | 3 % ; critère obligatoire (eaux non conventionnelles et économie d'eau) et au moins deux critères parmi : énergies renouvelables, efficacité énergétique, traitement des déchets, programmes sociaux de responsabilité sociétale | arrêté 3-12-23 art. 4 |\n| Intégration locale | 3 % ; taux minimum de 20 % (agroalimentaire, pharmacie, dispositifs médicaux) ou 40 % (autres activités manufacturières) ; taux = (achats locaux + valeur ajoutée + marge brute) ÷ chiffre d'affaires | arrêté 3-12-23 art. 1 et 2 |\n| Prime territoriale | 10 % (catégorie A) ou 15 % (catégorie B) ; 36 provinces et préfectures en A, 24 en B, soit 60 | décret art. 8 ; arrêté 3-14-23 |\n| Prime sectorielle | 5 % pour : industrie, tourisme et loisirs, industrie culturelle, numérique, énergies renouvelables, transformation et valorisation des déchets, logistique et transport, outsourcing, aquaculture | décret art. 9 |\n| Plafond de cumul | Primes communes, territoriale et sectorielle cumulables dans la limite de 30 % du montant primable | décret art. 10 |\n| Plafond énergie | Le cumul des primes pour la production d'énergie éolienne, solaire ou hydraulique est plafonné à 30 MDH | décret art. 11 |\n| Montant d'investissement total | Coût hors taxes de toute création ou extension : études, recherche et développement, transfert de technologie, mise au point des procédés, foncier privé et public, bâtiments (acquisition, location ou location avec option d'achat), infrastructures internes et externes, génie civil, aménagement, biens d'équipement, matériel et outillage | décret art. 1-e |\n| Montant primable | Montant total moins le prix du foncier public. Le foncier privé est pris en compte dans la limite de 20 % du montant total : s'il dépasse 20 %, le montant primable est égal au reliquat (total moins foncier public et privé) plus 20 % du total | décret art. 2 |\n| Durée de location prise en compte | 7 ans au maximum (location, location avec option d'achat, occupation temporaire) | arrêté 3-12-23 art. 5 |\n| Délai de réalisation | 5 ans à compter de la signature de la convention, sauf stipulation contraire ; prorogation en cas de force majeure, par avenant | décret art. 3 |\n| Versement | Par tranches, au fur et à mesure de la réalisation du projet | décret art. 4 |\n| Restitution | L'investisseur qui ne remplit pas ses obligations restitue les primes reçues | décret art. 5 |\nExemple chiffré (calcul de l'auteur). Pour un projet de 100 MDH dont 30 MDH de terrain privé et aucun foncier public, le reliquat est de 70 MDH et le montant primable de 70 + 20 = 90 MDH. À un taux global de 28 %, la prime serait de 25,2 MDH.\nCircuit d'approbation. Les conventions de 250 MDH ou plus sont approuvées par la Commission nationale des investissements, présidée par le chef du gouvernement et dont le secrétariat est tenu par l'AMDIE, puis signées par l'investisseur et par les autorités chargées de l'intérieur, des finances, de l'investissement et du budget, ainsi que par celles concernées par le projet (art. 13). Pour les projets de moins de 250 MDH, l'article 14 prévoit une élaboration, une approbation et une signature à l'échelle régionale ; mais l'article 29 précise que, dans l'attente de la mise en œuvre de l'article 14, toutes les conventions du dispositif principal suivent le circuit national des articles 13 et 22. Le Comité technique de préparation et de suivi, présidé par le directeur général de l'AMDIE, apprécie la valeur vénale du foncier privé, calcule le montant primable et les primes, établit les projets de convention et suit l'avancement (art. 22 et 24). La convention précise notamment le montant d'investissement total prévisionnel, le lieu, le nombre d'emplois stables, les primes et leurs modalités d'octroi, le délai, les modalités de déblocage, le contrôle, les sanctions et le règlement des différends (art. 23).\nCe que les textes ne contiennent pas. Aucun délai d'instruction ni aucune liste de pièces n'est fixé pour le dispositif principal, contrairement au dispositif TPME. Ces éléments relèvent de la pratique du CRI et de l'AMDIE.\nPoint à vérifier. L'application effective de l'article 14 (circuit régional pour les moins de 250 MDH) est à confirmer auprès du CRI. Le décret TPME de 2025, lui, prévoit expressément une approbation régionale par la CRUI.",
+  "maj": "2026-10-17"
+ }
+]

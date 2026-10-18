@@ -1,0 +1,65 @@
+[
+ {
+  "id": "3-060",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "Les actes soumis à l’enregistrement et les délais",
+  "principe": "Sont obligatoirement enregistrés, à des taux proportionnels selon la nature du bien, tous actes et conventions, écrits ou verbaux, portant mutation entre vifs d’immeubles, de droits réels immobiliers, de fonds de commerce, de parts de sociétés immobilières, ainsi que les baux de plus de 10 ans, les cessions de droit au bail, les actes de société, etc. [CGI art. 127].\n| Délai | Point de départ | Actes |\n| 30 jours | Date de l’acte | Actes et conventions de l’article 127 ; procès-verbaux d’adjudication [art. 128-I-A] |\n| 30 jours | Réception de la déclaration des parties | Actes établis par les adouls [art. 128-I-B] |\n| 30 jours | Entrée en possession | Mutations verbales : déclaration détaillée et estimative auprès de l’inspecteur [art. 136-I] |\n| 3 mois | Date du décès | Actes de libéralité à cause de mort |\n| 3 mois | Date de la décision | Jugements, arrêts, sentences arbitrales |\n### RÉGULARISER UNE MUTATION ANCIENNE (RECUEIL DGI, Q08)\nUn acquéreur occupe depuis 2012 des logements achetés et payés sans acte ni déclaration d’entrée en jouissance. L’acte de vente établi aujourd’hui reste soumis aux droits proportionnels de droit commun ; le délai de 30 jours court en principe de la mutation effective, mais l’action de l’administration en recouvrement des droits ne se prescrit qu’après 10 ans à compter de la date des actes concernés [CGI art. 234-I-1°]. Une mutation non constatée n’est donc pas « couverte » par l’écoulement du temps tant qu’aucun acte n’a été présenté.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-061",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "Les taux en vigueur en 2026",
+  "principe": "| Taux | Principales opérations (référentiel CGI 2026 et art. 133) |\n| 6 % | Acquisitions de fonds de commerce ; cessions de parts de sociétés immobilières transparentes ; baux de plus de 10 ans, baux à vie ou illimités ; cessions de droit au bail ; retraits de réméré tardifs ; acquisitions d’immeubles par les banques, assurances, Bank Al-Maghrib et la CDG |\n| 5 % | Acquisitions de terrains nus ou de constructions à démolir (y compris par Mourabaha, Ijara, Moucharaka) ; cessions d’actions ou parts de sociétés à prépondérance immobilière non cotées (LF 2026) |\n| 4 % | Acquisitions de locaux construits à usage d’habitation, commercial, professionnel ou administratif, avec terrain attenant dans la limite de cinq fois la surface couverte |\n| 3 % | Première vente de logements sociaux et de logements à faible valeur immobilière ; ventes de biens meubles ; cessions de rentes ; titres constitutifs de propriété |\n| 1,5 % | Antichrèses, nantissements immobiliers, hypothèques et nantissements de fonds de commerce (hors garanties de crédits bancaires exonérées en 2026) ; marchés de construction entre particuliers ; donations en ligne directe, entre époux, frères et sœurs, kafala ; partages ; cessions de créances, dont l’abandon de compte courant d’associé |\n| 1 % | Cessions d’obligations ; cautionnements ; actes d’adoul confirmant des mutations ; délivrances de legs ; inventaires après décès |\n| 0,5 % | Constitutions et augmentations de capital par apports nouveaux (minimum de perception 1 000 DH) |\n| 0,1 % | Marchés publics et conventions de travaux, fournitures ou services avec l’État, les collectivités, les EEP et leurs filiales (LF 2026) |\n| Droits fixes | 200 DH pour les baux de 10 ans au plus ; 1 000 DH pour les transferts et apports des régimes de restructuration de l’article 161 bis ; minimum général de perception 100 DH |\n### LE DROIT SUPPLÉMENTAIRE DE 2 % (LF 2026)\nLes mutations d’immeubles et de fonds de commerce dont le prix dépasse 300 000 DH supportent un droit supplémentaire de 2 % lorsque l’acte ne mentionne pas les modalités et références de règlement, ou lorsque le règlement n’est pas effectué par les moyens traçables de l’article 11-II (chèque barré, effet, virement, procédé électronique…). En cas de règlement mixte, le droit ne frappe que la partie payée en espèces [CGI art. 133-III]. Conséquence pratique : le notaire ou l’adoul doit mentionner dans l’acte les références précises des virements ou chèques.\n### La base imposable des baux longs (LF 2025)\n| Durée du bail | Base des droits | Exemple NC 736 (loyer 16 000 DH/an, charges 10 000 DH) |\n| ≤ 10 ans | Droit fixe de 200 DH | 200 DH |\n| > 10 ans et < 20 ans | Somme des loyers de la durée stipulée + charges | (16 000 × 14) + 10 000 = 234 000 DH × 6 % = 14 040 DH |\n| ≥ 20 ans | 20 fois le loyer annuel + charges | (16 000 × 20) + 10 000 = 330 000 DH × 6 % = 19 800 DH |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-062",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "Cessions de titres et abandons de comptes courants (Recueil DGI, Q10)",
+  "principe": "Les cessions de parts de GIE et d’actions ou parts sociales de sociétés autres qu’à objet immobilier ou à prépondérance immobilière sont exonérées de droits d’enregistrement [CGI art. 129-IV-25°], sauf lorsqu’un associé ayant apporté des biens en nature cède, dans les 4 ans de l’apport, les titres représentatifs de ces biens (droit de mutation selon la nature des biens). En revanche, l’abandon de compte courant d’associé accompagnant la cession s’analyse en une cession de créance soumise au droit de 1,5 % [art. 133-I-C-5°].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-063",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "L’enregistrement électronique et ses nouveaux contrôles",
+  "principe": "- Obligation électronique : notaires (depuis 2018), adouls, experts-comptables et comptables agréés (depuis 2019) accomplissent la formalité et paient les droits par voie électronique [CGI art. 155-I, 169-I]. Les notaires transmettent les actes revêtus de leur signature électronique (LF 2025, art. 137-I).\n- Amende de 1 000 DH (LF 2025, art. 206 bis) en cas d’informations obligatoires non renseignées, incomplètes ou erronées (identité et adresse des parties, CNIE, IF, articles TP/TH/TSC, nature de l’opération, prix, titre foncier, origine de propriété, base, tarif, timbre, numéro au registre) ou de non-transmission de l’acte ; elle n’est pas appliquée si l’omission est corrigée dans les 30 jours de l’enregistrement.\n- Attestation d’enregistrement : depuis 2025, les actes présentés à la conservation foncière doivent être accompagnés d’une attestation d’enregistrement (modèle DGI, avec QR code d’authentification ; à défaut de QR code, le cachet de l’administration fait foi) [art. 139-I].\n### ERREUR DE BASE CORRIGÉE PAR LE NOTAIRE (NC 736)\nVente d’un appartement de 3 000 000 DH enregistrée le 26 janvier 2025 sur une base de 300 000 DH (droits versés : 12 000 DH). Correction déposée le 20 février 2025 (dans les 30 jours) : pas d’amende de 1 000 DH, mais droits complémentaires de 108 000 DH (3 000 000 × 4 % – 12 000), plus majoration de 5 % pour rectification hors délai (5 400 DH), pénalité de 5 % (5 400 DH) et majoration de retard de 5 % (5 400 DH) ; total 124 200 DH.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-064",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "La fiche de renseignements grevant l’immeuble (TH/TSC)",
+  "principe": "Avant toute mutation, le notaire, l’adoul ou l’avocat doit joindre au dossier — via TGR-Tawtik (notaires) ou la plateforme e-services TGR (adouls et avocats) — la fiche de renseignements relative au paiement des impôts et taxes gérés par la DGI grevant l’immeuble (taxe d’habitation et taxe de services communaux).\n### OBTENIR LA FICHE DE RENSEIGNEMENTS (SIMPL-ATTESTATION)\n- Se connecter à www.tax.gov.ma › « Téléservices SIMPL » › « Vos attestations » › « Accédez à Simpl Attestation ».\n- Saisir l’identifiant et le mot de passe du professionnel (notaire, adoul, avocat).\n- Dans le menu, choisir « Fiscalité immobilière » › « Fiche de renseignements relative au paiement des impôts et taxes, pris en charge par la DGI, grevant l’immeuble ».\n- Renseigner le numéro d’article TH/TSC.\n- Selon la situation :\n- émission existante et paiement effectué : la fiche est délivrée et téléchargée en temps réel ;\n- émission manquante : le système invite à déposer une nouvelle demande dans 48 heures (délai de génération de l’avis d’imposition) ;\n- paiement non effectué : régulariser via le menu de paiement TH/TSC, puis déposer une nouvelle demande.\n- Pour payer : se connecter à SIMPL-Taxes territoriales, cliquer sur « Avis non reçu », renseigner les champs, puis payer en ligne ou en multicanal (impression de l’avis de demande de paiement TH-TSC).\n- Une fois le paiement effectué, redéposer la demande et imprimer la fiche en temps réel.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-065",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "Les exonérations notables de droits d’enregistrement",
+  "principe": "- Constitutions et augmentations de capital et acquisitions de terrains en ZAI ; constitutions de capital des sociétés CFC (référentiel CGI 2026).\n- Actes de constitution de garanties (cautions, hypothèques) au profit de l’administration fiscale pour tous les impôts, et mainlevées (LF 2025, art. 129-IV-21°).\n- Cautions, hypothèques et nantissements de fonds de commerce garantissant des crédits bancaires, et mainlevées (LF 2026, art. 135-II-14°, selon le référentiel).\n- Acquisitions de terrains pour cités et campus universitaires (section 17).\n- Mutations gratuites d’immeubles au profit des familles de Chouhadas, militaires mutilés, rapatriés et ralliés (LF 2025).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-066",
+  "p": 3,
+  "ch": "3.6",
+  "c": "Les droits d’enregistrement et de timbre",
+  "t": "Les droits de timbre",
+  "principe": "Les actes, titres et écrits soumis à l’enregistrement supportent le timbre de dimension de 20 DH par feuille, sur support papier ou électronique ; les effets de commerce supportent un droit proportionnel (Livre III, art. 249 et s.). Lorsque le timbre est acquitté sur déclaration, la télédéclaration et le télépaiement sont obligatoires [art. 155-I, 169-I].",
+  "maj": "2026-10-17"
+ }
+]

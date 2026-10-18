@@ -1,0 +1,111 @@
+[
+ {
+  "id": "7-060",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas pratiques chiffrés — présentation",
+  "cas": "Les cas suivants combinent plusieurs mécanismes. Tous les calculs ont été vérifiés par script. Les taux bancaires et les commissions de garantie retenus sont des hypothèses d'illustration ; les montants de primes appliquent les textes.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-061",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas A – Création d'un atelier de menuiserie (très petite entreprise, Intelaka)",
+  "principe": "Profil : SARL AU créée par un jeune artisan, programme de 350 000 DH (machines 280 000 DH, aménagement 40 000 DH, stock initial 30 000 DH), à Taza (catégorie A), deux salariés.\n| Ressource | Montant (DH) | Mécanisme |\n| Apport personnel | 50 000 | Fonds propres |\n| Crédit Intelaka | 300 000 | Crédit bancaire à 2 % sur 84 mois, garanti à 80 % par Damane Intelak |\n| Total | 350 000 |  |\nMensualité : environ 3 830 DH ; intérêts totaux : environ 21 740 DH. La garantie couvre 240 000 DH. Le projet (moins de 1 MDH) n'est pas éligible au dispositif TPME. L'entreprise, créée après 2015 et comptant au plus dix salariés, peut recruter en CDI dans ses 24 premiers mois avec Tahfiz (exonération d'IR sur un salaire brut plafonné à 10 000 DH, prise en charge de la part patronale CNSS et de la taxe de formation professionnelle), jusqu'au 31 décembre 2026 pour la date de création.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-062",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas B – PME agroalimentaire, dispositif TPME (Béni Mellal)",
+  "principe": "Profil : société de six ans, CA 25 MDH, transformation de produits d'origine végétale, investissement de 12 MDH, 30 emplois stables.\n| Poste | Investissement total (MDH) | Montant primable (MDH) |\n| Terrain privé | 1,5 | 1,5 (≤ 20 % du montant primable et ≤ 5 MDH) |\n| Études | 0,4 | 0,4 (≤ 5 % et ≤ 0,5 MDH) |\n| Bâtiment | 4,0 | 4,0 |\n| Équipements | 5,6 | 5,6 |\n| Véhicule | 0,5 | 0 (exclu) |\n| Total | 12,0 | 11,5 |\nPrimes : 5 % (ratio 2,5) + 10 % (catégorie A) + 10 % (activité prioritaire) = 25 % × 11,5 = 2,875 MDH.\n| Ressource | Montant (MDH) | Observation |\n| Fonds propres | 2,4 | 20 % (minimum légal 1,2) |\n| Crédit d'investissement | 9,6 | 7 ans à 6 % (hypothèse) ; garantie Damane Istitmar 60 % (5,76 MDH), 70 % si comptes certifiés |\n| Total | 12,0 |  |\n| Crédit relais adossé aux primes | 2,3 | Remboursé par la 1re tranche (1,15 MDH, après 6 MDH investis) et le solde (1,15 MDH) |\n| Prime emplois | 0,575 | Versée sur justificatifs CNSS, utilisée en remboursement anticipé ou en trésorerie |\nService de la dette : environ 1,683 MDH par an ; avec un EBE prévisionnel de 3,2 MDH et un IS de 0,35 MDH, DSCR de 1,69.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-063",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas C – Entreprise de taille intermédiaire, dispositif principal (Fès)",
+  "principe": "Profil : usine de composants de 120 MDH (dont 30 MDH de foncier privé), 200 emplois stables, 35 % de masse salariale féminine, intégration locale de 42 %, 50 MDH d'équipements importés.\nMontant primable : (120 − 30) + 24 = 114 MDH. Primes : 7 % + 3 % + 3 % + 10 % + 5 % = 28 %, soit 31,92 MDH (plafond de 30 % : 34,2 MDH).\n| Ressource | Montant (MDH) |\n| Fonds propres | 40 |\n| Crédit bancaire à long terme | 80 |\n| Total | 120 |\n| Primes versées par tranches selon la convention | 31,92 |\nAvec une convention d'investissement de plus de 100 MDH, l'exonération de TVA sur les équipements importés évite de préfinancer environ 10 MDH de TVA (20 % de 50 MDH), sous réserve des garanties exigées et du délai de 36 mois (60 mois avec la prorogation de la loi de finances 2026). Les primes sont versées au fur et à mesure de la réalisation ; un crédit relais ou un remboursement anticipé de la dette est prévu à leur encaissement.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-064",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas D – Centrale solaire (Ouarzazate)",
+  "principe": "Montant de 400 MDH sur 20 MDH de foncier public, 60 emplois. Montant primable : 380 MDH. Primes théoriques : 18 % soit 68,4 MDH ; prime retenue : 30 MDH (plafond spécifique de l'article 11 du décret 2-23-1). Le reste se finance en fonds propres, en dette de projet et, le cas échéant, auprès des bailleurs internationaux.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-065",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas E – Startup technologique",
+  "principe": "Profil : startup de logiciel en intelligence artificielle, deux ans, CA 0,8 MDH, besoin de 7 MDH sur trois ans.\n| Étape | Mécanisme | Montant |\n| Prototype | Tech Start (via structure d'accompagnement) | Jusqu'à 400 000 DH selon la communication de 2026 (à confirmer) |\n| Lancement commercial | Tech Boost (prêt d'honneur) | Jusqu'à 750 000 DH selon la communication de 2026 (à confirmer) |\n| Levée | Fonds de capital-risque partenaire Innov Invest | 4 MDH |\n| Complément | Innov Dev (prêt participatif) | 2 MDH (50 % de la levée, plafond 3 MDH) |\nSi la startup crée au moins 1,5 emploi stable par MDH sur un projet d'investissement d'au moins 1 MDH, elle peut aussi déposer au dispositif TPME (entreprise de moins de trois ans dispensée de la condition de CA) ; la branche « logiciels, conseil et autres activités informatiques » est éligible dans toutes les régions et le développement de logiciels est une activité prioritaire.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-066",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas F – Projet d'un Marocain du monde",
+  "principe": "Unité de produits du terroir de 6 MDH : MDM Invest 0,6 MDH (non remboursable), fonds propres 1,2 MDH, crédit bancaire 4,2 MDH. Si le projet remplit les conditions du dispositif TPME (société de droit marocain, ratio d'au moins 1,5, branche éligible), les primes de la Charte s'ajoutent ; la compatibilité de MDM Invest avec le dispositif TPME et le traitement de la contribution dans les 10 % de fonds propres doivent être confirmés par écrit.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-067",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas G – Entreprise dirigée par une femme",
+  "principe": "Projet de 4 MDH : Ilayki Invest 1,6 MDH à 2 % (différé de deux ans : 32 000 DH d'intérêts par an ; puis environ 28 044 DH par mois pendant cinq ans) ; fonds propres 0,8 MDH ; crédit bancaire 1,6 MDH garanti par Damane Istitmar à 60 % (960 000 DH). Le dispositif TPME peut s'ajouter si les conditions sont remplies.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-068",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas H – Rénovation d'un hôtel classé",
+  "principe": "Prêt Cap Hospitality de 20 MDH sur douze ans dont deux de différé. Au taux d'illustration de 6 %, les intérêts sur la durée du prêt représenteraient environ 9 MDH : c'est l'ordre de grandeur de l'économie que représente leur prise en charge par l'État, remboursée trimestriellement. Les dépenses non couvertes peuvent relever du dispositif TPME (hébergement classé : activité prioritaire, ratio minimal de 1) si l'entreprise est une TPME.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-069",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas I – Exploitation agricole",
+  "principe": "Irrigation de complément sur 15 ha (coût 30 000 DH/ha) : subvention FDA de 315 000 DH (21 000 DH/ha), hors bassin. Tracteur 4 roues motrices de 60 CV à 600 000 DH : subvention de 70 000 DH (plafond). Approbation préalable obligatoire avant tout achat. Le solde se finance par un crédit agricole et, pour les besoins de campagne, par un financement de type salam auprès d'une banque participative.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-070",
+  "p": 7,
+  "ch": "7.7",
+  "c": "Cas pratiques chiffrés",
+  "t": "Cas J – Société de services numériques à Casablanca",
+  "principe": "Projet de 3 MDH (matériel et développement, pas de terrain), 12 emplois stables : ratio de 4, prime emplois de 5 % ; pas de prime territoriale (préfecture de Casablanca) ; développement de logiciels, activité prioritaire : 10 %. Total : 15 % × 3 MDH = 0,45 MDH.",
+  "faq": [
+   [
+    "Comment calculer le montant cumulable des primes ?",
+    "Calculer d'abord le montant primable, puis additionner les taux des primes justifiées (emplois, et pour le dispositif principal genre, métiers d'avenir, durable, intégration locale ; territoriale ; sectorielle ou prioritaire), plafonner le total à 30 % du montant primable et, pour l'énergie éolienne, solaire ou hydraulique, à 30 MDH."
+   ],
+   [
+    "Comment savoir quel mécanisme choisir pour mon projet ?",
+    "Suivre l'arbre de décision de la section 2 : seuils de montant et d'emplois (stratégique, principal, TPME), puis programmes sectoriels, puis besoins (crédit garanti, fonds propres, trésorerie de marché). Les cas de cette section montrent les combinaisons typiques par profil."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

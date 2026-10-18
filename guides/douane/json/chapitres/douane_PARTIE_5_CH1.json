@@ -1,0 +1,163 @@
+[
+  {
+    "id": "5-001",
+    "p": 5,
+    "ch": "5.1",
+    "c": "Régime du commerce extérieur",
+    "t": "Principe de liberté des importations et des exportations et notion de marchandise prohibée au sens du code des douanes",
+    "enbref": "Les opérations d'importation et d'exportation relèvent de la loi n° 91-14 relative au commerce extérieur, à laquelle renvoie le code des douanes. Pour la douane, une marchandise n'est soumise à une condition particulière que si un texte l'interdit, la restreint ou l'assujettit à une formalité : elle est alors « prohibée » au sens de l'article 23 du code, et l'opération n'est possible que sur production du titre ou de la formalité exigés.",
+    "textes": [
+      "CDII, art. 23, 114-2° et 135",
+      "Loi n° 91-14 relative au commerce extérieur",
+      "Circulaire ADII n° 6255/210 (LF 2022)",
+      "Note ADII n° 23605/320 du 23/11/1998"
+    ],
+    "principe": "Le texte de référence du commerce extérieur est la loi n° 91-14, qui a remplacé la loi n° 13-89 : la circulaire n° 6255/210, relative aux dispositions douanières de la loi de finances 2022, actualise en ce sens les références du code des douanes.\nLe code des douanes traduit ce cadre par la notion de prohibition. Sont prohibées, au sens du code, toutes les marchandises dont l'importation ou l'exportation est interdite à quelque titre que ce soit, ou soumise à des restrictions, à des règles de qualité ou de conditionnement, ou à des formalités particulières (CDII, art. 23-1°). La prohibition douanière n'est donc pas seulement l'interdiction : elle couvre toute condition mise à l'opération. À l'inverse, une marchandise qu'aucun texte ne vise est importée ou exportée librement, sous réserve des droits et taxes et des formalités de dédouanement de droit commun.\nLa prohibition n'est pas un obstacle définitif. La production d'un titre régulier (autorisation, licence, certificat) applicable à la marchandise, le respect des règles de restriction, de qualité ou de conditionnement, ou l'accomplissement des formalités particulières lèvent la prohibition et permettent l'opération (CDII, art. 23-2°). Sous les régimes suspensifs, les prohibitions et restrictions quantitatives sont en principe suspendues, sauf celles de l'article 115 et sauf arrêté contraire (CDII, art. 114-2°) ; les marchandises soumises à licence d'importation ne peuvent toutefois bénéficier de l'admission temporaire pour perfectionnement actif que sur autorisation réglementaire (art. 135-1°).",
+    "admin": "La pratique de l'ADII rattache la qualité d'opérateur du commerce extérieur à une immatriculation : pour les opérations de commerce triangulaire, le régime est accordé aux personnes patentées, immatriculées au registre de commerce et au fichier des opérateurs du commerce extérieur, avec imputation du titre d'importation (note n° 23605/320 du 23/11/1998). La liste des marchandises soumises à restrictions quantitatives est fixée par l'arrêté n° 1308-94 du 19/04/1994, régulièrement complété ; l'ADII la reproduit dans les annexes I (importation) et II (exportation) de sa circulaire n° 4339/213 du 21/07/1994, qu'elle met à jour à chaque nouvel arrêté (circ. n° 6738/311, 6747/311, 6765/311, 6766/311 et 6775/311 de 2026).",
+    "donnees": [
+      [
+        "Notion de prohibition",
+        "Interdiction, restriction, règle de qualité ou formalité particulière (CDII, art. 23-1°)"
+      ],
+      [
+        "Levée de la prohibition",
+        "Titre régulier ou formalité accomplie (CDII, art. 23-2°)"
+      ],
+      [
+        "Régimes suspensifs",
+        "Prohibitions suspendues, sauf art. 115 (CDII, art. 114-2°)"
+      ],
+      [
+        "Texte de base",
+        "Loi n° 91-14 (circ. n° 6255/210)"
+      ],
+      [
+        "Liste des restrictions quantitatives",
+        "Arrêté n° 1308-94 ; annexes I et II de la circ. n° 4339/213 (circ. n° 6775/311)"
+      ]
+    ],
+    "cas": "La société fictive Sahel Distribution importe des ustensiles de cuisine et des drones de loisir. Pour les ustensiles, qu'aucun texte ne vise, son transitaire dépose une déclaration de droit commun. Pour les drones, il vérifie la réglementation et constate qu'une licence d'importation est exigée : la marchandise est « prohibée » au sens de l'article 23, et le dédouanement attendra la licence. L'erreur fréquente : croire qu'une marchandise non interdite est dispensée de tout titre.",
+    "juris": "",
+    "conseil": "Avant toute première importation d'un produit, vérifiez systématiquement s'il est visé par une mesure de commerce extérieur, une norme ou un visa technique : la prohibition au sens douanier couvre ces trois situations. Conservez le titre ayant levé la prohibition avec le dossier de dédouanement. Pour un premier opérateur, régularisez son inscription comme opérateur du commerce extérieur avant l'arrivée des marchandises.",
+    "faq": [
+      [
+        "Une marchandise soumise à certificat de conformité est-elle « prohibée » ?",
+        "Oui, au sens du code : toute marchandise soumise à des règles de qualité ou à des formalités particulières est prohibée, la production du titre exigé levant la prohibition (CDII, art. 23)."
+      ],
+      [
+        "Les prohibitions s'appliquent-elles sous régime suspensif ?",
+        "En principe non, sauf celles de l'article 115 et sauf arrêté contraire (CDII, art. 114-2°) ; l'admission temporaire pour perfectionnement actif de marchandises sous licence exige cependant une autorisation (art. 135)."
+      ]
+    ],
+    "renvois": [
+      "5-002",
+      "5-020",
+      "5-021",
+      "5-040",
+      "7-001",
+      "7-010"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés mis à jour"
+    ]
+  },
+  {
+    "id": "5-002",
+    "p": 5,
+    "ch": "5.1",
+    "c": "Régime du commerce extérieur",
+    "t": "Licences d'importation, restrictions quantitatives et prohibitions absolues : titres exigés et sanctions en cas d'opération sans autorisation",
+    "enbref": "Certaines marchandises exigent une licence ou subissent des restrictions quantitatives ; d'autres sont frappées de prohibitions absolues qu'aucun régime ne suspend. L'opération réalisée sans le titre exigé constitue une contravention douanière de 2e classe, et la marchandise qui ne peut être mise à la consommation sans autorisation d'importation est confisquée.",
+    "textes": [
+      "CDII, art. 23, 114-2°, 115, 135, 294-6° bis et 6° ter, 294 bis et 295",
+      "Loi n° 91-14 relative au commerce extérieur, art. 13",
+      "Circulaire ADII n° 6343/311 du 29/06/2022 (déchets)",
+      "Note ADII n° D23/2026/ADII/AC/100 du 23/01/2026 (pesticides)",
+      "Circulaire conjointe n° 1 relative au contrôle normatif",
+      "Guide ADII « Résidents marocains voyageant à l'étranger »",
+      "Circulaires ADII n° 6738/311, 6747/311, 6765/311, 6766/311 et 6775/311 (2026)",
+      "Note ADII n° D175/2026/ADII/AC/100 du 04/08/2026"
+    ],
+    "principe": "Licences et restrictions. Les marchandises soumises à licence d'importation au titre de l'article 13 de la loi n° 91-14 sont prohibées au sens du code, et la licence est le titre régulier qui lève la prohibition (CDII, art. 23). Exemples :\n- drones et engins volants télécommandés : licence d'importation délivrée par le département chargé du commerce extérieur (guide ADII voyageurs) ;\n- déchets : restrictions quantitatives au titre de la législation du commerce extérieur (circ. n° 6343/311 du 29/06/2022) ;\n- pesticides dont l'homologation ONSSA a été retirée : interdiction d'importation (note n° D23/2026/ADII/AC/100 du 23/01/2026).\n\nProhibitions absolues. Sont exclus de tous les régimes économiques (CDII, art. 115) :\n- les animaux et marchandises provenant de pays contaminés, au titre de la police sanitaire ;\n- les stupéfiants et psychotropes ;\n- les armes de guerre et munitions, sauf pour l'armée ou les fabricants autorisés selon la loi n° 10-20 ;\n- les écrits et images pornographiques ou contraires aux bonnes mœurs ;\n- les produits contrefaisant l'effigie royale, les emblèmes nationaux ou l'origine marocaine.\n\nSanctions. L'importation ou l'exportation sans autorisation de marchandises prohibées visées à l'article 23-1° b), ayant fait l'objet d'une déclaration, est une contravention de 2e classe (CDII, art. 294-6° bis) ; sans droits ou taxes compromis, elle relève du 6° ter. L'amende est d'une fois et demie les droits et taxes, de la moitié de la valeur à l'exportation, ou de 3 000 à 30 000 DH (art. 294 bis). La marchandise qui ne peut être mise à la consommation sans autorisation d'importation est confisquée par ordonnance du juge, sur simple requête de l'administration (art. 295).",
+    "admin": "L'ADII rattache le titre de commerce extérieur au dossier de dédouanement : l'engagement d'importation tient lieu de titre d'importation et fait partie des pièces du dossier de contrôle normatif (circulaire conjointe n° 1). Domicilié et imputé par la douane, il permet le règlement du fournisseur par un intermédiaire agréé (circ. n° 6542/313 du 20/02/2024).\nLes mesures prises en 2026 illustrent le caractère souvent temporaire de ces restrictions. Sont soumis à licence d'importation : les fils d'acier à haute teneur en carbone (7217.10.10.00) et les torons et câbles (7312.10.00.90) (arrêté n° 591-26, BO n° 7516 du 11/06/2026 ; circ. n° 6747/311) ; les pommes de terre découpées et surgelées destinées à la friture (2004.10.20.00) (arrêté n° 1428-26, BO n° 7532 du 06/08/2026 ; circ. n° 6765/311) ; les aulx frais ou réfrigérés (0703.20.00.00), pour dix-huit mois à compter du 24/09/2026 (arrêté n° 1825-26 ; circ. n° 6775/311). À l'exportation, les lingots de laiton (ex 7403.21.00.00) sont soumis à licence pour vingt-quatre mois, du 07/05/2026 au 06/05/2028, à défaut de laquelle aucun bon à embarquer n'est délivré (arrêté n° 756-26 ; circ. n° 6738/311). À l'inverse, les licences d'importation et d'exportation des masques de protection et des préparations antiseptiques instaurées pendant la crise sanitaire ont été levées, les masques restant soumis aux normes obligatoires (arrêté n° 303-26 ; circ. n° 6766/311).\nCes arrêtés comportent généralement une clause transitoire au profit des opérations engagées avant leur publication, sur justification d'un crédit irrévocable ou d'un titre de transport antérieur ; les importations qui en relèvent sont dédouanées sans licence (circ. n° 6747/311 et 6765/311). Pour le sucre, l'exportation est subordonnée à la production d'une attestation de restitution et d'une licence d'exportation, dont l'agent vérifie la concordance avec les produits et quantités déclarés lors du contrôle documentaire (note D175/2026/ADII/AC/100 du 04/08/2026, qui abroge la note n° 6447/311 du 12/05/2011).",
+    "donnees": [
+      [
+        "Prohibitions absolues",
+        "Exclues de tous les régimes (CDII, art. 115)"
+      ],
+      [
+        "Infraction",
+        "Contravention de 2e classe (CDII, art. 294-6° bis et 6° ter)"
+      ],
+      [
+        "Amende à l'importation (6° bis)",
+        "1,5 fois les droits et taxes (CDII, art. 294 bis)"
+      ],
+      [
+        "Amende sans droits compromis (6° ter)",
+        "3 000 à 30 000 DH (CDII, art. 294 bis)"
+      ],
+      [
+        "Confiscation",
+        "Marchandise nécessitant autorisation d'importation (CDII, art. 295)"
+      ],
+      [
+        "Nouvelles licences d'import 2026",
+        "Fils et câbles d'acier, frites surgelées, aulx (circ. n° 6747/311, 6765/311, 6775/311)"
+      ],
+      [
+        "Licence d'export 2026",
+        "Lingots de laiton, jusqu'au 06/05/2028 (circ. n° 6738/311)"
+      ],
+      [
+        "Licences levées",
+        "Masques et antiseptiques (circ. n° 6766/311)"
+      ],
+      [
+        "Clause transitoire",
+        "Crédit irrévocable ou titre de transport antérieur (circ. n° 6747/311 et 6765/311)"
+      ]
+    ],
+    "cas": "La société fictive AgriSouss importe en mars 2026 un pesticide dont l'homologation a été retirée par l'ONSSA : l'importation est interdite (note n° D23/2026). L'erreur fréquente : déclarer quand même en espérant une régularisation, alors que l'opération sans autorisation constitue une contravention de 2e classe et que la marchandise peut être confisquée (CDII, art. 294 et 295).",
+    "juris": "",
+    "conseil": "Obtenez la licence ou l'autorisation avant l'embarquement, jamais après l'arrivée : les frais de magasinage courent pendant l'instruction de la demande. Vérifiez que la désignation, la quantité et la position tarifaire du titre correspondent à la déclaration. Sous régime suspensif, vérifiez l'article 115 et demandez l'autorisation de l'article 135 pour une marchandise sous licence.",
+    "faq": [
+      [
+        "Peut-on placer sous admission temporaire une marchandise soumise à licence ?",
+        "Oui, mais l'admission temporaire pour perfectionnement actif d'une marchandise sous licence exige une autorisation (CDII, art. 135)."
+      ],
+      [
+        "Que risque-t-on à déclarer une marchandise sans la licence exigée ?",
+        "Une contravention de 2e classe et la confiscation de la marchandise (CDII, art. 294, 294 bis et 295)."
+      ],
+      [
+        "Une marchandise expédiée avant la publication d'un arrêté de licence doit-elle être accompagnée de la licence ?",
+        "Non si la clause transitoire de l'arrêté s'applique : sur justification d'un crédit irrévocable ou d'un titre de transport antérieur, elle est dédouanée sans licence (circ. n° 6747/311 et 6765/311)."
+      ],
+      [
+        "Combien de temps dure la licence d'importation de l'ail ?",
+        "Dix-huit mois à compter du 24/09/2026, date de publication de l'arrêté n° 1825-26 (circ. n° 6775/311)."
+      ]
+    ],
+    "renvois": [
+      "5-001",
+      "5-010",
+      "5-012",
+      "5-021",
+      "5-022",
+      "5-030",
+      "5-040",
+      "7-011",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  }
+]

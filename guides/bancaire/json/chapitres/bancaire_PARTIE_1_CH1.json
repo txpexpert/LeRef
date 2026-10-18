@@ -1,0 +1,65 @@
+[
+ {
+  "id": "1-001",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Cadre institutionnel — présentation",
+  "principe": "Comprendre qui peut faire quoi avant d'engager une démarche\nToute démarche d'un opérateur ou d'un investisseur commence par une question de qualification : l'activité envisagée relève-t-elle du monopole bancaire ? Quel régulateur est compétent ? Quelle catégorie d'établissement est concernée ? Cette partie fournit les grilles de lecture nécessaires.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "1-002",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Qu'est-ce qu'un établissement de crédit ?",
+  "principe": "Est un établissement de crédit toute personne morale exerçant son activité au Maroc — quels que soient le lieu de son siège, la nationalité de ses actionnaires ou de ses dirigeants — qui exerce à titre de profession habituelle une ou plusieurs des trois activités suivantes (art. 1 L. 103-12) :\n1. la réception de fonds du public ;\n2. les opérations de crédit ;\n3. la mise à disposition de la clientèle de tous moyens de paiement, ou leur gestion.\nLa qualification est matérielle : peu importe la dénomination que se donne l'entreprise, dès lors qu'elle réalise habituellement l'une de ces opérations, elle relève de la loi bancaire et doit être agréée.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "1-003",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Les trois opérations de banque",
+  "principe": "### Les fonds reçus du public\nCe sont les fonds qu'une personne recueille de tiers, sous forme de dépôt ou autrement, avec le droit d'en disposer pour son propre compte, à charge de les restituer (art. 2). Y sont assimilés les dépôts à vue (même si le compte peut devenir débiteur), les dépôts à terme ou à préavis, les fonds à affectation spéciale non conservés en l'état, ainsi que les fonds donnant lieu à délivrance d'un bon de caisse.\n| Ne constituent PAS des fonds reçus du public | Intérêt pratique pour l'opérateur |\n| Sommes laissées en compte par les associés, commandités, gérants, administrateurs, membres du directoire ou du conseil de surveillance, et actionnaires détenant au moins 5 % du capital | Les comptes courants d'associés sont licites sans agrément, à condition de respecter le seuil de 5 % pour les actionnaires |\n| Dépôts du personnel d'une entreprise lorsqu'ils ne dépassent pas 10 % des capitaux propres | Plan d'épargne salariale interne possible sous ce plafond |\n| Fonds provenant de concours d'établissements de crédit et organismes assimilés | Refinancement bancaire classique |\n| Fonds inscrits sur des comptes de paiement (art. 16) | Relèvent du statut d'établissement de paiement |\n### Les opérations de crédit\nConstitue une opération de crédit tout acte à titre onéreux par lequel une personne met ou s'oblige à mettre des fonds à la disposition d'une autre, à charge de remboursement, ou prend dans l'intérêt d'autrui un engagement par signature (aval, cautionnement, autre garantie) (art. 3). Sont assimilés : le crédit-bail et la location avec option d'achat (mobilier, immobilier, fonds de commerce — art. 4), l'affacturage (art. 5), la vente à réméré d'effets et valeurs mobilières et les opérations de pension.\n### Les moyens de paiement\nSont des moyens de paiement tous les instruments qui permettent de transférer des fonds, quel que soit le support ou le procédé technique (art. 6). La monnaie électronique en fait partie : valeur monétaire stockée sur un support électronique, émise contre remise de fonds d'un montant au moins égal, et acceptée comme moyen de paiement par des tiers autres que l'émetteur.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "1-004",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Le monopole bancaire et ses exceptions",
+  "principe": "Il est interdit à toute personne non agréée en qualité d'établissement de crédit ou d'établissement de paiement d'effectuer, à titre habituel, les opérations ci-dessus (art. 18). La sanction pénale est lourde : 6 mois à 3 ans d'emprisonnement et 100 000 à 5 000 000 DH d'amende pour exercice sans agrément (art. 183), avec possible fermeture de l'établissement et publication du jugement (art. 184).\nLa loi ménage toutefois des exceptions essentielles à la vie des affaires. Toute personne peut :\n| Opération autorisée hors agrément (art. 18) | Exemple d'application |\n| Consentir à ses contractants, dans l'exercice de son activité professionnelle, des délais ou avances de paiement (crédit commercial) | Délais de paiement fournisseurs/clients, acomptes |\n| Conclure des contrats de location-accession aux logements | Promoteurs immobiliers |\n| Réaliser des opérations de trésorerie intragroupe avec des sociétés liées par un lien capitalistique conférant un contrôle effectif | Cash pooling, conventions de trésorerie de groupe |\n| Émettre des valeurs mobilières et des titres de créances négociables sur un marché réglementé | Émission obligataire, billets de trésorerie |\n| Consentir des avances sur salaires ou des prêts à ses salariés pour motifs sociaux | Prêts au personnel |\n| Émettre des bons et cartes d'achat de biens ou services déterminés auprès d'elle-même | Cartes cadeaux d'enseigne, dans les conditions fixées par circulaire |\n| Prendre ou mettre en pension des valeurs cotées, TCN ou valeurs du Trésor | Gestion de trésorerie d'entreprise |\n| Remettre des espèces en garantie d'un prêt de titres (loi 45-12) | Opérations de marché |\n### Point de vigilance\nUn projet de prêt entre particuliers, de « tontine digitale », d'escrow, de paiement fractionné (Buy Now Pay Later) ou de portefeuille électronique doit faire l'objet d'une qualification réglementaire préalable. BAM indique avoir reçu en trois ans des demandes d'avis de 48 fintechs et a publié en décembre 2025 un Guide du parcours fintech ; la consultation préalable est fortement recommandée (rapport supervision 2025).\nL'usage d'une dénomination ou d'une publicité laissant croire à un agrément bancaire est puni de 3 mois à 1 an d'emprisonnement et 20 000 à 200 000 DH d'amende (art. 182).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "1-005",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Les opérations connexes autorisées aux établissements de crédit",
+  "principe": "Sous réserve des textes applicables, un établissement de crédit peut aussi réaliser (art. 7 et 8) : les services d'investissement (gestion d'instruments financiers, négociation, réception-transmission d'ordres, conseil en gestion de patrimoine et financière, ingénierie financière, placement, notation), les opérations de change, les opérations sur or et métaux précieux, la présentation d'opérations d'assurance (bancassurance) et la location de biens pour les sociétés de crédit-bail. Il peut prendre des participations dans des entreprises, dans les limites prudentielles (art. 9, voir section 5).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "1-006",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Les catégories d'établissements et d'organismes assimilés",
+  "principe": "| Catégorie | Activités autorisées | Particularités |\n| Banques (art. 12) | Tout ou partie des activités des art. 1, 7 et 16 | Seules habilitées à recevoir des fonds à vue ou d'un terme ≤ 2 ans |\n| Sociétés de financement (art. 13-14) | Uniquement les activités prévues par leur décision d'agrément (crédit à la consommation, immobilier, crédit-bail, affacturage, cautionnement…) | Peuvent être agréées pour recevoir des fonds à terme > 1 an |\n| Banques participatives (titre III) | Activités sans perception ni versement d'intérêt, dépôts d'investissement, produits Mourabaha, Ijara, Moucharaka, Moudaraba, Salam, Istisna'a | Avis conforme du Conseil supérieur des Ouléma |\n| Établissements de paiement (art. 15-17) | Services de paiement (transfert de fonds, comptes de paiement, paiements à distance, cartes, prélèvements), change | Forme SA ou SARL ; fonds clients cantonnés |\n| Institutions/associations de microfinance | Microcrédit, collecte (SA agréées EC uniquement), micro-assurance | Loi 50-20 |\n| Banques offshore | Opérations en devises avec des non-résidents | Loi 58-90 ; titres II, IV à VIII de la loi 103-12 |\n| Compagnies financières | Contrôlent principalement un ou plusieurs EC | Obligations comptables et de contrôle |\n| CDG et SNGFE (Tamwilcom) | Missions spécifiques (dépôts réglementés, garantie et financement des entreprises) | Régime adapté (art. 19, 19 bis) |\nÉchappent à la loi bancaire (art. 23) : Bank Al-Maghrib, la Trésorerie générale du Royaume, le service des mandats postaux, les entreprises d'assurance et de réassurance, les organismes de prévoyance et de retraite, les organismes à but non lucratif prêtant sur ressources propres à des conditions préférentielles à leurs bénéficiaires statutaires, le Fonds Hassan II, et les institutions financières internationales ou organismes publics de coopération étrangers autorisés par convention avec le Gouvernement.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "1-007",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Les notions fondamentales et le monopole bancaire",
+  "t": "Conglomérats financiers",
+  "principe": "Un groupe placé sous contrôle unique ou influence notable d'une entité ayant son siège ou son activité principale au Maroc, comprenant au moins deux entités des secteurs bancaire, assurance ou marché des capitaux, avec des activités financières significatives, constitue un conglomérat financier (art. 21). L'entité de tête doit établir et publier des états de synthèse individuels et consolidés, disposer d'une gouvernance et d'un contrôle interne, désigner deux commissaires aux comptes et communiquer aux autorités les informations requises. La circulaire conjointe d'application est homologuée par arrêté du ministre des finances et publiée au BO (ajout de la loi 51-20).",
+  "maj": "2026-10-18"
+ }
+]

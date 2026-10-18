@@ -1,0 +1,357 @@
+[
+  {
+    "id": "7-040",
+    "p": 7,
+    "ch": "7.5",
+    "c": "Entrepôt de douane",
+    "t": "Entrepôt de douane : catégories d'entrepôts (public, privé banal, privé particulier) et entrepôts d'exportation ou spéciaux",
+    "enbref": "L'entrepôt de douane permet de stocker des marchandises en suspension des droits et taxes, pour une durée limitée, dans des établissements contrôlés par l'administration. Le choix entre entrepôt public, privé banal ou privé particulier détermine qui peut y déposer des marchandises, qui supporte les charges de surveillance et quelles opérations y sont possibles.",
+    "textes": [
+      "CDII, art. 119, 120, 125 et 126",
+      "Décret n° 2-77-862, art. 87, 91, 93, 97 et 98",
+      "Circulaire ADII n° 6047/312 du 20/05/2020",
+      "Instruction commune ADII-Office des changes relative aux magasins de vente sous douane"
+    ],
+    "principe": "Le régime permet de placer des marchandises, pour une durée déterminée, dans des établissements contrôlés par l'administration (CDII, art. 119-1°). On distingue l'entrepôt public et l'entrepôt privé, banal ou particulier (art. 119-2°). L'entrepôt public, concédé en priorité à une ville ou à une chambre de commerce, et l'entrepôt privé banal, concédé à un professionnel de l'entreposage pour compte de tiers, sont ouverts à toute personne (art. 120-1° et 2°, 125-1°). L'entrepôt privé particulier est accordé à une entreprise pour son usage exclusif et pour les seules marchandises désignées ; l'entrepôt privé particulier spécial peut recevoir des marchandises identiques appartenant à des tiers (art. 120-4° et 125-2°). Un entrepôt est dit « d'exportation » lorsqu'il reçoit des marchandises destinées exclusivement à l'exportation, et « spécial » lorsqu'il reçoit des marchandises exigeant des installations particulières, dangereuses, destinées à des foires ou bénéficiant d'une exonération (art. 119-3°). À défaut d'entrepôt dédié, une section d'exportation peut être créée dans un entrepôt existant (décret n° 2-77-862, art. 97). Le bénéficiaire d'une concession est le « concessionnaire », le propriétaire des marchandises l'« entrepositaire » (CDII, art. 120-5° et 126). Les locaux nécessaires aux foires, expositions et concours peuvent être constitués en entrepôt public, dans les conditions de l'arrêté de concession (décret, art. 98).",
+    "admin": "La circulaire n° 6047/312 attribue les codes 035 (entrepôt public), 036 (entrepôt privé banal) et 037 (entrepôt privé particulier). L'instruction commune ADII-Office des changes place les magasins de vente sous douane (duty free) sous le régime de l'entrepôt d'exportation ; les marchandises marocaines y entrant sont traitées comme exportées.",
+    "donnees": [
+      [
+        "Entrepôt public",
+        "Concédé en priorité à une ville ou une chambre de commerce ; ouvert à tous (CDII, art. 120-1° et 125-1°)"
+      ],
+      [
+        "Entrepôt privé banal",
+        "Concédé à un professionnel de l'entreposage pour compte de tiers (CDII, art. 120-2°)"
+      ],
+      [
+        "Entrepôt privé particulier",
+        "Usage exclusif du bénéficiaire, marchandises désignées (CDII, art. 120-4° et 125-2°)"
+      ],
+      [
+        "Charges de surveillance",
+        "Concessionnaire (public, banal) ; bénéficiaire (particulier) (décret, art. 87, 91 et 93)"
+      ],
+      [
+        "Codes régimes",
+        "035, 036, 037 (circ. 6047/312 du 20/05/2020)"
+      ]
+    ],
+    "cas": "Atlas Pièces Auto SARL, société fictive, importe d'Asie des pièces de rechange qu'elle revend au fil des commandes à des garages marocains et à des distributeurs africains. Elle envisage d'abord de louer de l'espace chez un logisticien exploitant un entrepôt privé banal, ouvert aux tiers. Son volume croissant la conduit ensuite à demander un entrepôt privé particulier dans ses propres locaux, où elle seule pourra entreposer ses pièces. Erreur à éviter : y stocker les pièces d'un client distributeur ; l'entrepôt privé particulier ordinaire est réservé à l'usage exclusif du bénéficiaire.",
+    "juris": "",
+    "conseil": "Commencez par l'entrepôt d'un tiers pour tester vos flux : l'entrepôt privé particulier ne se justifie qu'avec un volume régulier, car son bénéficiaire supporte les frais de surveillance et la comptabilité matières. Si vous réexportez une partie importante du stock, prévoyez dès le départ une section d'exportation séparée. Vérifiez dans l'acte d'autorisation la liste des marchandises admises : toute marchandise non désignée est hors régime.",
+    "faq": [
+      [
+        "Un logisticien peut-il stocker sous douane les marchandises de plusieurs clients ?",
+        "Oui, dans un entrepôt public ou privé banal, ouverts à toute personne (CDII, art. 125-1°)."
+      ],
+      [
+        "Un duty free relève-t-il de l'entrepôt de douane ?",
+        "Oui, les magasins de vente à l'exportation sont placés sous le régime de l'entrepôt d'exportation (instruction commune ADII-Office des changes ; CDII, art. 119 ; décret, art. 97)."
+      ],
+      [
+        "Un duty free relève-t-il de l'entrepôt de douane ?",
+        "Oui : les magasins de vente sous douane sont placés sous le régime de l'entrepôt d'exportation, et les marchandises marocaines qui y entrent sont traitées comme exportées (instruction commune ADII–Office des changes ; CDII, art. 124)."
+      ]
+    ],
+    "renvois": [
+      "7-001",
+      "7-041",
+      "7-042",
+      "7-043",
+      "7-044",
+      "3-011"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-041",
+    "p": 7,
+    "ch": "7.5",
+    "c": "Entrepôt de douane",
+    "t": "Ouverture d'un entrepôt de douane : concession, autorisation, agrément des locaux et autorités compétentes",
+    "enbref": "L'entrepôt public et l'entrepôt privé banal sont concédés par arrêté du ministre des finances ; l'entrepôt privé particulier est autorisé par l'administration. Dans tous les cas, les locaux sont agréés sur plan et ne peuvent être modifiés sans nouvel agrément.",
+    "textes": [
+      "CDII, art. 120 et 121",
+      "Décret n° 2-77-862, art. 75, 76, 77, 82, 87, 88 et 93",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II",
+      "Circulaire ADII n° 6364/313 du 08/09/2022",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexe 6"
+    ],
+    "principe": "L'entrepôt public est concédé par arrêté ministériel, après avis des ministres intéressés, en priorité à une ville ou à une chambre de commerce ; l'entrepôt privé banal est concédé par arrêté ministériel ; ces arrêtés fixent le tarif des taxes d'entreposage et les conditions du concessionnaire (CDII, art. 120-1° à 3°). L'entrepôt privé particulier est accordé par le directeur de l'administration, qui fixe les charges de surveillance (art. 120-4°). Un entrepôt peut être ouvert partout où les besoins du commerce le justifient, sous réserve des possibilités de contrôle (décret n° 2-77-862, art. 75). La demande est accompagnée d'un plan des locaux en double exemplaire ; l'original agréé reste à l'administration et toute modification requiert un agrément préalable (art. 76 et 77). En entrepôt public et banal, le concessionnaire construit et entretient les bâtiments, y compris les locaux de l'administration, et paie les agents de surveillance ; les issues sont fermées à deux clefs différentes (art. 87, 88 et 91). En entrepôt privé particulier, les frais des locaux administratifs incombent au bénéficiaire (art. 93). Tout concessionnaire tient une comptabilité matières et facilite les contrôles (art. 82).",
+    "admin": "La circulaire n° 6348/313 (annexe II) réserve à l'Administration centrale l'ouverture d'un entrepôt privé banal et confie aux directeurs régionaux, interrégionaux et des ports l'autorisation des entrepôts privés particuliers, y compris spéciaux. Depuis la circulaire n° 6364/313, la demande d'ouverture d'un entrepôt privé particulier ou d'un entrepôt privé particulier spécial de carburants se dépose et se suit sur Diw@nati, la réponse étant notifiée électroniquement.",
+    "donnees": [
+      [
+        "Entrepôt public",
+        "Arrêté du ministre des finances (CDII, art. 120-1°)"
+      ],
+      [
+        "Entrepôt privé banal",
+        "Arrêté ministériel ; instruction par l'Administration centrale (CDII, art. 120-2° ; circ. 6348/313, annexe II)"
+      ],
+      [
+        "Entrepôt privé particulier, y compris spécial",
+        "Directeurs régionaux, interrégionaux et des ports (circ. 6348/313, annexe II)"
+      ],
+      [
+        "Dépôt de la demande d'EPP",
+        "Plateforme Diw@nati (circ. 6364/313 du 08/09/2022)"
+      ],
+      [
+        "Plan des locaux",
+        "En double exemplaire ; modification soumise à agrément (décret, art. 76 et 77)"
+      ]
+    ],
+    "cas": "Souss Primeurs SA, société fictive d'Agadir, importe des emballages et des engrais destinés en partie à ses exploitations et en partie à des clients exportateurs. Elle demande sur Diw@nati l'ouverture d'un entrepôt privé particulier dans son hangar, en joignant le plan des locaux ; la demande est instruite par la direction régionale (circ. 6348/313 ; circ. 6364/313). Un an plus tard, elle agrandit le hangar. Erreur à éviter : étendre le stockage sous douane à la nouvelle travée sans faire agréer le plan modifié (décret, art. 76).",
+    "juris": "",
+    "conseil": "Préparez le plan des locaux avec un repérage clair des zones sous douane, des accès et des emplacements de comptage : c'est la base des contrôles. Prévoyez l'aménagement d'un local pour les agents si l'administration l'exige. Mettez en place la comptabilité matières avant la première entrée, avec une référence de lot par déclaration.",
+    "faq": [
+      [
+        "Qui autorise un entrepôt privé particulier ?",
+        "Les directeurs régionaux, interrégionaux et des ports (circ. 6348/313 du 06/07/2022, annexe II), sur demande déposée via Diw@nati (circ. 6364/313)."
+      ],
+      [
+        "Puis-je modifier l'aménagement de mon entrepôt ?",
+        "Seulement après agrément préalable du nouveau plan par l'administration (décret, art. 76 et 77)."
+      ],
+      [
+        "Qui autorise un entrepôt privé particulier ?",
+        "Les directeurs régionaux, interrégionaux et des ports, sur demande déposée sur Diw@nati (circ. n° 6348/313, annexe II ; circ. n° 6364/313)."
+      ]
+    ],
+    "renvois": [
+      "7-040",
+      "7-042",
+      "7-002",
+      "7-003",
+      "1-021"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-042",
+    "p": 7,
+    "ch": "7.5",
+    "c": "Entrepôt de douane",
+    "t": "Opérations autorisées en entrepôt de douane : marchandises admises, manipulations, échantillons, transferts et cessions",
+    "enbref": "Sont admises en entrepôt les marchandises passibles de droits ou soumises à prohibition, hors exclusions, ainsi que certaines marchandises nationales destinées à l'exportation. Les manipulations sont limitées à celles fixées par arrêté : larges en entrepôt public et banal, en principe interdites en entrepôt privé particulier sauf autorisation.",
+    "textes": [
+      "CDII, art. 122, 123, 124, 128 et 129",
+      "Décret n° 2-77-862, art. 78 à 86, 89 et 96"
+    ],
+    "principe": "Sont exclues les marchandises prohibées de l'article 115, celles en mauvais état de conservation et celles désignées par décret (CDII, art. 122). Sont admises les marchandises passibles de droits ou soumises à d'autres prohibitions, les marchandises prises à la consommation destinées à être mélangées ou reconditionnées avec elles, et les marchandises du marché intérieur destinées exclusivement à l'exportation, inscrites sur une liste fixée par arrêté (art. 123) ; l'entrée de ces dernières vaut exportation par provision (art. 124). Les manipulations autorisées sont fixées par arrêté ministériel, le directeur en réglant l'exécution (art. 128). En entrepôt public et privé banal sont permis, sous réserve de la propriété industrielle, les mélanges de produits étrangers pour l'exportation et, pour toutes destinations, les déballages, transvasements et manipulations de conservation ou d'amélioration (décret n° 2-77-862, art. 89 et 91). En entrepôt privé particulier, les manipulations sont en principe interdites, sauf autorisation pour la commercialisation ou la conservation (art. 96). Les marchandises sont alloties, présentées en mêmes quantité et qualité, et peuvent être transférées entre entrepôts sans prolongation du délai (art. 81, 83 et 84). Les ayants droit peuvent les examiner et en prélever des échantillons, taxés comme à la sortie (art. 85). En cas de cession, l'entrepositaire reste engagé jusqu'à l'acceptation par l'administration de l'engagement du cessionnaire (CDII, art. 129).",
+    "admin": "",
+    "donnees": [
+      [
+        "Exclusions",
+        "Prohibitions de l'art. 115, marchandises en mauvais état, catégories désignées par décret (CDII, art. 122)"
+      ],
+      [
+        "Manipulations en entrepôt public et banal",
+        "Déballages, transvasements, conservation, amélioration ; mélanges pour l'export (décret, art. 89)"
+      ],
+      [
+        "Manipulations en entrepôt privé particulier",
+        "Interdites sauf autorisation (décret, art. 96)"
+      ],
+      [
+        "Échantillons",
+        "Prélèvement par les ayants droit, taxés selon l'art. 130 (décret, art. 85)"
+      ],
+      [
+        "Transfert entre entrepôts",
+        "Sans prolongation du délai (décret, art. 83)"
+      ],
+      [
+        "Cession",
+        "Entrepositaire engagé jusqu'à acceptation du cessionnaire (CDII, art. 129)"
+      ]
+    ],
+    "cas": "Méditerranée Huiles SARL, société fictive, entrepose dans un entrepôt privé banal de Tanger Med 200 fûts d'huile de tournesol importée. Elle souhaite la transvaser en bidons de cinq litres pour la revendre à un client mauritanien : le transvasement est une manipulation admise en entrepôt banal (décret, art. 89). Elle cède ensuite 50 fûts à un négociant marocain, qui souscrit l'acquit à caution de cessionnaire (CDII, art. 129). Erreur à éviter : faire la même opération dans son propre entrepôt privé particulier sans autorisation ; les manipulations y sont en principe interdites (décret, art. 96).",
+    "juris": "",
+    "conseil": "Avant toute manipulation, vérifiez qu'elle est couverte par l'arrêté et, en entrepôt privé particulier, obtenez l'autorisation écrite. Enregistrez chaque opération dans la comptabilité matières, avec les pertes constatées : ce sont elles qui justifieront les manquants. Tenez les lots séparés par déclaration d'entrée pour faciliter le recensement.",
+    "faq": [
+      [
+        "Puis-je réétiqueter ou reconditionner des marchandises en entrepôt ?",
+        "En entrepôt public ou privé banal, les manipulations de conservation ou d'amélioration et les transvasements sont permis (décret, art. 89) ; en entrepôt privé particulier, une autorisation est nécessaire (art. 96)."
+      ],
+      [
+        "Un client peut-il prélever des échantillons en entrepôt ?",
+        "Oui, toute personne ayant le droit de disposer des marchandises peut en prélever ; ils sont taxés selon les règles de l'article 130 du CDII (décret, art. 85)."
+      ],
+      [
+        "Puis-je reconditionner des marchandises en entrepôt privé particulier ?",
+        "Seulement sur autorisation de l'administration, pour la commercialisation ou la conservation : les manipulations y sont en principe interdites (décret, art. 96)."
+      ]
+    ],
+    "renvois": [
+      "7-040",
+      "7-043",
+      "7-044",
+      "7-001"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-043",
+    "p": 7,
+    "ch": "7.5",
+    "c": "Entrepôt de douane",
+    "t": "Sortie d'entrepôt de douane : destinations possibles, calcul des droits à la mise à la consommation et manquants",
+    "enbref": "À leur sortie, les marchandises entreposées peuvent recevoir toutes les destinations ouvertes à l'importation directe. Mises à la consommation, elles sont taxées sur l'espèce, la quantité et la valeur constatées à l'entrée, aux taux du jour de l'entrée, avec intérêt de retard si les droits n'étaient pas consignés ; les manquants non justifiés sont taxés.",
+    "textes": [
+      "CDII, art. 130, 131 et 132",
+      "Décret n° 2-77-862, art. 86 et 97 bis",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe I",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexe 6"
+    ],
+    "principe": "Les marchandises entreposées, hors marchandises nationales destinées à l'export, peuvent recevoir à leur sortie les mêmes destinations qu'à l'importation directe (CDII, art. 130-1°) ; elles sont déclarées selon le régime qui leur est alors donné (décret n° 2-77-862, art. 86). En cas de mise à la consommation, les droits sont calculés d'après l'espèce et les quantités constatées à l'entrée, la valeur au jour de l'entrée et les taux en vigueur à cette date, majorés de l'intérêt de retard s'ils n'ont pas été consignés (CDII, art. 130-2° a à c). Une partie des marchandises qui n'ont pu être placées sous un régime de transformation pour l'exportation peut être mise à la consommation aux taux du jour, dans une proportion fixée par arrêté (art. 130-2° d). Pour raisons commerciales justifiées, elles peuvent être abandonnées ou détruites en exonération (art. 130-4°), les raisons admises étant énumérées par le décret : désengagement du donneur d'ordre, fermeture de frontières, péremption, non-conformité, dépréciation, entre autres (décret, art. 97 bis). L'entrepositaire paie les droits sur les quantités qu'il ne peut présenter ; seuls les manquants naturels ou de manipulation sont admis en franchise (CDII, art. 132). L'entrepositaire de marchandises nationales admises en entrepôt en vue de l'exportation qui ne peut les présenter en mêmes quantités et qualités doit restituer les avantages à l'exportation conférés par provision à l'entrée, sans préjudice des pénalités (CDII, art. 133). Les manquants autres que naturels ou de manipulation sont liquidés d'après l'espèce, la quantité et la valeur au jour de l'entrée en entrepôt (art. 132-3°).",
+    "admin": "La circulaire n° 6348/313 (annexe I) supprime l'autorisation préalable de la mise à la consommation en suite d'entrepôt privé particulier dans la limite de 15 % des quantités importées (code 047), au profit des plates-formes d'approvisionnement des entreprises exportatrices, avec mention obligatoire en case 38. La note D7106/16/ADII/100 rattachait cette mesure à l'arrêté n° 1053-11 du 21/04/2011 et à la circulaire n° 5288/313 du 03/10/2011.",
+    "donnees": [
+      [
+        "Base taxable à la mise à la consommation",
+        "Espèce, quantité et valeur à l'entrée ; taux du jour de l'entrée (CDII, art. 130-2°)"
+      ],
+      [
+        "Intérêt de retard",
+        "Dû depuis l'entrée si les droits n'étaient pas consignés (CDII, art. 130-2° c)"
+      ],
+      [
+        "Part de 15 % des plates-formes",
+        "Code 047, mention en case 38, sans autorisation préalable (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Marchandises avariées",
+        "Taux du jour d'entrée, valeur à la date des avaries (CDII, art. 130-3°)"
+      ],
+      [
+        "Abandon ou destruction",
+        "Pour raisons commerciales énumérées (CDII, art. 130-4° ; décret, art. 97 bis)"
+      ],
+      [
+        "Manquants",
+        "Taxés, sauf manquants naturels ou de manipulation (CDII, art. 132)"
+      ]
+    ],
+    "cas": "Atlas Pièces Auto SARL, société fictive, a placé en entrepôt privé particulier, en janvier 2026, des pièces valant 1 000 000 DH sans consigner les droits. En octobre, elle en met 40 % à la consommation pour des garages marocains : les droits sont calculés sur 400 000 DH, aux taux de janvier, majorés de l'intérêt de retard couru depuis l'entrée (CDII, art. 130-2°). Le reste est exporté vers le Sénégal. Lors du recensement, 30 pièces manquent sans explication : les droits sont dus sur ces quantités (art. 132). Erreur à éviter : appliquer le taux du jour de sortie, plus bas après une baisse tarifaire ; c'est le taux du jour d'entrée qui s'applique.",
+    "juris": "",
+    "conseil": "Si vous prévoyez des ventes locales, consignez les droits à l'entrée : l'intérêt de retard court sinon dès l'admission en entrepôt. Pour un stock invendable, documentez la raison commerciale avec les pièces prévues par l'article 97 bis du décret avant de demander l'abandon ou la destruction. Faites des inventaires tournants pour expliquer les écarts avant tout recensement.",
+    "faq": [
+      [
+        "Quel taux de droit s'applique à une marchandise sortie d'entrepôt pour la consommation ?",
+        "Celui en vigueur à la date d'entrée en entrepôt, appliqué à la valeur et aux quantités constatées à l'entrée (CDII, art. 130-2°)."
+      ],
+      [
+        "Puis-je détruire en exonération un stock périmé en entrepôt ?",
+        "Oui, la péremption figure parmi les raisons commerciales admises pour l'abandon ou la destruction en exonération (CDII, art. 130-4° ; décret, art. 97 bis)."
+      ],
+      [
+        "Sur quelle base sont taxés les manquants constatés en entrepôt ?",
+        "D'après l'espèce, la quantité et la valeur au jour de l'entrée en entrepôt, sauf manquants naturels ou de manipulation admis en franchise (CDII, art. 132)."
+      ]
+    ],
+    "renvois": [
+      "7-042",
+      "7-044",
+      "7-004",
+      "4-001",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-044",
+    "p": 7,
+    "ch": "7.5",
+    "c": "Entrepôt de douane",
+    "t": "Durée de séjour en entrepôt de douane : un an prorogeable, sort des marchandises à l'expiration et vente d'office",
+    "enbref": "Le séjour en entrepôt est fixé à un an, prorogeable deux fois six mois, dans la limite de deux ans depuis l'entrée. À l'expiration, les marchandises doivent être exportées, recevoir une autre destination ou être taxées ; à défaut, elles sont vendues d'office en entrepôt public ou banal, et les droits sont immédiatement exigibles en entrepôt privé particulier.",
+    "textes": [
+      "CDII, art. 127, 129-2° et 134",
+      "Décret n° 2-77-862, art. 83, 90, 92 et 94",
+      "Circulaire ADII n° 5171/313 du 01/10/2009",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+    ],
+    "principe": "La durée maximale de séjour est de deux ans à compter de l'enregistrement de la déclaration d'entrée, sauf dérogation du ministre des finances (CDII, art. 127-1°). Le séjour initial est d'un an, prorogeable deux fois six mois, dans l'entrepôt public, privé banal ou privé particulier (décret n° 2-77-862, art. 90, 92 et 94). Ni les cessions successives ni les transferts entre entrepôts ne prolongent ce délai (CDII, art. 129-2° ; décret, art. 83). À l'expiration, ou lorsque l'entrepôt n'est plus possible, les marchandises doivent être exportées, recevoir une destination spéciale ou être taxées (CDII, art. 134-1°). En entrepôt public ou privé banal, l'entrepositaire défaillant reçoit une sommation ; un mois après, les marchandises sont vendues d'office aux enchères, le produit couvrant les frais, les droits puis les frais d'entreposage, et le reliquat est consigné quatre ans, ou pris en recette s'il est inférieur à 500 DH (art. 134-2°). En entrepôt privé particulier, les droits sont immédiatement exigibles, sauf exportation tardive autorisée (art. 134-3°).",
+    "admin": "La circulaire n° 5171/313 informe de l'harmonisation des articles 90, 92 et 94 du décret par le décret n° 2-07-860 du 17/07/2009 : un an de séjour initial et deux prolongations de six mois, soit 24 mois au plus. La circulaire n° 6348/313 (annexe II) confie l'exportation hors délai en suite d'entrepôt privé particulier aux directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations, et réserve à l'Administration centrale la prorogation au-delà du délai réglementaire.",
+    "donnees": [
+      [
+        "Séjour initial",
+        "1 an (décret, art. 90, 92 et 94 ; circ. 5171/313)"
+      ],
+      [
+        "Prolongations",
+        "2 fois 6 mois, soit 24 mois au plus (circ. 5171/313 ; CDII, art. 127)"
+      ],
+      [
+        "Cession ou transfert",
+        "Sans prolongation du délai (CDII, art. 129-2° ; décret, art. 83)"
+      ],
+      [
+        "Entrepôt public ou banal à l'échéance",
+        "Sommation, vente d'office un mois après (CDII, art. 134-2°)"
+      ],
+      [
+        "Entrepôt privé particulier à l'échéance",
+        "Droits immédiatement exigibles, sauf exportation tardive autorisée (CDII, art. 134-3°)"
+      ],
+      [
+        "Exportation hors délai en suite d'EPP",
+        "Directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313, annexe II)"
+      ]
+    ],
+    "cas": "Méditerranée Huiles SARL, société fictive, a placé des fûts d'huile en entrepôt privé banal le 01/03/2025. Elle obtient deux prolongations de six mois, portant l'échéance au 01/03/2027. Faute d'acheteur, elle laisse passer la date : elle reçoit une sommation et, un mois plus tard, les fûts sont vendus aux enchères, le produit couvrant d'abord les frais, les droits et les frais d'entreposage (CDII, art. 134-2°). Erreur à éviter : croire que la revente des fûts à un autre négociant ouvre un nouveau délai ; la cession ne prolonge pas le séjour (art. 129-2°).",
+    "juris": "",
+    "conseil": "Tenez un échéancier par déclaration d'entrée et demandez chaque prolongation avant l'échéance en cours, pas après. Au-delà de 24 mois, seule une dérogation ministérielle permet de maintenir les marchandises : anticipez la sortie. En entrepôt privé particulier, l'échéance rend les droits immédiatement exigibles ; une exportation tardive se demande, motifs à l'appui.",
+    "faq": [
+      [
+        "Combien de temps une marchandise peut-elle rester en entrepôt ?",
+        "Un an, prorogeable deux fois six mois, soit 24 mois au plus, sauf dérogation du ministre (CDII, art. 127 ; circ. 5171/313)."
+      ],
+      [
+        "La vente d'une marchandise entreposée relance-t-elle le délai ?",
+        "Non, les cessions successives sous le même régime ne prolongent pas le délai (CDII, art. 129-2°)."
+      ],
+      [
+        "Que deviennent les marchandises oubliées en entrepôt public ?",
+        "Après sommation restée sans effet un mois, elles sont vendues d'office aux enchères (CDII, art. 134-2°)."
+      ],
+      [
+        "Puis-je prolonger le séjour en entrepôt au-delà de deux ans ?",
+        "Seulement par dérogation du ministre chargé des finances (CDII, art. 127-1°) ; la prorogation au-delà du délai réglementaire relève de l'administration centrale (circ. n° 6348/313, annexe II)."
+      ]
+    ],
+    "renvois": [
+      "7-040",
+      "7-042",
+      "7-043",
+      "3-012",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": "1-250",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "Monuments historiques, sites et découvertes archéologiques (loi 22-80) — présentation",
+  "principe": "### NOUVEAU DANS CETTE MISE À JOUR\nChapitre ajouté en octobre 2026 à partir de la loi 22-80 (dahir 1-80-341 du 25 décembre 1980), telle que modifiée par la loi 19-05. Il complète le chapitre sur les bâtiments menaçant ruine et le cas n° 5.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-251",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "Inscription et classement : deux niveaux de contrainte",
+  "principe": "Les immeubles et les meubles dont la conservation présente un intérêt pour l'art, l'histoire ou la civilisation du Maroc peuvent être inscrits ou classés (art. 1, 2). L'inscription impose surtout une obligation de prévenance : le bien inscrit ne peut être dénaturé, détruit, restauré ou modifié sans que l'administration en ait été avisée six mois avant le début des travaux (art. 6) ; le propriétaire peut l'exploiter à des fins lucratives (art. 8) et le céder, sous réserve de la préemption de l'État (art. 9).\nLe classement est beaucoup plus contraignant. Dès l'ouverture de l'enquête de classement, le bien est assimilé à un bien classé pendant un an (art. 11). L'acte de classement peut instituer des servitudes, y compris non aedificandi, autour des monuments et dans les sites (art. 13), et il est inscrit au titre foncier (art. 19). Un immeuble classé ne peut être démoli, même partiellement, sans déclassement préalable (art. 20) ; toute restauration ou modification requiert une autorisation (art. 21) ; aucune construction nouvelle n'est possible sans autorisation, et la délivrance du permis de construire y est subordonnée (art. 22). Dans le périmètre de classement, toute modification de l'aspect des lieux, notamment par lotissement ou morcellement, exige une autorisation à laquelle sont subordonnés les permis de construire, de lotir et de morceler (art. 23).\nLes riverains sont également concernés : aucune construction nouvelle ne peut être adossée à un immeuble classé, les constructions existantes doivent s'en détacher par un contre-mur lors de travaux autres que d'entretien, et toutes mesures doivent être prises pour préserver le monument pendant les travaux (art. 28). L'indemnisation des servitudes de classement n'est due que si elles changent la destination, l'usage ou l'état des lieux, et seulement aux particuliers qui ont formulé des observations pendant l'enquête ; la demande doit être présentée dans les six mois de la publication de l'acte, à peine de forclusion (art. 15, 16).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-252",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "La préemption de l'État",
+  "principe": "Toute aliénation volontaire d'un bien inscrit ou classé est subordonnée à une déclaration préalable du propriétaire, à peine de nullité (art. 38). L'administration dispose de deux mois pour acquérir aux prix et conditions déclarés ou y renoncer ; son silence vaut renonciation, et toute modification du prix impose une nouvelle déclaration (art. 39). Si elle préempte sans que l'acte soit passé dans le mois, le propriétaire retrouve sa liberté (art. 40). En cas d'adjudication, l'administration dispose de trente jours après la notification du procès-verbal (art. 41).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-253",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "Les découvertes en cours de chantier",
+  "principe": "Si des vestiges, monnaies ou objets d'art et d'antiquité sont mis au jour lors de travaux, l'exécutant doit en aviser immédiatement l'autorité communale, qui délivre récépissé et informe l'administration ; à défaut, la fouille est réputée illicite. Le chantier peut se poursuivre jusqu'à ce que l'administration fixe ses conditions, sauf arrêt provisoire (art. 46). Les objets découverts deviennent propriété de l'État, moyennant indemnité (art. 49). Les infractions sont punies de 2.000 à 20.000 DH, et jusqu'à 40.000 DH en récidive (art. 52) ; la violation des articles 22, 23 et 28 et des servitudes relève en outre des sanctions d'urbanisme (art. 53). L'administration peut transiger (art. 55 à 57).\n### ⚑ RED FLAG\nAcquérir un riad ou une maison ancienne inscrite ou classée sans que le vendeur ait fait la déclaration préalable à l'administration : la vente est nulle (art. 38). Vérifiez l'inscription au titre foncier (art. 19) et interrogez les services du patrimoine avant la promesse.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-254",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "Fiche 22-80-P1 — Travaux sur un bien inscrit, classé ou situé dans un périmètre classé",
+  "principe": "| N° | Étape | Acteur | Délai | Base |\n| 1 | Identifier le statut du bien : inscrit, classé, en cours de classement, dans un périmètre ou riverain. | Opérateur / patrimoine | — | art. 11, 13, 19 |\n| 2 | Bien inscrit : aviser l'administration des travaux envisagés. | Propriétaire | 6 mois avant | art. 6 |\n| 3 | Bien classé ou périmètre : obtenir l'autorisation patrimoniale avant le permis de construire, de lotir ou de morceler. | Administration / commune | — | art. 21 à 23 |\n| 4 | Riverain : ne pas s'adosser ; prévoir un contre-mur et des mesures de protection. | Maître d'ouvrage | — | art. 28 |\n| 5 | Tenir un cahier de chantier irréprochable (amende doublée en tissu ancien). | Architecte | — | 12-90 mod., art. 76 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-255",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "Fiche 22-80-P2 — Acheter ou vendre un bien inscrit ou classé",
+  "principe": "| N° | Étape | Acteur | Délai | Base |\n| 1 | Déposer la déclaration d'aliénation (prix et conditions). | Vendeur | — | art. 38 |\n| 2 | Attendre la décision de l'administration ; silence = renonciation. | Administration | 2 mois | art. 39 |\n| 3 | En cas de préemption, passer l'acte ; à défaut, liberté du vendeur. | Administration | 1 mois | art. 40 |\n| 4 | Toute modification du prix ou des conditions : nouvelle déclaration. | Vendeur | — | art. 39 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-256",
+  "p": 1,
+  "ch": "1.18",
+  "c": "Monuments historiques, sites et découvertes archéologiques (loi 22-80)",
+  "t": "Fiche 22-80-P3 — Découverte archéologique en cours de chantier",
+  "principe": "| N° | Étape | Acteur | Délai | Base |\n| 1 | Suspendre la zone concernée ; ne pas déplacer les objets, sauf pour les mettre à l'abri. | Entrepreneur | Immédiat | art. 46 |\n| 2 | Déclarer la découverte à l'autorité communale et obtenir récépissé. | Maître d'ouvrage | Immédiat | art. 46 |\n| 3 | Poursuivre selon les conditions fixées par l'administration (ou arrêt provisoire). | Administration | — | art. 46 |\n| 4 | Consigner la découverte au cahier de chantier ; réclamer l'indemnité due pour les objets. | Maître d'ouvrage | — | art. 49 |",
+  "maj": "2026-10-17"
+ }
+]

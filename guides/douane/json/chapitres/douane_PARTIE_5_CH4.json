@@ -1,0 +1,267 @@
+[
+  {
+    "id": "5-030",
+    "p": 5,
+    "ch": "5.4",
+    "c": "Biens sensibles",
+    "t": "Biens à double usage civil et militaire : exclusion du régime de la loi n° 10-20 et classement en cas de doute",
+    "enbref": "Les matériels, équipements, systèmes et logiciels à double usage civil et militaire, énumérés à l'annexe 4 du décret n° 2-21-405, sont exclus du régime d'autorisation de la loi n° 10-20 et relèvent du droit commun. En cas de doute sur le classement d'un bien, l'autorité chargée de l'industrie tranche après avis de la Défense nationale.",
+    "textes": [
+      "Loi n° 10-20 relative aux matériels et équipements de défense et de sécurité, aux armes et aux munitions (dahir n° 1-20-70 du 25/07/2020), art. 2",
+      "Décret n° 2-21-405 du 15/07/2021, art. 3 et annexe 4",
+      "Circulaire ADII n° 6672/311 du 08/08/2025",
+      "Circulaire ADII n° 5517/313 du 17/02/2015 (OEA, questionnaire d'auto-évaluation, volet 4)",
+      "CDII, art. 23"
+    ],
+    "principe": "La loi n° 10-20 soumet à autorisation les matériels de défense et de sécurité, les armes et les munitions, répartis en trois catégories : A (matériels de guerre), B (matériels de sécurité) et C (armes de chasse, de tir sportif, traditionnelles et à air comprimé) (circ. n° 6672/311). Elle exclut expressément de son champ les biens à double usage civil et militaire figurant à l'annexe 4 de son décret d'application.\n\nSelon la circulaire n° 6672/311, cette annexe vise notamment des véhicules, des équipements de télécommunication, de cryptologie, de vision nocturne et de navigation, des satellites, des équipements de protection NRBC et des systèmes de simulation.\n\nCes biens « continuent à relever du droit commun » : leur importation et leur exportation ne requièrent pas l'autorisation de la Défense nationale prévue par la loi n° 10-20. Ils restent soumis aux autres prohibitions et formalités qui peuvent les viser au sens de l'article 23 du CDII (licence, agrément technique, norme). En cas de doute sur le classement d'un bien entre l'annexe 4 et les catégories de la loi, l'autorité gouvernementale chargée de l'industrie tranche après avis de la Défense nationale (circ. n° 6672/311, se référant à l'article 3 du décret).",
+    "admin": "L'ADII intègre la maîtrise des biens sensibles dans l'évaluation des opérateurs économiques agréés : le volet 4 du questionnaire d'auto-évaluation OEA porte sur les procédures internes de gestion des marchandises soumises à restrictions ou prohibitions, notamment les biens à double usage et les marchandises sous licence ou embargo (circ. n° 5517/313).",
+    "donnees": [
+      [
+        "Liste des biens à double usage",
+        "Annexe 4 du décret n° 2-21-405 (circ. n° 6672/311)"
+      ],
+      [
+        "Régime applicable",
+        "Droit commun, hors loi n° 10-20 (circ. n° 6672/311)"
+      ],
+      [
+        "Arbitrage du classement",
+        "Autorité chargée de l'industrie, après avis de la Défense nationale (circ. n° 6672/311)"
+      ],
+      [
+        "Exigence OEA",
+        "Procédures internes pour les biens à double usage (circ. n° 5517/313, volet 4)"
+      ]
+    ],
+    "cas": "La société fictive Sahara Optics importe des jumelles de vision nocturne destinées à des sociétés de gardiennage. Son transitaire constate que ces matériels figurent parmi les catégories de l'annexe 4 et ne relèvent donc pas de l'autorisation de la Défense nationale. Il vérifie toutefois les autres formalités applicables au produit. Pour un modèle à usage manifestement militaire, il saisit le département de l'industrie avant l'expédition. L'erreur fréquente : déclarer un bien sensible sans s'interroger sur son classement.",
+    "juris": "",
+    "conseil": "Tenez une fiche de classement pour chaque bien sensible : position tarifaire, catégorie de la loi n° 10-20 ou annexe 4, autorité consultée. En cas de doute, demandez la position écrite du département de l'industrie avant la commande : elle vous protège lors d'un contrôle a posteriori. Si vous visez le statut OEA, formalisez une procédure interne de filtrage des biens à double usage. Sous régime suspensif, rappelez-vous que seules les prohibitions de l'article 115 font obstacle au placement ; les autres restrictions sont suspendues, sauf arrêté contraire, jusqu'à la mise à la consommation (CDII, art. 114-2°).",
+    "faq": [
+      [
+        "Un bien à double usage nécessite-t-il l'autorisation de la Défense nationale ?",
+        "Non s'il figure à l'annexe 4 du décret n° 2-21-405 : il est exclu de la loi n° 10-20 et relève du droit commun (circ. n° 6672/311)."
+      ],
+      [
+        "Qui décide si un matériel est militaire ou à double usage ?",
+        "L'autorité gouvernementale chargée de l'industrie, après avis de la Défense nationale (circ. n° 6672/311)."
+      ]
+    ],
+    "renvois": [
+      "5-001",
+      "5-002",
+      "5-033",
+      "8-001",
+      "9-003"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : conseil pratique mis à jour"
+    ]
+  },
+  {
+    "id": "5-031",
+    "p": 5,
+    "ch": "5.4",
+    "c": "Biens sensibles",
+    "t": "Espèces de faune et de flore menacées d'extinction (CITES) : permis exigé à l'importation et à l'exportation",
+    "enbref": "L'importation et l'exportation des espèces animales ou végétales menacées d'extinction exigent un permis CITES délivré par le département chargé des Eaux et Forêts. Sans ce permis, la marchandise est prohibée au sens du code des douanes et l'opération expose à une contravention douanière et à la confiscation.",
+    "textes": [
+      "Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (CITES)",
+      "Législation nationale d'application de la CITES",
+      "CDII, art. 23, 285-1°, 287 bis, 294-6° bis, 294 bis et 295",
+      "Guide ADII « Résidents marocains voyageant à l'étranger »"
+    ],
+    "principe": "Le guide ADII destiné aux voyageurs pose la règle dans les deux sens. À l'importation, les espèces animales ou végétales menacées d'extinction sont soumises à la présentation d'un permis CITES délivré par le département chargé des Eaux et Forêts. À l'exportation, la même exigence s'applique. Le même guide range les oiseaux exotiques parmi les marchandises dont l'importation est interdite.\nEn droit douanier, ces espèces sont des marchandises prohibées : leur importation ou leur exportation est soumise à des formalités particulières, et la production du permis lève la prohibition (CDII, art. 23). Le permis doit donc être présenté au moment du dédouanement, à l'appui de la déclaration.\nÀ défaut de permis, les sanctions dépendent de la situation :\n- marchandise déclarée mais importée ou exportée sans autorisation : contravention de 2e classe (CDII, art. 294-6° bis), punie à l'importation d'une amende d'une fois et demie les droits et taxes, et à l'exportation de la moitié de la valeur (art. 294 bis) ; la marchandise qui ne peut être mise à la consommation sans autorisation d'importation est confisquée par ordonnance du juge (art. 295) ;\n- marchandise prohibée importée ou exportée sans déclaration : contravention de 1re classe (art. 285-1°), punie d'une amende de deux fois les droits et taxes compromis, ou de la moitié de la valeur à l'exportation, et de la confiscation (art. 287 bis). La confiscation des marchandises de fraude est obligatoire, en quelques mains qu'elles se trouvent, même si elles appartiennent à un tiers étranger à la fraude (CDII, art. 211) ; pour les marchandises prohibées, elle constitue avant tout une mesure de sûreté (art. 210).",
+    "admin": "Le guide ADII range le permis CITES parmi les formalités spécifiques, à côté du certificat phytosanitaire et de l'autorisation d'importer des armes de chasse. Les animaux de compagnie relèvent en outre, à l'exportation, du contrôle vétérinaire de l'ONSSA au poste frontière.",
+    "donnees": [
+      [
+        "Document exigé",
+        "Permis CITES (guide ADII voyageurs)"
+      ],
+      [
+        "Autorité de délivrance",
+        "Département chargé des Eaux et Forêts (guide ADII voyageurs)"
+      ],
+      [
+        "Sens de l'opération",
+        "Importation et exportation (guide ADII voyageurs)"
+      ],
+      [
+        "Opération déclarée sans permis",
+        "Contravention de 2e classe (CDII, art. 294-6° bis)"
+      ],
+      [
+        "Opération non déclarée",
+        "Contravention de 1re classe et confiscation (CDII, art. 285-1° et 287 bis)"
+      ]
+    ],
+    "cas": "La société fictive Bois Précieux du Sud importe des planches d'une essence tropicale protégée pour une fabrique de meubles. Son transitaire vérifie, avant l'embarquement, que l'essence figure parmi les espèces protégées et obtient le permis CITES des Eaux et Forêts. Le permis est joint à la déclaration. L'erreur fréquente : se contenter du certificat CITES d'exportation délivré par le pays fournisseur, sans le permis marocain exigé à l'importation.",
+    "juris": "",
+    "conseil": "Pour les bois, cuirs exotiques, coraux, plantes ou animaux vivants, demandez au fournisseur le nom scientifique exact de l'espèce : c'est lui, et non la position tarifaire, qui détermine l'application de la CITES. Déposez la demande de permis bien avant l'expédition. Conservez le permis avec le dossier de dédouanement.",
+    "faq": [
+      [
+        "Le permis CITES est-il exigé à l'exportation ?",
+        "Oui : l'exportation des espèces menacées d'extinction requiert un permis CITES délivré par le département chargé des Eaux et Forêts (guide ADII voyageurs)."
+      ],
+      [
+        "Que risque-t-on à importer sans permis une espèce déclarée ?",
+        "Une contravention de 2e classe, punie d'une amende d'une fois et demie les droits et taxes, et la confiscation de la marchandise (CDII, art. 294-6° bis, 294 bis et 295)."
+      ],
+      [
+        "Un spécimen saisi faute de permis CITES peut-il être restitué à son propriétaire de bonne foi ?",
+        "La confiscation de la marchandise de fraude est obligatoire, même entre les mains d'un tiers étranger à la fraude ; pour une marchandise prohibée, elle est d'abord une mesure de sûreté (CDII, art. 210 et 211)."
+      ]
+    ],
+    "renvois": [
+      "5-001",
+      "5-002",
+      "5-022",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "5-032",
+    "p": 5,
+    "ch": "5.4",
+    "c": "Biens sensibles",
+    "t": "Contrefaçon de marques : demande de suspension de la mise en libre circulation et sanctions douanières",
+    "enbref": "Le titulaire d'une marque peut demander à la douane de suspendre la mise en libre circulation des marchandises soupçonnées de la contrefaire ; la demande est enregistrée en ligne sur BADR avant d'être déposée à l'administration centrale. L'importation de marchandises sous marque contrefaite est une contravention de 1re classe, punie d'une amende de deux fois les droits et taxes et de la confiscation.",
+    "textes": [
+      "Loi n° 17-97 relative à la protection de la propriété industrielle, modifiée et complétée par la loi n° 31-05",
+      "Décret n° 2-05-1485 du 21/02/2006",
+      "CDII, art. 115, 285-12° et 287 bis",
+      "Circulaire ADII n° 5568/414 du 28/01/2016",
+      "Circulaire ADII n° 4994/410 du 10/03/2006",
+      "Circulaire ADII n° 5655/312 du 24/01/2017 (cahier des charges des MEAD, art. 11)"
+    ],
+    "principe": "La protection douanière des marques repose sur la loi n° 17-97, modifiée par la loi n° 31-05, et sur le décret n° 2-05-1485 (circ. n° 5568/414). Le titulaire de droits, ou son mandataire autorisé, peut demander à l'ADII de suspendre la mise en libre circulation des marchandises soupçonnées de contrefaire sa marque.\nDepuis le 01/02/2016, la demande passe par un module de BADR (circ. n° 5568/414). Les étapes sont les suivantes :\n- obtention d'un code d'accès par le titulaire ou son mandataire ;\n- enregistrement en ligne de la demande, qui reçoit un numéro et donne lieu à une notification électronique ;\n- modification éventuelle de la demande dans les 48 heures suivant l'enregistrement ;\n- dépôt physique de la demande auprès de l'administration centrale, selon la circulaire n° 4994/410 ;\n- renouvellement, consultation et gestion de la demande en ligne.\nSur le plan répressif, l'importation de marchandises sous marque contrefaite au sens de la loi n° 17-97 est une contravention de 1re classe (CDII, art. 285-12°). Elle est punie d'une amende égale à deux fois les droits et taxes compromis, de la confiscation des marchandises de fraude et, selon l'article 212, des moyens de transport (art. 287 bis). Par ailleurs, les produits contrefaisant l'effigie royale, les emblèmes nationaux ou l'origine marocaine sont exclus de tout régime économique (art. 115). Les marchandises qui ont servi à masquer la fraude sont également confisquées, sauf preuve qu'elles appartiennent à un tiers étranger à celle-ci (CDII, art. 211 bis). L'excédent non déclaré dépassant de 20 % le poids, la quantité ou la valeur déclarés est, lui aussi, une contravention de première classe (art. 285-13°).",
+    "admin": "La vigilance s'étend aux opérateurs de la chaîne logistique : le cahier des charges des magasins et aires de dédouanement oblige l'exploitant à signaler à l'ADII toute marchandise contrefaite (circ. n° 5655/312).",
+    "donnees": [
+      [
+        "Base légale",
+        "Loi n° 17-97 modifiée par la loi n° 31-05 (circ. n° 5568/414)"
+      ],
+      [
+        "Dépôt de la demande",
+        "Module BADR depuis le 01/02/2016, puis dépôt à l'administration centrale (circ. n° 5568/414)"
+      ],
+      [
+        "Délai de modification",
+        "48 heures après l'enregistrement en ligne (circ. n° 5568/414)"
+      ],
+      [
+        "Infraction",
+        "Contravention de 1re classe (CDII, art. 285-12°)"
+      ],
+      [
+        "Sanction",
+        "Amende de 2 fois les droits et taxes et confiscation (CDII, art. 287 bis)"
+      ]
+    ],
+    "cas": "La société fictive Marrakech Cosmetics, titulaire d'une marque enregistrée au Maroc, constate la vente de faux produits à son nom. Son conseil enregistre une demande de suspension sur BADR, la complète dans les 48 heures avec les photographies des produits authentiques, puis la dépose à l'administration centrale. Un importateur dont le lot est ensuite suspendu encourt, si la contrefaçon est établie, l'amende de deux fois les droits et la confiscation. L'erreur fréquente : déposer une demande sans éléments permettant de reconnaître l'original.",
+    "juris": "",
+    "conseil": "Pour le titulaire : joignez à la demande des éléments concrets de reconnaissance (emballages, codes, prix habituels, circuits de distribution autorisés) et tenez-la à jour. Pour l'importateur : exigez de votre fournisseur la preuve qu'il est autorisé à commercialiser la marque, surtout pour les produits de marque achetés hors du réseau officiel.",
+    "faq": [
+      [
+        "Comment demander à la douane de surveiller une marque ?",
+        "En enregistrant une demande de suspension dans le module BADR dédié, puis en la déposant à l'administration centrale (circ. n° 5568/414)."
+      ],
+      [
+        "Quelle sanction pour l'importation de produits contrefaits ?",
+        "Une contravention de 1re classe : amende de deux fois les droits et taxes compromis et confiscation (CDII, art. 285-12° et 287 bis)."
+      ]
+    ],
+    "renvois": [
+      "5-001",
+      "5-002",
+      "3-011",
+      "9-012",
+      "9-021"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe mis à jour"
+    ]
+  },
+  {
+    "id": "5-033",
+    "p": 5,
+    "ch": "5.4",
+    "c": "Biens sensibles",
+    "t": "Matériels de défense et de sécurité, armes et munitions (loi n° 10-20) : autorisations d'importation, d'exportation et de transit",
+    "enbref": "Sans autorisation, l'importation, l'exportation, le transit, le transbordement et le transport des matériels de défense et de sécurité, armes et munitions des catégories A, B et C sont interdits. L'autorisation d'importation ou d'exportation est délivrée par l'Administration de la Défense nationale aux fabricants agréés. L'autorisation de transit routier et de transbordement des catégories A et B est délivrée par l'ADII.",
+    "textes": [
+      "Loi n° 10-20 (dahir n° 1-20-70 du 25/07/2020), art. 3, 14, 15, 24, 32, 34 et 50",
+      "Décret n° 2-21-405 du 15/07/2021, art. 17 à 24, 41 et 42",
+      "Arrêté du ministre de l'intérieur n° 692-25 du 12/05/2025",
+      "Circulaire ADII n° 6672/311 du 08/08/2025",
+      "CDII, art. 115",
+      "Dahir n° 1-58-286 du 02/09/1958"
+    ],
+    "principe": "La loi n° 10-20 pose un principe d'interdiction : sans autorisation, la fabrication, le commerce, l'importation, l'exportation, le transit, le transbordement et le transport des matériels des catégories A, B et C sont interdits (circ. n° 6672/311). Les armes de guerre et munitions sont par ailleurs exclues des régimes économiques, sauf destination à l'armée ou fabricants autorisés selon la loi n° 10-20 (CDII, art. 115).\nLes autorisations se répartissent ainsi (circ. n° 6672/311) :\n- importation par un fabricant agréé, pour les besoins de sa fabrication : autorisation de l'Administration de la Défense nationale, après avis du département chargé du commerce extérieur ; elle peut être globale pour des importations répétées auprès de fournisseurs désignés ;\n- exportation : autorisation de la Défense nationale, après avis d'une commission nationale, valable 3 ans renouvelables ;\n- transit routier et transbordement des catégories A et B : autorisation de l'ADII, après avis de l'Intérieur et des Affaires étrangères pour le transit, valable pour une seule opération et 3 mois au plus ;\n- transport sur le territoire : autorisation du département de l'Intérieur, avec escorte et mesures de sûreté obligatoires.\nL'ADII est informée de toutes les autorisations délivrées, modifiées, suspendues ou retirées. Ses agents recherchent et constatent les infractions à la loi n° 10-20, et les fabricants autorisés bénéficient des régimes économiques, notamment de l'admission temporaire pour perfectionnement actif et de la transformation sous douane (circ. n° 6672/311).\nPour la catégorie C (armes de chasse, de tir sportif, traditionnelles, à air comprimé), les opérations réalisées par d'autres personnes que les fabricants agréés restent régies par les textes antérieurs, notamment le dahir n° 1-58-286 du 02/09/1958. Les armes et munitions destinées à la Défense nationale et à la sécurité publique, ainsi que les engins et matériels spéciaux de la Défense, sont importés en franchise (CDII, art. 164-1°-f à h) ; ces franchises échappent à la surveillance de destination de l'article 166 ter (art. 166 ter-2°), la liste des matériels spéciaux des administrations de sécurité publique étant fixée par arrêté conjoint (décret, art. 190 bis).",
+    "admin": "La demande de transit routier est déposée auprès de l'ADII et traitée par l'administration centrale. Le titulaire informe l'ADII au moins 5 jours avant l'entrée effective. Le séjour des matériels en gare ou aéroport est limité à 24 heures, et à 72 heures dans les ports, sauf force majeure (circ. n° 6672/311).",
+    "donnees": [
+      [
+        "Autorisation d'importation",
+        "Défense nationale, après avis du commerce extérieur (circ. n° 6672/311)"
+      ],
+      [
+        "Validité de l'autorisation d'exportation",
+        "3 ans renouvelables (circ. n° 6672/311)"
+      ],
+      [
+        "Transit routier A et B",
+        "ADII ; 1 opération, 3 mois au plus (circ. n° 6672/311)"
+      ],
+      [
+        "Préavis d'entrée en transit",
+        "5 jours au moins (circ. n° 6672/311)"
+      ],
+      [
+        "Séjour au port",
+        "72 heures au plus, sauf force majeure (circ. n° 6672/311)"
+      ],
+      [
+        "Franchise Défense et sécurité",
+        "CDII, art. 164-1°-f à h ; hors surveillance de destination (art. 166 ter-2°)"
+      ]
+    ],
+    "cas": "La société fictive Atlas Defense Systems, fabricant agréé, importe des composants de catégorie B pour sa production. Elle obtient une autorisation globale de la Défense nationale couvrant ses fournisseurs habituels, place les composants sous admission temporaire pour perfectionnement actif et organise le transport escorté jusqu'à son site. L'erreur fréquente : dépasser les 72 heures au port faute d'autorisation de transport.",
+    "juris": "",
+    "conseil": "Coordonnez les trois autorisations (Défense nationale, Intérieur, ADII) avant l'embarquement : chacune conditionne l'étape suivante. Pour le transit, déposez la demande auprès de l'ADII bien en amont et respectez le préavis de 5 jours.",
+    "faq": [
+      [
+        "Qui délivre l'autorisation de transit des matériels de défense ?",
+        "L'ADII, pour le transit routier et le transbordement des catégories A et B, après avis de l'Intérieur et des Affaires étrangères pour le transit (circ. n° 6672/311)."
+      ],
+      [
+        "Un fabricant agréé peut-il utiliser l'admission temporaire ?",
+        "Oui, la loi n° 10-20 lui ouvre les régimes économiques, notamment l'ATPA et la transformation sous douane (circ. n° 6672/311)."
+      ]
+    ],
+    "renvois": [
+      "5-030",
+      "5-002",
+      "6-001",
+      "6-002",
+      "7-010",
+      "7-050"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés mis à jour"
+    ]
+  }
+]

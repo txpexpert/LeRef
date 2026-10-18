@@ -1,0 +1,29 @@
+[
+ {
+  "id": "2-040",
+  "p": 2,
+  "ch": "2.5",
+  "c": "La finance participative",
+  "t": "Cadre",
+  "principe": "Les banques participatives exercent les activités de l'art. 1, reçoivent des dépôts d'investissement (rémunérés selon le produit des investissements convenus) et réalisent des opérations commerciales, financières et d'investissement, sans perception ni versement d'intérêt, après avis conforme du Conseil supérieur des Ouléma (CSO) (art. 54-55). Les banques conventionnelles peuvent ouvrir des fenêtres participatives sur agrément ; sociétés de financement, EP, associations de microfinance et banques offshore peuvent exercer certaines opérations à titre exclusif sur agrément ; la SNGFE et la CDG sur autorisation préalable (art. 61).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-041",
+  "p": 2,
+  "ch": "2.5",
+  "c": "La finance participative",
+  "t": "Les produits de financement (art. 58)",
+  "principe": "| Produit | Mécanisme | Usage type pour une entreprise |\n| Mourabaha | La banque achète un bien et le revend au client au coût d'acquisition majoré d'une marge convenue d'avance ; paiement selon modalités convenues | Équipement, véhicule, stock, immobilier |\n| Ijara | Location d'un bien appartenant à la banque : tachghilia (simple) ou montahia bi-tamlik (transfert de propriété au terme) | Équivalent du crédit-bail |\n| Moucharaka | Participation de la banque à un projet ; pertes au prorata, profits selon un pourcentage prédéterminé ; tabita (permanente) ou moutanakissa (dégressive) | Financement de projet, développement |\n| Moudaraba | La banque (Rab el Mal) apporte le capital, l'entrepreneur (Moudarib) le travail ; pertes supportées par Rab el Mal sauf faute du Moudarib | Projets entrepreneuriaux |\n| Salam | Paiement anticipé intégral d'une marchandise livrable à terme | Préfinancement agricole ou industriel |\n| Istisna'a | Commande d'un bien à fabriquer à prix fixe | Construction, fabrication sur commande |\n### Évolution 2025\nUn amendement de la circulaire 1/W/2017, adopté par le CEC le 5 décembre 2025, supprime l'exigence de forme sociétaire pour Moucharaka et Moudaraba : ces financements pourront être conclus sous forme de contrats sui generis, sans constitution d'une société dédiée, dès labellisation par le CSO. En 2025, le CSO a labellisé 11 nouveaux avis (actes Ijara pour biens mobiliers et automobiles ; caution banque mère). Sont en cours : Mourabaha de services, Mourabaha électronique, Mourabaha sur parts sociales, Istisna'a immobilier.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-042",
+  "p": 2,
+  "ch": "2.5",
+  "c": "La finance participative",
+  "t": "Fonction de conformité charaïque (circulaire 16/W/16)",
+  "principe": "- Cartographie des risques de non-conformité aux avis du CSO ; suivi de l'application des avis, guides et recommandations ; contrôle des contrats et campagnes publicitaires.\n- Élaboration d'un guide des produits et d'une méthodologie de contrôle ; participation à la conception de nouveaux produits soumis au CSO par l'entremise de BAM.\n- Rapport annuel d'évaluation de conformité adressé au CSO (art. 63) et rapport de conformité à BAM (art. 65).\n- Rattachement à l'organe de direction ; évaluation par l'audit interne ; information du comité d'audit et du comité des risques en cas de manquement.\nUn fonds de garantie des dépôts des banques participatives indemnise les déposants, à l'exclusion des dépôts d'investissement (art. 67-69 ; circ. 201/W/2021). BAM a mis en place un programme de refinancement des Wakala Bil Istitmar conclues entre banques conventionnelles et banques participatives (LC/BKAM/2022/3, voir section 19).",
+  "maj": "2026-10-18"
+ }
+]

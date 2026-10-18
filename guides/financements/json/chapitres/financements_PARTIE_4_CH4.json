@@ -1,0 +1,26 @@
+[
+ {
+  "id": "4-030",
+  "p": 4,
+  "ch": "4.4",
+  "c": "La microfinance",
+  "t": "Le cadre",
+  "principe": "La microfinance est régie par la loi n° 50-20, qui a remplacé la loi n° 18-97. Elle distingue les associations de microfinance, qui servent les populations à faibles revenus, et les institutions de microfinance constituées en sociétés anonymes, autorisées à collecter certains dépôts. Selon un projet de décret d'application présenté en juillet 2025 (statut C), les plafonds de crédit seraient de 50 000 DH pour les activités économiques de base et de 150 000 DH pour les entreprises formalisées ou les projets agricoles dans les associations, et de 1,2 MDH dans les institutions en société anonyme ; les dépôts seraient plafonnés à 10 MDH pour les entreprises formelles et les coopératives et à 400 000 DH pour les comptes individuels. Ces plafonds doivent être confirmés par le décret publié.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-031",
+  "p": 4,
+  "ch": "4.4",
+  "c": "La microfinance",
+  "t": "Usage",
+  "principe": "La microfinance s'adresse aux auto-entrepreneurs, aux très petites unités, aux activités informelles en voie de formalisation et aux coopératives qui n'ont pas accès au crédit bancaire. Les associations de microcrédit conventionnées peuvent distribuer des crédits garantis par Tamwilcom (Damane Express). Le dossier est léger : pièce d'identité, justificatif d'activité, parfois une caution solidaire ou de groupe.\n### Attention\nle coût du microcrédit est nettement plus élevé que celui du crédit bancaire, car il couvre des frais de gestion de petits montants. Il convient pour des besoins courts et modestes, pas pour un programme d'investissement.",
+  "faq": [
+   [
+    "Quel montant maximal peut-on emprunter en microcrédit ?",
+    "Selon le projet de décret d'application de la loi 50-20 présenté en 2025, 150 000 DH dans une association de microfinance pour une entreprise formalisée ou un projet agricole, et jusqu'à 1,2 MDH dans une institution de microfinance en société anonyme. Le décret publié fait foi."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

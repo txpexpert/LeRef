@@ -1,0 +1,29 @@
+[
+ {
+  "id": "1-360",
+  "p": 1,
+  "ch": "1.27",
+  "c": "Modes de passation et seuils",
+  "t": "Les modes de passation",
+  "principe": "Les marchés sont passés par appel d'offres (ouvert, ouvert simplifié, restreint, avec présélection ; national ou international ; au rabais ou à majoration ou sur offres de prix), par concours ou par procédure négociée ; les petites prestations peuvent être réalisées sur bons de commande ; les prestations architecturales obéissent à un régime propre (art. 19). L'appel à manifestation d'intérêt permet d'identifier les concurrents potentiels mais n'ouvre aucun droit (art. 18).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-361",
+  "p": 1,
+  "ch": "1.27",
+  "c": "Modes de passation et seuils",
+  "t": "Les seuils à connaître",
+  "principe": "| Objet | Seuil / condition | Base |\n| Appel d'offres ouvert simplifié | ≤ 1.000.000 DH HT (publicité 10 jours ; pas d'attestations de référence ni de plan de charge) | art. 19 |\n| Appel d'offres national (seuls les concurrents installés au Maroc) | Travaux ≤ 10.000.000 DH HT ; fournitures et services ≤ 1.000.000 DH HT (sauf certificat administratif motivé) | art. 19 |\n| Appel d'offres international | Au-delà des seuils de l'AO national | art. 19 |\n| Appel d'offres restreint | < 5.000.000 DH HT, au moins 3 concurrents consultés, certificat administratif | art. 20 |\n| Publicité portée à 40 jours — travaux (tous MO) | ≥ 75.550.000 DH HT | art. 23 |\n| Publicité portée à 40 jours — fournitures/services de l'État | ≥ 1.964.300 DH HT | art. 23 |\n| Publicité portée à 40 jours — fournitures/services des collectivités territoriales | ≥ 5.364.050 DH HT | art. 23 |\n| Publicité portée à 40 jours — fournitures/services des EP et autres personnes de droit public | ≥ 8.700.000 DH HT | art. 23 |\n| Représentant du ministère des finances dans la commission (marchés de l'État) | > 50.000.000 DH HT | art. 38 |\n| Bons de commande | ≤ 500.000 DH TTC par année budgétaire, par nature de prestation et par ordonnateur/sous-ordonnateur | art. 91 |\n| Rapport d'achèvement obligatoire | Marchés ≥ 1.000.000 DH TTC | art. 157 |\n| Contrôle et audit obligatoires | Marchés > 3.000.000 DH TTC ; marchés négociés > 1.000.000 DH TTC | art. 159 |\n| Consultation architecturale ouverte / concours architectural obligatoire | Budget travaux ≤ 30 MDH HT / > 30 MDH HT | art. 94 |\n| Consultation architecturale simplifiée (architectes débutants ≤ 5 ans) | ≤ 3.000.000 DH HT | art. 94 |\n| Consultation architecturale restreinte (aménagement/entretien) et groupée | ≤ 10.000.000 DH HT | art. 94 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-362",
+  "p": 1,
+  "ch": "1.27",
+  "c": "Modes de passation et seuils",
+  "t": "Taux et paramètres d'évaluation",
+  "principe": "| Paramètre | Règle | Base |\n| Cautionnement provisoire | ≤ 2 % de l'estimation, exprimé en valeur ; à défaut de cautionnement exigé, pénalité de 1 % dans les cas de l'art. 24 | art. 24 |\n| Offre excessive | > +20 % de l'estimation (travaux, fournitures, services hors études) | art. 44 |\n| Offre anormalement basse | < −20 % (travaux) ; < −25 % (fournitures et services hors études) | art. 44 |\n| Études : offre excessive / anormalement basse | > +20 % / < −25 % | art. 144 |\n| Prix de référence | P = (E + moyenne des offres retenues) / 2 ; offre la mieux-disante = la plus proche de P par défaut (sinon par excès) | art. 44 |\n| Préférence nationale | 15 % appliqués à l'offre du concurrent non installé au Maroc (études : majoration de 15 %) ; non applicable au groupement dont les membres installés au Maroc détiennent ≥ 30 % | art. 147 |\n| Réservation TPME, coopératives, auto-entrepreneurs | 30 % du montant prévisionnel annuel des marchés | art. 148 |\n| Main-d'œuvre locale | Jusqu'à 20 % de l'effectif (travaux et services hors études) | art. 149 |\n| Sous-traitance | ≤ 50 % du montant TTC ; jamais le lot ou corps d'état principal | art. 151 |\n| Experts marocains (bureaux étrangers — études, systèmes d'information) | ≥ 20 % des experts | art. 144, 145 |\n| Pondération de l'offre financière (études) | 10 à 40 points sur 100 | art. 144 |\n| Marchés-cadre | Maximum ≤ 2 × minimum ; réajustement +10 % du max / −25 % du min ; durée totale 3 ou 5 ans selon annexe 2 | art. 7 |\n| Prestations supplémentaires négociées | ≤ 10 % du marché principal (avenant) | art. 89-II-9° |\n| Offre spontanée (porteur participant à l'AO) | Bonus de 5 à 10 % de la note globale | art. 13 |\n| Honoraires d'architecte | Construction neuve et ouvrages spéciaux 4–6 % ; répétitif 4–5 % ; aménagement/entretien et décoration 3–4 % ; restauration du patrimoine 5–8 % | art. 93, 166 |\n### CONSEIL PRATIQUE\nLes seuils peuvent être modifiés par arrêté du ministre chargé des finances (art. 19 et 23). Tenez à jour une fiche des seuils en vigueur et vérifiez-la à chaque nouvelle consultation.",
+  "maj": "2026-10-17"
+ }
+]

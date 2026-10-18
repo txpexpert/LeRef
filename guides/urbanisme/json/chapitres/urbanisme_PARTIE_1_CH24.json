@@ -1,0 +1,56 @@
+[
+ {
+  "id": "1-320",
+  "p": 1,
+  "ch": "1.24",
+  "c": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874)",
+  "t": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874) — présentation",
+  "principe": "### NOUVEAU DANS CETTE ÉDITION\nSection nouvelle. Elle réunit la loi n° 47-09 relative à l'efficacité énergétique (BO n° 5996 du 17 novembre 2011), le décret n° 2-13-874 du 15 octobre 2014 approuvant le règlement général de construction fixant les règles de performance énergétique des constructions (BO n° 6306 du 6 novembre 2014) et le règlement thermique de construction au Maroc (RTCM) qu'il rend obligatoire.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-321",
+  "p": 1,
+  "ch": "1.24",
+  "c": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874)",
+  "t": "Trois obligations distinctes",
+  "principe": "L'efficacité énergétique pèse sur l'opérateur à trois moments différents, selon trois mécanismes qu'il ne faut pas confondre :\n| Obligation | Qui est concerné | Ce qu'il faut produire |\n| Étude d'impact énergétique (loi 47-09, art. 8 à 11) | Projets de programmes d'aménagement urbain et de construction figurant sur une liste réglementaire fixée en fonction de seuils de consommation | Évaluation des consommations prévisionnelles, du potentiel d'efficacité, des ressources énergétiques locales et des mesures d'atténuation ; décision d'acceptabilité |\n| Performance thermique du bâtiment (décret 2-13-874 et RTCM) | Bâtiments résidentiels et tertiaires à édifier | Conception de l'enveloppe conforme à la zone climatique, par approche prescriptive ou performancielle |\n| Audit énergétique obligatoire (loi 47-09, art. 12 à 14) | Établissements et entreprises dont la consommation dépasse un seuil sectoriel ; producteurs, transporteurs et distributeurs d'énergie | Audit périodique par un organisme agréé ; plan d'efficacité énergétique et rapport annuel de mise en œuvre |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-322",
+  "p": 1,
+  "ch": "1.24",
+  "c": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874)",
+  "t": "L'étude d'impact énergétique et son articulation avec l'EIE",
+  "principe": "Lorsque le projet est également soumis à une étude d'impact sur l'environnement, l'étude énergétique complète l'EIE, et la décision d'acceptabilité environnementale porte alors à la fois sur les aspects environnementaux et énergétiques. Lorsqu'il n'y est pas soumis, l'administration délivre une décision d'acceptabilité énergétique distincte (art. 10).\n### CONSEIL PRATIQUE\nDans un dossier présenté au CRI, présentez l'étude énergétique comme un chapitre de l'EIE lorsque les deux sont exigées : vous évitez une double instruction et le comité d'examen statue en une seule fois.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-323",
+  "p": 1,
+  "ch": "1.24",
+  "c": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874)",
+  "t": "La performance thermique des constructions neuves",
+  "principe": "Le décret 2-13-874, entré en vigueur un an après sa publication, s'applique aux bâtiments résidentiels (plus de 80 % de la surface de plancher réservés à l'habitation) et tertiaires (équipements publics, tourisme, santé, éducation, commerce et services) à édifier (art. 3). Il ne s'applique ni aux bâtiments existants, ni aux bâtiments agricoles, artisanaux ou industriels (hors locaux d'habitation), ni aux locaux de production et de stockage, ni aux bâtiments exigeant des conditions intérieures particulières comme les serres et les entrepôts (art. 4).\nLe territoire est divisé en six zones climatiques, dont les villes de référence sont Agadir (zone 1), Tanger (zone 2), Fès (zone 3), Ifrane (zone 4), Marrakech (zone 5) et Errachidia (zone 6). Deux approches sont possibles :\n- l'approche prescriptive fixe des valeurs limites pour chaque paroi — coefficients de transmission thermique (U) des toitures, murs extérieurs, planchers sur pilotis et baies vitrées, facteur solaire des vitrages, résistance thermique des planchers sur sol — selon le type de bâtiment, la zone et le taux global de baies vitrées (TGBV) ; elle n'est utilisable que si le TGBV est inférieur à 45 % de la surface des murs extérieurs ;\n- l'approche performancielle fixe un plafond de besoins annuels de chauffage et de climatisation, vérifié par simulation énergétique ; elle est seule possible au-delà de 45 % de vitrage.\n### ATTENTION\nUne façade largement vitrée — fréquente dans les immeubles de bureaux, les hôtels et les cliniques — impose l'approche performancielle et donc une simulation par un bureau d'études. Intégrez ce coût et ce délai dans le planning de conception, en amont du dépôt du permis.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-324",
+  "p": 1,
+  "ch": "1.24",
+  "c": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874)",
+  "t": "L'audit énergétique obligatoire",
+  "principe": "Les entreprises soumises à l'audit transmettent à l'administration un résumé des résultats et des recommandations, puis un plan d'efficacité énergétique et un rapport annuel de mise en œuvre (art. 13). L'audit est réalisé par des organismes agréés, constitués en sociétés de droit marocain et disposant des références et des moyens requis (art. 14).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-325",
+  "p": 1,
+  "ch": "1.24",
+  "c": "Efficacité énergétique des projets et des bâtiments (loi 47-09, décret 2-13-874)",
+  "t": "Fiche 47-09-P1 — Étude d'impact énergétique et audit énergétique",
+  "principe": "| Rubrique | Contenu |\n| Texte | Loi 47-09 |\n| Base légale | art. 8 à 12 |\n| Déclencheur | Programme d'aménagement urbain ou de construction figurant sur la liste réglementaire ; consommation au-delà des seuils sectoriels. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Réaliser l'étude d'impact énergétique (consommations prévisionnelles, mesures d'efficacité, énergies renouvelables, synthèse, résumé public). | Maître d'ouvrage | — | art. 8, 9 |\n| 2 | Si le projet est aussi soumis à EIE, l'étude complète l'EIE ; sinon, obtenir une décision d'acceptabilité énergétique. | Maître d'ouvrage / administration | — | art. 10 |\n| 3 | Au-delà des seuils de consommation fixés par voie réglementaire, faire réaliser un audit énergétique obligatoire et périodique. | Entreprise | — | art. 12 |\n### À RETENIR\nLes éléments de vérification technique (enveloppe, systèmes de chauffage et climatisation, pièces à produire) sont repris dans l'annexe C, check-list « Performance énergétique ».",
+  "maj": "2026-10-17"
+ }
+]

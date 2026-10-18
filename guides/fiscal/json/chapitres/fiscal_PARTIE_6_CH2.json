@@ -1,0 +1,29 @@
+[
+ {
+  "id": "6-010",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Les recours : commissions, accord à l’amiable et juge",
+  "t": "Quelle commission saisir ?",
+  "principe": "| Commission | Compétence | Composition |\n| Commission locale de taxation (CLT) | Rectifications relatives aux revenus professionnels à la CPU, aux revenus et profits fonciers, aux « autres revenus et gains » (depuis 2025), aux droits d’enregistrement et de timbre ; compétence territoriale selon le siège, l’établissement principal ou le domicile fiscal | Magistrat président ; représentant du gouverneur ; représentant de l’administration (secrétaire rapporteur) ; représentant des contribuables de la branche professionnelle (et de l’ordre des notaires ou des adouls) [art. 225] |\n| Commission régionale du recours fiscal (CRRF) | Revenus et profits de capitaux mobiliers ; vérifications de comptabilité des contribuables dont le CA de chaque exercice vérifié est inférieur à 10 MDH | Magistrat président ; deux représentants de l’administration ; deux représentants des contribuables [art. 225 bis] |\n| Commission nationale du recours fiscal (CNRF) | Examens de l’ensemble de la situation fiscale ; vérifications lorsque le CA de l’un des exercices est ≥ 10 MDH ; contrôles de l’article 216-III ; abus de droit ; recours non tranchés par la CLT ou la CRRF dans les 12 mois | Siège à Rabat, sous l’autorité du Chef du gouvernement ; magistrats et représentants de l’administration et des contribuables [art. 226] |\n### Règles de fonctionnement (CRRF, transposables aux autres commissions)\n- La requête du contribuable, adressée à l’inspecteur, définit l’objet du désaccord et expose les arguments.\n- L’administration dispose de 3 mois pour transmettre la requête et le dossier ; à défaut, les bases ne peuvent excéder celles déclarées ou acceptées par le contribuable.\n- Les parties sont informées de la date de réunion 30 jours au moins à l’avance ; elles peuvent être entendues.\n- La commission statue dans un délai de 12 mois ; à défaut, le dossier est transmis à la CNRF.\n- Les décisions, détaillées et motivées, sont notifiées dans les 4 mois suivant leur date.\n- La commission se déclare incompétente sur les questions d’interprétation des textes (sauf la CNRF pour l’abus de droit).\n### MAJORATIONS DE RETARD PLAFONNÉES\nLes majorations de retard ne courent pas au-delà de 12 mois entre l’introduction du recours devant la commission et la mise en recouvrement de l’imposition [art. 208-I].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-011",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Les recours : commissions, accord à l’amiable et juge",
+  "t": "Le recours judiciaire",
+  "principe": "Les décisions des commissions — y compris celles par lesquelles elles se déclarent incompétentes — peuvent être contestées devant le tribunal par l’administration comme par le contribuable dans un délai de 60 jours suivant leur notification, qu’elles portent sur des questions de fait ou de droit [CGI art. 242]. Il ne peut être sursis au recouvrement qu’en contrepartie de garanties suffisantes (article 118 de la loi n° 15-97 formant code de recouvrement des créances publiques). L’expert judiciaire doit être expert-comptable ou comptable agréé, ne peut fonder ses conclusions sur des documents non soumis au débat contradictoire et ne se prononce pas sur des questions de droit.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-012",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Les recours : commissions, accord à l’amiable et juge",
+  "t": "L’accord à l’amiable (LF 2025)",
+  "principe": "L’article 221 ter encadre désormais la pratique de l’accord transactionnel.\n| Question | Réponse |\n| Quand ? | Au cours de toute procédure fiscale (vérification, examen de situation fiscale, contrôle des prix, déclaration rectificative, profits fonciers, taxation d’office…) ; en cas de contrôle, après l’envoi de la première lettre de notification (NC 736) |\n| Sur quoi ? | Les questions de fait : évaluations et appréciations de l’administration — CA reconstitué (hors montants recoupés), charges évaluées, prix d’acquisition et de cession, marges, avantages en nature, dons, requalification de charges en immobilisations, bénéfices indirectement transférés, bases des retenues à la source, prix déclarés dans les actes, amortissements et provisions |\n| Ce qui est exclu | Les questions de droit : principe d’imposition ou d’exonération, déductibilité d’une charge, droit à un régime incitatif, taux applicable. Les droits en principal correspondants ne se négocient pas, sauf éléments nouveaux justifiés |\n| Les sanctions ? | Remise ou modération possible des pénalités et majorations, sur les questions de fait comme de droit |\n| Forme | Accord en double exemplaire sur modèle de l’administration (bases, droits, signataires, date), définitif et irrévocable, accompagné d’une lettre de désistement de tout recours (CLT, CRRF, CNRF, administration, tribunaux) |\n| Après jugement | Le montant ne peut être inférieur à celui fixé par un jugement définitif, sauf pour les questions de fait non tranchées |\n### NÉGOCIER EFFICACEMENT\nClassez chaque chef de redressement en « fait » ou « droit » dès la première notification. Concentrez la négociation sur les évaluations (fait) et documentez-les (comparables, expertises, pièces). Pour les questions de droit, réservez l’argumentation à la commission ou au juge, ou sollicitez la remise des sanctions.",
+  "maj": "2026-10-17"
+ }
+]

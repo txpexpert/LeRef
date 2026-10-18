@@ -1,0 +1,83 @@
+[
+ {
+  "id": "3-050",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Les principes",
+  "principe": "L'Instruction générale des opérations de change 2026 (Office des changes, en vigueur depuis le 1er janvier 2026, abrogeant l'IGOC du 2 janvier 2024) définit les opérations librement réalisables par les résidents et non-résidents. Toute opération non prévue reste soumise à l'autorisation préalable de l'Office des changes (article 1).\n| Principe | Contenu (articles 3 à 20 IGOC) |\n| Monnaie | Contrats libellés en dirhams ou en devises ; règlements en devises cotées par Bank Al-Maghrib (art. 3) |\n| Délégation aux banques | Les banques exécutent les règlements prévus par l'IGOC (art. 4) |\n| Effectivité | Transactions effectives au prix du marché, sous la responsabilité de l'opérateur (art. 5) |\n| Fiscalité | Règlements à l'étranger conformes aux dispositions fiscales ; montant net d'impôt si l'impôt est à la charge du non-résident (art. 8) |\n| Encaissements | Tout règlement reçu de l'étranger est crédité sur un compte autorisé ou cédé sur le marché des changes dans les 3 jours ouvrables (art. 11) |\n| Changement de banque | Possible à tout moment avec copie du dossier et attestation des règlements effectués (art. 7) |\n| Avoirs à l'étranger | Déclaration obligatoire par les résidents (art. 18) |\n| Archives | Conservation des documents pendant 10 ans (art. 20) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-051",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Immatriculation et catégorisation",
+  "principe": "Doivent s'immatriculer auprès de l'Office des changes : les opérateurs de transport international, les sociétés de l'aéronautique et du spatial, les succursales d'entités non-résidentes imposées comme des sociétés marocaines et les négociants internationaux souhaitant payer avant le rapatriement de la revente (article 16). Les opérateurs catégorisés (par la douane ou la DGI) bénéficient d'avantages : règlement anticipé de 100 % des importations sans limite, alimentation des comptes en devises export à hauteur de 85 %, dotations e-commerce et voyages d'affaires majorées, traitement prioritaire des demandes (article 17). Le statut est retiré avec la catégorisation douanière ou fiscale ou en cas d'abus.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-052",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Payer ses importations de biens",
+  "principe": "1. Domicilier le titre d'importation auprès d'une banque via PortNet avant tout règlement (article 47) ; la banque ouvre un dossier d'importation (contrat ou facture, documents de transport, justificatif de règlement, contrat de prêt le cas échéant).\n2. Règle générale : règlement après imputation douanière sur PortNet, dans la limite du montant imputé majoré du fret, de l'assurance et des frais accessoires (article 50).\n3. Exceptions :\n- crédit documentaire et remise documentaire (article 52) ;\n- acompte de 30 % de la valeur avant imputation (50 % pour l'aéronautique) ; reliquat payable si le dépassement est ≤ 5 % ; au-delà, autorisation de l'Office (article 53) ;\n- règlement par anticipation de 100 % de la facture dans la limite de 200 000 MAD, sans titre préalable ; 100 % sans limite pour les opérateurs catégorisés ou par débit des comptes en devises des exportateurs (articles 54 et 62) ;\n- personnes physiques non inscrites au registre du commerce : 20 000 MAD par an sans titre d'importation (article 55).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-053",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Payer des services importés",
+  "principe": "Les personnes morales, professionnels inscrits au registre du commerce, professions libérales et organismes publics peuvent régler leurs importations de services sur justificatifs (articles 69 à 85) : acompte ou anticipation de 30 % du contrat, règlements au fur et à mesure des prestations pour les marchés, logiciels et licences, télécommunications, mise à disposition de personnel, frais de gestion hôtelière, cachets d'artistes. L'importateur de services répond de l'effectivité de la prestation et du prix de marché (article 72).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-054",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Encaisser ses exportations",
+  "principe": "| Règle | Biens (art. 86-94) | Services (art. 95-105) |\n| Contrat | Contrat commercial obligatoire ; décompte de vente pour les ventes en consignation (fruits, légumes, pêche, fleurs) | Contrat de prestation obligatoire |\n| Délai de rapatriement | 150 jours à compter de l'enregistrement de la DUM | 90 jours à compter de la réalisation de la prestation |\n| Déductions admises | Fret étranger-étranger, commissions, promotion, emballage, droits du pays importateur, assurance, cotisations professionnelles | Commissions, déplacements, promotion, frais justifiés |\n| Comptes en devises | Logement d'une partie du produit pour les dépenses professionnelles ; billets limités à 100 000 MAD par voyage | Idem |\n| Mobilisation | Escompte, cession de créances, affacturage, sans modifier le délai | Idem |\n| Exportations sans paiement | Biens sans valeur commerciale ≤ 10 000 MAD ; échantillons ≤ 20 000 MAD ; RED ; autres cas listés | — |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-055",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Opérations spécifiques",
+  "principe": "- Négoce international (articles 106-110) : achat à l'étranger et revente à un non-résident sans passage par le territoire ; immatriculation obligatoire ; compte « négoce international » ; 70 % de la marge logée en devises, 30 % cédés sur le marché des changes.\n- Commerce électronique international (articles 120-122) : dotations annuelles de 2 MDH pour les start-ups labellisées par l'ADD, 100 % de l'IS payé dans la limite de 1 MDH pour les sociétés sans compte en devises, 50 000 MAD pour les sociétés nouvelles ou exonérées, 20 000 MAD par personne physique.\n- Voyages d'affaires (articles 132-135) : dotation égale à 100 % de l'IS payé l'année précédente, plafonnée à 1 MDH par an (1,5 MDH pour les catégorisés ; 100 000 MAD pour les sociétés nouvelles, exonérées ou dont l'IS est inférieur à 100 000 MAD) ; compte « dotation voyages d'affaires » ; billets limités à 100 000 MAD par personne et par voyage.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-056",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "L'investissement étranger au Maroc (articles 170-177)",
+  "principe": "| Élément | Règle |\n| Bénéficiaires | Personnes morales étrangères, personnes physiques étrangères résidentes ou non, Marocains résidant à l'étranger |\n| Formes | Création de société, prise de participation, succursale ou bureau de liaison, instruments financiers, apports en compte courant (contractualisés et rémunérés au prix du marché), prêts apparentés, immobilier, dépôts à terme |\n| Financement ouvrant droit à la convertibilité | Virement de l'étranger, débit de compte en devises ou en dirhams convertibles, mandat international, billets étrangers, carte internationale |\n| Revenus transférables | Dividendes, bénéfices des succursales, loyers, intérêts des prêts apparentés et comptes courants, jetons de présence, produit de cession ou de liquidation y compris plus-values, remboursement des comptes courants et prêts apparentés en devises |\n| Investissements sans convertibilité | Produit de cession logé en compte convertible à terme, transférable en 4 annuités de 25 % |\n| Garanties d'actif et de passif | Les résidents peuvent en émettre au profit d'investisseurs étrangers, sans règlement effectif à l'étranger |\n### LE DOSSIER DE TRANSFERT DE DIVIDENDES\nLa banque demande généralement : statuts et procès-verbal de l'assemblée décidant la distribution, états de synthèse, preuve du financement initial en devises (avis de virement, attestation de cession), justificatif du paiement de la retenue à la source, et, le cas échéant, attestation de résidence fiscale pour appliquer un taux conventionnel réduit.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-057",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "L'investissement des résidents à l'étranger (articles 178-188)",
+  "principe": "Les personnes morales résidentes peuvent investir à l'étranger jusqu'à 200 MDH par an (sans distinction géographique depuis l'IGOC 2026), si elles remplissent toutes les conditions suivantes : inscription au registre du commerce, 3 ans d'activité, comptes certifiés sans réserve significative, investissement en rapport avec l'activité et visant à la consolider. Le produit de cession ou de liquidation et les revenus doivent être rapatriés dans les 30 jours ; les prêts et avances en compte courant doivent être remboursés dans les 5 ans. Restent soumis à autorisation : les investissements des holdings résidentes, la création de holdings à l'étranger, l'absorption de pertes, les réductions de capital, l'immobilier à l'étranger. Les jeunes entreprises innovantes labellisées par l'ADD bénéficient d'un régime dérogatoire (10 MDH par an, sans condition d'ancienneté ni de certification).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-058",
+  "p": 3,
+  "ch": "3.6",
+  "c": "La réglementation des changes (IGOC 2026)",
+  "t": "Les financements extérieurs",
+  "principe": "Les personnes morales résidentes peuvent contracter des emprunts extérieurs en devises pour financer leurs investissements et activités ; les fonds sont rapatriés et cédés, sauf s'ils financent directement des dépenses à l'étranger ; les remboursements suivent l'échéancier contractuel (articles 189 à 196). Les crédits commerciaux à l'export peuvent couvrir 85 % de la valeur exportée (article 205).",
+  "maj": "2026-10-17"
+ }
+]

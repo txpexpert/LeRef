@@ -1,0 +1,68 @@
+[
+ {
+  "id": "1-010",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "Le principe : aucun dédouanement sans titre",
+  "textes": [
+   "Arrêté du ministre délégué chargé du commerce extérieur n° 1675-15 du 19 mai 2015 fixant les modalités de souscription des titres d'importation et d'exportation (BO n° 6366 du 4-6-2015). Il abroge et remplace l'arrêté n° 2570-10 du 8 septembre 2010."
+  ],
+  "principe": "L'entrée au Maroc de marchandises, sous un régime douanier quelconque, est soumise à la souscription d'un engagement d'importation auprès d'une banque intermédiaire agréée (loi 13-89, art. 16). Lorsque la marchandise fait l'objet d'une restriction quantitative, c'est une licence d'importation qui est exigée (art. 17). À l'exportation, l'engagement de change couvre les opérations ordinaires (art. 18) et la licence d'exportation les marchandises restreintes (art. 19).\nLe titre a une double fonction : il permet le passage en douane et le règlement financier de l'opération. C'est pourquoi la banque domiciliataire, la Douane et l'Office des changes interviennent tous sur le même document.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-011",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "Qui est dispensé de l'engagement d'importation",
+  "principe": "L'article 2 de l'arrêté 1675-15 dispense de l'engagement d'importation :\n- les marchandises importées sous les régimes particuliers du chapitre premier du titre VI du code des douanes et impôts indirects ;\n- les importations sans paiement ;\n- les marchandises importées avec paiement par des personnes physiques résidentes, dans la limite de 20 000 dirhams par an et par personne (en application de l'article 3 du décret 2-93-415).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-012",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "L'engagement d'importation, étape par étape",
+  "principe": "Depuis l'arrêté 1675-15, la souscription est exclusivement électronique, sur le système de la société Portnet (art. 1er), la souscription papier n'ayant été tolérée que jusqu'au 30 mai 2015 (art. 24).\n| Étape | Acteur | Ce qui se passe | Base |\n| 1. Saisie | Importateur | Présentation de l'engagement sur Portnet, avec le contrat commercial | Arr. 1675-15, art. 3 et 8 |\n| 2. Domiciliation | Banque de l'importateur | Réception électronique et domiciliation ; contrôle de cohérence avec le dossier juridique du client | Art. 3 et 10 |\n| 3. Diffusion | Banque | Transmission au ministère du commerce extérieur, à l'Office des changes, à la Douane (pour imputation) et à l'importateur | Art. 3 |\n| 4. Visa (cas particulier) | Ministère du commerce extérieur | Visa préalable si l'importateur n'est ni inscrit au registre du commerce ni titulaire d'un identifiant fiscal | Art. 4 |\n| 5. Imputation | Douane | Imputation douanière lors du dédouanement ; retour à la banque, à l'Office des changes, au ministère, à la DGI et à l'importateur | Art. 3 |\nL'article 4 dispense toutefois de visa les administrations et établissements publics non industriels ou commerciaux, les domaines royaux, les collectivités territoriales, les associations à but non lucratif, les coopératives non soumises à l'identifiant fiscal, ainsi que les centres culturels et établissements scolaires étrangers.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-013",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "Le contenu obligatoire du contrat commercial",
+  "principe": "L'engagement comme la licence d'importation doivent être accompagnés du contrat commercial et de tout autre document exigé (art. 8). Le contrat doit mentionner :\n- la valeur globale et le prix unitaire, exprimés en valeur départ usine, FOB, FAS ou FCA ;\n- la quantité, dans une unité de mesure adéquate ;\n- la désignation commerciale de la marchandise ;\n- les conditions de livraison ;\n- le ou les pays d'origine et de provenance ;\n- les conditions de paiement.\n### CONSEIL PRATIQUE\nUne facture pro forma incomplète est la cause la plus banale de rejet. Le pays d'origine doit y figurer distinctement du pays de provenance : c'est lui qui conditionne l'application d'éventuels droits antidumping (section 13) et, pour les produits industriels, le choix entre contrôle à l'origine et contrôle à l'arrivée (section 7).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-014",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "Validité, imputations partielles et tolérances",
+  "principe": "| Règle | Engagement d'importation | Licence d'importation |\n| Durée de validité pour le passage en douane | 6 mois à compter de la domiciliation (art. 5) | 6 mois à compter de la décision favorable du ministère (art. 7) |\n| Imputation partielle | Nouvelles imputations possibles pendant 6 mois supplémentaires à partir de la première imputation | Idem |\n| Expédition avant expiration | Admission sans considération du délai, sur présentation de l'original du titre de transport | Idem |\n| Délai de forclusion | Plus d'imputation 3 mois après la date limite de validité | Idem |\n| Prorogation exceptionnelle | Demande électronique soumise au visa du ministère, dans des cas dûment justifiés | Non prévue : toute modification hors tolérances impose une nouvelle demande (art. 13) |\n| Tolérance de dépassement | 10 % du poids total ou du montant total initial (art. 12) | 10 % du montant, si la hausse provient d'un prix unitaire relevé de 10 % au plus ; 10 % du poids, sans hausse du montant, du nombre d'unités ni baisse du prix unitaire |\n| Portée tarifaire | Valable pour toutes les marchandises de la position à 4 chiffres pour laquelle il est souscrit | Limitée à la marchandise autorisée |\n### POINT DE VIGILANCE\nUn changement de fournisseur ou de bureau de douane ne nécessite pas de nouvelle licence (art. 13, al. 2). Toute autre modification des conditions initiales — quantité, valeur au-delà des tolérances, désignation — impose une nouvelle demande.\nL'importateur engage directement sa responsabilité par le titre (art. 9) et doit informer sa banque de tout changement de statut ou de coordonnées entre la domiciliation et l'apurement (art. 11).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-015",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "La licence d'importation",
+  "principe": "La demande est présentée sur Portnet et transmise au ministère chargé du commerce extérieur, qui recueille l'avis du département technique concerné avant de statuer (arrêté 1675-15, art. 6). Le décret 2-93-415 fixe à 30 jours courants, à compter du dépôt attesté par récépissé, le délai de notification de la décision d'octroi ou de refus ; tout rejet doit être motivé (art. 4).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-016",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Les titres d'importation et d'exportation",
+  "t": "La licence d'exportation",
+  "principe": "La licence d'exportation peut être souscrite sur papier (six exemplaires déposés au ministère, avis du département technique, visa) ou électroniquement sur Portnet (arrêté 1675-15, art. 14 à 16). Elle est valable six mois à compter de la décision favorable (art. 18). Le contrat joint doit indiquer valeur et prix unitaire, quantité, désignation et mode et délais de paiement (art. 17).",
+  "maj": "2026-10-17"
+ }
+]

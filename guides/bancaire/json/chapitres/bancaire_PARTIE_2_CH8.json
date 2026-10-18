@@ -1,0 +1,56 @@
+[
+ {
+  "id": "2-070",
+  "p": 2,
+  "ch": "2.8",
+  "c": "Après l'agrément : gouvernance, prudentiel et obligations permanentes",
+  "t": "Après l'agrément : gouvernance, prudentiel et obligations permanentes — présentation",
+  "principe": "L'agrément n'est qu'un point de départ. L'investisseur doit intégrer dans son modèle économique le coût et l'organisation des obligations permanentes, dont le non-respect expose à des sanctions pécuniaires et disciplinaires.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-071",
+  "p": 2,
+  "ch": "2.8",
+  "c": "Après l'agrément : gouvernance, prudentiel et obligations permanentes",
+  "t": "Gouvernance et contrôle interne",
+  "principe": "| Obligation | Contenu | Référence |\n| Système de contrôle interne | Identifier, mesurer et surveiller tous les risques ; mesurer la rentabilité des opérations ; notation interne de la clientèle (art. 55 de la circulaire) | Art. 77 ; circ. 4/W/2014 |\n| Comité d'audit | Émane du conseil, comprend des administrateurs indépendants ; évalue le contrôle interne, les réclamations, les mainlevées, les clôtures de comptes | Art. 78 ; circ. 4/W/2018 |\n| Comité des risques | Suivi du processus d'identification et de gestion des risques | Art. 78 ; circ. 5/W/2018 |\n| Gouvernance | Rôles du conseil et de la direction, politique de rémunération, conflits d'intérêts | Directive 1/W/14 |\n| Fonction conformité | Prévention du risque de non-conformité | Directive 49/G/2007 |\n| Risques spécifiques | Concentration, pays, liquidité, taux, dérivés, opérationnels, continuité d'activité, tests d'intrusion, cloud, corruption, climat, stress-tests | Directives 48/G/2007, 1/G/2008, 31/G/2007, 2/W/2021, 46/G/2007, 29/G/2007, 47/G/2007, 3/W/16, 4/W/2022, 1/W/2022, 5/W/2021, 2/G/10 |\n| ICAAP | Processus interne d'évaluation de l'adéquation des fonds propres | Directive 3/W/2021 |\n| Signalement des anomalies graves | Les dirigeants informent le conseil, le ministre des finances et le Wali de tout événement grave | Art. 84 (sanction art. 186) |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-072",
+  "p": 2,
+  "ch": "2.8",
+  "c": "Après l'agrément : gouvernance, prudentiel et obligations permanentes",
+  "t": "Normes prudentielles principales",
+  "principe": "| Ratio | Minimum / maximum | Texte |\n| Fonds propres de base de catégorie 1 (CET1) / risques pondérés | ≥ 8 % | Circ. 14/G/2013 ; 26/G/2006 |\n| Fonds propres de catégorie 1 / risques pondérés | ≥ 9 % | Idem |\n| Ratio de solvabilité global | ≥ 12 % | Circ. 25/G/2006, 26/G/2006 |\n| Ratio de levier (fonds propres T1 / expositions) | ≥ 3 % (banques) | Circ. 6/W/2021 |\n| Ratio de liquidité (LCR) | ≥ 100 % (banques participatives : montée progressive jusqu'à 100 % au 1er juin 2024) | Circ. 15/G/2013 |\n| Coefficient maximum de division des risques (même bénéficiaire ou groupe lié) | ≤ 20 % des fonds propres | Circ. 8/G/2012 |\n| Participations | 15 % / 60 % du CET1 ; 30 % du capital de l'émetteur | Circ. 11/W/16 |\n| IMF agréées EC | Solvabilité 15 % ; T1 12 % ; CET1 10 % | Circ. 2/W/2023 |\n| Positions de change | Limites rapportées aux fonds propres | Arrêté 585-96 ; circ. 9/G/96 |\nBAM peut imposer des règles plus contraignantes aux établissements à profil de risque particulier ou d'importance systémique (art. 79), accorder des dérogations individuelles temporaires (art. 90) et interdire ou limiter la distribution de dividendes en cas de manquement (art. 91).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-073",
+  "p": 2,
+  "ch": "2.8",
+  "c": "Après l'agrément : gouvernance, prudentiel et obligations permanentes",
+  "t": "Comptabilité, commissaires aux comptes et publication",
+  "principe": "- Comptabilité selon le plan comptable des établissements de crédit (PCEC), par dérogation à la loi 9-88 (art. 71 ; circ. 12/W/2022).\n- États de synthèse individuels et consolidés, annuels et semestriels, transmis à BAM (art. 73 ; circ. 9/G/12) et publiés (art. 75 ; circ. 4/W/16). BAM peut ordonner des publications rectificatives.\n- Deux commissaires aux comptes approuvés par BAM, appartenant à des cabinets sans lien entre eux ; un seul si le total bilan est inférieur au seuil fixé par BAM (art. 99, 102 ; circ. 6/W/2017).\n- Renouvellement : après deux mandats consécutifs de 3 ans, un nouveau mandat ne peut intervenir qu'après un délai de 3 ans (art. 101 ; LC 2/DSB/2020).\n- Mission élargie : contrôle des comptes, respect des règles comptables, prudentielles et de contrôle interne, sincérité des informations publiées ; alerte immédiate de BAM en cas de violation affectant la situation financière ou la continuité d'exploitation (art. 100, 104 ; circ. 7/W/2017).\n- Les sociétés non bancaires qui contrôlent un EC ou un EP transmettent à BAM leurs états de synthèse et rapports des CAC (art. 81).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-074",
+  "p": 2,
+  "ch": "2.8",
+  "c": "Après l'agrément : gouvernance, prudentiel et obligations permanentes",
+  "t": "Plan de redressement de crise interne (circulaire 4/W/2017)",
+  "principe": "Les établissements à profil de risque particulier ou d'importance systémique transmettent chaque année à BAM, au plus tard le 31 mai, un plan de redressement approuvé par le conseil, puis toute mise à jour sous 6 mois. Le plan comprend : synthèse ; élaboration et approbation ; analyse stratégique (activités fondamentales, fonctions critiques, entités significatives, interconnexions, systèmes d'information) ; au moins trois scénarios (idiosyncratique, systémique, combiné) ; indicateurs et seuils de déclenchement ; mesures de redressement (réduction des risques, reconstitution des fonds propres, restructuration du passif et des métiers, accès à la liquidité) ; mesures préparatoires ; communication. Le plan ne peut prévoir aucun soutien public (État, BAM, fonds de garantie).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-075",
+  "p": 2,
+  "ch": "2.8",
+  "c": "Après l'agrément : gouvernance, prudentiel et obligations permanentes",
+  "t": "Mesures de supervision et sanctions",
+  "principe": "| Mesure | Déclencheur | Référence |\n| Mise en garde | Manquement aux usages de la profession, après explications des dirigeants | Art. 85 |\n| Injonction + plan de redressement (expertise indépendante possible) | Garanties insuffisantes de solvabilité, liquidité ou rentabilité ; lacunes graves du contrôle interne | Art. 86 |\n| Appel aux actionnaires ≥ 5 % membres des organes | Moyens de financement du plan insuffisants | Art. 87 |\n| Avertissement | Directement, pour mise en conformité dans un délai fixé | Art. 88 |\n| Sanction pécuniaire ≤ 1/5 du capital minimum | Manquements aux art. 9, 45, 47, 51, 71-77, 82, 130, 152, 154-155, 157, 159 ; réserve obligatoire | Art. 173-177 ; circ. 2/G/2007 |\n| Suspension de dirigeants, restriction d'activités, administrateur provisoire, retrait d'agrément | Mise en garde ou avertissement restés sans effet ; avis de la commission de discipline | Art. 178 |\n| Publication des sanctions | Par tout moyen | Art. 179 |\n| Barème indicatif des sanctions pécuniaires (circ. 2/G/2007) | Montant |\n| Non-respect de la réglementation comptable | 50 000 DH à 20 % du capital minimum |\n| Non-respect des règles prudentielles | 0,50 % de l'insuffisance ou du dépassement, plafonné à 20 % du capital minimum |\n| Absence de dispositif de contrôle interne | 50 000 DH à 20 % du capital minimum |\n| Insuffisance de réserve obligatoire | Insuffisance × (taux des avances à 24 h + 3 points) |\n| Retards ou erreurs de reporting à BAM | 10 000 DH à 20 % du capital minimum |\n| Non-respect des conditions de collecte et de distribution du crédit fixées par le ministre | 10 000 DH à 20 % du capital minimum |\n| Non-respect de l'information de la clientèle | 10 000 DH à 20 % du capital minimum |\n| Défaut de cotisation au fonds collectif de garantie des dépôts | Taux moyen de placement du fonds + 3 points |\nLa sanction est notifiée avec ses motifs et un délai d'au moins 8 jours ; elle est prélevée sur le compte de l'établissement chez BAM ou recouvrée par la Trésorerie générale (art. 174-175). En 2025, BAM a prononcé 7 sanctions disciplinaires et 8 sanctions pécuniaires à l'encontre de 6 banques, une société de financement, un établissement de paiement et une IMF, notamment pour des lacunes LBC/FT, d'octroi de crédit et d'affacturage, d'élaboration des comptes, de cybersécurité, de clôture de comptes et de délivrance de mainlevées.\n### Le traitement des difficultés d'un établissement de crédit\nLes EC échappent aux procédures de prévention et de traitement des difficultés du code de commerce (art. 113). BAM peut nommer un administrateur provisoire (art. 89, 114-127) qui se substitue aux organes sociaux ; les actions des dirigeants deviennent incessibles ; l'administrateur peut demander la nullité des paiements, transferts ou sûretés anormaux des 6 mois précédents. Il peut proposer la liquidation, la cession totale ou partielle, la cession des actifs compromis à une structure ad hoc ou la scission. La mise sous administration provisoire n'entraîne ni résiliation ni annulation des contrats avec la clientèle (art. 122).",
+  "maj": "2026-10-18"
+ }
+]

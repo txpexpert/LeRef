@@ -1,0 +1,74 @@
+[
+ {
+  "id": "3-001",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "L'entreprise et sa banque — présentation",
+  "principe": "Du premier rendez-vous en agence au recours devant le médiateur\nCette partie suit le cycle de vie de la relation bancaire d'une entreprise ou d'un entrepreneur individuel : entrée en relation et vigilance, ouverture et fonctionnement du compte, demande et négociation du crédit, garanties, incidents et difficultés, moyens de paiement, clôture et changement de banque, réclamations et médiation.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-002",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "Pourquoi la banque demande autant de documents",
+  "principe": "Les établissements de crédit sont tenus, en application de la loi n° 43-05 relative à la lutte contre le blanchiment de capitaux et de l'article 97 de la loi 103-12, de mettre en place un dispositif permanent de vigilance (circ. 5/W/2017 ; directives 2/W/2019 et 3/W/2019). Ils doivent identifier et vérifier l'identité de tout client, de ses mandataires et de ses bénéficiaires effectifs, comprendre l'objet de la relation, l'origine des fonds, et surveiller les opérations. À défaut d'éléments suffisants, la banque doit refuser la relation et peut devoir effectuer une déclaration de soupçon à l'Unité de traitement du renseignement financier (art. 26 circ. 5/W/2017).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-003",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "Le bénéficiaire effectif",
+  "principe": "Pour une société, est bénéficiaire effectif la personne physique qui détient directement ou indirectement plus de 25 % du capital ou des droits de vote, ou qui exerce par tout autre moyen un contrôle effectif sur les organes de gestion ou l'assemblée. Pour une autre personne morale (association, fondation…), c'est la personne physique titulaire de droits sur plus de 25 % des biens ou ayant vocation à le devenir. À défaut d'identification possible, la banque retient le dirigeant principal (art. 1 et 15 circ. 5/W/2017). La banque doit comprendre la structure de propriété et de contrôle de la société (art. 24).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-004",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "Check-list d'ouverture de compte",
+  "principe": "| Type de client | Éléments de la fiche client | Documents complémentaires |\n| Personne physique | Nom, prénoms, date de naissance, filiation ; n° CNIE (ou carte d'immatriculation pour étranger résident, passeport pour non-résident) avec dates et autorité de délivrance ; adresse exacte ; profession ; n° RC, tribunal et n° de taxe professionnelle pour un commerçant ; n° du registre national de l'auto-entrepreneur ; déclaration d'origine des fonds ; objet de la relation | Pièce d'identité officielle valide avec photo (copie conservée) ; justificatif d'adresse ; éléments sur les revenus |\n| Société commerciale | Dénomination, forme, activités, siège, identifiant fiscal, RC (et succursales), ICE, dirigeants et administrateurs, mandataires, objet de la relation | Statuts ; publicité légale ou extrait RC de moins de 3 mois ; états de synthèse du dernier exercice ; PV de nomination des administrateurs/gérants ; identification des bénéficiaires effectifs et des mandataires (fiche personne physique) |\n| Société en cours de constitution | Idem | Certificat négatif, projet de statuts, identification des fondateurs et souscripteurs |\n| Association | Idem | Statuts ; récépissé de dépôt du dossier juridique ; PV de l'AG constitutive (bureau, président) ; acte désignant les personnes habilitées à faire fonctionner le compte |\n| Coopérative | Idem | Statuts ; PV d'AG ; acte de désignation des signataires ; décision d'agrément de la constitution |\n| GIE, GIP, autres personnes morales | Idem | Acte constitutif ; actes de nomination des représentants et de fixation des pouvoirs |\n| Trust ou construction juridique | Dénomination, éléments constitutifs, pouvoirs, dirigeants, finalité, gestion, siège | Documents sur les constituants, gestionnaires et bénéficiaires effectifs |\nLes documents rédigés dans une langue autre que l'arabe, le français ou l'anglais doivent être traduits par un traducteur assermenté. Un entretien préalable est obligatoire ; son compte rendu est signé par le client et la banque (art. 13). La banque vérifie l'adresse exacte et peut refuser l'entrée en relation à défaut (art. 22) ; elle s'informe des autres comptes détenus et des raisons d'un nouveau compte (art. 23).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-005",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "Ouverture à distance et depuis l'étranger",
+  "principe": "L'ouverture à distance est soumise aux mêmes exigences (art. 20). Selon la convention type de compte (circ. 15/W/16), le compte ouvert à distance ne peut enregistrer que des opérations créditrices tant que le client ne s'est pas présenté à l'agence pour compléter les formalités. Pour une ouverture depuis l'étranger (investisseur non résident, MRE) : pièce d'identité supplémentaire (carte de séjour et passeport), première opération créditrice provenant d'un compte ouvert dans un pays respectant les normes du GAFI, vigilance renforcée jusqu'à présentation à l'agence ; à défaut d'originaux, copies certifiées conformes par les autorités compétentes (sous réserve des conventions internationales, notamment l'apostille).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-006",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "Clients à risque élevé et vigilance renforcée",
+  "principe": "Sont notamment considérés comme présentant un risque élevé (art. 31) : les personnes politiquement exposées (fonctions publiques, juridictionnelles, militaires ou politiques de haut rang, au Maroc ou à l'étranger, leur famille et proches, et les sociétés dont elles détiennent une part du capital), les étrangers non-résidents, les correspondants bancaires, les organismes à but non lucratif, les trusts et constructions juridiques, les personnes liées à des pays sous vigilance du GAFI et les sociétés installées dans des zones offshore. Pour ces clients, la banque collecte des informations supplémentaires, obtient l'autorisation de sa direction, augmente la fréquence des contrôles et demande les raisons des opérations (art. 40).\n### Préparer son dossier « KYC » d'entreprise\n- Tenir à jour un dossier permanent : statuts à jour, extrait RC < 3 mois, ICE, IF, PV de nomination, registre des bénéficiaires effectifs, organigramme du groupe.\n- Documenter l'origine des fonds pour tout apport significatif (cession d'actifs, apport en compte courant, financement extérieur).\n- Pour une opération inhabituelle (montant hors normes, flux international nouveau), prévenir la banque et fournir les justificatifs avant l'opération : la banque doit s'informer du contexte, de l'origine et de la destination des fonds (art. 34) et peut suspendre l'exécution.\n- Notifier par écrit toute modification (dirigeants, adresse, actionnariat) avec justificatifs (convention type, art. 1).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-007",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "Le droit au compte et les services gratuits",
+  "principe": "Toute personne sans compte à vue qui s'est vu refuser l'ouverture par une ou plusieurs banques, après demande par lettre recommandée avec AR, peut demander à BAM de désigner une banque qui sera tenue d'ouvrir le compte si le refus est jugé non fondé ; les services peuvent être limités aux opérations de caisse (art. 150). Les banques doivent également ouvrir des comptes à vue sans versement préalable à toute personne non bancarisée, sans frais pendant au moins 6 mois tant que le compte n'est pas crédité (directive 4/G/10).\n| Services bancaires devant être gratuits (directive 1/G/10) |  |\n| 1. Ouverture de comptes | 9. Retraits aux GAB de la banque teneuse du compte |\n| 2. Délivrance de chéquier | 10. Virements de compte à compte entre particuliers dans la même banque |\n| 3. Délivrance du livret d'épargne | 11. Réception de virements nationaux |\n| 4. Domiciliation de salaire | 12. Réception de mises à disposition nationales dans le même établissement |\n| 5. Attestation de RIB | 13. Établissement et envoi du relevé de compte |\n| 6. Versements d'espèces (hors timbre fiscal) | 14. Consultation du solde et de l'historique (GAB / internet, hors abonnement) |\n| 7. Retraits d'espèces au guichet teneur (hors « chèque guichet » pour les détenteurs de chéquier) | 15. Changement des éléments d'identification |\n| 8. Retraits sur carnet d'épargne au guichet teneur | 16. Clôture de comptes |\nLa gratuité ne peut être conditionnée ni au nombre d'opérations ni à un solde minimum. BAM publie un indice des prix des services bancaires calculé sur un panier de 14 produits (directive 2/G/2012).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-008",
+  "p": 3,
+  "ch": "3.1",
+  "c": "Entrer en relation avec une banque : ouverture de compte et vigilance (KYC)",
+  "t": "La convention de compte",
+  "principe": "Toute ouverture de compte à vue, à terme ou de compte titres fait l'objet d'une convention écrite dont un exemplaire signé est remis gratuitement au client (art. 151 ; circ. 15/W/16). Les clauses minimales de la convention type portent notamment sur :\n- l'identification du client et l'obligation de notifier toute modification ;\n- le traitement des données personnelles (loi 09-08), droits d'accès, de rectification et d'opposition ; enregistrement des appels (conservation 6 mois maximum) ;\n- le secret professionnel et ses exceptions ; les saisies-arrêts et avis à tiers détenteur (gel limité au montant saisi) ;\n- l'information sur les conditions tarifaires, toute modification étant notifiée au moins deux mois avant son entrée en vigueur ;\n- les comptes collectifs (signatures, solidarité, clôture, blocage en cas de désaccord) et les mandats (résiliation notifiée par écrit, effet immédiat) ;\n- le principe selon lequel un débit ne peut excéder le solde disponible : un découvert occasionnel n'est pas une ouverture de crédit, qui suppose un accord exprès ; toute facilité de caisse donne lieu à consultation du crédit bureau ;\n- les opérations de change (cours communiqué et accepté), la fusion et la compensation des comptes du client ;\n- les réclamations, la médiation et la saisine de BAM.\n### Point de vigilance\nLa clause de fusion et compensation permet à la banque de compenser un solde débiteur avec tout compte créditeur du client, y compris en devises. Une entreprise qui souhaite isoler des fonds (fonds de projet, fonds reçus pour le compte de tiers) doit négocier une convention spécifique ou un compte dédié avec clause d'affectation.",
+  "maj": "2026-10-18"
+ }
+]

@@ -1,0 +1,101 @@
+{
+ "titre": "Le guide pratique de l'opérateur touristique",
+ "sous_titre": "Maroc",
+ "edition": "Édition 2026",
+ "mode_emploi": {
+  "introduction": [
+   "Le tourisme marocain repose sur une chaîne d'opérateurs étroitement imbriqués : l'hébergeur qui accueille, le restaurateur qui nourrit, l'agent de voyages qui conçoit et vend le séjour, le transporteur qui achemine, le guide qui accompagne et explique, le promoteur et la société de gestion qui financent et exploitent l'immobilier touristique. Chacun de ces métiers est encadré par un texte spécifique, avec ses propres autorisations, ses propres délais, ses propres sanctions et, souvent, ses propres guichets.",
+   "Pour l'opérateur économique, la difficulté n'est pas tant de connaître l'existence de ces textes que de les traduire en processus : quelle démarche engager en premier, auprès de quelle autorité, avec quelles pièces, dans quel délai, et quel risque court-on si une étape est sautée ? C'est précisément l'objet de cet ouvrage.",
+   "Le présent livre adopte délibérément une lecture procédurale et opérationnelle du droit du tourisme. Chaque régime est décomposé en étapes, en acteurs, en délais et en pièces justificatives ; chaque obligation est rattachée à son article de référence ; chaque sanction est chiffrée. L'objectif est qu'un porteur de projet, un directeur d'établissement, un gérant d'agence, un transporteur ou un conseil juridique puisse s'en servir comme d'un manuel de travail, et non comme d'une simple compilation de textes.",
+   "Le corpus exploité couvre cinq grands régimes : les établissements touristiques et autres formes d'hébergement (loi n° 80-14), les résidences immobilières de promotion touristique (loi n° 01-07 modifiée par la loi n° 80-13 et ses arrêtés d'application), la profession d'agent de voyages (loi n° 11-16), la profession de guide de tourisme (loi n° 05-12 modifiée par les lois n° 133-13 et n° 93-18, et ses arrêtés) et le transport touristique routier (cahier des charges de 2014). Lorsque des textes d'application plus récents ont été identifiés, ils sont signalés dans des encadrés « Mise à jour réglementaire ».",
+   "POINT DE VIGILANCE — Portée de l'ouvrage",
+   "Cet ouvrage est un outil de travail et de vulgarisation. Il ne se substitue ni à la lecture du texte officiel publié au Bulletin officiel, ni à l'avis d'un professionnel du droit pour un dossier particulier. Les textes évoluent : avant toute démarche engageante, vérifiez la version consolidée en vigueur et les éventuels textes d'application publiés depuis la rédaction (octobre 2026).",
+   "Certaines informations relatives aux textes d'application les plus récents (décret n° 2-23-441 sur l'hébergement, décret n° 2-21-80 sur les agents de voyages) proviennent de sources de presse spécialisée et sont signalées comme telles ; elles doivent être confirmées au Bulletin officiel.",
+   "Architecture des textes, autorités compétentes et logique commune des régimes d'autorisation."
+  ],
+  "rubriques": [
+   {
+    "rubrique": "Comment utiliser ce livre",
+    "texte": "Chaque partie est construite selon la même grille de lecture, afin de permettre une consultation rapide : • Le périmètre : qui est concerné, quelles activités relèvent du régime, quelles définitions légales s'appliquent. • Les conditions d'accès : qualités exigées de l'entreprise et de ses dirigeants, garanties financières, assurances, qualifications. • Le processus d'autorisation : étapes chronologiques, guichets, délais, pièces — présentés sous forme de logigrammes et de tableaux de procédure. • Les obligations d'exploitation : ce que l'opérateur doit faire au quotidien et ce qu'il doit déclarer. • Les événements de la vie de l'entreprise : changement de dirigeant, d'adresse, cession, décès, cessation. • Le contrôle et les sanctions : agents habilités, procédure graduée, montants des amendes, récidive. • Les points de vigilance et conseils pratiques issus de la lecture croisée des textes. La Partie VII rassemble des outils transversaux : calendrier consolidé de tous les délais, matrice consolidée des sanctions, listes de contrôle de dossiers, cas pratiques intégrés et glossaire. Quatre types d'encadrés jalonnent le texte : Encadré — Usage · Base légale — Référence précise de l'article ou du texte qui fonde la règle exposée. · À retenir — Synthèse des éléments essentiels d'une section. · Point de vigilance — Risque juridique, piège procédural, zone grise ou incohérence entre textes. · Conseil pratique — Recommandation opérationnelle pour sécuriser une démarche. · Mise à jour réglementaire — Texte d'application postérieur au corpus de base, à vérifier au Bulletin officiel."
+   }
+  ]
+ },
+ "abreviations": [
+  [
+   "AGE",
+   "Assemblée générale extraordinaire"
+  ],
+  [
+   "BO",
+   "Bulletin officiel du Royaume du Maroc"
+  ],
+  [
+   "BIH",
+   "Bulletin individuel d'hébergement"
+  ],
+  [
+   "CDC TTR",
+   "Cahier des charges relatif à l'exercice de l'activité de transport touristique routier (2014)"
+  ],
+  [
+   "CDG",
+   "Caisse de dépôt et de gestion"
+  ],
+  [
+   "CNSS / AMO",
+   "Caisse nationale de sécurité sociale / Assurance maladie obligatoire"
+  ],
+  [
+   "CRI",
+   "Centre régional d'investissement"
+  ],
+  [
+   "CRUI",
+   "Commission régionale unifiée d'investissement"
+  ],
+  [
+   "DRDQ",
+   "Direction de la réglementation, du développement et de la qualité (Ministère du Tourisme)"
+  ],
+  [
+   "DRT / DPT",
+   "Délégation régionale / provinciale du Tourisme"
+  ],
+  [
+   "DRET / DPET",
+   "Direction régionale / provinciale de l'Équipement et du Transport"
+  ],
+  [
+   "DTRSR",
+   "Direction des transports routiers et de la sécurité routière (secrétariat de la Commission des transports)"
+  ],
+  [
+   "DTS",
+   "Diplôme de technicien spécialisé"
+  ],
+  [
+   "FNGT",
+   "Fédération nationale des guides de tourisme"
+  ],
+  [
+   "GIE",
+   "Groupement d'intérêt économique"
+  ],
+  [
+   "RC",
+   "Registre du commerce (ou responsabilité civile selon le contexte)"
+  ],
+  [
+   "RIPT",
+   "Résidence immobilière de promotion touristique"
+  ],
+  [
+   "TGR",
+   "Voiture de grande remise"
+  ],
+  [
+   "TLS",
+   "Véhicule léger spécial de tourisme"
+  ]
+ ]
+}

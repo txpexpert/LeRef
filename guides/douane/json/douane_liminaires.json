@@ -1,0 +1,200 @@
+{
+  "titre": "Guide des procédures douanières",
+  "sous_titre": "Maroc",
+  "edition": "Édition 2026",
+  "a_jour_au": "2026-10-04",
+  "accroche": "Dédouanement · Droits et taxes · Régimes économiques · Contentieux",
+  "avertissement": [
+    "Le présent guide expose les procédures douanières applicables au Maroc à partir des textes en vigueur à la date du 04/10/2026 : Code des douanes et impôts indirects (CDII), décret n° 2-77-862 du 9 octobre 1977 pris pour son application, arrêtés du ministre chargé des finances, circulaires et notes de l'Administration des douanes et impôts indirects (ADII), lois de finances et accords internationaux.",
+    "Chaque affirmation juridique est rattachée à sa source. Le droit douanier évolue au rythme des lois de finances annuelles et des instructions de l'administration : avant toute opération, le lecteur vérifiera que le texte cité n'a pas été modifié depuis la date de mise à jour de l'ouvrage.",
+    "Les entreprises, marchandises, montants commerciaux et dates d'opération figurant dans les cas pratiques sont fictifs ; les règles, taux, délais et seuils qui leur sont appliqués sont ceux des textes cités. Le guide ne se substitue ni aux textes officiels ni à une consultation personnalisée."
+  ],
+  "mode_emploi": {
+    "introduction": [
+      "L'ouvrage est divisé en neuf parties, qui suivent le cycle de vie de la marchandise, de la définition des règles applicables jusqu'au contentieux. Chaque partie est divisée en chapitres, et chaque chapitre en paragraphes numérotés."
+    ],
+    "rubriques": [
+      {
+        "rubrique": "Numérotation",
+        "texte": "Chaque paragraphe porte un numéro composé du numéro de la partie et d'un numéro d'ordre (par exemple, n° 7-012 : partie 7, paragraphe 12). Ce numéro est stable d'une édition à l'autre ; les renvois, les tables et l'index utilisent ces numéros."
+      },
+      {
+        "rubrique": "En bref",
+        "texte": "La règle essentielle et sa conséquence pratique, lisibles en quelques secondes."
+      },
+      {
+        "rubrique": "Textes applicables",
+        "texte": "Les références exactes des textes sur lesquels repose le paragraphe."
+      },
+      {
+        "rubrique": "Principe et position de l'administration",
+        "texte": "L'exposé de la règle, puis la manière dont l'ADII l'applique à travers ses circulaires, notes et pratiques."
+      },
+      {
+        "rubrique": "Données clés",
+        "texte": "Les délais, seuils, montants, autorités compétentes et documents exigés, chacun avec sa référence."
+      },
+      {
+        "rubrique": "Cas pratique, conseil pratique et questions fréquentes",
+        "texte": "L'application concrète de la règle, les pièges à éviter et les réponses aux questions que posent le plus souvent les opérateurs."
+      },
+      {
+        "rubrique": "Jurisprudence",
+        "texte": "Les décisions de justice publiées qui éclairent l'application du texte, avec leur référence complète."
+      },
+      {
+        "rubrique": "Logigramme",
+        "texte": "Pour les procédures clés, le schéma des étapes, des acteurs, des délais et des points de blocage. Les logigrammes sont répertoriés en annexe, avec les modèles d'actes."
+      },
+      {
+        "rubrique": "Voir aussi",
+        "texte": "Les paragraphes liés, désignés par leur numéro."
+      }
+    ],
+    "conclusion": [
+      "En fin d'ouvrage, la table des textes cités permet de retrouver, pour chaque article, circulaire ou note, les paragraphes qui l'appliquent, et la table des matières détaillée reprend l'ensemble des paragraphes."
+    ]
+  },
+  "abreviations": [
+    [
+      "ADII",
+      "Administration des douanes et impôts indirects"
+    ],
+    [
+      "AELE",
+      "Association européenne de libre-échange"
+    ],
+    [
+      "AT",
+      "Admission temporaire"
+    ],
+    [
+      "ATPA",
+      "Admission temporaire pour perfectionnement actif"
+    ],
+    [
+      "art.",
+      "Article"
+    ],
+    [
+      "BADR",
+      "Base automatisée des douanes en réseau (système de dédouanement de l'ADII)"
+    ],
+    [
+      "CDII",
+      "Code des douanes et impôts indirects"
+    ],
+    [
+      "CGI",
+      "Code général des impôts"
+    ],
+    [
+      "circ.",
+      "Circulaire"
+    ],
+    [
+      "CITES",
+      "Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction"
+    ],
+    [
+      "CRR",
+      "Convention régionale pan-euro-méditerranéenne révisée"
+    ],
+    [
+      "DFD",
+      "Demande de franchise douanière"
+    ],
+    [
+      "DGI",
+      "Direction générale des impôts"
+    ],
+    [
+      "DH",
+      "Dirham"
+    ],
+    [
+      "DUM",
+      "Déclaration unique de marchandises"
+    ],
+    [
+      "EIF",
+      "Entrepôt industriel franc"
+    ],
+    [
+      "ETPP",
+      "Exportation temporaire pour perfectionnement passif"
+    ],
+    [
+      "LF",
+      "Loi de finances"
+    ],
+    [
+      "MDH",
+      "Million de dirhams"
+    ],
+    [
+      "MEAD",
+      "Magasins et aires de dédouanement"
+    ],
+    [
+      "OEA",
+      "Opérateur économique agréé"
+    ],
+    [
+      "OMC",
+      "Organisation mondiale du commerce"
+    ],
+    [
+      "OMD",
+      "Organisation mondiale des douanes"
+    ],
+    [
+      "ONSSA",
+      "Office national de sécurité sanitaire des produits alimentaires"
+    ],
+    [
+      "RED",
+      "Régimes économiques en douane"
+    ],
+    [
+      "RGI",
+      "Règles générales interprétatives du Système harmonisé"
+    ],
+    [
+      "SH",
+      "Système harmonisé de désignation et de codification des marchandises"
+    ],
+    [
+      "TBI",
+      "Taxe sur les bois importés"
+    ],
+    [
+      "TIC",
+      "Taxe intérieure de consommation"
+    ],
+    [
+      "TPI",
+      "Taxe parafiscale à l'importation"
+    ],
+    [
+      "TSD",
+      "Transformation sous douane"
+    ],
+    [
+      "TVA",
+      "Taxe sur la valeur ajoutée"
+    ],
+    [
+      "UE",
+      "Union européenne"
+    ],
+    [
+      "ZAI",
+      "Zone d'accélération industrielle"
+    ],
+    [
+      "ZFL",
+      "Zone franche à vocation logistique"
+    ]
+  ]
+}

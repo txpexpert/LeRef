@@ -1,0 +1,28 @@
+{
+ "titre": "Immobiliers, lotissements et constructions",
+ "sous_titre": "Guide pratique des procédures et démarches à l'usage des investisseurs et des promoteurs",
+ "edition": "Édition 2026",
+ "mode_emploi": {
+  "introduction": [
+   "Ce livre répond à une question simple : que doit faire, concrètement, dans quel ordre et avec quels délais, celui qui veut acquérir un terrain, le lotir, y construire, l'exploiter et le vendre ? Il s'adresse au promoteur immobilier, au lotisseur, à l'investisseur industriel ou touristique, à leur architecte et à leur conseil."
+  ],
+  "rubriques": [
+   {
+    "rubrique": "Méthode",
+    "texte": "- Chaque règle est rattachée à son texte et à son article (par exemple « art. 48 de la loi 12-90 »). Un lecteur méfiant peut ainsi vérifier.\n- Quand le fichier source reproduit une version d'origine non consolidée, le livre le signale par la mention (version d'origine) et indique le texte qui l'a modifiée.\n- Les délais sont donnés tels qu'ils figurent dans les textes. Quand la nature du délai change son calcul, elle est précisée : jours ouvrables, jours calendaires ou délais francs (la loi 25-90, telle que modifiée par la loi 34-21, et la loi 7-81 les déclarent francs).\n- Les passages marqués Vigilance signalent un piège, une zone d'incertitude ou un point à vérifier avant d'engager de l'argent."
+   },
+   {
+    "rubrique": "Ce que ce livre n'est pas",
+    "texte": "- Ce n'est pas un avis juridique. Les fichiers du corpus sont des extractions de travail (certaines issues d'une reconnaissance optique de caractères, OCR, notamment les textes en arabe) ; seule la version publiée au Bulletin officiel fait foi.\n- Il ne couvre pas ce que le corpus ne contient pas. Plusieurs textes essentiels sont cités par le corpus mais n'ont pas été fournis : la loi 55-19 sur la simplification des procédures administratives (délais, silence, recours), la loi 44-00 sur la vente en l'état futur d'achèvement (VEFA), la loi 49-17 sur l'évaluation environnementale, la loi 15-97 sur le recouvrement des créances publiques, les arrêtés fixant la liste des pièces des dossiers, les régimes d'incitation à l'investissement (la fiscalité de l'immobilier est traitée en partie XII, vérifiée sur le CGI 2026). Ils sont signalés là où ils comptent.\n- Il ne remplace ni l'architecte, ni le notaire, ni le conservateur. Il aide à leur poser les bonnes questions."
+   },
+   {
+    "rubrique": "Statut des textes principaux (au vu du corpus)",
+    "texte": "| Texte | Objet | Statut signalé par le corpus |\n| Loi 12-90 | Urbanisme, permis de construire | En vigueur ; fichier = version d'origine (1992). Titre IV remplacé par la loi 66-12 |\n| Loi 25-90 | Lotissements, groupes d'habitations, morcellements | En vigueur ; fichier = version d'origine ; modifiée par la loi 34-21 (août 2026) |\n| Loi 34-21 | Réforme de la loi 25-90, grandes opérations d'aménagement | Très récente (BO n° 7533 du 10 août 2026) ; plusieurs dispositions attendent des textes d'application (délai d'un an) |\n| Loi 64-23 | Agences régionales d'urbanisme et d'habitat | Très récente (même BO) ; entrée en vigueur à la nomination du directeur général et à la tenue du premier conseil d'administration de chaque agence |\n| Loi 66-12 | Contrôle et répression des infractions d'urbanisme | En vigueur (BO n° 6770 du 18 avril 2019) |\n| Décret 2-18-577 | Règlement général de construction 2019 : forme et conditions des autorisations | En vigueur ; abroge le décret 2-13-424 (RGC 2013) |\n| Loi organique 113-14 | Communes | En vigueur ; remplace la loi 78-00 (charte communale) |\n| Loi 47-18 | Centres régionaux d'investissement (CRI), commissions régionales unifiées d'investissement (CRUI) | En vigueur ; une réforme (loi 22-24) est mentionnée : vérifier la version consolidée |\n| Loi 12-03 | Études d'impact sur l'environnement | À vérifier : la loi 49-17 la remplace, mais n'entre en vigueur qu'avec ses textes d'application, encore en validation selon les sources consultées |\n| Loi 78-00 et décret 2-13-424 | Ancienne charte communale ; RGC 2013 | Abrogés, conservés pour l'historique |"
+   },
+   {
+    "rubrique": "Sources et limites des parties IX à XII",
+    "texte": "Les parties IX à XII complètent les parties I à VIII. Chaque partie s'appuie sur un texte désormais lu :\n| Partie | Texte | Source lue |\n| A | Loi 39-08 relative au code des droits réels | Version française, BO n° 7158 du 5 janvier 2023 |\n| B | Loi 44-00 (vente d'immeuble en l'état futur d'achèvement, VEFA) | Dahir 1-02-309 du 3 octobre 2002, BO n° 5054 du 7 novembre 2002 |\n| C | Loi 49-17 relative à l'évaluation environnementale | BO n° 7140 du 3 novembre 2022 |\n| D | Code général des impôts 2026 | Texte officiel du CGI 2026 (PDF), loi de finances n° 50-25, BO n° 7465 bis du 16 décembre 2025 |"
+   }
+  ]
+ }
+}

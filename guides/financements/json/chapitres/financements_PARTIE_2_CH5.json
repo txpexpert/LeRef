@@ -1,0 +1,79 @@
+[
+ {
+  "id": "2-060",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "Pourquoi les intégrer au plan de financement",
+  "principe": "Les avantages fiscaux et douaniers ne sont pas des ressources encaissées, mais ils réduisent le coût de l'investissement (TVA et droits de douane non payés) ou augmentent les flux de trésorerie (impôt réduit). Ils doivent figurer dans le business plan, et la convention d'investissement avec l'État en conditionne plusieurs. Cette section se limite aux mesures qui affectent directement le financement d'un projet ; il ne remplace pas le Code général des impôts (CGI) en vigueur.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-061",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "L'impôt sur les sociétés en 2026",
+  "principe": "La réforme engagée par la loi de finances 2023 a remplacé le barème progressif par des taux proportionnels, avec une période transitoire du 1er janvier 2023 au 31 décembre 2026 (CGI, art. 247-XXXVII-A). Les taux suivants sont rapportés par la presse économique (statut C) et doivent être vérifiés dans le CGI 2026.\n| Catégorie | Taux cible (premier acompte 2026) | Taux de reliquat 2026 (période transitoire) |\n| Droit commun, bénéfice net fiscal inférieur à 100 MDH | 20 % | 20 % |\n| Bénéfice net fiscal égal ou supérieur à 100 MDH | 35 % | 31,25 % |\n| Établissements de crédit, Bank Al-Maghrib, CDG, assurance et réassurance | 40 % | 39,25 % |\n| Zones d'accélération industrielle et Casablanca Finance City (anciennement 15 %) | 20 % | 18,75 % |\n| Sociétés constituées depuis le 1er janvier 2023 ayant conclu une convention pour investir au moins 1,5 Md DH sur cinq ans | 20 % | 20 % |\nLe taux réduit de 10 % des petites entreprises a été supprimé : elles relèvent du taux de 20 %. Les sociétés exportatrices, hôtelières et d'animation touristique, minières, artisanales, d'enseignement et de formation privés, sportives, les exploitations agricoles et les sociétés d'externalisation de services restent au taux de 20 %. Les sociétés installées en zone d'accélération industrielle bénéficient d'une exonération temporaire d'IS (cinq exercices selon les sources consultées) avant l'application de leur taux ; la durée et le taux postérieur doivent être vérifiés dans le CGI, des sources secondaires se contredisant (statut D).\n### Attention\nde nombreux modèles financiers en circulation appliquent encore un taux d'IS de 31 %. Ce taux n'existe plus comme taux de droit commun en 2026. Un business plan doit utiliser 20 % (ou 35 % au-delà de 100 MDH de bénéfice).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-062",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "L'exonération de TVA sur les biens d'investissement",
+  "principe": "Les entreprises qui concluent une convention d'investissement avec l'État bénéficient, sous conditions, de l'exonération de la TVA à l'importation et à l'intérieur sur les biens d'équipement, matériels et outillages, ainsi que sur les parties, pièces détachées et accessoires importés avec eux (CGI, art. 92-I-6° et 123-22°-a). Le CRI de Fès-Meknès présente l'exonération à l'importation comme réservée aux projets d'au moins 100 MDH ayant signé une convention approuvée par la Commission des investissements (statut B).\n| Élément | Règle |\n| Durée | 36 mois à compter du début d'activité ; pour les entreprises qui construisent, à compter de la délivrance de l'autorisation de construire |\n| Prorogation (droit antérieur) | 6 mois en cas de force majeure, renouvelable une fois |\n| Prorogation (loi de finances 2026) | 24 mois supplémentaires, soit 60 mois au total, sur demande électronique déposée avant l'expiration des 36 mois ; applicable aux conventions signées à compter du 1er janvier 2026 et aux entreprises dont le délai de 36 mois n'était pas épuisé au 31 décembre 2025 (statut C) |\n| Garanties | Depuis la loi de finances 2024, l'exonération à l'importation est conditionnée à la présentation de garanties (CGI, art. 92-I-6° et 123-22°-a) |\n### À retenir\nsans exonération, la TVA payée sur les investissements est récupérable mais doit être avancée. Pour un équipement de 10 MDH, la TVA à préfinancer est de 2 MDH au taux de 20 %.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-063",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "Les droits de douane",
+  "principe": "L'importation de biens d'équipement dans le cadre de conventions d'investissement peut ouvrir droit à des exonérations ou réductions de droits d'importation, selon les textes douaniers et les lois de finances. Les seuils et taux exacts n'ont pas été vérifiés dans les textes consolidés lors de la préparation de cet ouvrage : il faut les confirmer auprès de l'Administration des douanes et impôts indirects et les faire figurer dans la convention. Les régimes économiques en douane (admission temporaire pour perfectionnement actif, entrepôts, zones d'accélération industrielle) permettent par ailleurs aux exportateurs de suspendre droits et taxes sur les intrants.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-064",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "La réduction d'IS liée à l'introduction en bourse",
+  "principe": "Selon le Kit du CRI (statut B), les sociétés qui introduisent leurs titres en bourse par une augmentation de capital d'au moins 20 % avec abandon du droit préférentiel de souscription bénéficient d'une réduction de 50 % du taux de l'IS pendant trois années consécutives ; la réduction est de 25 % pendant trois années pour celles qui ouvrent leur capital par cession d'actions existantes. Ce régime est à vérifier dans le CGI en vigueur.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-065",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "Les droits d'enregistrement : mesures 2026",
+  "principe": "La loi de finances 2026 (statut C) introduit un droit fixe de 200 DH pour les cautions, hypothèques et nantissements de fonds de commerce consentis en garantie de crédits, ramène de 6 % à 5 % le taux applicable aux cessions d'actions ou parts de sociétés immobilières (sur attestation de non-prépondérance immobilière), et institue un droit supplémentaire de 2 % sur les mutations immobilières et cessions de fonds de commerce payées en espèces au-delà de 300 000 DH, pour les actes établis à compter du 1er juillet 2026.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-066",
+  "p": 2,
+  "ch": "2.5",
+  "c": "Avantages fiscaux et douaniers liés à l'investissement",
+  "t": "Fiscalité des primes reçues",
+  "principe": "Le traitement fiscal et comptable des primes d'investissement (subventions d'équipement étalées au rythme de l'amortissement des biens financés, ou produit de l'exercice) relève du CGI et du Code général de normalisation comptable. Il doit être arrêté avec l'expert-comptable : il influence le résultat imposable des années de versement.",
+  "faq": [
+   [
+    "Quel taux d'IS retenir dans un business plan en 2026 ?",
+    "20 % pour un bénéfice net fiscal inférieur à 100 MDH ; 35 % au-delà (taux cibles de la réforme de 2023, période transitoire achevée fin 2026). Le taux de 31 % est obsolète. Vérifier les cas particuliers (secteur financier à 40 %, zones d'accélération industrielle)."
+   ],
+   [
+    "Combien de temps dure l'exonération de TVA sur les biens d'investissement ?",
+    "36 mois à compter du début d'activité (ou de l'autorisation de construire), prorogeables de 24 mois depuis la loi de finances 2026, soit 60 mois, sur demande électronique déposée avant l'expiration des 36 mois, pour les entreprises sous convention avec l'État."
+   ],
+   [
+    "L'exonération de TVA à l'importation exige-t-elle des garanties ?",
+    "Oui, depuis la loi de finances 2024, l'exonération à l'importation des biens d'investissement est conditionnée à la présentation de garanties, selon les articles 92-I-6° et 123-22°-a du CGI. Les modalités sont précisées par circulaire de l'ADII."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

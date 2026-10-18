@@ -1,0 +1,38 @@
+[
+ {
+  "id": "8-010",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Historique des éditions et veille",
+  "t": "Les éditions du Kit de l'accompagnement",
+  "principe": "| Édition | Date du fichier | Pages | Observation |\n| 2023 | 2 octobre 2023 | 49 (doubles pages) | Édition de référence la plus ancienne |\n| Septembre 2024 | 18 septembre 2024 | 100 | Nombreuses créations et disparitions |\n| Octobre 2025 | 3 octobre 2025 | 96 | Disparition d'Istitmar PME, Mouwakaba, Tatwir Croissance Verte, Ana Moukawil ; arrivée de Power Export, Damane Tasdir, She Industriel, programme d'appui à l'innovation industrielle |\n| Novembre 2025 | 13 novembre 2025 | 96 | Ajout d'un renvoi au décret 2-25-342 |\n| Décembre 2025 | 8 décembre 2025 | 96 | Aucune différence chiffrée détectée |\n| Août 2026 | Non retrouvée | – | Citée en session antérieure (familles PACT', Tech Start, Tech Boost, Tamwil Istitmar+, Damane Tamwin) ; la page du CRI ne la référence pas au 9 octobre 2026 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "8-011",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Historique des éditions et veille",
+  "t": "Programmes apparus et disparus",
+  "principe": "Apparus en septembre 2024 : Cap Access, MDM Tamwil, Ilayki Invest, Machrou3i, Go Siyaha, Cap Hospitality, incubation SMIT, Export Morocco Now Women, financement collaboratif. Apparus en octobre 2025 : Power Export, Damane Tasdir, She Industriel 2025-2026, programme d'appui à l'innovation industrielle. Disparus dès septembre 2024 : Ligne française, Renovotel, Forsa, FDII, Awrach, Start-TPE, Go-To-Market, Industry'ELLE, Min Ajliki, accélérateur d'efficacité énergétique. Disparus entre septembre 2024 et octobre 2025 : Istitmar PME, Mouwakaba, Tatwir Croissance Verte, Ana Moukawil.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "8-012",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Historique des éditions et veille",
+  "t": "Valeurs suivies",
+  "principe": "| Valeur | 2023 | Septembre 2024 | Octobre à décembre 2025 | Constat |\n| INDH, plafond de l'appui à l'entreprenariat | 150 000 DH | 100 000 DH | 100 000 DH (150 000 DH à titre exceptionnel) | Baisse dès 2024 |\n| MDM Invest, assiette | 10 % de la quote-part des MRE | 10 % du montant d'investissement | Idem | Changement dès 2024 |\n| Damane Express, quotité | 70 % (80 % ESS et femmes) | 70 % (80 % femmes) | Idem | Constant |\n| Damane Intelak, quotité | Non explicitée | 80 % | 80 % | Aucune édition ne donne 85 % |\n| Cap Access, taux | – | 5,5 % (dossiers 2024) | 5,5 % (2025) | Taux inchangé |\n| Istitmar PME, prime | 20 %, plafond 10 MDH | Idem | Absent | Disparition du Kit |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "8-013",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Historique des éditions et veille",
+  "t": "Méthode de veille",
+  "principe": "Les changements de structure (apparition, disparition, changement d'opérateur) sont plus fréquents que les changements de taux. La veille doit surveiller d'abord la liste des programmes, puis les valeurs. Sources à suivre : Bulletin officiel et Journal officiel (textes d'application) ; pages Charte des CRI ; Kit de l'accompagnement du CRI Casablanca-Settat ; sites de Tamwilcom, Maroc PME, SMIT, ANAPEC, Finéa, AMDIE, Fonds Mohammed VI ; notes circulaires de la DGI sur la loi de finances ; circulaires de l'ADII ; communiqués de Bank Al-Maghrib et de l'AMMC. Le décret 2-25-342 n'a été cité par le Kit qu'à partir de novembre 2025, plusieurs mois après sa publication : une base fondée sur le seul Kit prend du retard sur les textes.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,190 @@
+{
+ "titre": "Guide pratique des procédures et démarches fiscales",
+ "sous_titre": "Maroc",
+ "edition": "Édition 2026",
+ "mode_emploi": {
+  "introduction": [
+   "Ce guide est né d’un constat simple : l’opérateur économique marocain — promoteur immobilier, industriel, commerçant, prestataire de services, investisseur étranger, profession libérale ou auto-entrepreneur — ne manque pas de textes, il manque de chemins. Le Code Général des Impôts (CGI) compte plus de trois cents articles, chaque loi de finances en modifie plusieurs dizaines, et la doctrine administrative se répartit entre notes circulaires, notes de service, guides sectoriels, guides d’utilisateur des téléservices et réponses écrites aux intermédiaires fiscaux. Le présent ouvrage rassemble ces sources et les réorganise autour d’une seule question : « Que dois-je faire, quand, auprès de qui, avec quels documents, et que se passe-t-il si je ne le fais pas ? »",
+   "• Anticiper plutôt que régulariser : la plupart des avantages (exonération de TVA sur investissements, abattement de 70 %, sursis d’imposition, option libératoire sur loyers) exigent une démarche préalable ou un engagement joint à la déclaration. Un avantage non demandé à temps est généralement perdu.",
+   "• Tout passer par SIMPL et organiser les habilitations : la télédéclaration est obligatoire et la notification électronique produit les mêmes effets qu’un pli recommandé.",
+   "• Tenir sa comptabilité sous format électronique (obligation 2026), archiver dix ans et pouvoir produire à tout moment les pièces justificatives.",
+   "• Tracer tous les paiements : plafonds de déduction des règlements en espèces, droit supplémentaire de 2 % sur les mutations, références de paiement sur les factures.",
+   "• Maîtriser son rôle de collecteur : les retenues à la source et la TVA sont sanctionnées plus lourdement (pénalité de 20 %, majoration de 30 %).",
+   "• Renouveler l’attestation de régularité fiscale tous les six mois pour éviter les retenues de TVA et accéder aux marchés publics.",
+   "• Documenter les transactions intra-groupe dès 50 MDH de CA ou d’actif, et envisager un APP pour les flux significatifs.",
+   "• Calculer avant de choisir : régime d’IR, option libératoire, valeur d’apport, ordre des opérations de restructuration — les exemples de la doctrine montrent des écarts significatifs.",
+   "• Utiliser les rescrits : consultation préalable, avis préalable sur profits fonciers, APP.",
+   "• En cas de contrôle, distinguer le fait et le droit : négocier les évaluations (accord à l’amiable), contester le droit devant les commissions et le juge, et demander la remise des sanctions.",
+   "RAPPEL DES SOURCES",
+   "Code Général des Impôts 2026 (LF n° 50-25) et référentiel structuré CGI 2026 · Note circulaire n° 736 (LF 2025) · Note de service de mai 2023 (articles 15 bis et 45 bis-I) · Recueil des questions fiscales des intermédiaires fiscaux (2024-2025) · Guides DGI : inscription SIMPL-Professionnels ; fiche de renseignements immeuble ; auto-entrepreneur (2026) ; avocats (2023) ; enseignement privé et formation (2026) ; secteur minier et hydrocarbures (2026) ; contrôle des prix de transfert (2023) ; déclaration pays par pays (2023) ; procédure amiable (2021) · Note de conjoncture DEPF n° 355 (septembre 2026)."
+  ],
+  "rubriques": [
+   {
+    "rubrique": "Les sources mobilisées",
+    "texte": "L’ouvrage est construit exclusivement à partir du corpus documentaire suivant, dont chaque élément est cité au fil du texte : Source — Nature — Utilisation dans le guide · Code Général des Impôts, édition 2026 (LF n° 50-25, dahir n° 1-25-67 du 10 décembre 2025, BO n° 7465 bis) — Texte législatif codifié — Base juridique de toutes les procédures (articles cités entre crochets) · Référentiel structuré CGI 2026 — Synthèse des taux et nouveautés LF 2023 à LF 2026 — Tableaux de taux, nouveautés 2026 · Note circulaire n° 736 relative aux mesures fiscales de la LF 2025 — Doctrine administrative — Commentaires et exemples chiffrés des mesures 2025 · Note de service de mai 2023 — articles 15 bis et 45 bis-I — Doctrine administrative — Champ de la retenue à la source sur les rémunérations allouées à des tiers · Recueil des questions posées par les intermédiaires fiscaux (2024-2025) — Réponses écrites de la DGI — Positions administratives sur des cas concrets · Guide d’inscription aux téléservices SIMPL-Professionnels — Guide utilisateur DGI — Procédure d’adhésion pas à pas · Guide d’obtention de la fiche de renseignements grevant l’immeuble — Guide utilisateur DGI — Procédure notaires, adouls, avocats · Guide du régime fiscal de l’auto-entrepreneur (2026) — Guide DGI (questions-réponses) — Statut d’auto-entrepreneur · Guide fiscal des avocats (2023, version arabe) — Guide DGI — Régime des avocats et acomptes au greffe · Incitations fiscales — enseignement privé et formation professionnelle (2026) — Guide sectoriel DGI — Régime sectoriel · Incitations fiscales — secteur minier et hydrocarbures (2026) — Guide sectoriel DGI — Régime sectoriel · Guide du contrôle des prix de transfert (2023) — Guide méthodologique DGI — Prix de transfert · Guide relatif à la déclaration pays par pays (2023) — Guide DGI — Groupes multinationaux · Guide de la procédure amiable (2021) — Guide DGI — Conventions de non double imposition · Note de conjoncture DEPF n° 355 (septembre 2026) — Analyse économique — Contexte économique de l’investissement PORTÉE ET LIMITES DU GUIDE Ce guide est un outil pratique de vulgarisation. Il ne se substitue ni aux textes législatifs et réglementaires, ni aux notes circulaires, ni à l’avis d’un professionnel habilité (expert-comptable, conseiller fiscal, avocat). Les guides de la DGI eux-mêmes le rappellent : « Ce guide est un document simplifié, il ne peut se substituer aux textes législatifs et réglementaires en vigueur ». Certaines dispositions — notamment les textes réglementaires d’application, les formulaires et les écrans des téléservices — évoluent indépendamment du Code ; il appartient au lecteur de vérifier, avant toute opération engageante, la version en vigueur sur le portail de la DGI (www.tax.gov.ma). Le corpus mobilisé est essentiellement fiscal (DGI). Les démarches relevant d’autres administrations — Centre Régional d’Investissement, Office marocain de la propriété industrielle et commerciale, CNSS, Administration des Douanes et Impôts Indirects, autorités d’urbanisme, Office des Changes — ne sont évoquées que dans la mesure où les textes fiscaux y renvoient."
+   },
+   {
+    "rubrique": "Comment lire ce guide",
+    "texte": "L’ouvrage suit le cycle de vie d’une entreprise et d’un projet d’investissement. • Partie I — Cadre général : l’environnement économique de 2026 et l’architecture du système fiscal marocain après les réformes de 2023 à 2026. • Partie II — Créer et identifier son activité : choix du régime d’imposition, déclaration d’existence, adhésion aux téléservices SIMPL, statut de l’auto-entrepreneur. • Partie III — Les obligations courantes : comptabilité et facturation, impôt sur les sociétés, impôt sur le revenu, TVA, retenues à la source, droits d’enregistrement et de timbre, autres taxes, calendrier fiscal. • Partie IV — Investir et se développer : incitations à l’investissement, promotion immobilière, secteurs de l’enseignement, des mines et des hydrocarbures, professions libérales, restructurations. • Partie V — Opérations internationales : prix de transfert, déclaration pays par pays, procédure amiable, opérations avec les non-résidents. • Partie VI — Contrôle, contentieux et sécurité juridique : notification, vérification, rectification, commissions de recours, accord à l’amiable, prescription, réclamation, sanctions, rescrits. • Partie VII — Outils pratiques : calendrier annuel, tableaux des taux, listes de contrôle, glossaire, table des articles cités. Chaque section combine un exposé des règles, des fiches procédures (encadrés dorés) qui décrivent les étapes dans l’ordre où l’opérateur doit les accomplir, des exemples chiffrés issus de la doctrine administrative, des points d’attention (encadrés rouges) qui signalent les pièges et sanctions, et des conseils pratiques (encadrés verts)."
+   },
+   {
+    "rubrique": "Conventions d’écriture",
+    "texte": "• Les références entre crochets renvoient au CGI 2026 : [CGI art. 148] signifie article 148 du Code Général des Impôts. • « NC 736 » désigne la note circulaire n° 736 commentant la loi de finances 2025 ; « Recueil DGI, Q05 » renvoie à la question n° 5 du recueil des réponses aux intermédiaires fiscaux. • Les montants sont exprimés en dirhams (DH ou MAD). « HT » signifie hors taxe sur la valeur ajoutée. • Les délais exprimés en jours sont des jours calendaires, sauf mention contraire (« jours ouvrables »). • « RNR », « RNS » et « CPU » désignent respectivement les régimes du résultat net réel, du résultat net simplifié et de la contribution professionnelle unique."
+   }
+  ]
+ },
+ "abreviations": [
+  [
+   "ADII",
+   "Administration des Douanes et Impôts Indirects"
+  ],
+  [
+   "AMO",
+   "Assurance maladie obligatoire"
+  ],
+  [
+   "ANAPEC",
+   "Agence Nationale de Promotion de l’Emploi et des Compétences"
+  ],
+  [
+   "ANCFCC",
+   "Agence Nationale de la Conservation Foncière, du Cadastre et de la Cartographie"
+  ],
+  [
+   "APP",
+   "Accord préalable sur les prix de transfert"
+  ],
+  [
+   "BEPS",
+   "Érosion de la base d’imposition et transfert de bénéfices (OCDE)"
+  ],
+  [
+   "CbCR",
+   "Déclaration pays par pays (Country-by-Country Report)"
+  ],
+  [
+   "CFC",
+   "Casablanca Finance City"
+  ],
+  [
+   "CGI",
+   "Code Général des Impôts"
+  ],
+  [
+   "CLT",
+   "Commission locale de taxation"
+  ],
+  [
+   "CM",
+   "Cotisation minimale"
+  ],
+  [
+   "CNDI",
+   "Convention de non double imposition"
+  ],
+  [
+   "CNRF",
+   "Commission nationale du recours fiscal"
+  ],
+  [
+   "CRRF",
+   "Commission régionale du recours fiscal"
+  ],
+  [
+   "CSS",
+   "Contribution sociale de solidarité"
+  ],
+  [
+   "DE / DET",
+   "Droits d’enregistrement / droits d’enregistrement et de timbre"
+  ],
+  [
+   "DEPF",
+   "Direction des Études et des Prévisions Financières"
+  ],
+  [
+   "DGI",
+   "Direction Générale des Impôts"
+  ],
+  [
+   "EEP",
+   "Établissements et entreprises publics"
+  ],
+  [
+   "GIE",
+   "Groupement d’intérêt économique"
+  ],
+  [
+   "ICE",
+   "Identifiant commun de l’entreprise"
+  ],
+  [
+   "IF",
+   "Identifiant fiscal"
+  ],
+  [
+   "IR",
+   "Impôt sur le revenu"
+  ],
+  [
+   "IS",
+   "Impôt sur les sociétés"
+  ],
+  [
+   "LF",
+   "Loi de finances"
+  ],
+  [
+   "NC",
+   "Note circulaire"
+  ],
+  [
+   "OPCI",
+   "Organisme de placement collectif immobilier"
+  ],
+  [
+   "PA",
+   "Procédure amiable"
+  ],
+  [
+   "RAS",
+   "Retenue à la source"
+  ],
+  [
+   "RNAE",
+   "Registre national de l’auto-entrepreneur"
+  ],
+  [
+   "SEP",
+   "Société en participation"
+  ],
+  [
+   "SPI",
+   "Société à prépondérance immobilière"
+  ],
+  [
+   "TGR",
+   "Trésorerie Générale du Royaume"
+  ],
+  [
+   "TH / TSC",
+   "Taxe d’habitation / taxe de services communaux"
+  ],
+  [
+   "TP",
+   "Taxe professionnelle"
+  ],
+  [
+   "TSAV",
+   "Taxe spéciale annuelle sur les véhicules"
+  ],
+  [
+   "TVA",
+   "Taxe sur la valeur ajoutée"
+  ],
+  [
+   "ZAI",
+   "Zone d’accélération industrielle"
+  ]
+ ]
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "9-040",
+    "p": 9,
+    "ch": "9.5",
+    "c": "Recouvrement",
+    "t": "Titre de recette et recouvrement des droits et taxes : délai de paiement de trois jours, redevables solidaires, intérêt de retard et majorations",
+    "enbref": "Les droits et taxes sont mis en recouvrement par un titre de recette émis par l'ordonnateur et doivent être payés dans les trois jours de son émission, sauf crédit. Le déclarant, son mandant et la caution sont solidaires, mais le transitaire agréé n'est poursuivi qu'en dernier lieu. Tout retard entraîne un intérêt de 8 % l'an, et le paiement non électronique une majoration de 1 %.",
+    "textes": [
+      "CDII, art. 87, 88, 88 bis, 92, 93, 95, 95 bis, 97, 98, 99 bis et 166 ter",
+      "Décret n° 2-77-862 du 09/10/1977, art. 54 et 65",
+      "Circulaire ADII n° 6255/210 du 24/12/2021 (LF 2022, art. 93-1°)"
+    ],
+    "principe": "Les droits et taxes sont mis en recouvrement en vertu d'un titre de recette émis par l'ordonnateur (CDII, art. 92). Ils sont payés (art. 93-1°) :\n- dans le délai fixé par décret pour les marchandises bénéficiant d'un crédit d'enlèvement (art. 96) ;\n- dans les trois jours de l'émission du titre de recette dans les autres cas.\nDepuis la LF 2022, ce délai court de l'émission du titre de recette, et non plus de son inscription au bordereau d'émission (circ. n° 6255/210).\n\nLe paiement tardif donne lieu à un intérêt de retard du lendemain de l'échéance jusqu'à l'encaissement (art. 93-2°), au taux de 8 % l'an (décret, art. 54 et 65). Le paiement doit être fait par procédé électronique ou autre moyen légal ; à défaut de paiement électronique, une majoration de 1 %, d'au moins 1 000 DH, est appliquée, sauf exceptions (administrations, paiements partiels, versements au comptant, obligations cautionnées) (art. 95). Le ministre peut accorder la remise gracieuse de l'intérêt de retard (art. 97).\n\nSont redevables le déclarant, son mandant et la caution (art. 87), débiteurs solidaires ; la déchéance du terme encourue par l'un vaut pour tous (art. 88). Le transitaire agréé n'est poursuivi qu'après épuisement des voies de recouvrement contre le redevable principal et n'est pas redevable, sauf complicité, des créances nées du contrôle a posteriori, des régimes économiques ou du détournement de destination (art. 88 bis).\n\nLe détournement d'une marchandise admise en franchise sous condition d'emploi rend les droits immédiatement exigibles, avec intérêt de retard depuis l'enregistrement de la déclaration (art. 166 ter). L'action en recouvrement se prescrit par quatre ans à compter du titre de recette (art. 99 bis). Les sommes indûment perçues sont restituées (art. 95 bis).",
+    "admin": "L'administration rappelle que le délai de trois jours court de l'émission du titre de recette depuis la LF 2022 (circ. n° 6255/210) et que l'intérêt de retard est dû de plein droit, sauf remise gracieuse du ministre (CDII, art. 93-2° et 97). Le paiement électronique est la règle, la majoration de 1 % sanctionnant les autres modes de paiement hors exceptions légales (art. 95).",
+    "donnees": [
+      [
+        "Titre",
+        "Titre de recette émis par l'ordonnateur (art. 92)"
+      ],
+      [
+        "Délai de paiement",
+        "3 jours à compter de l'émission (art. 93-1° ; LF 2022)"
+      ],
+      [
+        "Intérêt de retard",
+        "8 % l'an (décret, art. 54 et 65)"
+      ],
+      [
+        "Paiement non électronique",
+        "Majoration de 1 %, minimum 1 000 DH (art. 95)"
+      ],
+      [
+        "Prescription",
+        "4 ans à compter du titre de recette (art. 99 bis)"
+      ]
+    ],
+    "cas": "À la suite d'un contrôle a posteriori, la société fictive Agadir Pêche reçoit un titre de recette de 150 000 DH de droits complémentaires. Elle paie par virement au 10e jour : l'intérêt de retard à 8 % l'an court du 4e jour jusqu'à l'encaissement. L'administration ne peut pas réclamer cette somme au transitaire, qui n'a pas participé à la fraude. L'erreur fréquente : laisser passer le délai de trois jours en attendant une contestation, alors que l'intérêt court.",
+    "juris": "",
+    "conseil": "Surveillez quotidiennement les titres de recette émis sur BADR à votre nom. Payez par voie électronique pour éviter la majoration de 1 %. En cas de litige, demandez la consignation (art. 98) : l'intérêt de retard ne porte alors que sur un éventuel complément (art. 98-3°). Demandez la remise gracieuse de l'intérêt si le retard tient à une cause extérieure.",
+    "faq": [
+      [
+        "Mon transitaire peut-il être poursuivi pour mes droits impayés ?",
+        "Seulement après épuisement des voies de recouvrement contre vous, et jamais pour les créances nées du contrôle a posteriori sauf complicité (CDII, art. 88 bis)."
+      ],
+      [
+        "Quel est le taux de l'intérêt de retard ?",
+        "8 % l'an (décret n° 2-77-862, art. 54)."
+      ]
+    ],
+    "renvois": [
+      "9-041",
+      "9-003",
+      "9-022",
+      "4-040",
+      "4-041",
+      "4-042",
+      "4-043"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : position de l'administration mis à jour"
+    ]
+  },
+  {
+    "id": "9-041",
+    "p": 9,
+    "ch": "9.5",
+    "c": "Recouvrement",
+    "t": "Voies d'exécution et garanties du recouvrement douanier : mesures conservatoires, privilège, contrainte par corps et prescription des condamnations",
+    "enbref": "L'administration exécute les jugements par toutes voies de droit et peut prendre des mesures conservatoires contre les personnes responsables dès le procès-verbal. La contrainte par corps s'applique aux condamnations pécuniaires, de 1 mois à 2 ans selon la classe. Le transitaire qui paie pour un tiers est subrogé au privilège de l'administration.",
+    "textes": [
+      "CDII, art. 88, 236, 260, 261, 261 bis, 262 bis, 263, 264, 265, 266, 266 bis, 267, 268, 269 et 270",
+      "Décret n° 2-77-862 du 09/10/1977, art. 61 et 63",
+      "Note ADII n° D196/2026/ADII/AC/100 du 28/08/2026"
+    ],
+    "principe": "L'exécution des jugements est poursuivie par toutes voies de droit (CDII, art. 261). Les agents peuvent rédiger et notifier les actes extrajudiciaires nécessaires à la vente des objets saisis, confisqués ou abandonnés (art. 260).\n\nMesures conservatoires (art. 266 à 270) :\n- toutes mesures conservatoires utiles contre les personnes pénalement ou civilement responsables, pour garantir les créances résultant de procès-verbaux (art. 268) ;\n- vente sur ordonnance du juge des biens saisis qui risquent de se déprécier, le produit étant consigné jusqu'à décision définitive (art. 266) ; destruction sans formalité judiciaire des biens impropres (art. 266 bis) ;\n- retenue des biens non confiscables en garantie des pénalités (art. 236) ;\n- irrévendicabilité des objets confisqués, même par les créanciers privilégiés (art. 270).\n\nLe transitaire agréé qui a payé pour un tiers des droits, taxes ou amendes est subrogé au privilège de l'administration, sauf à l'égard des administrations de l'État (art. 269).\n\nLa contrainte par corps s'applique aux condamnations pécuniaires douanières, dès le jugement définitif et nonobstant recours extraordinaire (art. 264), dans les limites suivantes (art. 262 bis) :\n- délits douaniers : 1 à 2 ans ;\n- contraventions de 1re et 2e classes : 6 mois à 1 an ;\n- contraventions de 3e et 4e classes : 1 à 6 mois.\nLes condamnations sont inscrites au casier judiciaire et au fichier des sociétés (art. 263). Elles se prescrivent par quatre ans à compter de la chose jugée (art. 261 bis) et peuvent être recouvrées contre la succession (art. 265).\n\nLes facilités de paiement tombent avec la défaillance : déchéance du terme pour tous les codébiteurs (art. 88) ; exigibilité immédiate des obligations cautionnées en cas de suspension de paiement d'un signataire (décret, art. 61) et des crédits supprimés (décret, art. 63).",
+    "admin": "Avec la loi n° 58.25, l'exécution est confiée au juge de l'exécution (art. 476) ; l'ordonnance sur requête est susceptible d'appel dans les sept jours et doit être exécutée dans les trente jours (art. 225) ; le pourvoi en cassation contre les décisions des juridictions administratives suspend l'exécution à l'encontre de l'administration (art. 383). Les saisies conservatoires pratiquées sur le fondement de l'article 268 du CDII doivent être suivies d'une action au fond dans les dix jours (note n° D196/2026).",
+    "donnees": [
+      [
+        "Mesures conservatoires",
+        "Dès le procès-verbal (art. 268)"
+      ],
+      [
+        "Contrainte par corps, délits",
+        "1 à 2 ans (art. 262 bis)"
+      ],
+      [
+        "Contrainte par corps, 1re-2e classes",
+        "6 mois à 1 an (art. 262 bis)"
+      ],
+      [
+        "Contrainte par corps, 3e-4e classes",
+        "1 à 6 mois (art. 262 bis)"
+      ],
+      [
+        "Prescription des condamnations",
+        "4 ans après la chose jugée (art. 261 bis)"
+      ],
+      [
+        "Juge de l'exécution",
+        "Compétent depuis le 24/08/2026 (loi n° 58.25, art. 476 ; note n° D196/2026)"
+      ]
+    ],
+    "cas": "Le transitaire fictif Sud Transit acquitte, pour le compte de son client Desert Import défaillant, 60 000 DH de droits afin de libérer un conteneur. Desert Import ne le rembourse pas puis entre en difficulté. Sud Transit, subrogé au privilège de l'administration, peut s'en prévaloir pour recouvrer sa créance. Parallèlement, la condamnation de Desert Import à une amende, devenue définitive, l'expose à la contrainte par corps de son dirigeant. L'erreur fréquente : payer pour un client sans conserver la quittance nominative qui prouve la subrogation.",
+    "juris": "",
+    "conseil": "Pour le transitaire, conservez les quittances des sommes payées pour le compte de vos clients : elles fondent votre subrogation. Pour l'opérateur poursuivi, un échéancier ou une transaction avant la condamnation définitive évite la contrainte par corps et l'inscription au casier. Surveillez la situation de vos co-redevables : la déchéance du terme de l'un vaut pour tous.",
+    "faq": [
+      [
+        "La contrainte par corps s'applique-t-elle à une simple contravention ?",
+        "Oui, de 6 mois à 1 an pour les 1re et 2e classes et de 1 à 6 mois pour les 3e et 4e classes (CDII, art. 262 bis)."
+      ],
+      [
+        "Les condamnations douanières figurent-elles au casier judiciaire ?",
+        "Oui, malgré leur caractère de réparations civiles (CDII, art. 263)."
+      ]
+    ],
+    "renvois": [
+      "9-040",
+      "9-021",
+      "9-022",
+      "9-030",
+      "9-031",
+      "1-031"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, position de l'administration, données clés mis à jour"
+    ]
+  }
+]

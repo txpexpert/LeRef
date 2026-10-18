@@ -1,0 +1,48 @@
+[
+ {
+  "id": "5-020",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Le financement collaboratif",
+  "t": "Le cadre juridique",
+  "principe": "Loi n° 15-18 relative au financement collaboratif (BO du 9 mai 2019) ; décret n° 2-21-158 (BO du 3 novembre 2022) ; arrêtés 1916-22, 1917-22 et 1918-22 ; circulaire de l'AMMC n° 01/23 du 31 août 2023 ; circulaires de Bank Al-Maghrib. Le financement collaboratif passe par des plateformes gérées par des sociétés de financement collaboratif (SFC) agréées : par l'AMMC pour la catégorie « investissement », par Bank Al-Maghrib pour les catégories « prêt » et « don ». Les listes des SFC agréées sont publiées sur www.ammc.ma et www.bkam.ma.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-021",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Le financement collaboratif",
+  "t": "Les plafonds",
+  "principe": "| Catégorie | Plafond par projet | Plafond par contributeur personne physique et par projet | Régulateur |\n| Investissement (prise de participation) | 5 MDH | 500 000 DH | AMMC |\n| Prêt (avec ou sans intérêt) | 3 MDH | 300 000 DH | Bank Al-Maghrib |\n| Don | 450 000 DH | 250 000 DH | Bank Al-Maghrib |\nPlafonds supplémentaires (guide de l'AMMC 2024) : 10 MDH par an et 20 MDH au total par porteur ; 1 MDH par contributeur personne physique et par année civile, toutes opérations confondues. Les investisseurs providentiels habilités échappent aux plafonds par contributeur.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-022",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Le financement collaboratif",
+  "t": "Les exclusions",
+  "principe": "Sont exclus comme porteurs : les sociétés faisant appel public à l'épargne, celles en redressement ou liquidation judiciaire, les partis politiques, les établissements de crédit et assimilés, les entreprises d'assurance, les sociétés dont le capital n'est pas entièrement libéré. Sont exclues les activités politiques et religieuses et la promotion immobilière.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "5-023",
+  "p": 5,
+  "ch": "5.3",
+  "c": "Le financement collaboratif",
+  "t": "La procédure pour le porteur",
+  "principe": "- Vérifier l'éligibilité : projet licite, d'objet, de calendrier et de montant prédéfinis.\n- Choisir la catégorie (investissement, prêt, don).\n- Soumettre le projet à une SFC agréée, qui vérifie l'identité, l'honorabilité, les documents juridiques et la compréhension des risques.\n- Rédiger la note de présentation et fixer l'objectif de collecte ; la SFC organise les contrats écrits avec les contributeurs.\n- Lancer la campagne, d'une durée de six mois au plus ; un projet ne peut être présenté sur plusieurs plateformes à la fois ; si l'objectif n'est pas atteint, les contributions sont remboursées.\n- Informer régulièrement les contributeurs après la clôture (activité, situation financière, difficultés).",
+  "faq": [
+   [
+    "Combien peut-on lever en financement collaboratif ?",
+    "Jusqu'à 5 MDH par projet en catégorie « investissement », 3 MDH en « prêt » et 450 000 DH en « don », dans la limite de 10 MDH par an et 20 MDH au total par porteur."
+   ],
+   [
+    "Un promoteur immobilier peut-il utiliser le financement collaboratif ?",
+    "Non. La promotion immobilière est exclue, comme les activités politiques et religieuses."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

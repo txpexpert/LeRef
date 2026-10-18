@@ -1,0 +1,47 @@
+[
+ {
+  "id": "1-280",
+  "p": 1,
+  "ch": "1.29",
+  "c": "Les conditions d'accès et d'exploitation",
+  "t": "Le double titre : agrément et carte d'autorisation",
+  "principe": "Quiconque veut exploiter un service de transport touristique doit être personnellement agréé par la Commission des transports et obtenir, pour chaque véhicule, une carte d'autorisation spéciale délivrée par les services du Ministère de l'Équipement et du Transport (art. 4). L'agrément est valable sept ans, renouvelable par périodes septennales ; la demande de renouvellement doit être introduite au cours de l'année qui précède la dernière année de validité (art. 5).\n### POINT DE VIGILANCE — Interdiction de location des autorisations\nLes autorisations conférées par l'agrément ne peuvent pas être louées et doivent être exploitées directement par leur titulaire (art. 6). La pratique consistant à « mettre en gérance » des agréments est donc proscrite.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-281",
+  "p": 1,
+  "ch": "1.29",
+  "c": "Les conditions d'accès et d'exploitation",
+  "t": "Le parc minimal (art. 8)",
+  "principe": "| Option | Parc minimal permanent |\n| A | 1 véhicule de 1re série (plus de 25 sièges) |\n| B | 3 véhicules de 2e série (10 à 25 sièges) |\n| C | 5 véhicules de 3e série |\n| TGR | Au moins 3 véhicules haut de gamme conformes à l'arrêté 50-73 et à la liste de l'annexe 5 |\nSeuls comptent les véhicules couverts par une carte d'autorisation en cours de validité. Le parc minimal ne s'applique pas aux transporteurs en exercice avant le cahier des charges du 5 octobre 2012.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-282",
+  "p": 1,
+  "ch": "1.29",
+  "c": "Les conditions d'accès et d'exploitation",
+  "t": "Autres conditions",
+  "principe": "- Domiciliation fixe : par défaut celle des statuts, du registre du commerce et de la patente (art. 9).\n- Assurances auprès de compagnies agréées : accidents du travail et maladies professionnelles du personnel à bord ; assurance obligatoire des véhicules ; responsabilité civile du transporteur (art. 10).\n- Signalisation : plaque elliptique jaune à l'avant pour les TGR ; affiche « Transport Touristique » pour les autres véhicules (art. 7).\n- TGR : pas de compteur horokilométrique ; pas de stationnement sur la voie publique en attente de clientèle sans réservation préalable (art. 11).\n- Entretien : garage propre ou contrat de maintenance ; check-lists à jour (propreté, éclairage, sièges, gilet, triangle, pharmacie, ceintures, extincteur…) ; disques de chronotachygraphe conservés 6 mois (art. 12).\n- Déclaration CNSS du personnel de gestion et de conduite (art. 14).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-283",
+  "p": 1,
+  "ch": "1.29",
+  "c": "Les conditions d'accès et d'exploitation",
+  "t": "Les documents de bord (art. 13)",
+  "principe": "| ✓ | Document | Observation |\n| ☐ | Certificat d'immatriculation | — |\n| ☐ | Certificat de contrôle technique | En cours de validité |\n| ☐ | Carte d'autorisation | Propre au véhicule |\n| ☐ | Attestation d'assurance obligatoire | — |\n| ☐ | Quittance de la taxe à l'essieu ou de la vignette | — |\n| ☐ | Titre de la mission (l'un des trois) | • Bon de commande d'une agence de voyages (groupe constitué par l'agence) ; • Manifeste résidents (annexe 3), transmis avant le départ à la DRET/DPET (groupe non lucratif ou association) ; • Manifeste non-résidents (annexe 4) |\n| ☐ | Document de sous-traitance | Liste et nombre de passagers, itinéraire, dates, véhicule — si la prestation est sous-traitée |\n| ☐ | Pour les TGR : bon de commande (voucher) d'un donneur d'ordre | Obligatoire |\n| ☐ | Permis de conduire de la catégorie requise | Conducteur |\n| ☐ | Carte de conducteur professionnel | Conducteur |\n| ☐ | Certificat de visite médicale réglementaire | Conducteur |\nTableau 23 — Contrôle des documents de bord avant chaque départ.\n### CONSEIL PRATIQUE — Le manifeste de passagers\nLe manifeste mentionne le donneur d'ordre, la liste nominative (jusqu'à 59 passagers), l'itinéraire, le type de prestation (circuit ou transfert), les données de l'autorisation et du véhicule (y compris le véhicule de remplacement). Le responsable du groupe certifie le caractère non lucratif de l'activité ; le transporteur certifie que le transport sera effectué « à porte fermée ». Pour les résidents, une copie est soit présentée avant le départ au service compétent de la DRET/DPET, soit envoyée par courriel avant le départ, la copie du courriel devant alors être conservée à bord.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-284",
+  "p": 1,
+  "ch": "1.29",
+  "c": "Les conditions d'accès et d'exploitation",
+  "t": "Notification des changements (art. 15)",
+  "principe": "Le changement de domiciliation, de responsable légal ou de dénomination doit être notifié à la délégation du Tourisme et à la direction de l'Équipement et du Transport compétentes, dans les 60 jours suivant sa survenance.",
+  "maj": "2026-10-17"
+ }
+]

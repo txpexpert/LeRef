@@ -1,0 +1,119 @@
+[
+  {
+    "id": "2-060",
+    "p": 2,
+    "ch": "2.4",
+    "c": "Renseignements préalables",
+    "t": "Décisions anticipées (renseignements préalables) : objet, demande et délai de réponse de l'administration",
+    "enbref": "Avant une opération, tout opérateur peut demander à l'ADII une décision anticipée sur le classement tarifaire, l'origine ou la méthode d'évaluation de sa marchandise. L'administration est tenue de répondre dans un délai de 150 jours au plus. La décision sécurise le traitement de l'opération future, à condition que la demande soit complète et exacte.",
+    "textes": [
+      "CDII, art. 45 ter-1° et 2°",
+      "CDII, art. 15-2° et 15-3°",
+      "Décret n° 2-77-862, art. 216 bis",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016",
+      "Circulaires ADII n° 6709/232, 6710/232, 6729/232 et 6732/232 (2026)"
+    ],
+    "principe": "L'article 45 ter du CDII impose à l'administration deux obligations d'information. La première est générale : fournir aux tiers les renseignements relatifs aux lois et règlements douaniers (45 ter-1°). La seconde est spécifique : rendre, préalablement aux opérations, des décisions anticipées sur trois questions, le classement tarifaire, l'origine et les méthodes d'évaluation de la valeur en douane (45 ter-2°).\n\nLa décision est rendue selon des modalités fixées par voie réglementaire ; le ministre chargé des finances fixe les documents constitutifs du dossier de demande (décret n° 2-77-862, art. 216 bis). L'administration doit répondre dans un délai maximal de 150 jours (CDII, art. 45 ter-2°).\n\nLa décision anticipée se distingue de la décision de classement de l'article 15 du CDII. Celle-ci est prise à la demande du redevable ou à la suite d'un litige, et reste valable jusqu'à une décision modificative ou une modification de la nomenclature (art. 15-2° et 3°). La décision anticipée intervient avant l'opération et sa validité est limitée dans le temps (voir 2-061).\n\nLes informations privées ou confidentielles communiquées par le demandeur restent couvertes par le secret professionnel, sauf autorisation expresse de l'intéressé ; ce secret n'est pas opposable à l'autorité judiciaire, aux administrations fiscales et statistiques, ni lorsque la loi en prévoit la levée (CDII, art. 45 ter-3° et 4°).",
+    "admin": "L'ADII présente le renseignement contraignant en matière tarifaire, d'origine ou de méthodes d'évaluation parmi les services offerts aux grands comptes (note D7106/16). Les circulaires de classement de la série 232, prises en référence à l'article 45 ter, décrivent le produit (composition, présentation, conditionnement, usage) et indiquent la sous-position retenue avec les règles générales interprétatives appliquées ; elles montrent le niveau de détail attendu d'une demande (circ. n° 6709/232, 6710/232, 6729/232, 6732/232).",
+    "donnees": [
+      [
+        "Objet",
+        "Classement tarifaire, origine, méthode d'évaluation (CDII, art. 45 ter-2°)"
+      ],
+      [
+        "Délai de réponse",
+        "150 jours au plus (CDII, art. 45 ter-2°)"
+      ],
+      [
+        "Contenu du dossier",
+        "Fixé par arrêté du ministre (décret, art. 216 bis)"
+      ],
+      [
+        "Confidentialité",
+        "Secret professionnel, sauf exceptions légales (CDII, art. 45 ter-3° et 4°)"
+      ]
+    ],
+    "cas": "La société fictive Gharb Batteries prévoit d'importer, à partir de l'année suivante, une poudre pour cathodes de batteries lithium-ion, dont le classement oscille entre le chapitre 28 et la position 3824. Plutôt que de risquer un redressement après plusieurs importations, elle dépose six mois avant la première opération une demande de décision anticipée, avec la fiche technique, la composition chimique, le procédé de fabrication et l'usage. L'ADII dispose de 150 jours pour répondre. L'erreur serait de déposer la demande la veille de l'arrivée de la marchandise.",
+    "juris": "",
+    "conseil": "Déposez la demande au moins cinq mois avant la première opération, compte tenu du délai légal de 150 jours. Joignez un dossier technique complet et votre propre proposition de classement, d'origine ou de méthode, motivée : une demande incomplète retarde la réponse et fragilise la décision. Pour un groupe, une demande sur la méthode d'évaluation des prix intragroupe est souvent plus utile qu'une demande de classement.",
+    "faq": [
+      [
+        "Sur quelles questions peut-on demander une décision anticipée ?",
+        "Le classement tarifaire, l'origine et les méthodes d'évaluation (CDII, art. 45 ter-2°)."
+      ],
+      [
+        "Dans quel délai l'ADII doit-elle répondre ?",
+        "Dans un délai de 150 jours au plus (CDII, art. 45 ter-2°)."
+      ]
+    ],
+    "renvois": [
+      "2-061",
+      "2-002",
+      "2-005",
+      "2-021",
+      "2-043",
+      "2-044"
+    ],
+    "maj": "2026-10-03",
+    "verif": "partiel"
+  },
+  {
+    "id": "2-061",
+    "p": 2,
+    "ch": "2.4",
+    "c": "Renseignements préalables",
+    "t": "Décisions anticipées : opposabilité, durée de validité, annulation, nullité et publication",
+    "enbref": "Une décision anticipée est valable cinq ans pour le classement tarifaire, trois ans pour l'origine et un an pour la méthode d'évaluation. Elle peut être annulée si les éléments qui la fondent changent, et elle est nulle depuis l'origine si elle repose sur des informations fausses, inexactes ou incomplètes. Il appartient au déclarant de prouver que sa marchandise correspond à la décision.",
+    "textes": [
+      "CDII, art. 45 ter-2°",
+      "CDII, art. 15-3°",
+      "CDII, art. 22 bis et 22 ter",
+      "Circulaire ADII n° 6706/233 du 31/12/2025"
+    ],
+    "principe": "L'article 45 ter-2° du CDII fixe la durée de validité des décisions anticipées selon leur objet : cinq ans pour le classement tarifaire, trois ans pour les règles d'origine, un an pour les méthodes d'évaluation.\n\nLa sécurité qu'elles apportent est encadrée par quatre règles posées par le même texte :\n- l'administration peut annuler la décision lorsque les éléments qui l'ont fondée ont changé ;\n- le demandeur doit prouver que la marchandise déclarée correspond à celle décrite dans sa demande ;\n- la décision est nulle rétroactivement si elle a été rendue sur la base d'indications fausses, inexactes ou incomplètes ;\n- l'administration publie les décisions, au Bulletin officiel ou dans un journal d'annonces légales.\n\n Par comparaison, la décision de classement de l'article 15 est immédiatement exécutoire à l'égard du demandeur et des parties, et reste valable jusqu'à une décision modificative ou une modification de la nomenclature (CDII, art. 15-3°). En pratique, une modification de la nomenclature ou de la règle d'origine applicable constitue un changement des éléments fondateurs qui peut justifier l'annulation d'une décision anticipée.\n\nEn cas de désaccord avec une décision, l'opérateur dispose des voies de concertation et de recours : commission locale de concertation, puis commission consultative et de recours (CDII, art. 22 bis et 22 ter).",
+    "admin": "Les décisions de classement prises en référence à l'article 45 ter sont diffusées au service par des circulaires de la série 232, qui précisent que toute difficulté d'application doit être signalée à l'administration centrale (circ. n° 6709/232 et suivantes).",
+    "donnees": [
+      [
+        "Validité (classement tarifaire)",
+        "5 ans (CDII, art. 45 ter-2°)"
+      ],
+      [
+        "Validité (origine)",
+        "3 ans (CDII, art. 45 ter-2°)"
+      ],
+      [
+        "Validité (méthode d'évaluation)",
+        "1 an (CDII, art. 45 ter-2°)"
+      ],
+      [
+        "Informations fausses ou incomplètes",
+        "Nullité rétroactive (CDII, art. 45 ter-2°)"
+      ],
+      [
+        "Charge de la preuve",
+        "Le demandeur prouve la correspondance de la marchandise (CDII, art. 45 ter-2°)"
+      ]
+    ],
+    "cas": "La société fictive Saïss Agro a obtenu en 2024 une décision anticipée sur l'origine de ses biscuits exportés vers l'UE. Depuis le 01/01/2026, les règles d'origine applicables aux échanges avec l'UE ont changé (circ. n° 6706/233). La décision, en principe valable trois ans, peut donc être annulée par l'administration pour changement des éléments fondateurs, et la société ne peut s'en prévaloir sans vérifier sa conformité aux nouvelles règles. Elle a intérêt à demander une nouvelle décision.",
+    "juris": "",
+    "conseil": "Tenez un registre de vos décisions anticipées avec leur date d'expiration : 5 ans pour le classement, 3 ans pour l'origine, 1 an seulement pour la méthode d'évaluation. Joignez la référence de la décision à chaque déclaration concernée, avec la fiche technique prouvant que la marchandise est identique. Revérifiez chaque décision lors d'une modification du tarif ou des règles d'origine.",
+    "faq": [
+      [
+        "Combien de temps une décision anticipée sur l'origine est-elle valable ?",
+        "Trois ans (CDII, art. 45 ter-2°)."
+      ],
+      [
+        "Que se passe-t-il si la demande contenait une erreur ?",
+        "Si la décision a été rendue sur des indications fausses, inexactes ou incomplètes, elle est nulle rétroactivement (CDII, art. 45 ter-2°)."
+      ]
+    ],
+    "renvois": [
+      "2-060",
+      "2-005",
+      "2-022",
+      "9-050"
+    ],
+    "maj": "2026-10-03",
+    "verif": "partiel"
+  }
+]

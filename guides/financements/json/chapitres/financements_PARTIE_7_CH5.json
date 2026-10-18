@@ -1,0 +1,52 @@
+[
+ {
+  "id": "7-040",
+  "p": 7,
+  "ch": "7.5",
+  "c": "Les recours",
+  "t": "Distinguer avant d'agir",
+  "principe": "Il faut distinguer trois situations : une demande de complément (le dossier n'est pas rejeté, il faut répondre) ; une décision défavorable formelle et notifiée de la CRUI (elle peut faire l'objet d'un recours) ; l'absence de décision (silence). Aucune source officielle consolidée lue ne permet d'affirmer que le silence de la CRUI vaut accord ou rejet : il ne faut pas engager de travaux en considérant le silence comme une autorisation ou un accord de prime.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-041",
+  "p": 7,
+  "ch": "7.5",
+  "c": "Les recours",
+  "t": "Le circuit de recours issu de la loi 22-24",
+  "principe": "- Obtenir la décision complète : texte, référence, date, motifs, preuve de notification. Si elle n'est pas motivée, en demander immédiatement la version motivée, sans laisser cette demande retarder le recours.\n- Recours auprès du wali de la région, qui peut statuer directement. Le délai pour le saisir n'a pas été confirmé dans un texte consolidé (15 jours selon des guides, statut D) : agir sans attendre.\n- Si le différend persiste, saisine de la Commission ministérielle de recours, qui remplace l'ancienne commission de pilotage et ne traite que des recours. Un délai d'examen de 45 jours est rapporté par des sources secondaires (statut D).\n- Voie contentieuse : recours devant le tribunal administratif contre une décision explicite ou implicite (loi n° 41-90), dans les délais et selon l'articulation avec les recours préalables, à faire vérifier par un avocat.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-042",
+  "p": 7,
+  "ch": "7.5",
+  "c": "Les recours",
+  "t": "Le contenu d'un recours",
+  "principe": "Raison sociale, ICE, adresse et identité du représentant ; numéro du dossier ; référence, date et objet de la décision contestée ; chronologie (dépôt, compléments, transmission à la CRUI, notification) ; exposé numéroté des moyens ; demande explicite (réexamen, levée d'une réserve, nouvelle instruction, réformation) ; liste numérotée des pièces ; signature du représentant habilité.\n| Motif de refus | Réponse | Preuve | Demande |\n| Autorisation ou conformité manquante | Régularisation ou interprétation contestée | Autorisation, avis, plan | Réexamen de ce motif |\n| Viabilité financière insuffisante | Hypothèses actualisées, financement démontré | Lettre bancaire, plan de trésorerie | Nouvelle instruction financière |\n| Incompatibilité urbanistique | Explication du zonage | Note de renseignements urbanistiques, plans | Réexamen ou levée de réserve |\n| Critère de prime non prouvé | Calcul et justificatifs | Tableau et documents sources | Réévaluation de l'avantage |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-043",
+  "p": 7,
+  "ch": "7.5",
+  "c": "Les recours",
+  "t": "Le plafond de cumul n'est pas un motif de recours",
+  "principe": "Le plafond de 30 % du montant primable (et de 30 MDH pour l'énergie éolienne, solaire ou hydraulique) est fixé par décret. L'administration ramène automatiquement le total des primes au plafond. Un recours ne peut porter que sur une erreur de calcul (montant primable, ratio, catégorie de province, éligibilité d'un critère), pas sur le plafond lui-même. Si des éléments nouveaux augmentent le montant primable (extension, emplois supplémentaires), il faut demander un avenant.",
+  "faq": [
+   [
+    "Comment traiter un rejet de dossier sur le CRI ?",
+    "Lire les motifs. S'il s'agit d'un défaut de pièce ou d'une incohérence, corriger et redéposer. S'il s'agit d'une décision défavorable de la CRUI contestable, former un recours auprès du wali de la région, puis, si nécessaire, devant la Commission ministérielle de recours, en répondant motif par motif avec preuves. Faire vérifier les délais par écrit auprès du CRI."
+   ],
+   [
+    "Quels recours en cas de dépassement du plafond de cumul ?",
+    "Aucun sur le plafond lui-même, qui est réglementaire : le total est ramené à 30 % du montant primable. On ne peut contester qu'une erreur de calcul ou d'appréciation d'un critère."
+   ],
+   [
+    "Le silence de la CRUI vaut-il accord ?",
+    "Non établi. Demander par écrit au CRI l'état du dossier, la date de complétude, la date de transmission à la CRUI et la décision éventuelle, et ne pas présumer un accord."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {
+  "id": "6-010",
+  "p": 6,
+  "ch": "6.2",
+  "c": "Annexe B — Liste de contrôle avant d'importer un produit industriel",
+  "t": "Annexe B — Liste de contrôle avant d'importer un produit industriel",
+  "principe": "| N° | Vérification | Source |\n| 1 | La marchandise figure-t-elle sur la liste DGC des produits soumis à licence d'importation ? Attention aux mentions « EX ». | Liste DGC ; section 3 |\n| 2 | Le produit relève-t-il d'une législation spéciale (ONSSA, santé, hydrocarbures) plutôt que de la loi 24-09 ? | Loi 24-09, art. 2 ; section 5 |\n| 3 | Une NMO ou une réglementation technique s'applique-t-elle ? Laquelle, et depuis quelle date ? | Liste NMO du 19/06/2026 ; section 7 |\n| 4 | La certification NM est-elle exigée (produits sidérurgiques notamment) ? | Liste NMO ; 7.2 |\n| 5 | Le produit est-il contrôlé à l'origine ? L'envoi dépasse-t-il le seuil de dispense ? | Liste du 20/02/2026 ; 7.5 |\n| 6 | Le produit est-il contrôlé à l'arrivée ? | Liste du 20/02/2026 ; 7.6 |\n| 7 | Le fournisseur fournit-il la déclaration de conformité, le dossier technique et le marquage exigés ? | Loi 24-09, art. 14 à 18 |\n| 8 | Les rapports d'essais émanent-ils d'un OEC agréé à jour ou d'un laboratoire accrédité pour la norme en cause ? | Liste des OEC ; portées SEMAC ; section 8 |\n| 9 | L'étiquetage et les avertissements sont-ils au moins en arabe, avec l'identité de l'importateur ? | Loi 24-09, art. 27 et 31 ; DOC, art. 106-6 |\n| 10 | Le produit ou son origine fait-il l'objet d'un droit antidumping, compensateur ou de sauvegarde, ou d'une enquête en cours ? | Loi 15-09 ; publications du ministère au BO |\n| 11 | Le contrat ou la pro forma comporte-t-il toutes les mentions de l'article 8 de l'arrêté 1675-15 ? | Section 2 |\n| 12 | L'engagement d'importation est-il domicilié et encore valide à la date d'expédition ? | Arrêté 1675-15, art. 5 |\n| 13 | S'il s'agit d'un instrument de mesure réglementé, l'importateur est-il agréé ? | Liste du 18/03/2026 ; 8.5 |",
+  "maj": "2026-10-17"
+ }
+]

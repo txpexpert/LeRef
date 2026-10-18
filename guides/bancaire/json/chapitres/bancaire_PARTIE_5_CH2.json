@@ -1,0 +1,29 @@
+[
+ {
+  "id": "5-010",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Risques couvrables et instruments autorisés (LC/BKAM/2018/2)",
+  "principe": "| Risque | Instruments | Particularités |\n| Change | Change à terme, swaps de change, options de change — devises contre dirham et devises contre devises | Commission de change applicable aux opérations contre dirham |\n| Taux d'intérêt | FRA (Forward Rate Agreement), options sur taux, swaps de taux | — |\n| Prix des produits de base | Instruments négociés sur un marché international organisé | Comptes dédiés, sous-comptes chez un courtier-compensateur |\n| Prix de tout actif ou dette | Instruments de gré à gré (ISDA, FBF, EMIR) ou marchés organisés | Pour les opérateurs autorisés par la réglementation des changes |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-011",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Règles de mise en place",
+  "principe": "1. La couverture doit être adossée à une opération sous-jacente (courante ou en capital) conforme à la réglementation des changes de l'Office des Changes.\n2. Le dénouement de la couverture ne peut dépasser les délais de règlement de l'opération sous-jacente prévus par le contrat commercial ou financier (art. 9) : préparer facture proforma, contrat ou échéancier.\n3. Signer une convention-cadre de type ISDA, FBF ou EMIR avec la banque (art. 10).\n4. Pour les matières premières : la banque ouvre au client un compte en devises dédié exclusivement à la couverture, enregistrant dépôt de garantie, appels de marge quotidiens et primes ; elle ouvre en son nom un compte chez un courtier-compensateur international avec un sous-compte au nom du client ; elle assure confirmations, récapitulatifs de trésorerie et déclare à BAM les positions ouvertes (art. 15-16).\n### Importateur réglant en USD à 90 jours\nUne entreprise importe des équipements payables 500 000 USD à 90 jours. Pour figer son coût en dirhams : (1) elle transmet à sa banque la facture et l'échéancier ; (2) signe la convention-cadre de couverture ; (3) conclut un achat à terme USD/MAD à une échéance ne dépassant pas la date de règlement contractuelle ; (4) à l'échéance, la banque livre les dollars au cours à terme convenu, augmenté de la commission de change de 1 ‰. Si le paiement est différé, la couverture ne peut être prorogée au-delà du délai prévu par le contrat sous-jacent sans justification.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-012",
+  "p": 5,
+  "ch": "5.2",
+  "c": "Couvrir les risques de change, de taux et de matières premières",
+  "t": "Placements en devises des banques",
+  "principe": "Les banques peuvent placer leurs devises en dépôts monétaires, titres souverains, titres d'institutions financières multilatérales et instruments cotés sur des marchés réglementés (art. 6). Leurs positions de change sont encadrées par des limites rapportées aux fonds propres (arrêté 585-96 ; circ. 9/G/96).",
+  "maj": "2026-10-18"
+ }
+]

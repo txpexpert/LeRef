@@ -1,0 +1,65 @@
+[
+ {
+  "id": "3-070",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "La taxe spéciale annuelle sur les véhicules (TSAV)",
+  "principe": "Taxe annuelle sur les véhicules immatriculés au Maroc, assise sur la puissance fiscale et le carburant. Pour les véhicules mis en circulation en cours d’année, le délai de paiement est porté à 60 jours suivant la date du récépissé de dépôt du dossier auprès de la NARSA (LF 2025, art. 261-I). Retard : pénalité et majoration de l’article 208 (minimum 100 DH) ; retard constaté par procès-verbal : pénalité de 100 % et mise en fourrière possible. Exonérations : véhicules de l’État et des collectivités territoriales, du corps diplomatique accrédité au Maroc, ambulances et voitures de pompiers, tracteurs agricoles [CGI Livre III, titre II].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-071",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "La contribution sociale de solidarité sur les bénéfices et revenus",
+  "principe": "Mise à la charge des sociétés (hors sociétés exonérées de manière permanente) et des personnes physiques au RNR dont le bénéfice ou revenu net est égal ou supérieur à 1 000 000 DH au titre du dernier exercice clos [CGI art. 267 et 268].\n| Bénéfice ou revenu net | Taux |\n| De 1 MDH à moins de 5 MDH | 1,5 % |\n| De 5 MDH à moins de 10 MDH | 2,5 % |\n| De 10 MDH à moins de 40 MDH | 3,5 % |\n| 40 MDH et plus | 5 % |\nDéclaration électronique dans les 3 mois suivant la clôture (sociétés) ou avant le 1er juin (personnes physiques) [art. 270]. La contribution n’est pas déductible [art. 11-IV]. Vérifier, pour chaque exercice, la période d’application fixée par les lois de finances.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-072",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "La CSS sur les livraisons à soi-même de construction",
+  "principe": "Les personnes qui construisent pour elles-mêmes leur habitation personnelle sont soumises à la contribution sociale de solidarité sur les livraisons à soi-même [CGI art. 274 et s.] et non à la TVA [art. 89-I-7°].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-073",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "La taxe spéciale sur le ciment (codifiée en 2025)",
+  "principe": "Taux de 0,15 DH par kilogramme, sur le ciment produit localement (gestion DGI) ou importé (gestion ADII). Les cimentiers déposent une déclaration électronique des quantités vendues et consommées en interne et paient avant la fin du mois suivant celui de la facturation ou de l’utilisation [CGI art. 293 à 297]. Le produit est affecté au Fonds de solidarité habitat et intégration urbaine.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-074",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "La taxe sur les contrats d’assurances",
+  "principe": "| Catégorie | Taux (référentiel) |\n| Assurances de personnes (vie, accidents corporels, maladie) | 3,5 % |\n| Responsabilité civile automobile | 7 % (+ 4 % fonds de garantie) |\n| Incendie — risques simples | 14 % |\n| Incendie — risques industriels et commerciaux | 10 % |\n| Transport terrestre de marchandises | 5,5 % |\n| Transport maritime et aérien | 1 % |\n| Autres dommages | 6 % |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-075",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "La CSS sur les bénéfices des entreprises de jeux de hasard (LF 2025)",
+  "principe": "2 % du bénéfice net servant au calcul de l’IS ou de l’IR, limité à la part du bénéfice de l’activité de jeux [CGI art. 298 à 303].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-076",
+  "p": 3,
+  "ch": "3.7",
+  "c": "Les autres taxes de l’opérateur",
+  "t": "Les taxes locales gérées par la DGI",
+  "principe": "La taxe professionnelle (exonération de 5 ans pour les activités nouvellement créées et pour les biens neufs acquis en cours d’exploitation ; exonérations permanentes sectorielles), la taxe d’habitation et la taxe de services communaux relèvent de la loi n° 47-06 relative à la fiscalité des collectivités territoriales. Leur numéro d’article doit figurer sur les factures (TP) et dans les actes (TH/TSC), et leur paiement conditionne la délivrance de la fiche de renseignements nécessaire aux mutations immobilières.",
+  "maj": "2026-10-17"
+ }
+]

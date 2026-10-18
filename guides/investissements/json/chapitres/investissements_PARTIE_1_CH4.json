@@ -1,0 +1,47 @@
+[
+ {
+  "id": "1-030",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les instances nationales : Commission nationale, AMDIE et comités techniques",
+  "t": "La Commission nationale des investissements (CNI)",
+  "principe": "La commission ministérielle prévue à l'article 34 LC prend le nom de « Commission nationale des investissements » (article 12 D). Présidée par le Chef du gouvernement, elle réunit les autorités gouvernementales chargées de l'intérieur, de l'économie et des finances, de l'équipement et de l'eau, de l'urbanisme, de l'emploi, de l'industrie, du tourisme, de l'enseignement supérieur, de la transition énergétique, de l'investissement, du budget et de la transition numérique, le secrétaire général du gouvernement et les ministres concernés par le projet (article 18 D). Elle se réunit sur convocation de son président, qui fixe l'ordre du jour (article 20 D).\nSes missions (article 34 LC) :\n- approuver les conventions du dispositif principal dont le montant total est égal ou supérieur à 250 millions de dirhams (article 13 D) ;\n- statuer sur le caractère stratégique des projets et approuver les conventions stratégiques ;\n- approuver les conventions du dispositif « entreprises marocaines à l'international » ;\n- évaluer périodiquement l'efficacité des dispositifs et proposer les ajustements ;\n- statuer sur les demandes de bascule vers le nouveau dispositif des conventions signées depuis le 1er janvier 2022 (article 42 LC).\n- assurer le suivi de la mise en œuvre de la loi-cadre et de ses textes d'application, et proposer toute mesure de nature à renforcer l'attractivité du Royaume (article 34-f et g LC).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-031",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les instances nationales : Commission nationale, AMDIE et comités techniques",
+  "t": "L'AMDIE, secrétariat de la Commission nationale",
+  "principe": "L'AMDIE (loi n° 60-16) assure le secrétariat de la CNI (article 21 D) : elle prépare les réunions et les procès-verbaux, propose l'ordre du jour, soumet à la CNI les projets de conventions et d'avenants, organise leur signature, reçoit les demandes de qualification stratégique, collecte l'information sur l'avancement des projets conventionnés et établit des rapports périodiques sur l'exécution des conventions. Pour l'opérateur, l'AMDIE est donc l'interlocuteur des projets de 250 MDH et plus.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-032",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les instances nationales : Commission nationale, AMDIE et comités techniques",
+  "t": "Le Comité technique de préparation et de suivi",
+  "principe": "Présidé par le directeur général de l'AMDIE, ce comité réunit au moins des chefs de division des ministères concernés, dont quatre représentants des finances (article 24 D). Il est chargé (article 22 D) :\n- d'apprécier la valeur vénale du foncier privé déclaré par l'investisseur ;\n- de calculer le montant d'investissement primable et les primes ;\n- d'établir les projets de conventions de 250 MDH et plus et leurs avenants ;\n- de suivre l'avancement des projets du dispositif principal.\nIl peut s'adjoindre toute personne dont il estime la présence utile (article 24 D, texte officiel).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-033",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les instances nationales : Commission nationale, AMDIE et comités techniques",
+  "t": "Le Comité technique des projets stratégiques",
+  "principe": "Présidé par l'autorité gouvernementale chargée de l'investissement, il réunit des directeurs d'administration centrale, dont un représentant du Chef du gouvernement et quatre représentants des finances (article 27 D). Il instruit les demandes de qualification stratégique, suit les négociations conduites par le ministre chargé de l'investissement avec l'investisseur, établit les projets de conventions et suit leur exécution (article 25 D).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-034",
+  "p": 1,
+  "ch": "1.4",
+  "c": "Les instances nationales : Commission nationale, AMDIE et comités techniques",
+  "t": "Seuil de compétence : national ou régional ?",
+  "principe": "| Critère | Projet < 250 MDH | Projet ≥ 250 MDH |\n| Base légale | Art. 35 LC ; art. 14 D ; loi 22-24 | Art. 34-a LC ; art. 13 D |\n| Élaboration | CRI, avec les services déconcentrés | Comité technique (AMDIE) |\n| Approbation | Échelon régional (CRUI) | Commission nationale |\n| Signature | Échelon régional : wali, responsables des services déconcentrés et investisseur (loi 22-24) | Investisseur et ministres de l'intérieur, des finances, de l'investissement, du budget et ministres sectoriels concernés |\n| Interlocuteur | CRI | AMDIE |\n### RÉGIME TRANSITOIRE DE L'ARTICLE 29 DU DÉCRET\nTant que la déconcentration prévue à l'article 14 D n'était pas opérationnelle, toutes les conventions du dispositif principal étaient établies, approuvées et signées au niveau national (articles 13 et 22 D), quel que soit leur montant. La loi n° 22-24 et le décret modificatif publié au BO du 30 juillet 2026 consacrent l'échelon régional pour les conventions de moins de 250 MDH (d'après la synthèse non officielle du corpus). Le décret publié au BO du 30 juillet 2026 modifie le décret n° 2-19-67 relatif aux CRI : le corpus ne permet pas de dater la fin du régime transitoire de l'article 29 D. Vérifiez auprès du CRI le circuit effectivement applicable dans votre région.",
+  "maj": "2026-10-17"
+ }
+]

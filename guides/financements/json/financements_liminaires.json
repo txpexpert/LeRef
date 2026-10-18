@@ -1,0 +1,39 @@
+{
+ "titre": "Guide des procédures de financement de l'investissement",
+ "sous_titre": "Maroc",
+ "edition": "Édition 2026",
+ "a_jour_au": "2026-10-09",
+ "mode_emploi": {
+  "introduction": [],
+  "rubriques": [
+   {
+    "rubrique": "Objet de l'ouvrage",
+    "texte": "Cet ouvrage est un guide des procédures. Il ne présente pas les financements de manière générale : il dit, pour chaque mécanisme, qui peut en bénéficier, ce qu'il apporte, comment le demander, auprès de qui, avec quelles pièces, dans quel ordre, et ce qu'il faut surveiller après l'accord. Il s'adresse aux promoteurs, aux dirigeants de très petites, petites, moyennes et grandes entreprises, aux Marocains du monde, aux porteurs de startups, ainsi qu'aux conseils, experts-comptables et chargés d'affaires qui montent les dossiers pour eux. Il a été conçu pour deux usages. Le premier est la lecture : un investisseur doit pouvoir y trouver, en quelques pages, le mécanisme adapté à son projet et la liste de ce qu'il doit préparer. Le second est l'alimentation d'une base de données consultée par un modèle de langage sur la plateforme Le Ref : chaque section est rédigée pour être autonome, chaque chiffre porte sa source et son statut, et chaque section se termine par des questions-réponses prêtes à l'emploi."
+   },
+   {
+    "rubrique": "Les sources",
+    "texte": "L'ouvrage exploite, dans l'ordre de leur valeur juridique : • les textes publiés au Bulletin officiel ou au Journal officiel : décret n° 2-23-1 du 16 février 2023 (dispositif principal et projets stratégiques) et ses arrêtés 3-12-23, 3-13-23 et 3-14-23 ; décret n° 2.25.342 du 12 juin 2025 (dispositif TPME) et ses arrêtés 3.51.25, 3.52.25, 3.53.25 et 3.54.25 du 31 octobre 2025 ; • la brochure « La Charte de l'investissement » publiée par l'AMDIE ; • les cinq éditions du « Kit de l'accompagnement de l'Entreprise » du Centre régional d'investissement (CRI) de Casablanca-Settat : 2023, septembre 2024, octobre 2025, novembre 2025 et décembre 2025 ; • la carte des dispositifs et le guide de travail établis lors des sessions précédentes (relevé du 8 octobre 2026), ainsi que les échanges de travail sur les calculs, les dossiers de convention et les recours ; • une recherche complémentaire menée le 9 octobre 2026 sur les sites d'information économique et des opérateurs (réforme des CRI par la loi 22-24, Pacte TPME de Maroc PME, loi de finances 2026, Fonds de développement agricole, financement collaboratif, Fonds Mohammed VI pour l'investissement, Tamwilcom). Les montants sont exprimés en dirhams (DH). MDH désigne le million de dirhams, Md DH le milliard. Les pourcentages de prime s'appliquent au montant d'investissement primable (voir glossaire), sauf mention contraire."
+   },
+   {
+    "rubrique": "Les statuts de vérification",
+    "texte": "Chaque valeur chiffrée porte, explicitement ou par renvoi, l'un des statuts suivants. Une plateforme publique ne devrait afficher un chiffre sans réserve que s'il relève du statut A ou a été recoupé avec l'opérateur. Statut — Signification — Usage recommandé · A — Texte juridique — Valeur lue dans un texte publié au Bulletin officiel ou au Journal officiel — Affichable ; citer l'article · B — Document officiel — Brochure AMDIE ou Kit du CRI (édition indiquée), non confronté au site de l'opérateur — Affichable avec la mention de l'édition et de la date · C — Source de presse ou de place — Article de presse économique, communiqué, site d'un opérateur relayé par la presse — Afficher « à confirmer auprès de l'opérateur » · D — Session antérieure ou source secondaire — Valeur citée lors d'une session de travail (par exemple un Kit d'août 2026 non retrouvé) ou par un site de guides — Ne pas afficher comme donnée ; vérifier d'abord · H — Historique — Programme présent dans une ancienne édition et absent de la plus récente — Afficher avec la date de dernière apparition"
+   },
+   {
+    "rubrique": "Ce que l'ouvrage corrige",
+    "texte": "Plusieurs erreurs circulent dans les guides en ligne et figuraient dans des réponses obtenues lors de sessions antérieures. L'ouvrage les rectifie au fil des sections et les rassemble à la section 35. Les plus importantes sont les suivantes : la prime liée aux emplois stables se cumule avec les autres primes communes (seuls ses trois paliers ne se cumulent pas entre eux) ; il n'existe pas de prime sectorielle de 10 % pour des « secteurs stratégiques » dans le dispositif principal ; Kénitra ne bénéficie d'aucune prime territoriale ; Salé est classée en catégorie A (10 %) et non en catégorie B ; le taux de l'impôt sur les sociétés de droit commun applicable en 2026 est de 20 % (35 % au-delà de 100 MDH de bénéfice), et non de 31 %."
+   },
+   {
+    "rubrique": "Comment lire une fiche de dispositif",
+    "texte": "Les fiches suivent toutes le même ordre : opérateur et nature de l'aide ; public visé ; conditions d'éligibilité ; avantage (taux, plafond, durée) ; procédure et canal de dépôt ; pièces à préparer ; points de vigilance ; source et statut. Les encadrés « Attention » signalent une règle qui fait échouer des dossiers ; les encadrés « À retenir » résument ; les encadrés « Exemple chiffré » donnent un calcul vérifié."
+   },
+   {
+    "rubrique": "Limites",
+    "texte": "Cet ouvrage n'est ni un avis juridique ni un conseil fiscal ou financier personnalisé. Les décret et arrêtés relatifs au dispositif TPME ont été lus en arabe et traduits : une relecture par un juriste s'impose avant toute publication officielle. Les conditions des produits bancaires, des fonds et des programmes changent souvent ; avant tout engagement, l'investisseur doit obtenir de l'opérateur concerné une confirmation écrite et datée des conditions en vigueur. La loi-cadre n° 03-22 elle-même et le texte consolidé de la loi n° 47-18 modifiée par la loi n° 22-24 n'ont pas été lus dans leur version officielle : les règles qui en dépendent sont signalées."
+   },
+   {
+    "rubrique": "Structure de l'ouvrage",
+    "texte": "Partie — Contenu — Sections · I — Comprendre le système de financement et choisir son mécanisme — 1 à 3 · II — La Charte de l'investissement et les avantages publics — 4 à 8 · III — Garanties, cofinancements et avances (Tamwilcom, Finéa) — 9 à 11 · IV — Crédit bancaire, crédit-bail, finance participative, microfinance — 12 à 15 · V — Fonds propres : capital-investissement, bourse, financement collaboratif — 16 à 18 · VI — Programmes par public et par secteur — 19 à 26 · VII — Monter, déposer et défendre le dossier — 27 à 34 · VIII — Vigilance, veille et structuration des données — 35 à 37 · Annexes — Listes officielles, annuaires, glossaire français-arabe, sources — A à H"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+[
+ {
+  "id": "6-040",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Export et accès aux marchés extérieurs",
+  "t": "Power Export",
+  "principe": "| Rubrique | Contenu |\n| Opérateurs | Secrétariat d'État au Commerce extérieur et Maroc PME, dans le cadre du Pacte du commerce extérieur 2025-2027 |\n| Public | Entreprises de droit privé marocain d'au moins deux ans, dont le capital n'est pas détenu à plus de 50 % par une société au CA supérieur à 200 MDH |\n| Primo-exportateurs | CA moyen supérieur à 2 MDH (1 MDH pour l'artisanat) |\n| Exportateurs confirmés | CA à l'export d'au moins 5 MDH sur deux exercices |\n| Avantages | Diagnostic flash et plan d'action pris en charge à 80 %, dans la limite de 50 000 DH ; mise en œuvre du plan à 80 % des dépenses HT, dans la limite de 1 MDH (primo-exportateur) ou 2 MDH (exportateur confirmé) |\n| Procédure | Dossier via Maroc PME (marocpme.gov.ma, rubrique export) |\n| Statut | B (apparu dans le Kit d'octobre 2025) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-041",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Export et accès aux marchés extérieurs",
+  "t": "Export Morocco Now 2024-2026 (AMDIE)",
+  "principe": "Accompagnement de bout en bout (veille et analyse des marchés, promotion et prospection, accès aux marchés, formation export) pour 350 entités, dont 250 entreprises ou coopératives exportatrices et 100 primo-exportatrices. Conditions : entreprise ou coopérative de droit marocain, à jour de ses obligations fiscales et sociales, constituée depuis au moins un an ; exportatrices : CA moyen à l'export supérieur à 5 MDH sur trois ans ; primo-exportateurs : jamais exporté ou CA moyen à l'export inférieur à 5 MDH. Démarche : appel à manifestation d'intérêt de l'AMDIE (www.morocconow.com). Le programme couvre 2024-2026 : vérifier son renouvellement.\nExport Morocco Now Women : volet féminin pour 50 entités, entreprises ou coopératives créées avant fin 2022, au CA à l'export inférieur à 5 MDH en 2022, situées en Marrakech-Safi, Souss-Massa ou Casablanca-Settat. Renforcement de capacités, mise en conformité des produits, digitalisation, rencontres B2B. Phase 1 en 2024-2025.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-042",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Export et accès aux marchés extérieurs",
+  "t": "Programmes échus ou à vérifier",
+  "principe": "| Programme | Contenu | Période |\n| Programme d'appui aux primo-exportateurs (ministère de l'Industrie et du Commerce) | 80 % des dépenses du plan d'affaires export (prospection, salons, B2B, études, communication, certifications, assurance-crédit), plafond 1,5 MDH par entreprise ; entreprises d'au moins deux ans, CA moyen à l'export inférieur à 5 MDH | 2024-2025 (terminée) |\n| Go-To-Market | Entreprises à fort potentiel export (CA export moyen > 10 MDH sur deux ans), priorité Afrique, plafond 2,5 MDH | 2023-2024 (échue) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-043",
+  "p": 6,
+  "ch": "6.5",
+  "c": "Export et accès aux marchés extérieurs",
+  "t": "Garanties et financements liés à l'export",
+  "principe": "Damane Tasdir (Tamwilcom) garantit à 70 % les cautionnements de plus de 1 MDH pour les marchés à l'étranger (plafonds de 20 MDH par opération et 40 MDH par entreprise). Les quotités de Damane Istitmar et les plafonds de Damane Atayssir et de Damane Dayn sont majorés pour les entreprises exportatrices aux comptes certifiés. Innov Dev finance la prospection de nouveaux marchés, notamment à l'export. L'assurance-crédit à l'export (risques commerciaux et politiques) et l'assurance prospection sont proposées par l'assureur-crédit spécialisé du marché marocain ; leurs conditions sont à obtenir auprès de lui. Les aides à l'export agricole du FDA sont décrites à la section 22.",
+  "faq": [
+   [
+    "Je n'ai jamais exporté : quel programme ?",
+    "Power Export (volet primo-exportateurs, CA moyen supérieur à 2 MDH ou 1 MDH pour l'artisanat, au moins deux ans d'existence) et Export Morocco Now (volet primo-exportateurs, au moins un an d'existence), sous réserve des appels en cours."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

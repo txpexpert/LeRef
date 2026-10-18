@@ -1,0 +1,38 @@
+[
+ {
+  "id": "4-010",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Feuille de route intégrée et listes de contrôle",
+  "t": "La feuille de route en six phases",
+  "principe": "| Phase | Actions | Livrables |\n| 1. Cadrage | Fixer montant, site, secteur, emplois ; vérifier les exclusions (agriculture, immobilier, négoce) ; simuler les primes ; identifier l'instance (CRI ou AMDIE) | Note de cadrage, simulation, liste des actes à obtenir |\n| 2. Structuration | Choisir la forme sociale ; financer le capital (en devises pour un étranger) ; créer la société | Statuts, registre du commerce, identifiants fiscaux, affiliation CNSS |\n| 3. Foncier et autorisations | Note de renseignement ; actes CRUI ; permis ; étude d'impact ; dérogation éventuelle | Titre ou bail, attestations, permis, acceptabilité environnementale |\n| 4. Convention | Dossier complet ; instruction ; négociation ; approbation ; signature ; liste des biens exonérés | Convention signée, attestations d'exonération |\n| 5. Réalisation | Travaux ; importations (exonérations, RED) ; recrutements ; dossiers de change | PV de réception, DUM, contrats, CNSS |\n| 6. Exploitation et suivi | Mise en service ; reporting ; déblocage des primes ; apurement RED ; archivage | Rapports d'avancement, primes perçues, certificats de décharge |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-011",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Feuille de route intégrée et listes de contrôle",
+  "t": "Liste de contrôle du dossier d'investissement",
+  "principe": "- Statuts, procès-verbaux de nomination, modèle J du registre du commerce, ICE.\n- Attestations de régularité fiscale et CNSS récentes.\n- États de synthèse des trois derniers exercices ou prévisionnels.\n- Business plan : marché, technique, organisation, compte de résultat prévisionnel, trésorerie.\n- Budget d'investissement hors taxes ventilé par nature (études, foncier, construction, équipements, infrastructures, aménagements).\n- Plan de financement et preuves des fonds propres (relevés, avis de virement en devises).\n- Justificatifs fonciers (titre, promesse, bail, attestation de vocation non agricole).\n- Plan de recrutement : nombre, calendrier, catégories, masse salariale par genre.\n- Justificatifs des critères qualitatifs : métiers d'avenir, durabilité, intégration locale (critères de l'arrêté n° 3-12-23).\n- Liste des biens d'équipement à importer (désignation, position tarifaire, valeur, origine).\n- Études techniques et d'impact, note de renseignement urbanistique.\n- Pouvoirs du signataire.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-012",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Feuille de route intégrée et listes de contrôle",
+  "t": "Les erreurs les plus fréquentes",
+  "principe": "1. Confondre montant total et montant primable, ou calculer le ratio d'emplois sur le montant primable (il se calcule sur le montant total).\n2. Compter des emplois non éligibles (étrangers, intérim, CDD de moins de 18 mois, transferts internes).\n3. Déclarer un prix de foncier privé supérieur à la valeur vénale : il est ramené à cette valeur et plafonné à 20 % du montant total.\n4. Commander et dédouaner les équipements avant la signature de la convention et l'obtention des attestations d'exonération.\n5. Laisser expirer le certificat négatif (90 jours), le délai de blocage des fonds (8 jours), une dérogation (6 mois) ou le délai de recours (10 jours).\n6. Modifier le projet après une dérogation ou après l'obtention du permis.\n7. Oublier qu'une convention de 250 MDH et plus relève de l'AMDIE et de la Commission nationale, et non du CRI.\n8. Financer l'investissement étranger en dirhams locaux, privant l'investisseur de la convertibilité.\n9. Négliger l'apurement des comptes RED et les échéances de rapatriement des recettes d'exportation.\n10. Ne pas solliciter d'avenant en cas de force majeure avant l'expiration du délai de réalisation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-013",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Feuille de route intégrée et listes de contrôle",
+  "t": "Questions fréquentes",
+  "principe": "Un projet de 40 MDH créant 120 emplois est-il éligible au dispositif principal ? Non : il n'atteint ni le seuil de 50 MDH de la voie 1 ni les 150 emplois de la voie 2. Il peut en revanche relever du dispositif TPME s'il en remplit les conditions (montant de 1 à 50 MDH, CA de 1 à 200 MDH, emplois par million investi).\nUne société étrangère peut-elle bénéficier des primes ? Oui, le principe d'égalité de traitement s'applique (article 2 LC) ; les primes sont accordées à l'investisseur personne morale de droit privé réalisant le projet au Maroc, en pratique par l'intermédiaire de sa filiale marocaine. Les emplois primables doivent cependant être occupés par des salariés marocains.\nPeut-on cumuler les primes de la Charte et une aide régionale ? Oui, les dispositifs de la loi-cadre et ceux des régions sont cumulables (article 6 LC).\nUn hôtel à Marrakech a-t-il droit à la prime territoriale ? Non, la préfecture de Marrakech ne figure pas parmi les catégories A et B ; le projet peut bénéficier des primes communes et de la prime sectorielle (tourisme) s'il est éligible.\nLe promoteur d'une résidence immobilière peut-il obtenir des primes ? Non, l'immobilier est exclu du dispositif principal (article 7 LC), et les dérogations urbanistiques excluent les projets résidentiels hors habitat social.\nQue se passe-t-il si la CRUI ne se prononce pas dans le délai ? Le délai légal s'impose à la commission ; l'investisseur peut saisir le wali (qui préside la CRUI et dispose d'un pouvoir de substitution vis-à-vis des administrations défaillantes) et demander la conciliation du CRI. Conservez la preuve de la date de dépôt du dossier complet.\nLes dividendes d'une filiale financée par un apport en nature sont-ils transférables ? La garantie de convertibilité suppose un financement en devises ; pour les autres modes de financement, rapprochez-vous de la banque et, si nécessaire, de l'Office des changes.",
+  "maj": "2026-10-17"
+ }
+]

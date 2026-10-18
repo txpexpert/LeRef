@@ -1,0 +1,39 @@
+[
+ {
+  "id": "3-040",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Finéa : avances, cautions et marchés publics",
+  "t": "Rôle de Finéa",
+  "principe": "Finéa, filiale du groupe CDG, finance les petites et moyennes entreprises titulaires de marchés publics ou privés, par des avances de trésorerie et des cautions, en complément des banques. Les demandes se déposent directement auprès de Finéa (www.finea.ma/nos-solutions ; formulaire www.finea.ma/devenir-client).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-041",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Finéa : avances, cautions et marchés publics",
+  "t": "Les produits",
+  "principe": "| Produit | Objet | Quotité ou taux indicatif | Statut |\n| Avance de pré-facturation (marchés publics) | Couvrir les dépenses engagées ou à venir avant l'émission de la facture | Jusqu'à 70 % du montant prévu de la facturation | B |\n| Avance sur facturation (marchés publics) | Financer les factures ou décomptes générés et éligibles au paiement mais non encore reconnus par le client | 80 % | B |\n| Avance sur droits constatés (marchés publics) | Financer une créance établie et validée par l'administration | 90 % | B |\n| Préfinancement (marchés privés) | Dépenses engagées avant facturation | Non précisé | B |\n| Avance sur facturation (marchés privés) | Couvrir les délais de règlement du donneur d'ordre | Non précisé | B |\n| Caution provisoire | Soumission | Environ 1,5 % du montant du marché | B |\n| Caution définitive | Bonne exécution, jusqu'à la réception définitive | Environ 3 % du montant initial | B |\n| Caution de remplacement de la retenue de garantie | Libérer la retenue | Environ 7 % | B |\n| Caution de restitution d'avances et d'acomptes | Garantir l'avance reçue du maître d'ouvrage | Environ 10 % | B |\n| Finéa Imédia | Avance relais dans l'attente de l'ouverture de la ligne de crédit bancaire partenaire (lignes ASMN) | Non précisé | B |\n| Tamwil Istitmar+ | Crédit d'investissement pour les TPME intervenant dans la commande publique (travaux, fournitures, services) | De 100 000 DH à 7,5 MDH, jusqu'à 85 % de l'investissement selon une session antérieure | C (lancement annoncé en octobre 2023) et D (montants) |\n| Damane Tamwin | Produit cité par le Kit d'août 2026 (session antérieure) parmi ceux de Finéa ; un site de comparaison l'attribue à Tamwilcom | Non établi | D |\nLes pourcentages des cautions correspondent aux montants usuels exigés par les maîtres d'ouvrage dans les marchés publics, tels que repris par le Kit.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-042",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Finéa : avances, cautions et marchés publics",
+  "t": "Le dossier type Finéa",
+  "principe": "| Pièce | Observations |\n| Copie du marché ou du bon de commande, ordre de service | Pièce centrale : l'avance est adossée au marché |\n| Décomptes, attestations de service fait, factures | Pour les avances sur facturation et sur droits constatés |\n| Dossier juridique de l'entreprise | Statuts, modèle J, identifiant fiscal, ICE, pièces d'identité |\n| Attestations fiscale et CNSS | Exigées par la commande publique |\n| États financiers | Derniers exercices |\n| Plan de charge | Liste des marchés en cours et à venir |\n| Domiciliation | Engagement de domicilier les paiements du marché au profit du financeur (nantissement du marché) |",
+  "faq": [
+   [
+    "Comment financer l'exécution d'un marché public avant le premier paiement ?",
+    "Par une avance de pré-facturation de Finéa, jusqu'à 70 % du montant prévu de la facturation, adossée au marché nanti. Une fois les décomptes établis, l'avance sur facturation (80 %) puis sur droits constatés (90 %) prend le relais."
+   ],
+   [
+    "Qui délivre les cautions de marché pour une PME sans ligne bancaire ?",
+    "Finéa émet les cautions provisoire, définitive, de remplacement de la retenue de garantie et de restitution d'avances. Pour les marchés à l'étranger, la banque peut s'appuyer sur la garantie Damane Tasdir de Tamwilcom (70 % des cautionnements de plus de 1 MDH)."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

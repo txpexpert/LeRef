@@ -1,0 +1,65 @@
+[
+ {
+  "id": "2-020",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Trois listes à consulter avant toute commande",
+  "principe": "Trois listes publiées par le Ministère de l'Industrie et du Commerce déterminent le traitement d'un produit industriel importé. Leurs dernières versions dans le corpus sont les suivantes :\n| Liste | Dernière version du corpus | Contenu | Usage |\n| Réglementations techniques et normes d'application obligatoire (NMO) | 19 juin 2026 | 362 références : 12 arrêtés de réglementation technique et environ 350 NMO, avec le numéro de la décision d'homologation et, le cas échéant, la date d'entrée en vigueur | Savoir à quelles exigences le produit doit satisfaire |\n| Produits contrôlés à l'origine | 20 février 2026 | 88 rubriques par norme : norme obligatoire, indice de classement, désignation, 887 codes SH indicatifs, seuil de dispense | Savoir si la conformité doit être établie avant expédition, dans le pays d'origine |\n| Produits contrôlés à l'arrivée | 20 février 2026 | 54 familles de produits et 3 468 codes SH indicatifs | Savoir si le produit sera contrôlé au point d'entrée |\n### POINT DE VIGILANCE\nLes deux listes de produits contrôlés précisent que « les codes SH sont mentionnés à titre indicatif ». C'est la désignation du produit et la norme visée qui déterminent le contrôle, pas seulement le code tarifaire déclaré.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-021",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Les réglementations techniques de la liste NMO",
+  "principe": "| Référence | Objet | Entrée en vigueur indiquée |\n| Arrêté n° 2573-14 | Matériel électrique destiné à être employé dans certaines limites de tension (« basse tension ») | — |\n| Arrêté n° 2574-14 | Compatibilité électromagnétique des équipements | — |\n| Arrêté n° 2575-14 | Jouets | — |\n| Arrêté n° 1685-22 | Transformateurs de puissance et fluides pour applications électrotechniques | — |\n| Arrêté n° 1616-22 | Sécurité des appareils et équipements à gaz | 20/12/2024 |\n| Arrêté n° 1530-24 | Performances énergétiques minimales des moteurs électriques | 12/09/2025 |\n| Arrêté n° 1529-24 | Étiquetage énergétique et performances minimales des climatiseurs | 12/03/2025 |\n| Arrêté n° 2040-24 | Étiquetage énergétique et performances minimales des réfrigérateurs | 12/03/2025 |\n| Arrêté n° 3461-21 | Joints non métalliques | — |\n| Arrêté n° 3486-13 | Spécifications techniques des détergents et désinfectants | — |\n| Arrêtés n° 1060-20 et 1619-20 | Masques de protection en tissu non tissé et en tissu, à usage non médical | — |\nLa liste signale en outre 18 normes pour lesquelles la certification NM est exigée, essentiellement des produits sidérurgiques (aciers de construction NM EN 10025, fils machine, tôles, panneaux sandwichs NM EN 14509, billettes d'acier NM 01.4.510 : 2024, applicable au 8 septembre 2026). Pour ces produits, une simple déclaration ou un rapport d'essai ne suffit pas : il faut un certificat de conformité aux normes marocaines délivré dans le cadre de la loi 12-06.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-022",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Les évolutions récentes de la liste NMO",
+  "principe": "La comparaison des trois versions fournies fait apparaître les changements suivants :\n| Période | Changement |\n| 24/09/2025 → 09/03/2026 | Remplacement de la NM 09.0.000-2018 (textiles et habillement) par la NM 09.0.000-2025 et de la NM 09.5.100-2019 (articles chaussants) par la NM 09.5.100-2025, applicables au 18/09/2025 ; ajout de la NM EN 10244-2 : 2019 (revêtements de zinc sur fils d'acier), applicable au 26/02/2026 |\n| 09/03/2026 → 19/06/2026 | Remplacement de la NM ISO 13006-2002 par la NM ISO 13006-2023 (carreaux et dalles céramiques), applicable au 16/04/2026 ; ajout de la NM 01.4.510 : 2024 (billettes d'acier), avec certification NM exigée, applicable au 08/09/2026 |\nPlusieurs autres NMO de la liste portent une date d'entrée en vigueur récente : normes de tubes et tuyaux plastiques et caoutchouc, jouets (série NM EN 71 et NM IEC 62115), articles de puériculture, briquets (15/08/2025) ; cigarettes électroniques et e-liquides (série NM 08.8.2xx, 21/02/2026) ; serrures NM EN 12209 (18/03/2026).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-023",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Contrôle à l'origine ou à l'arrivée",
+  "principe": "Le contrôle à l'origine consiste à établir la conformité du produit dans le pays d'exportation, avant l'expédition. Le contrôle à l'arrivée a lieu au Maroc, au moment de l'importation. Les deux listes ne se recouvrent pas : la première porte sur des familles normées en détail (électricité, gaz, plastiques, caoutchouc, matériaux de construction, articles en contact alimentaire, ameublement d'enfant, jouets, etc.), la seconde sur des familles pour lesquelles le contrôle se fait au port (pièces automobiles, carreaux, ciment, fer à béton, textiles, chargeurs, disjoncteurs, couches, cahiers, peintures, cartables, cigarettes électroniques, etc.).\n### MISE À JOUR RÉGLEMENTAIRE\nLe corpus ne contient pas les textes qui organisent le circuit du contrôle à l'origine (désignation des organismes d'inspection mandatés, forme du certificat). D'après la documentation publique d'un des organismes mandatés, le programme est fondé sur la loi 24-09, le décret n° 2-12-502 et l'arrêté n° 3873-12 ; il aboutit à un certificat de conformité (CoC) ou à un rapport de non-conformité, et les demandes passent par le système Portnet. Ces références extérieures sont à vérifier avant usage.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-024",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Les seuils de dispense du contrôle à l'origine",
+  "principe": "La liste des produits contrôlés à l'origine fixe, par type de produit, un seuil en dessous duquel le produit est dispensé de ce contrôle. Les seuils combinent généralement une quantité et une valeur :\n| Exemple de produit | Seuil de dispense indiqué |\n| Armatures pour béton armé, treillis soudés | 2 tonnes (seconde branche du seuil non lisible dans la liste) |\n| Allumettes | 100 kg ou 5 000 DH |\n| Conducteurs et câbles isolés | 1 000 m ou 15 000 DH |\n| Interrupteurs pour installations fixes | 500 unités ou 15 000 DH |\n| Prises de courant domestiques | 100 unités ou 10 000 DH |\n| Appareils électrodomestiques (diverses NM) | 10 ou 20 unités, ou 10 000 à 20 000 DH |\n| Piles et batteries lithium | 100 unités ou 5 000 DH |\n| Chaussures de sécurité, gants de protection | 50 paires ou 100 paires, 10 000 DH |\n| Vaisselle céramique, articles en contact alimentaire | 200 à 500 pièces ou 5 000 DH |\n| Films agricoles, tubes PVC, tuyaux | 10 000 à 20 000 DH |\n| Mobilier et articles de puériculture | 10 unités ou 10 000 DH |\n### CONSEIL PRATIQUE\nLe seuil est un outil pour les échantillons et petites séries, pas un moyen de fractionner une commande. Les obligations de fond de la loi 24-09 — produit sûr, conformité aux NMO, étiquetage en arabe — s'appliquent quel que soit le volume.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-025",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Les produits nouvellement soumis au contrôle à l'arrivée",
+  "principe": "Entre les versions du 17 mai 2025 et du 20 février 2026 de la liste des produits contrôlés à l'arrivée, la comparaison automatique fait apparaître trois nouvelles familles : sachets de nicotine (2404.91), tabac muassel (2403.11) et rubans auto-adhésifs, ainsi qu'un élargissement des produits en cuir et similaires (malles, valises, sacs à main, maroquinerie). La rubrique « Sièges » n'apparaît plus et les tubes en acier sont reformulés (« tubes soudés »).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-026",
+  "p": 2,
+  "ch": "2.3",
+  "c": "Le contrôle des produits industriels importés",
+  "t": "Ce qui se passe quand un produit importé paraît dangereux",
+  "principe": "| Situation | Mesure possible | Conséquence pour l'importateur | Base |\n| Lot importé présentant des indices de risque | Libération conditionnée à un contrôle par un OEC agréé, aux frais de l'importateur, dans un délai raisonnable | Si le risque est confirmé : interdiction de mise sur le marché, destruction ou refoulement à ses frais, paiement des évaluations | Loi 24-09, art. 35 |\n| Non-conformité aux conditions de mise sur le marché, sans risque avéré | Autorisation de mise en conformité dans un délai fixé | À défaut : destruction ou refoulement | Art. 35, al. 4 |\n| Dossier technique incomplet | Interdiction d'entrée ou évaluation par un OEC agréé dans un délai fixé | À défaut : destruction ou refoulement | Art. 17 |\n| Risque grave sur le marché | Suspension jusqu'à un an (renouvelable) de la fabrication, de l'importation et de la distribution, retrait, rappel, destruction | Audition de l'opérateur au plus tard 15 jours après la suspension | Art. 36 |\nToute décision restreignant la mise sur le marché doit être motivée de façon précise et notifiée dans les 15 jours de la fin de la collecte des informations, avec l'indication des voies et délais de recours (art. 37).",
+  "maj": "2026-10-17"
+ }
+]

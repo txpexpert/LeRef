@@ -1,0 +1,47 @@
+[
+ {
+  "id": "7-001",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Listes de contrôle",
+  "t": "Créer une société : les 30 premiers jours fiscaux",
+  "principe": "| ✓ | Démarche | Délai | Référence |\n| ☐ | Choisir le régime (IS, option des sociétés de personnes, SEP/GIE) | Avant constitution | Ch. 3 |\n| ☐ | Enregistrer les statuts (DE sur apports, minimum 1 000 DH) | 30 jours de l’acte | Art. 128, 133 |\n| ☐ | Déposer la déclaration d’existence avec statuts et liste des fondateurs | 30 jours de la constitution | Art. 148 |\n| ☐ | Obtenir IF, ICE, numéro de TP ; immatriculer au registre du commerce et à la CNSS | — | Ch. 4 |\n| ☐ | Adhérer à SIMPL (représentant, utilisateurs, délégué, RIB de prélèvement) | Dès réception du code d’accès | Ch. 5 |\n| ☐ | Communiquer l’adresse électronique (ADC450) | Dès l’adhésion | Art. 145-X |\n| ☐ | Exercer les options TVA (débits, régime mensuel, assujettissement volontaire) | 30 jours du début d’activité / 31 janvier | Art. 90, 95, 108 |\n| ☐ | Demander l’exonération de TVA sur les premiers biens d’investissement | Avant chaque achat, dans les 36 mois | Art. 92-I-6° |\n| ☐ | Paramétrer la facturation (mentions, série continue, ICE client, mode de paiement) | Avant la première facture | Art. 145-III |\n| ☐ | Paramétrer la paie (barème 2025, charges de famille 600 DH, exonérations emploi) | Avant la première paie | Ch. 9 |\n| ☐ | Paramétrer les retenues à la source (tiers, loyers, non-résidents) | Avant le premier paiement | Ch. 11 |\n| ☐ | Mettre en place la comptabilité électronique et l’archivage décennal | Dès le démarrage | Art. 145, 211 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-002",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Listes de contrôle",
+  "t": "Clôturer un exercice",
+  "principe": "| ✓ | Opération | Échéance (exercice au 31/12) |\n| ☐ | Inventaire détaillé des stocks | 31 décembre |\n| ☐ | Revue des créances douteuses et irrécouvrables (procédures, PV de carence) | Clôture |\n| ☐ | Réintégrations : véhicules > 400 000 DH, paiements en espèces > 5 000 DH/jour ou 50 000 DH/mois par fournisseur, factures irrégulières, amendes, CSS | Clôture |\n| ☐ | Calcul de la cotisation minimale et comparaison avec l’IS | Liasse |\n| ☐ | Calcul du prorata de TVA de l’année et régularisations | Fin d’année |\n| ☐ | Déclaration des traitements et salaires (DTS) avec annexes | Avant le 1er mars |\n| ☐ | Déclaration du résultat fiscal, liasse, état des ventes par ICE, état explicatif si déficit | Avant le 1er avril |\n| ☐ | Déclarations des rémunérations de tiers, loyers, non-résidents | Avec la déclaration de résultat |\n| ☐ | Déclaration des dividendes et des produits de placement | Avant le 1er avril |\n| ☐ | CSS si bénéfice ≥ 1 MDH | Dans les 3 mois |\n| ☐ | État des transferts intra-groupe, engagements de réinvestissement (abattement 70 %), état des investissements conventionnés | Avec la déclaration |\n| ☐ | Documentation des prix de transfert à jour (CA ou actif ≥ 50 MDH) | Disponible au premier jour d’un contrôle |\n| ☐ | Déclaration pays par pays (groupes concernés) | 12 mois après la clôture |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-003",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Listes de contrôle",
+  "t": "Recevoir un avis de vérification",
+  "principe": "| ✓ | Action | Délai |\n| ☐ | Vérifier la régularité de l’avis (15 jours, période, impôts, charte jointe) | À réception |\n| ☐ | Désigner l’interlocuteur et le conseil ; préparer un local | Avant la date du contrôle |\n| ☐ | Rassembler comptabilité électronique, pièces, contrats, documentation PT | Avant la date du contrôle |\n| ☐ | Signer le procès-verbal d’ouverture ; suivre la durée (3 ou 6 mois) | Démarrage sous 5 jours ouvrables |\n| ☐ | Tenir un journal des demandes et remises de documents | Tout au long |\n| ☐ | Préparer l’échange oral et contradictoire | Avant la clôture |\n| ☐ | Répondre à la 1re notification point par point (fait/droit) | 30 jours |\n| ☐ | Envisager l’accord à l’amiable sur les questions de fait | Après la 1re notification |\n| ☐ | Saisir la commission compétente (CLT, CRRF, CNRF) | 30 jours après la 2e notification |\n| ☐ | Recours judiciaire | 60 jours après la décision |\n| ☐ | Demande de remise des pénalités | Après émission |\n| ☐ | Procédure amiable si double imposition internationale | Délai conventionnel (souvent 3 ans) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-004",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Listes de contrôle",
+  "t": "Acheter ou vendre un immeuble professionnel",
+  "principe": "| ✓ | Démarche | Qui |\n| ☐ | Vérifier la situation TH/TSC (fiche de renseignements SIMPL-Attestation) | Notaire |\n| ☐ | Demander l’avis préalable sur le profit foncier (30 jours du compromis) | Vendeur personne physique |\n| ☐ | Régler le prix par moyens traçables et mentionner les références à l’acte (éviter le droit supplémentaire de 2 %) | Acquéreur, notaire |\n| ☐ | Enregistrer l’acte et payer les DE (4 % construit, 5 % terrain) | Notaire (électronique) |\n| ☐ | Déclarer et payer le profit foncier, versement provisoire de 5 % le cas échéant | Vendeur, 30 jours |\n| ☐ | Inscrire à la conservation foncière avec l’attestation d’enregistrement (QR code) | Notaire |\n| ☐ | Pour une société : vérifier le statut de SPI (stocks compris) avant toute cession de titres | Cédant, acquéreur |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-005",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Listes de contrôle",
+  "t": "Lancer un projet d’investissement",
+  "principe": "| ✓ | Démarche |\n| ☐ | Rescrit sur le montage (si investissement, restructuration interne ou opérations entre entités liées au Maroc) |\n| ☐ | Convention d’investissement avec l’État si les seuils sont atteints (50 MDH pour la TVA ; 1,5 Md DH pour le taux d’IS) |\n| ☐ | Calendrier du délai de 36 mois (début d’activité ou autorisation de construire) et alerte pour la prorogation de 24 mois |\n| ☐ | Garanties à constituer pour les exonérations de TVA (hors conventions) |\n| ☐ | Plan d’embauche intégrant les exonérations d’IR |\n| ☐ | Prévision des acomptes à la sortie des périodes d’exonération |\n| ☐ | Suivi de la conservation des biens (60 mois meubles, 10 ans immeubles) |",
+  "maj": "2026-10-17"
+ }
+]

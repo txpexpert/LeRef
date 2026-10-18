@@ -1,0 +1,74 @@
+[
+ {
+  "id": "2-001",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "Les définitions qui conditionnent tout le calcul",
+  "principe": "Le décret n° 2-23-1 fixe un vocabulaire précis. Une erreur de qualification à ce stade fausse l'éligibilité, l'assiette et les taux. Les définitions de l'article premier D doivent être reprises telles quelles dans le dossier de l'investisseur.\n| Notion | Définition (article 1 D) |\n| Montant d'investissement total | Coût total hors taxes de l'opération de création ou d'extension : études, R&D, transfert de technologie, mise au point des procédés, prix du foncier privé et/ou public, acquisition, location ou crédit-bail des bâtiments, infrastructures internes et externes, génie civil, aménagements, biens d'équipement, matériel et outillage, acquisition ou renouvellement des équipements nécessaires |\n| Montant d'investissement primable | Montant sur la base duquel les primes sont calculées (règles de l'article 2 D) |\n| Emploi stable | Emploi créé directement par l'investisseur lors de l'exploitation, objet d'un contrat de travail d'au moins 18 mois consécutifs, occupé par un salarié de nationalité marocaine immatriculé à la CNSS |\n| Prix du foncier privé | Acquisition, location ou location avec option d'achat d'un terrain n'appartenant pas au domaine privé de l'État, des collectivités ou des établissements et entreprises publics |\n| Prix du foncier public | Acquisition ou location d'un terrain du domaine privé de l'État, des collectivités ou des EEP, et redevances d'occupation temporaire du domaine public |\n| Reliquat du montant total | Montant total moins les prix du foncier public et privé |\n| Ratio d'emplois stables | Nombre d'emplois stables créés ÷ montant d'investissement total en millions de dirhams |\n| Ratio genre | Masse salariale réservée aux femmes ÷ masse salariale totale |\n| Métiers d'avenir / montée en gamme | Métiers à fort contenu technologique ou fort potentiel, ou projets de montée en gamme, définis par arrêté du Chef du gouvernement |\n| Projet durable | Projet répondant aux critères fixés par arrêté du Chef du gouvernement |\n| Projet d'intégration locale | Projet atteignant en exploitation un taux d'intégration locale minimum fixé par arrêté |\n### ARRÊTÉS D'APPLICATION\n- Arrêté du Chef du gouvernement n° 3-12-23 du 1er mars 2023 : taux d'intégration locale minimum, liste des métiers d'avenir et de montée en gamme, critères du projet durable, modalités de calcul des prix du foncier et durée maximale de location prise en compte. Précisions reprises du Volume II (sections 2.3 à 2.5 et 2.9) : taux d'intégration locale minimal de 20 % (agroalimentaire, pharmacie, dispositifs médicaux) ou de 40 % (autres activités manufacturières) ; projet durable = un critère obligatoire (eaux non conventionnelles avec économie d'eau) et au moins deux critères sur quatre ; durée de location prise en compte : 7 ans au maximum (article 5).\n- Arrêté du Chef du gouvernement n° 3-13-23 du 1er mars 2023 : seuil minimum d'emplois stables exigé pour l'éligibilité des projets de 50 MDH et plus (article 6 D). Le Volume II (section 2.9) relève un seuil de 50 emplois stables.\n- Arrêté du Chef du gouvernement n° 3-14-23 du 1er mars 2023 fixant les listes des provinces et préfectures des catégories A et B (article 8 D).\nLe décret n° 2-23-1 n'est entré en vigueur qu'à la publication de ces arrêtés (article 30 D).\n### L'EMPLOI STABLE : LA CONDITION LA PLUS CONTRÔLÉE\nLes intérimaires, les salariés étrangers, les CDD de moins de 18 mois, les emplois transférés d'un autre site de l'entreprise et les emplois des sous-traitants ne comptent pas. Les emplois doivent être créés directement par l'investisseur lors de l'exploitation. Constituez dès le recrutement un registre nominatif (n° CNSS, date d'embauche, type de contrat, nationalité, salaire) : c'est la pièce maîtresse du contrôle et du déblocage des primes.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-002",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "Les conditions d'éligibilité (article 6 D)",
+  "principe": "Peuvent bénéficier des primes du dispositif principal, sous réserve des règles propres aux projets stratégiques (articles 15 et 16 D) :\n- Voie 1 — critère d'investissement : les projets dont le montant total est égal ou supérieur à 50 millions de dirhams et dont le nombre d'emplois stables se situe entre le seuil fixé par l'arrêté n° 3-13-23 et 149 emplois ;\n- Voie 2 — critère d'emploi : les projets créant 150 emplois stables ou plus, quel que soit leur montant.\nSont en outre exclus : les projets agricoles (régime propre), les projets immobiliers et de négoce (article 7 LC), et les projets qualifiés de stratégiques, qui relèvent d'un régime non cumulable (article 18 LC).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-003",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "Le calcul du montant d'investissement primable (article 2 D)",
+  "principe": "Les trois catégories de primes se calculent sur le montant primable, obtenu en trois étapes :\n1. Exclure le foncier public : le prix du foncier public n'entre jamais dans l'assiette.\n2. Plafonner le foncier privé : sa part dans l'assiette est limitée à 20 % du montant d'investissement total.\n3. Appliquer la formule :\n- si foncier privé ≤ 20 % du montant total : primable = montant total − foncier public ;\n- si foncier privé > 20 % du montant total : primable = reliquat + 20 % du montant total.\nLe Comité technique apprécie la valeur vénale du foncier privé déclaré (article 22-a D) : le texte prévoit que le comité soumette ses observations au Secrétariat de la Commission nationale, sans préciser leur effet sur l'assiette ni l'organe compétent pour les conventions régionales : justifiez le prix déclaré (acte, expertise).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-004",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "Les primes communes (article 7 D)",
+  "principe": "| N° | Critère | Taux (du montant primable) |\n| 1 | Ratio d'emplois stables > 1 et ≤ 1,5 | 5 % |\n| 1 | Ratio d'emplois stables > 1,5 et ≤ 3 | 7 % |\n| 1 | Ratio d'emplois stables > 3 | 10 % |\n| 2 | Ratio genre ≥ 30 % | 3 % |\n| 3 | Métiers d'avenir ou montée en gamme des activités | 3 % |\n| 4 | Projet d'investissement durable | 3 % |\n| 5 | Projet d'intégration locale | 3 % |\nLes trois paliers de la prime « création d'emplois » ne se cumulent pas entre eux ; toutes les autres primes communes sont cumulables (article 7 D). Un ratio d'emplois inférieur ou égal à 1 (moins d'un emploi stable par million de dirhams) n'ouvre droit à aucune prime d'emploi.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-005",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "La prime territoriale (article 8 D ; article 13 LC)",
+  "principe": "| Catégorie | Taux | Provinces et préfectures (liste publiée en mars 2023) |\n| A | 10 % | Larache, M'diq-Fnideq, Ouazzane, Tétouan, Chefchaouen, Nador, Berkane, Sefrou, Boulemane, Taza, Fès, Meknès, El Hajeb, Ifrane, Sidi Slimane, Khémisset, Sidi Kacem, Salé, Béni Mellal, Khénifra, Khouribga, Fquih Ben Salah, Sidi Bennour, Safi, Youssoufia, Al Haouz, Kelaât Es-Sraghna, Essaouira, Rehamna, Chichaoua, Ouarzazate, Taroudant, Chtouka Aït Baha, Inezgane-Aït Melloul, Laâyoune, Oued Ed-Dahab |\n| B | 15 % | Al Hoceima, Taourirt, Driouch, Jerada, Guercif, Oujda-Angad, Figuig, Moulay Yacoub, Taounate, Azilal, Errachidia, Midelt, Tinghir, Zagora, Tata, Tiznit, Sidi Ifni, Guelmim, Assa-Zag, Tan-Tan, Boujdour, Tarfaya, Es-Semara, Aousserd |\n| Hors catégorie | 0 % | Notamment Casablanca, Rabat, Tanger, Marrakech, Settat, El Jadida, Berrechid, Mohammedia (15 provinces et préfectures au total) |\n### LISTE À CONTRÔLER SUR L'ARRÊTÉ PUBLIÉ\nLes listes ci-dessus sont reprises de la presse économique (Médias24, mars 2023). Elles concordent avec l'arrêté n° 3-14-23 tel que lu au Volume II (section 2.6) : 36 provinces et préfectures en catégorie A, 24 en catégorie B et 15 sans prime (liste complète au Volume II). Vérifiez la province d'implantation dans l'arrêté du Chef du gouvernement publié au Bulletin officiel, et toute révision ultérieure, avant de chiffrer la prime.\nLorsqu'un projet s'étend sur plusieurs provinces, la prime territoriale est accordée au prorata du montant d'investissement total réalisé dans chacune (article 13 LC). Documentez dans le business plan la ventilation géographique des dépenses.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-006",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "La prime sectorielle (article 9 D ; article 14 LC)",
+  "principe": "Une prime de 5 % du montant primable est accordée aux projets réalisés dans l'un des secteurs suivants : industrie ; tourisme et loisirs ; industrie culturelle ; numérique ; énergies renouvelables ; transformation et valorisation des déchets ; logistique et transport ; outsourcing ; aquaculture. Si le projet relève de plusieurs secteurs, la prime n'est accordée qu'une fois, au titre du secteur qui concentre la plus grande part de l'investissement (article 14 LC).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-007",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "Les plafonds",
+  "principe": "- Plafond général : le cumul des primes communes, territoriale et sectorielle est limité à 30 % du montant primable (article 16 LC ; article 10 D).\n- Énergies renouvelables : pour la production d'électricité d'origine éolienne, solaire ou hydraulique, le cumul des primes est plafonné à 30 millions de dirhams (article 11 D).\n- Cumul avec les dispositifs régionaux : autorisé (article 6 LC), sous réserve des règles propres à chaque dispositif régional.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-008",
+  "p": 2,
+  "ch": "2.1",
+  "c": "Le dispositif de soutien principal : éligibilité et calcul des primes",
+  "t": "Exemples de calcul",
+  "principe": "### Exemple 1 — Usine agro-industrielle à Fès (catégorie A)\nDonnées : montant total 120 MDH HT, dont foncier privé 30 MDH ; aucun foncier public ; 200 emplois stables ; ratio genre 35 % ; taux d'intégration locale atteint.\n| Étape | Calcul |\n| Éligibilité | 200 emplois ≥ 150 : éligible (voie 2) |\n| Plafond du foncier privé | 20 % × 120 = 24 MDH ; foncier déclaré 30 MDH > 24 |\n| Reliquat | 120 − 30 = 90 MDH |\n| Montant primable | 90 + 24 = 114 MDH |\n| Ratio d'emplois | 200 ÷ 120 = 1,67 → palier > 1,5 et ≤ 3 → 7 % |\n| Autres primes communes | Genre 3 % + intégration locale 3 % = 6 % |\n| Prime territoriale (A) | 10 % |\n| Prime sectorielle (industrie) | 5 % |\n| Total des taux | 7 + 6 + 10 + 5 = 28 % (sous le plafond de 30 %) |\n| Prime totale | 28 % × 114 = 31,92 MDH |\n| Instance | Projet < 250 MDH : convention régionale |\n### Exemple 2 — Complexe touristique à Zagora (catégorie B)\nDonnées : montant total 60 MDH HT, dont location d'un terrain du domaine privé de l'État pour 4 MDH ; 70 emplois stables ; ratio genre 32 % ; projet répondant aux critères « durable ».\n| Étape | Calcul |\n| Éligibilité | ≥ 50 MDH et 70 emplois : éligible si 70 ≥ seuil de l'arrêté n° 3-13-23 |\n| Montant primable | 60 − 4 (foncier public exclu) = 56 MDH |\n| Ratio d'emplois | 70 ÷ 60 = 1,17 → 5 % |\n| Genre + durable | 3 % + 3 % = 6 % |\n| Territoriale (B) | 15 % |\n| Sectorielle (tourisme) | 5 % |\n| Total des taux | 31 % → ramené au plafond de 30 % |\n| Prime totale | 30 % × 56 = 16,8 MDH |\n### Exemple 3 — Centrale solaire de 400 MDH à Tata (catégorie B)\nDonnées : montant total 400 MDH, foncier privé 10 MDH (2,5 %) ; 40 emplois stables ; projet durable.\n| Étape | Calcul |\n| Éligibilité | ≥ 50 MDH ; 40 emplois à confronter au seuil de l'arrêté n° 3-13-23 |\n| Montant primable | Foncier privé ≤ 20 % : 400 − 0 = 400 MDH |\n| Ratio d'emplois | 40 ÷ 400 = 0,1 → 0 % |\n| Durable + territoriale (B) + sectorielle (EnR) | 3 % + 15 % + 5 % = 23 % → 92 MDH théoriques |\n| Plafond EnR (article 11 D) | Cumul limité à 30 MDH |\n| Instance | ≥ 250 MDH : Commission nationale, dossier AMDIE |\n### OPTIMISER LÉGALEMENT LE DOSSIER DE PRIMES\n- Ventiler finement le montant total : chaque poste éligible (études, R&D, infrastructures externes, aménagements) augmente l'assiette ; conservez devis et factures HT.\n- Arbitrer le foncier : au-delà de 20 % du montant total, le foncier privé supplémentaire n'est plus primable ; le foncier public est exclu de l'assiette (article 2 D) mais reste compris dans le montant total, donc dans le dénominateur du ratio d'emplois : tout coût de foncier abaisse le ratio, et une location moins coûteuse qu'une acquisition l'améliore sans réduire l'assiette des équipements.\n- Viser les seuils de ratio : au-dessus de 1,5 puis au-dessus de 3 emplois par MDH (les seuils eux-mêmes ne sont pas atteints), le taux de la prime d'emploi passe de 5 % à 7 % puis 10 % (article 7 D).\n- Documenter les critères qualitatifs (genre, durable, intégration locale, métiers d'avenir) dès le dépôt, sur la base des critères de l'arrêté n° 3-12-23 : ce sont 12 points de prime potentiels.\n- Ne pas dépasser inutilement 30 % : au-delà, l'effort supplémentaire ne rapporte plus de prime ; il peut en revanche être valorisé dans la négociation des engagements de l'État.",
+  "maj": "2026-10-17"
+ }
+]

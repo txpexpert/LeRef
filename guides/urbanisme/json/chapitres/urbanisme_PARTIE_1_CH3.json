@@ -1,0 +1,56 @@
+[
+ {
+  "id": "1-030",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La loi 03-01 : obtenir les motifs d'une décision",
+  "t": "Le principe : pas de décision défavorable sans motifs écrits",
+  "principe": "La loi 03-01 oblige les administrations de l'État, les collectivités locales et leurs instances, les établissements publics et les services chargés d'un service public à motiver, sous peine d'illégalité, leurs décisions administratives individuelles défavorables, en exposant par écrit dans le corps même de la décision les motifs de droit et de fait qui la fondent (art. 1).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-031",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La loi 03-01 : obtenir les motifs d'une décision",
+  "t": "Les décisions concernées",
+  "principe": "Outre les décisions déjà soumises à motivation par un texte particulier, l'article 2 énumère six catégories :\n- Décisions déjà soumises à motivation par un texte particulier (art. 2 al. 1)\n- a) Décisions relatives à l'exercice des libertés publiques ou ayant le caractère de mesure de police\n- b) Décisions infligeant une sanction administrative ou disciplinaire\n- c) Décisions subordonnant la délivrance d'une autorisation, attestation ou autre document à des conditions, ou imposant des charges, non prévues par les lois et règlements\n- d) Décisions retirant ou abrogeant une décision créatrice de droits\n- e) Décisions fondées sur une prescription, une forclusion ou une déchéance\n- f) Décisions refusant un avantage constituant un droit pour les personnes qui remplissent les conditions légales\nPour l'entreprise, les catégories c), d) et f) sont les plus fréquentes : une autorisation délivrée sous conditions non prévues par les textes, le retrait d'un agrément ou d'une autorisation, le refus d'un avantage auquel elle a droit dès lors qu'elle remplit les conditions légales (incitation, attestation, inscription). La catégorie e) couvre les refus fondés sur une forclusion ou une déchéance — par exemple la caducité d'une autorisation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-032",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La loi 03-01 : obtenir les motifs d'une décision",
+  "t": "Les exceptions",
+  "principe": "Seules échappent à l'obligation les décisions dont la sécurité intérieure ou extérieure de l'État exige qu'elles ne soient pas motivées (art. 3). Les décisions prises en situation de nécessité ou de circonstances exceptionnelles qui ne peuvent être motivées ne sont pas illégales de ce seul fait, mais l'intéressé peut en demander les motifs dans les 30 jours de la notification ; l'administration répond sous 15 jours (art. 4). Les sanctions et les décisions fondées sur une prescription ou une déchéance ne peuvent jamais relever de l'urgence.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-033",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La loi 03-01 : obtenir les motifs d'une décision",
+  "t": "Le rejet implicite",
+  "principe": "Lorsque l'administration garde le silence et qu'une décision implicite de rejet en résulte, l'intéressé peut demander les motifs dans les 30 jours suivant l'expiration du délai légal de recours ; l'administration répond sous 15 jours (art. 5). Ces délais prorogent le délai du recours contentieux prévu par l'article 360 du code de procédure civile et l'article 23 de la loi 41-90 instituant les tribunaux administratifs (art. 6).\n### À RETENIR\nLa loi 03-01 et l'article 18 de la loi 55-19 se cumulent : pour toute décision administrative demandée par un usager, le refus doit être motivé ; pour les décisions défavorables énumérées par la loi 03-01, l'absence de motivation entraîne l'illégalité.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-034",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La loi 03-01 : obtenir les motifs d'une décision",
+  "t": "Fiche 03-01-P1 — Contrôler la motivation d'une décision défavorable",
+  "principe": "| Rubrique | Contenu |\n| Texte | Loi 03-01 |\n| Base légale | art. 1, art. 2, art. 3 |\n| Déclencheur | Réception d'une décision individuelle défavorable entrant dans l'une des catégories de l'art. 2. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Vérifier que la décision relève de l'art. 2 (refus d'un droit, condition non prévue, retrait d'un acte créateur de droits, sanction, déchéance, mesure de police). | Opérateur | — | art. 2 |\n| 2 | Vérifier que les motifs de droit ET de fait figurent par écrit dans le corps même de la décision ; à défaut, la décision est entachée d'illégalité. | Opérateur / conseil | — | art. 1 |\n| 3 | Écarter l'exception de sécurité intérieure ou extérieure de l'État (seule exclusion générale). | — | — | art. 3 |\n| 4 | Former un recours administratif (loi 55-19, art. 21) ou juridictionnel en invoquant le défaut de motivation. | Opérateur | — | art. 1 ; loi 55-19 art. 21 |\n### POINT DE VIGILANCE\n▪ La motivation par simple renvoi à « la réglementation en vigueur » sans motif de fait est insuffisante au regard de l'exigence de motifs juridiques ET factuels.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-035",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La loi 03-01 : obtenir les motifs d'une décision",
+  "t": "Fiche 03-01-P2 — Obtenir les motifs d'une décision prise en urgence ou d'un rejet implicite",
+  "principe": "| Rubrique | Contenu |\n| Texte | Loi 03-01 |\n| Base légale | art. 4, art. 5, art. 6 |\n| Déclencheur | Décision prise en situation de nécessité ou de circonstances exceptionnelles sans motivation, ou silence valant rejet. |\n| N° | Étape | Acteur | Délai | Base |\n| 1 | Décision non motivée prise en urgence : adresser à l'autorité qui l'a prise une demande de communication des motifs dans les 30 jours de la notification. | Opérateur | 30 jours | art. 4 |\n| 2 | Décision implicite de rejet : adresser la demande de motifs dans les 30 jours suivant l'expiration du délai légal de recours. | Opérateur | 30 jours | art. 5 |\n| 3 | L'administration est tenue de répondre dans les 15 jours de la réception de la demande. | Administration | 15 jours | art. 4, 5 |\n| 4 | Ces délais (demande + réponse) prorogent le délai du recours contentieux (art. 360 al. 5 du code de procédure civile ; art. 23 de la loi 41-90 instituant les tribunaux administratifs). | — | — | art. 6 |\n### POINT DE VIGILANCE\n▪ Les sanctions (b) et les décisions fondées sur une prescription ou déchéance (e) ne peuvent jamais être justifiées par l'état de nécessité (art. 4 dernier al.).\n▪ Adresser la demande par un moyen donnant date certaine pour sécuriser la prorogation du délai de recours.\n| Objet | Délai | Base |\n| Demande des motifs (décision prise en urgence) | 30 jours à compter de la notification | art. 4 |\n| Demande des motifs (rejet implicite) | 30 jours après expiration du délai de recours | art. 5 |\n| Réponse de l'administration | 15 jours | art. 4, 5 |\n| Entrée en vigueur | 6e mois suivant la publication | art. 7 |",
+  "maj": "2026-10-17"
+ }
+]

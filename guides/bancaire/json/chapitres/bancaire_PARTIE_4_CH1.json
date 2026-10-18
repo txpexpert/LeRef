@@ -1,0 +1,29 @@
+[
+ {
+  "id": "4-001",
+  "p": 4,
+  "ch": "4.1",
+  "c": "La politique monétaire et le coût de la ressource bancaire",
+  "t": "Financement et marchés — présentation",
+  "principe": "Comprendre d'où vient la ressource de la banque pour mieux négocier la sienne\nLe coût et la disponibilité du crédit dépendent directement des conditions auxquelles les banques se refinancent auprès de Bank Al-Maghrib, des programmes ciblés que celle-ci met en place, des garanties publiques et des possibilités d'accès direct au marché des capitaux.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "4-002",
+  "p": 4,
+  "ch": "4.1",
+  "c": "La politique monétaire et le coût de la ressource bancaire",
+  "t": "Les instruments de Bank Al-Maghrib (décision 80/W/20)",
+  "principe": "| Instrument | Forme | Durée | Taux | Initiative |\n| Avances à 7 jours (opérations principales) | Pensions livrées, appel d'offres hebdomadaire (mercredi) | 7 jours | Taux directeur | BAM |\n| Reprises de liquidité à 7 jours | Dépôts à blanc | 7 jours | Taux directeur − 50 pb | BAM |\n| Réglage fin | Pensions livrées | < 7 jours | Fixé par BAM | BAM |\n| Opérations de long terme | Pensions, prêts garantis, swaps de change | > 7 jours | Fixé par BAM / programmes | BAM |\n| Opérations structurelles | Achats/ventes de bons du Trésor, émission/rachat de titres BAM | Permanente | Adjudication à la hollandaise | BAM |\n| Avances à 24 h (facilité permanente) | Pensions livrées | 24 h | Taux directeur + 100 pb | Banques |\n| Facilité de dépôt à 24 h | Dépôts à blanc | 24 h | Taux directeur − 100 pb | Banques |\n| Réserve obligatoire | Dépôts sur le compte central de règlement | Période d'observation | Rémunération possible | Banques habilitées à recevoir des dépôts à vue |\nFigure 5 — Corridor des taux de BAM avec un taux directeur de 2,25 %\nSeules les banques soumises à la réserve obligatoire sont contreparties des opérations principales ; les opérations de long terme et structurelles peuvent être ouvertes à d'autres établissements (art. 4). Les soumissions sont des multiples de 10 MDH avec un minimum de 100 MDH (LC/BKAM/2020/8, art. 10).\n### Pourquoi c'est important pour l'entreprise\nLa répartition des avances à 7 jours entre banques tient compte de leurs efforts de distribution de crédit aux ménages et aux entreprises non financières, de la part de ces crédits dans leurs emplois et de la répercussion des baisses de taux sur leurs taux débiteurs (LC/BKAM/2020/8, art. 12). Une baisse du taux directeur (comme celle de mars 2025 à 2,25 %) doit donc, à terme, se refléter dans les conditions de crédit : c'est un argument légitime de renégociation, notamment pour les crédits à taux révisable.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "4-003",
+  "p": 4,
+  "ch": "4.1",
+  "c": "La politique monétaire et le coût de la ressource bancaire",
+  "t": "Les actifs mobilisables en garantie",
+  "principe": "Les banques mobilisent en garantie (art. 18) des actifs négociables (bons du Trésor, titres garantis par l'État, titres des entreprises et établissements publics, certificats de dépôt et bons des sociétés de financement acceptés, titres de FPCT issus de la titrisation de crédits hypothécaires) et des actifs non négociables sous forme d'effets représentatifs de créances sur l'État, les EEP ou le secteur privé. Les créances privées éligibles sont des créances amortissables ou des lignes de crédit utilisées ; les créances hypothécaires doivent financer une résidence principale avec hypothèque de 1er rang. C'est ce mécanisme qui permet aux banques de refinancer les crédits aux entreprises auprès de BAM (section 19).",
+  "maj": "2026-10-18"
+ }
+]

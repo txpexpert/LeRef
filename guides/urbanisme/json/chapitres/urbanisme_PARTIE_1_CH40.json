@@ -1,0 +1,56 @@
+[
+ {
+  "id": "1-510",
+  "p": 1,
+  "ch": "1.40",
+  "c": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer",
+  "t": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer — présentation",
+  "principe": "### NOUVEAU DANS CETTE MISE À JOUR\nCe chapitre rassemble, phase par phase, les situations qui exposent un programme à la nullité, au gel, à la démolition ou à des poursuites. Chaque signal renvoie au texte qui le fonde ; le détail figure dans le chapitre correspondant.\nUn red flag n'est pas nécessairement rédhibitoire : il impose une vérification avant de poursuivre, et souvent une condition suspensive dans la promesse ou une réserve dans le planning. La colonne « Réflexe » indique la première action à engager.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-511",
+  "p": 1,
+  "ch": "1.40",
+  "c": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer",
+  "t": "Foncier",
+  "principe": "| N° | Signal d'alerte | Risque | Réflexe | Base |\n| 1 | Vendeur non inscrit au titre, ou inscription préventive en cours | Revendication opposable à l'acquéreur | Certificat de propriété du jour de la signature ; condition suspensive | 39-08, art. 2, 13 |\n| 2 | Terrain non immatriculé sans réquisition | Possession contestable, titre fragile | Exiger la réquisition et l'examen des titres | 39-08, art. 3 |\n| 3 | Achat d'une quote-part indivise | Préemption des coindivisaires | Notifier l'acte après inscription (30 jours) | 39-08, art. 292, 304 |\n| 4 | Parcelle agricole de moins de 5 ha en périmètre irrigué | Acte nul, non inscriptible | Attestation de situation ; autorisation de l'art. 4 | 34-94, art. 2, 4, 9 |\n| 5 | Déclaration d'utilité publique ou cessibilité de moins de 2 ans | Gel des constructions ; non-indemnisation | Consulter le BO et la commune | 7-81, art. 15, 16, 20 |\n| 6 | Bien d'une collectivité cédé de gré à gré hors des cas légaux | Irrégularité de la cession | Vérifier délibération, adjudication et visa | 57-19, art. 32, 33, 47 |\n| 7 | Oued, chaâba ou zone inondable sur le terrain | Emprise inaliénable ; servitude ; règles du plan de prévention | Délimitation ; Atlas des zones inondables | 36-15, art. 5, 17, 117, 118 |\n| 8 | Monument inscrit ou classé, ou périmètre de classement | Autorisations patrimoniales ; préemption de l'État | Interroger les services du patrimoine | 22-80, art. 23, 38 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-512",
+  "p": 1,
+  "ch": "1.40",
+  "c": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer",
+  "t": "Urbanisme et autorisations",
+  "principe": "| N° | Signal d'alerte | Risque | Réflexe | Base |\n| 9 | Absence de plan d'aménagement ou de zonage | Sursis à statuer jusqu'à deux ans | Vérifier la compatibilité avec le SDAU | 12-90, art. 45 |\n| 10 | Arrêté de mise à l'étude ou enquête publique d'un plan en cours | Sursis ; projet non conforme refusé | Lire le projet de plan soumis à enquête | 12-90, art. 22, 27 |\n| 11 | Projet comportant une installation classée | Permis irrecevable sans autorisation, récépissé ou EIE | Obtenir d'abord l'autorisation environnementale | 11-03, art. 10 |\n| 12 | Avis d'agence urbaine pendant la transition vers l'agence régionale | Avis émanant d'une entité supprimée | Vérifier l'entité signataire et le texte visé | 64-23, art. 21, 24 |\n| 13 | Permis non commencé dans l'année | Péremption | Planifier le démarrage des fondations | 12-90, art. 49 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-513",
+  "p": 1,
+  "ch": "1.40",
+  "c": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer",
+  "t": "Chantier",
+  "principe": "| N° | Signal d'alerte | Risque | Réflexe | Base |\n| 14 | Démarrage sans déclaration d'ouverture ni panneau | Infraction ; contrôle immédiat | Accusé de réception daté et numéroté | 12-90, art. 54-1 |\n| 15 | Cahier de chantier absent ou incomplet | 5.000 à 10.000 DH, doublé en tissu ancien | Ouvrir le cahier au premier jour | 12-90, art. 54-2, 76 |\n| 16 | Étage supplémentaire non autorisé | Emprisonnement et 50.000 à 100.000 DH ; démolition | Aucune modification sans permis modificatif | 12-90, art. 72 |\n| 17 | Intervenant informé d'une non-conformité qui se tait plus de 48 heures | Co-auteur de l'infraction | Procédure interne d'alerte écrite | 12-90, art. 78 |\n| 18 | Ordre d'arrêt ignoré | Saisie, scellés, démolition administrative | Arrêter immédiatement ; saisir le juge si besoin | 12-90, art. 67, 68 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-514",
+  "p": 1,
+  "ch": "1.40",
+  "c": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer",
+  "t": "Commercialisation",
+  "principe": "| N° | Signal d'alerte | Risque | Réflexe | Base |\n| 19 | Vente de lots avant la réception provisoire | 1 à 5 ans et 100.000 à 200.000 DH par vente | Vendre après le PV, ou en VEFA régulière | 25-90, art. 68, 69 |\n| 20 | Vente d'appartements sans règlement de copropriété inscrit | Mention obligatoire impossible ; contentieux | Déposer le règlement et ses plans avant la première vente | 18-00, art. 11 |\n| 21 | Acte de vente sous seing privé ordinaire | Nullité | Acte authentique ou date certaine par professionnel agréé | 18-00, art. 12 ; 39-08, art. 4 |\n| 22 | Livraison ou location avant permis d'habiter | 10.000 à 100.000 DH | Calendrier de livraison calé sur le permis d'habiter | 12-90, art. 75 |\n| 23 | Tranches ou surélévations futures non prévues au règlement | Unanimité des copropriétaires requise | Quotes-parts provisoires et phasage au règlement | 18-00, art. 6, 22, 44 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-515",
+  "p": 1,
+  "ch": "1.40",
+  "c": "Red flags du promoteur : les signaux d'alerte à ne jamais ignorer",
+  "t": "Exploitation et immeubles anciens",
+  "principe": "| N° | Signal d'alerte | Risque | Réflexe | Base |\n| 24 | Bâtiment classé menaçant ruine mis à disposition | 3 mois à 1 an et 50.000 à 300.000 DH | Attendre l'arrêté de cessation du danger | 94-12, art. 52 |\n| 25 | Changement d'affectation sans autorisation | Infraction ; refus d'assurance et de financement | Autorisation du président après accord de l'urbanisme | 12-90, art. 58 |\n| 26 | Installation classée exploitée sans autorisation ou récépissé | Fermeture ; responsabilité sans faute | Régulariser avant l'ouverture | 1914, art. 4, 16 ; 11-03, art. 63 |",
+  "maj": "2026-10-17"
+ }
+]

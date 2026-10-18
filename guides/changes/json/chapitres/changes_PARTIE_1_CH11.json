@@ -1,0 +1,33 @@
+[
+ {
+  "id": "1-100",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Financer des études à l'étranger",
+  "t": "Financer des études à l'étranger — présentation",
+  "textes": [
+   "Circulaire OC n° 1/2025 du 2 janvier 2025 — abroge les art. 122 à 127 de l'IGOC 2024",
+   "Circulaire OC n° 1/2019 du 24 septembre 2019 — historique (plafond porté à 12 000 DH/mois)"
+  ],
+  "principe": "Le sujet concerne les familles mais aussi les entreprises qui financent la formation de collaborateurs ou d'enfants de dirigeants. Sont éligibles les Marocains résidents, les MRE et les étrangers nés de père ou de mère marocain(e) ne disposant pas de papiers marocains, pour des études post-baccalauréat (cursus académique ou formation professionnelle) dans des établissements publics ou privés à l'étranger.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-101",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Financer des études à l'étranger",
+  "t": "Dépenses couvertes et montants",
+  "principe": "| Dépense | Montant transférable | Bénéficiaire du paiement |\n| Frais de scolarité (y compris formation linguistique exigée) | Montant des documents | Étudiant, établissement ou organisme mandaté |\n| Frais de séjour | 12 000 DH par mois ; davantage sur document de l'établissement, du consulat ou d'une autorité | Étudiant, établissement, organisme du processus de visa ; parent/tuteur à l'étranger pour un mineur |\n| Loyer et charges (syndic, taxes, honoraires de bail) | Montant des documents | Étudiant ou bailleur |\n| Dépôt de garantie | 3 mois de loyer au plus | Bailleur ; à rapatrier sous 60 jours après la fin du bail |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-102",
+  "p": 1,
+  "ch": "1.11",
+  "c": "Financer des études à l'étranger",
+  "t": "Domiciliation et rythme des transferts",
+  "principe": "- Le dossier est domicilié dans une seule banque, chargée de tous les règlements.\n- Attestation d'inscription ou de préinscription remise à chaque début d'année ; en cas de préinscription, l'attestation d'inscription est produite dans les 4 mois du premier règlement.\n- Transferts mensuels ; les mensualités échues de l'année peuvent être cumulées (12 mois maximum).\n- Anticipation possible jusqu'à 12 mois (4 mois en préinscription, sauf exigence de l'établissement, du consulat ou du bailleur).\n- L'année suivant la fin des études est couverte (diplôme et titre de séjour valide).\n- Compte bancaire à l'étranger possible ; clôture en fin de séjour, solde rapatrié et cédé sous 60 jours.\n- Programmes d'échange : mêmes facilités hors scolarité, sur documents d'admission et de durée.\n| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Choisir la banque domiciliataire | Famille / étudiant | — | Avant le 1er transfert |\n| 2 | Remettre l'attestation d'inscription ou de préinscription | Étudiant | Attestation | Chaque année |\n| 3 | Payer la scolarité | Banque | Facture de l'établissement | — |\n| 4 | Programmer les frais de séjour et le loyer | Banque | Bail ou attestation d'hébergement | Mensuel ou anticipé |\n| 5 | Régulariser l'inscription après préinscription | Étudiant | Attestation d'inscription | 4 mois |\n| 6 | En fin de séjour : clôturer le compte étranger, rapatrier | Étudiant | Relevé de clôture | 60 jours |",
+  "maj": "2026-10-17"
+ }
+]

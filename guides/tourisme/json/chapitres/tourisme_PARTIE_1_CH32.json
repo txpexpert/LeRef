@@ -1,0 +1,11 @@
+[
+ {
+  "id": "1-310",
+  "p": 1,
+  "ch": "1.32",
+  "c": "La chaîne de valeur et ses interdépendances juridiques",
+  "t": "La chaîne de valeur et ses interdépendances juridiques",
+  "principe": "Les régimes étudiés ne fonctionnent pas en silo : la conformité d'un opérateur dépend souvent de celle de ses partenaires. La figure suivante en donne la cartographie.\n| Relation | Obligation de vérification | Risque en cas de défaut |\n| Agent de voyages → hébergeur | Autorisation d'exploitation et classement d'exploitation ; cohérence de la catégorie vendue | Responsabilité de plein droit envers le client (art. 20 loi 11-16) ; publicité non conforme (art. 46 loi 80-14) |\n| Agent de voyages → guide | Agrément, catégorie, carte et badge ; seuils de l'arrêté 334-16 | Violation de l'art. 21 loi 11-16 → sanction administrative |\n| Agent de voyages → transporteur | Agrément de la Commission, carte d'autorisation du véhicule ; émission du bon de commande | Responsabilité de plein droit ; défaut de document de bord |\n| Hébergeur → activités annexes | Licence d'agent de voyages si vente de circuits / forfaits | Exercice illégal (art. 31 loi 11-16) ou assistance à exercice illégal |\n| Transporteur → sous-traitant | Document de répartition des responsabilités à bord | Responsabilité du transporteur principal (art. 3 CDC) |\n| Promoteur RIPT → société de gestion | Licence (provisoire puis définitive), cautionnement, assurances | Garantie de 9 ans engagée ; amende art. 19 loi 01-07 |",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "4-020",
+  "p": 4,
+  "ch": "4.3",
+  "c": "Se financer directement sur le marché",
+  "t": "Les titres de créances négociables (loi n° 35-94)",
+  "principe": "| Titre | Émetteurs | Unité / durée | Conditions clés |\n| Certificats de dépôt (CD) | Banques | 100 000 DH ; 10 jours à 7 ans | Dossier d'information à BAM 15 jours avant la première émission |\n| Bons des sociétés de financement (BSF) | Sociétés de financement habilitées à recevoir des fonds > 1 an | Fixés par voie réglementaire | Ratio prudentiel encours/crédits |\n| Billets de trésorerie (BT) | Sociétés par actions, établissements publics non financiers, coopératives ayant ≥ 5 MDH de fonds propres et 3 ans d'activité avec 3 bilans certifiés ; FPCT | 100 000 DH ; 10 jours à 1 an | Dossier d'information visé par l'AMMC (ex-CDVM) déposé 45 jours avant ; domiciliation dans une banque ; information de BAM 15 jours avant ; reporting hebdomadaire |\nRègles communes : inscription en compte auprès d'intermédiaires habilités ; taux fixe pour une durée ≤ 1 an (intérêts précomptés possibles), fixe ou révisable au-delà avec intérêts annuels ; rachat par l'émetteur limité à 20 % de l'encours ; mise à jour annuelle du dossier d'information dans les 45 jours suivant l'AG et immédiate en cas d'événement significatif ; possibilité de garantie par des EC (ou par des émetteurs de BT). Les fonds propres retenus pour le seuil de 5 MDH incluent les comptes courants d'associés bloqués avec clause d'antériorité au profit des souscripteurs.\nProgramme d'émission de billets de trésorerie\n| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Vérifier l'éligibilité (forme, fonds propres ≥ 5 MDH, 3 exercices certifiés) | Entreprise / conseil | Amont | Loi 35-94, art. 6 ; circ. 4/G/1996 |\n| 2 | Désigner une banque domiciliataire et, le cas échéant, un garant | Entreprise | — | Art. 12-13 |\n| 3 | Établir le dossier d'information (activité, situation financière, programme et plafond d'encours) et le déposer pour visa | Entreprise → AMMC | 45 jours au moins avant la première émission | Art. 15-19 |\n| 4 | Transmettre une copie certifiée du dossier visé à BAM | Entreprise | 15 jours avant la première émission | Circ. 4/G/1996 |\n| 5 | Émissions ; reporting des souscriptions à BAM chaque mardi avant 16 h | Entreprise / banque | Hebdomadaire | Circ. 4/G/1996 |\n| 6 | Mise à jour annuelle du dossier ; le visa devient caduc après 1 an d'absence du marché | Entreprise | 45 jours après l'AG | Art. 17, 19 |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "4-021",
+  "p": 4,
+  "ch": "4.3",
+  "c": "Se financer directement sur le marché",
+  "t": "Autres instruments de marché",
+  "principe": "| Instrument | Texte | Intérêt pour l'opérateur ou l'investisseur |\n| Opérations de pension | Loi 24-01 ; décret 2-04-547 ; circ. 17/G/2005 | Placement ou financement de trésorerie garanti par des titres ; exception au monopole bancaire (art. 18) |\n| Titrisation | Loi 33-06 | Cession de créances (commerciales, immobilières…) à un fonds de placement collectif en titrisation (FPCT) émettant des titres ; les FPCT peuvent émettre des BT |\n| Obligations sécurisées (covered bonds) | Loi 94-21 (2022) | Refinancement long des EC et de la CDG adossé à un portefeuille de couverture ; textes d'application en concertation en 2026 |\n| Prêt de titres | Loi 45-12 | Optimisation de portefeuilles ; garanties en espèces autorisées hors monopole |\n| Marché à terme d'instruments financiers | Loi 42-12 | Instruments de couverture organisés |\n| Bons du Trésor | Arrêté 118-23 ; circ. 18/G/2003 | Placements sans risque ; adjudication réservée aux intermédiaires en valeurs du Trésor |",
+  "maj": "2026-10-18"
+ }
+]

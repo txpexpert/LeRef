@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-120",
+  "p": 1,
+  "ch": "1.13",
+  "c": "La société de gestion",
+  "t": "Les conditions de la licence (art. 6)",
+  "principe": "| Condition | Exigence | Source |\n| a) Siège | Siège au Maroc | Art. 6 |\n| b) Garanties financières | Cautionnement permanent et ininterrompu affecté à la garantie des engagements envers les copropriétaires (notamment loyers), ou assurance en tenant lieu | Art. 6 ; arrêté 1548-10 art. 3 |\n| c) Assurances | Incendie, vol des effets des clients, responsabilité civile | Art. 6 |\n| d) Directeur | Un directeur par résidence gérée, répondant aux conditions d'aptitude réglementaires | Art. 6 ; arrêté 1547-10 (personnel) |\n| e) Honorabilité du représentant légal | Pas d'incapacité ou d'interdiction consécutive à une peine criminelle, à plus de 3 mois ferme ou 6 mois avec sursis pour délit (hors délits involontaires), ou à une fraude aux changes | Art. 6 |\n| f) Aptitude du représentant légal | Diplôme d'études supérieures en gestion ou équivalent + 2 ans d'expérience de gestionnaire, ou 5 ans à un poste de responsabilité en entreprise | Arrêté 1548-10 art. 1 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-121",
+  "p": 1,
+  "ch": "1.13",
+  "c": "La société de gestion",
+  "t": "Le cautionnement (arrêté 1548-10, art. 3)",
+  "principe": "- Montant au moins égal à trois mois de loyer fixe.\n- Caractère permanent et ininterrompu, spécialement affecté aux engagements envers le propriétaire.\n- Cautionnement en numéraire : dépôt à la Caisse de dépôt et de gestion.\n- Caution bancaire ou cautionnement couvert par une assurance : renouvelable chaque année.\n- Mise en jeu en cas de résiliation en cascade des baux (art. 14 loi 01-07).\n### CONSEIL PRATIQUE — Dimensionner le cautionnement\nLe minimum s'apprécie sur le loyer fixe : pour une résidence de 120 unités gérées à un loyer fixe moyen de 3 000 DH par mois, le plancher est de 120 × 3 000 × 3 = 1 080 000 DH. Prévoir un mécanisme d'ajustement à chaque nouvelle commercialisation et à chaque révision du loyer.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-122",
+  "p": 1,
+  "ch": "1.13",
+  "c": "La société de gestion",
+  "t": "Le processus de licence : provisoire puis définitive",
+  "principe": "| N° | Étape / action | Acteur / guichet | Délai | Pièces & observations |\n| 1 | Constituer la société (siège au Maroc), nommer un représentant légal qualifié | Société de gestion | Préalable | Diplômes, attestations d'expérience, casier judiciaire. |\n| 2 | Désigner le directeur de la résidence | Société de gestion | Préalable | Aptitude réglementaire (cf. normes de personnel de l'arrêté 1547-10). |\n| 3 | Déposer la demande de licence | Administration du tourisme | — | Conditions a) et d) de l'art. 6 + conditions e) et f) du représentant. |\n| 4 | Silence de l'administration | — | 60 jours après réception | La licence est réputée accordée (art. 6). |\n| 5 | Licence provisoire | Administration | Durée maximale 6 mois | Art. 7. |\n| 6 | Justifier pendant ce délai du cautionnement et des assurances (b et c) | Société de gestion | Avant fin des 6 mois | Attestation CDG ou caution bancaire ; polices d'assurance. |\n| 7 | Licence définitive | Administration | — | Délivrée au vu des justificatifs (art. 7). |\n| 8 | Notifier tout changement ultérieur (dont gestion d'une nouvelle résidence) | Société de gestion | 30 jours | Décision modificative de l'administration (art. 6). |\nTableau 11 — De la licence provisoire à la licence définitive.\n### À RETENIR — Régime d'exception\nLa société de gestion n'est pas soumise au dahir du 12 janvier 1945 réglementant la profession d'agent d'affaires (art. 8). Elle reste en revanche soumise aux obligations d'exploitation de la loi 80-14 (déclaration de la clientèle, assurance, directeur, affichage des prix…), puisque la RIPT est classée comme une résidence de tourisme.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-123",
+  "p": 1,
+  "ch": "1.13",
+  "c": "La société de gestion",
+  "t": "La société de gestion, syndic de plein droit",
+  "principe": "La nomination comme société de gestion confère, nonobstant toute disposition contraire, la qualité de syndic de l'ensemble de la résidence, tant qu'elle reste en fonction et que la résidence conserve sa qualité de RIPT (art. 9). À ce titre (art. 13), elle :\n- arrête chaque année le budget prévisionnel des dépenses courantes de maintenance, de fonctionnement et d'administration des parties communes ;\n- fixe la provision due par chaque copropriétaire ;\n- déduit ces provisions des loyers dus aux copropriétaires bailleurs ;\n- procède à une régularisation annuelle sur la base des dépenses réelles ;\n- perçoit directement les provisions auprès des propriétaires d'unités hors pourcentage géré.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "id": "1-130",
+  "p": 1,
+  "ch": "1.14",
+  "c": "Déclarations statistiques, enquêtes et sanctions",
+  "t": "Déclarations statistiques, enquêtes et sanctions — présentation",
+  "textes": [
+   "Loi relative aux déclarations statistiques (loi n° 19-06 — numéro et date à confirmer au BO, l'exemplaire fourni étant partiellement illisible)",
+   "Dahir n° 1-58-021 du 22 janvier 1958"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-131",
+  "p": 1,
+  "ch": "1.14",
+  "c": "Déclarations statistiques, enquêtes et sanctions",
+  "t": "Qui déclare quoi",
+  "principe": "Toute opération commerciale ou financière entre résidents et non-résidents, tout mouvement de fonds entre le Maroc et l'étranger, et plus généralement toute opération à enregistrer dans les statistiques des échanges extérieurs, de la balance des paiements et de la position financière extérieure globale fait l'objet d'une déclaration statistique.\n| Canal de l'opération | Déclarant | Rôle de l'opérateur |\n| Établissement de crédit, établissement agréé au change, banque offshore | L'établissement | Fournir les renseignements demandés par la banque |\n| Hors de ces circuits (compensation, paiement direct à l'étranger, prêt entre sociétés du groupe réglé hors banque…) | Le résident auteur ou bénéficiaire | Déclarer directement à l'OC selon les modèles réglementaires |\n| Commerce extérieur déclaré en douane | Hors champ (statistiques douanières) | Répondre aux demandes d'information complémentaires de l'OC |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-132",
+  "p": 1,
+  "ch": "1.14",
+  "c": "Déclarations statistiques, enquêtes et sanctions",
+  "t": "Enquêtes",
+  "principe": "L'Office peut mener des enquêtes par des agents assermentés habilités par son directeur. Ces enquêteurs peuvent contrôler l'application de la loi et constater les infractions ; le secret professionnel ne leur est pas opposable. En contrepartie, les informations individuelles collectées sont couvertes par le secret statistique : elles ne peuvent être communiquées qu'avec l'accord écrit de l'intéressé ou à l'autorité judiciaire en matière pénale.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-133",
+  "p": 1,
+  "ch": "1.14",
+  "c": "Déclarations statistiques, enquêtes et sanctions",
+  "t": "Barème et procédure de sanction",
+  "principe": "| Assujetti | Infraction | Sanction |\n| Personne physique | Défaut, fausse déclaration, non-respect des formes | Pourcentage de la valeur des opérations, plafonné à 10 000 DH |\n| Personne morale | Idem | Pourcentage de la valeur des opérations, plafonné à 50 000 DH |\n| Établissement (banque, change, offshore) | Manquement persistant après mise en demeure d'un mois | Jusqu'à 100 000 DH ; puis restriction ou interdiction d'opérations de change de 1 à 6 mois ; suspension d'agrément (offshore) |\n| Tous | Récidive dans les 12 mois | Sanction doublée |\n| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Notification des infractions relevées | OC | Récépissé ou LRAR (PV de refus vaut réception) | — |\n| 2 | Présentation des justifications | Opérateur | Mémoire, pièces | ≥ 30 jours |\n| 3 | Notification de la sanction | OC | Décision motivée | — |\n| 4 | Paiement | Opérateur | Recouvrement par la Trésorerie générale | ≥ 30 jours (PM) / ≥ 60 jours (PP) |\n### Non-cumul\nLa sanction statistique ne se cumule pas avec des poursuites douanières pour les mêmes faits. Pour les opérations de commerce extérieur déclarées en douane, la loi ne s'applique pas, l'Office conservant un pouvoir d'information et d'enquête.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-134",
+  "p": 1,
+  "ch": "1.14",
+  "c": "Déclarations statistiques, enquêtes et sanctions",
+  "t": "Bonnes pratiques de conformité",
+  "principe": "- Tenir un registre des opérations avec des non-résidents réglées hors circuit bancaire.\n- Désigner un référent « déclarations OC » dans la direction financière.\n- Conserver la preuve de dépôt de chaque déclaration et compte rendu.\n- Répondre dans le délai de justification, pièces à l'appui : le délai minimum de 30 jours est une garantie, pas un plafond de diligence.",
+  "maj": "2026-10-17"
+ }
+]

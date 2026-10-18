@@ -1,0 +1,29 @@
+[
+ {
+  "id": "1-050",
+  "p": 1,
+  "ch": "1.6",
+  "c": "Les obligations permanentes de l'exploitant",
+  "t": "Obligations d'organisation",
+  "principe": "| Obligation | Contenu | Délai / périodicité | Article |\n| Exploitation permanente | Ouverture toute l'année ; exploitation saisonnière possible en cas de besoin, dans le respect du droit du travail | Continue | Art. 13 |\n| Usage de la dénomination officielle | Type, dénomination et catégorie de la décision de classement sur tous imprimés et correspondances | Continue | Art. 14 |\n| Directeur déclaré | Directeur déclaré à l'administration ; information si l'exploitant assure lui-même la fonction | Avant ouverture | Art. 15 |\n| Vacance du directeur | Notification à l'administration | 1 semaine après la cessation des fonctions | Art. 15 |\n| Remplacement du directeur | Engagement d'un nouveau directeur | 3 mois maximum après le départ | Art. 15 |\n| Assurance | Incendie, vol des effets des clients, responsabilité civile ; renouvellement régulier ; présentation lors des contrôles | Permanente | Art. 16 |\n| Fermeture / réouverture | Demande soumise à l'avis des autorités désignées par voie réglementaire | Préalable | Art. 17 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-051",
+  "p": 1,
+  "ch": "1.6",
+  "c": "Les obligations permanentes de l'exploitant",
+  "t": "Obligations envers la clientèle (art. 17)",
+  "principe": "L'article 17 dresse une liste d'obligations qui constitue, en pratique, la grille de contrôle des inspecteurs. Elle peut être utilisée telle quelle comme liste d'autocontrôle :\n| ✓ | Obligation de l'article 17 | Preuve à conserver |\n| ☐ | Respect de la législation sur la liberté des prix et la concurrence, l'hygiène, le travail, la sécurité, l'environnement | Autorisations sectorielles, registres de sécurité, contrats de travail |\n| ☐ | Qualification, bonne tenue et moralité du personnel | Plan de formation, règlement intérieur, uniformes |\n| ☐ | Parfait état de fonctionnement de toutes les installations | Carnet de maintenance, contrats d'entretien |\n| ☐ | Bonne gestion des réservations et respect des engagements confirmés | Logiciel de réservation, politique de surréservation |\n| ☐ | Fourniture des prestations correspondant au classement, avec la qualité correspondante | Référentiel interne de qualité |\n| ☐ | Affichage des prix à la réception, dans chaque chambre et dans les restaurants | Photographies datées des affichages |\n| ☐ | Facture datée, raison sociale, adresse, détail des prestations et prix appliqués | Modèle de facture validé |\n| ☐ | Panonceau officiel de classement apposé à l'entrée | Photographie |\n| ☐ | Possibilité pour la clientèle d'émettre des suggestions | Registre ou formulaire de suggestions |\n| ☐ | Respect des règles d'usage et de déontologie de la profession | Charte interne, code de déontologie de la fédération |\nTableau 5 — Liste d'autocontrôle des obligations de l'article 17.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-052",
+  "p": 1,
+  "ch": "1.6",
+  "c": "Les obligations permanentes de l'exploitant",
+  "t": "Télé-déclaration des arrivées et des nuitées",
+  "principe": "Le chapitre IV de la loi institue un dispositif de traçabilité de la clientèle qui s'applique aussi bien aux établissements d'hébergement qu'aux autres formes d'hébergement :\n| N° | Étape / action | Acteur / guichet | Délai | Pièces & observations |\n| 1 | Exiger une pièce d'identité du client à l'arrivée | Réception | À l'arrivée | Art. 37. |\n| 2 | Faire renseigner et signer le bulletin individuel d'hébergement (BIH) | Réception / client | À l'arrivée | Modèle fixé par voie réglementaire (art. 37). |\n| 3 | Télé-déclarer les données de la clientèle | Exploitant → administration | Le jour même de l'arrivée, quotidiennement | Procédé électronique ; respect de la loi sur la protection des données personnelles (art. 36). |\n| 4 | Archiver les BIH | Exploitant | 1 an | Mise à disposition de la DGSN ou de la Gendarmerie royale sur demande (art. 38). |\nTableau 6 — Processus de déclaration de la clientèle.\nEn contrepartie, l'exploitant est dispensé de la tenue du registre d'inscription de la clientèle et du dépôt des bulletins auprès de la sûreté nationale ou de la gendarmerie prévus par le dahir du 11 janvier 1932 sur les meublés (art. 38).\n### POINT DE VIGILANCE — Une infraction punie d'emprisonnement\nLe manquement aux obligations de déclaration et d'archivage (art. 36 à 38) est l'une des rares infractions de la loi passibles d'emprisonnement : un à six mois et/ou une amende de 50 000 à 100 000 DH (art. 48), doublés en cas de récidive. Les circonstances atténuantes ne s'appliquent pas aux amendes (art. 49).\nPendant la période transitoire de deux ans suivant la publication du texte réglementaire sur la télé-déclaration, l'obligation de communiquer mensuellement l'état des arrivées et nuitées restait applicable (art. 56).",
+  "maj": "2026-10-17"
+ }
+]

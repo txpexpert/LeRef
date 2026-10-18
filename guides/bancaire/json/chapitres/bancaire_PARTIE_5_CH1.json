@@ -1,0 +1,38 @@
+[
+ {
+  "id": "5-001",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Le régime de change du dirham",
+  "t": "Change et international — présentation",
+  "principe": "Régime de change du dirham, cotations, couverture des risques et transferts\nLes importateurs, exportateurs et investisseurs étrangers sont directement exposés au cours du dirham. Cette partie expose les règles fixées par Bank Al-Maghrib pour la formation des cours, l'exécution des opérations de change et les instruments de couverture. La réglementation des changes proprement dite (autorisations, rapatriement, dotations) relève de l'Office des Changes et de son Instruction générale, à laquelle renvoient les textes de BAM.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-002",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Le régime de change du dirham",
+  "t": "Un régime de bande de fluctuation autour d'un panier",
+  "principe": "Depuis la réforme du 15 janvier 2018 (décision du ministre des finances et décision 1/W/18 de BAM), le dirham est coté sur le marché des changes à l'intérieur d'une bande de fluctuation autour d'un cours central fixé par BAM à partir d'un panier composé à 60 % d'euro et 40 % de dollar américain. La bande, initialement de ± 2,5 %, a été élargie à ± 5 % à compter du 9 mars 2020 (décision 49/W/20) ; celle des billets de banque étrangers est passée de ± 5 % à ± 7,5 %.\nFigure 6 — Bandes de fluctuation applicables au dirham\n| Élément | Règle | Référence |\n| Cours central | Fixé par BAM contre USD, actualisé avant chaque adjudication et en cas de variation internationale significative | Déc. 1/W/18, art. 2-3 |\n| Autres devises | Les banques calculent les cours limites à partir des limites USD/MAD et des cours croisés internationaux | Art. 4 |\n| Cours de référence | Publiés quotidiennement par BAM à partir des cotations des teneurs de marché ; utilisés par les banques pour réévaluer leurs avoirs et engagements en devises | Art. 5, 13 |\n| Opérations au comptant | Cours obligatoirement à l'intérieur de la bande ; dénouement en J+2 ouvrés (ou J / J+1 si convenu avec le client) | LC/BKAM/2018/2, art. 3, 5 |\n| Devises | Opérations libellées et effectuées dans les devises cotées par BAM | Art. 2 |\n| Change manuel | Cours tous frais et commissions inclus dans la bande ±7,5 % ; affichage permanent en agence ; cours limites publiés quotidiennement par BAM | Art. 18-20 |\n| Commission de change | 1 ‰ sur les achats et ventes de devises contre dirhams (depuis le 1er juin 2009), versée à BAM mensuellement | Lettre du 4 juin 2009 ; LC 2018/2, art. 7 |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-003",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Le régime de change du dirham",
+  "t": "Interventions de BAM : les adjudications de devise (LC/BKAM/2018/1)",
+  "principe": "BAM intervient à son initiative par adjudications d'achat ou de vente de dollars (ou d'une autre devise) réservées aux banques teneurs de marché. Le communiqué précise date, sens, devise, montant, horaires et date de valeur. Les soumissions sont d'au moins 500 000 USD (multiples de 500 000, 3 tranches au plus) ; BAM fixe des cours minimum et maximum ; les offres deviennent irrévocables à la clôture ; les résultats individuels sont notifiés sous 5 minutes et les résultats globaux publiés. Les teneurs de marché doivent coter en continu le USD/MAD (actualisation ≤ 15 secondes), coter ferme au moins 6 autres teneurs pour 500 000 USD minimum avec un écart achat/vente ≤ 50 points de base.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "5-004",
+  "p": 5,
+  "ch": "5.1",
+  "c": "Le régime de change du dirham",
+  "t": "Déontologie du marché des changes (circ. 63/DAI/96)",
+  "principe": "- Obligation d'informer la clientèle des risques des opérations proposées ; interdiction de manipuler les cours ou de profiter d'une erreur manifeste de cotation.\n- Prix cotés fermes à honorer ; mention « pour information » pour les cotations indicatives ; confirmations SWIFT détaillées, contestation dans les 24 heures.\n- Séparation front-office / back-office ; enregistrement des conversations (conservation ≥ 3 mois, jusqu'au règlement en cas de litige).\n- Conciliation puis, à défaut, arbitrage de BAM possible pour les différends entre intervenants.\n### Négocier ses cours de change\n- Demander le cours appliqué avant l'exécution : la convention de compte prévoit que l'opération se fait après accord du client sur le cours (circ. 15/W/16, convention type, art. 28).\n- Comparer avec le cours de référence publié quotidiennement par BAM et les cours limites de la bande.\n- Vérifier sur le relevé le cours effectivement appliqué, qui doit y figurer (circ. 3/G/10).",
+  "maj": "2026-10-18"
+ }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "id": "7-020",
+    "p": 7,
+    "ch": "7.3",
+    "c": "Admission temporaire en l'état",
+    "t": "Admission temporaire en l'état : principe, marchandises admissibles et bénéficiaires",
+    "enbref": "L'admission temporaire permet d'utiliser au Maroc, en suspension des droits et taxes, des matériels, produits ou moyens de transport destinés à être réexportés en l'état après l'usage prévu. Le régime ne couvre que les catégories fixées par décret ; la marchandise doit rester identifiable et ne subir aucune transformation.",
+    "textes": [
+      "CDII, art. 145, 146 et 147",
+      "Décret n° 2-77-862, art. 115, 116, 125, 126 et 127",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexe II",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021, annexe AT",
+      "Note ADII n° D126/2026/ADII/AC/100 du 04/06/2026"
+    ],
+    "principe": "L'admission temporaire permet d'importer en suspension des droits deux catégories de biens : les moyens de transport privés et objets des personnes résidant à l'étranger en séjour temporaire, et les matériels et produits destinés à être exportés en l'état après l'utilisation prévue (CDII, art. 145-1°). Pour les voyageurs, le régime vise les effets personnels, hors marchandises commerciales, et les moyens de transport privés, hors transport commercial (art. 146) ; il bénéficie aux personnes résidant habituellement à l'étranger dont le séjour n'excède pas six mois sur douze (décret n° 2-77-862, art. 115 et 116). Pour les matériels et produits divers, le décret fixe les catégories admissibles (CDII, art. 147 ; décret, art. 125) : matériels restant propriété étrangère pour des travaux de durée limitée, sous autorisation spéciale du ministre des finances (A) ; films loués ou prêtés (B) ; emballages et contenants (C) ; échantillons, marchandises pour expositions, objets d'essai, matériel professionnel, conteneurs, véhicules commerciaux en trafic international et autres biens énumérés (D) ; marchandises visées par les conventions internationales ratifiées (E). L'entrée et la sortie se font par tous les bureaux, sauf désignation restrictive (art. 126), sous acquit à caution ou document international (art. 127). L'admission temporaire des moyens de transport des voyageurs peut s'effectuer sous un titre délivré par un organisme de tourisme autorisé, qui s'engage solidairement avec le bénéficiaire à acquitter les droits majorés de l'intérêt de retard si le véhicule n'est pas réexporté ou entreposé dans le délai (décret, art. 119 et 120). L'administration peut autoriser le prêt occasionnel de courte durée à une personne remplissant elle-même les conditions du régime, la conduite jusqu'au bureau de sortie par un tiers lorsque le bénéficiaire ne peut exporter lui-même, et la conduite des véhicules de location par un salarié d'un loueur établi au Maroc (art. 122-2°).",
+    "admin": "La circulaire n° 6164/313 (annexe II) supprime l'autorisation préalable pour l'AT des programmes d'hydrocarbures (code 300), des matériels soumis à redevances trimestrielles (code 301) et du commerce triangulaire (code 303). La note D885/21/ADII/100 précise les contrôles : facture libellée « sans paiement » et délai limité au temps d'emploi pour les matériels propriété étrangère ; liste visée par le département de l'énergie pour les hydrocarbures ; autorisation de l'ANRT pour le matériel à homologuer. À l'entrée, le service prend en charge dans BADR les éléments d'identification du véhicule et délivre au voyageur le document d'AT ; le système interdit la création d'une nouvelle AT pour un voyageur qui en a déjà une à sa charge. Pour les AT migrées de l'ancien système de contrôle des voyageurs et antérieures au 01/01/2019, la situation n'est pas opposable à une nouvelle AT, et la présentation à l'importation du même véhicule non apuré vaut en principe preuve de sa réexportation antérieure ; l'amende pour réexportation tardive reste exigée s'il s'avère que le véhicule a été réexporté hors délai (note D126/2026/ADII/AC/100 du 04/06/2026).",
+    "donnees": [
+      [
+        "Condition de fond",
+        "Réexportation en l'état après l'usage prévu (CDII, art. 145-1° et 2°)"
+      ],
+      [
+        "Voyageurs bénéficiaires",
+        "Résidents à l'étranger séjournant au plus 6 mois sur 12 (décret, art. 115)"
+      ],
+      [
+        "Catégories admissibles",
+        "A à E (décret, art. 125)"
+      ],
+      [
+        "Matériels propriété étrangère (catégorie A)",
+        "Autorisation spéciale du ministre des finances (décret, art. 125)"
+      ],
+      [
+        "Titre",
+        "Acquit à caution ou document international (décret, art. 127)"
+      ],
+      [
+        "Véhicules des voyageurs",
+        "Prise en charge BADR ; pas de nouvelle AT si une AT est en cours (note D126/2026)"
+      ]
+    ],
+    "cas": "Atlas Forage SARL, société fictive de Marrakech, loue à une société espagnole une foreuse de 4 000 000 DH pour un chantier de quatorze mois. La foreuse reste propriété étrangère et sera réexportée en l'état : elle relève de l'admission temporaire de matériels de catégorie A, et non de l'ATPA, puisqu'elle ne subit aucune transformation. La facture est libellée « sans paiement » et la déclaration annotée sur BADR (note D885/21/ADII/100). Erreur à éviter : importer la foreuse en droit commun puis chercher à se faire rembourser ; le régime suspensif doit être choisi dès l'importation.",
+    "juris": "",
+    "conseil": "Qualifiez d'abord l'usage : un bien utilisé tel quel relève de l'admission temporaire, un bien transformé de l'ATPA. Identifiez ensuite la catégorie du décret, car elle commande le délai et la redevance éventuelle. Photographiez le matériel et relevez ses numéros de série à l'entrée : la réexportation exige son identité.",
+    "faq": [
+      [
+        "Un matériel loué à l'étranger pour un chantier relève-t-il de l'AT ou de l'ATPA ?",
+        "De l'admission temporaire, s'il est utilisé puis réexporté en l'état (CDII, art. 145-1°) ; l'ATPA concerne les marchandises transformées."
+      ],
+      [
+        "Un résident marocain peut-il importer sa voiture étrangère sous ce régime ?",
+        "Non, le régime des voyageurs vise les personnes résidant habituellement à l'étranger dont le séjour n'excède pas six mois sur douze (décret, art. 115)."
+      ],
+      [
+        "Un voyageur peut-il entrer avec un second véhicule alors que le premier n'est pas apuré ?",
+        "Non : BADR interdit la création d'une nouvelle AT pour un voyageur qui en a déjà une à sa charge (note D126/2026)."
+      ]
+    ],
+    "renvois": [
+      "7-001",
+      "7-010",
+      "7-021",
+      "7-022",
+      "7-023",
+      "7-025",
+      "6-020"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-021",
+    "p": 7,
+    "ch": "7.3",
+    "c": "Admission temporaire en l'état",
+    "t": "Durée de séjour et garantie en admission temporaire : délais par catégorie, prorogation et dispenses de caution",
+    "enbref": "La durée de séjour est limitée au temps nécessaire à l'emploi envisagé et plafonnée selon la catégorie : deux ans, un an ou six mois, prorogeables jusqu'au double. Les droits suspendus sont garantis par une caution ou une consignation, sauf dispenses prévues pour les voyageurs, certaines expositions et le commerce triangulaire en enceinte douanière.",
+    "textes": [
+      "Décret n° 2-77-862, art. 117, 118, 128, 132 et 133",
+      "CDII, art. 116 et 149-2°",
+      "Note ADII n° 23605/320 du 23/11/1998",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe I",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+      "Note ADII n° D6442/21/ADII/100 du 08/09/2021"
+    ],
+    "principe": "Pour les matériels et produits divers, le séjour est limité au temps nécessaire à l'emploi envisagé, sans excéder deux ans pour les catégories Ca, Cc, D3, D9 et D11, un an pour la catégorie Cb et six mois pour les autres biens de la catégorie D ; il peut être prorogé jusqu'au double par le ministre ou le directeur général délégué, la catégorie E suivant les conventions internationales (décret n° 2-77-862, art. 132). Les marchandises sont présentées à première réquisition pendant tout le séjour (art. 133). Pour les voyageurs, le régime dure le temps du séjour, au plus six mois à compter de l'entrée, ou dix-huit mois pour les bateaux de plaisance, prorogeables par le ministre jusqu'au double (art. 117) ; l'administration peut les dispenser d'acquit à caution (art. 118). Hors ces cas, l'acquit à caution porte les signatures du déclarant, du soumissionnaire et, le cas échéant, de la caution (art. 128 ; CDII, art. 116). La cession d'un bien sous AT ne prolonge pas le délai (CDII, art. 149-2°).",
+    "admin": "La note n° 23605/320 exige une caution bancaire ou une consignation pour les matériels propriété étrangère et fixe le délai d'après les documents présentés. La circulaire n° 6348/313 (annexe I) dispense de caution l'AT pour séminaires et expositions parrainés par des entités publiques ou des ambassades, sur engagement écrit de réexporter, et limite les délais à six mois pour les expositions, deux ans pour les essais et six mois pour les échantillons des unités exportatrices. Pour le commerce triangulaire, la caution n'est pas exigée si les marchandises restent dans l'enceinte douanière ; sinon elle l'est et le séjour est limité à trois mois (note D885/21/ADII/100). Pour l'immatriculation en séries spéciales des véhicules admis temporairement (« plaques jaunes » et série « RT », Régime temporaire, qui a remplacé la série « CI »), le service délivre une autorisation de bénéfice du régime, éditée automatiquement par le module « AT Voyageurs » de BADR (arrêté n° 2711-10, art. 45 et 50, modifié par l'arrêté n° 1514-20 ; note D6442/21/ADII/100 du 08/09/2021).",
+    "donnees": [
+      [
+        "Durées maximales",
+        "2 ans (Ca, Cc, D3, D9, D11), 1 an (Cb), 6 mois (autres D) (décret, art. 132)"
+      ],
+      [
+        "Prorogation",
+        "Jusqu'au double, par le ministre ou le directeur général délégué (décret, art. 132)"
+      ],
+      [
+        "Voyageurs",
+        "6 mois ; 18 mois pour les bateaux de plaisance (décret, art. 117)"
+      ],
+      [
+        "Expositions, essais, échantillons",
+        "6 mois, 2 ans, 6 mois (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Garantie des matériels propriété étrangère",
+        "Caution bancaire ou consignation (note 23605/320 du 23/11/1998)"
+      ],
+      [
+        "Cession",
+        "Sans prolongation du délai (CDII, art. 149-2°)"
+      ],
+      [
+        "Plaques jaunes et série RT",
+        "Autorisation éditée par BADR, module « AT Voyageurs » (note D6442/21)"
+      ]
+    ],
+    "cas": "Expo Atlas SARL, société fictive, organise à Casablanca un salon du machinisme agricole parrainé par un ministère. Des exposants italiens importent 30 machines de démonstration. Sur engagement écrit du ministère de réexporter avant l'échéance, la déclaration est souscrite en dispense de caution, pour un délai de six mois (circ. 6348/313). À la clôture, un exposant vend une machine à un agriculteur marocain. Erreur à éviter : livrer la machine sans régularisation ; sa mise à la consommation doit être autorisée et taxée (CDII, art. 151), sinon les droits deviennent exigibles et une infraction est constituée.",
+    "juris": "",
+    "conseil": "Demandez d'emblée le délai réellement nécessaire, justifié par le contrat de location ou le calendrier du chantier : une prorogation remonte au ministre ou au directeur général délégué et prend du temps. Vérifiez que la caution couvre toute la durée du séjour, prorogations comprises. Dans un salon, tenez un inventaire des machines par exposant et par numéro de série.",
+    "faq": [
+      [
+        "Combien de temps un échantillon peut-il rester en AT ?",
+        "Six mois au plus pour les échantillons importés par les unités de production exportatrices (circ. 6348/313 du 06/07/2022, annexe I)."
+      ],
+      [
+        "La caution est-elle obligatoire pour le commerce triangulaire ?",
+        "Non si la marchandise ne quitte pas l'enceinte douanière et si les déclarations d'AT et d'exportation sont déposées ensemble ; sinon oui, avec un séjour limité à trois mois (note 23605/320 ; note D885/21/ADII/100)."
+      ]
+    ],
+    "renvois": [
+      "7-003",
+      "7-020",
+      "7-022",
+      "7-024",
+      "7-025",
+      "4-042"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, position de l'administration, données clés mis à jour"
+    ]
+  },
+  {
+    "id": "7-022",
+    "p": 7,
+    "ch": "7.3",
+    "c": "Admission temporaire en l'état",
+    "t": "Apurement du compte d'admission temporaire : réexportation, entreposage, cession et décharge",
+    "enbref": "Le compte d'admission temporaire s'apure par la réexportation à l'identique dans les délais, par la mise en entrepôt ou, sur autorisation, par la mise à la consommation, l'abandon ou la destruction. À l'échéance, faute de régularisation, les droits deviennent immédiatement exigibles, sans préjudice des poursuites.",
+    "textes": [
+      "CDII, art. 145-2° et 3°, 149 et 151 bis",
+      "Décret n° 2-77-862, art. 123, 131, 135, 136, 137, 137 bis et 137 ter",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+    ],
+    "principe": "Les biens placés en admission temporaire doivent être exportés à l'identique dans les délais réglementaires ; des taux d'apurement particuliers peuvent être fixés par arrêté conjoint pour les matériels, et les déchets irrécupérables peuvent être mis à la consommation en exonération (CDII, art. 145-2°). Les biens peuvent aussi être constitués en entrepôt sur autorisation du directeur (art. 145-3°) ou cédés dans les conditions de l'article 116-5° (art. 149). Un compte est tenu par opération (décret n° 2-77-862, art. 131) ; des fiches d'imputation signées du déclarant et du soumissionnaire sont jointes aux déclarations de sortie (art. 135) ; l'apurement est global ou partiel (art. 136) et la décharge est délivrée par le bureau de souscription (art. 137). Les déchets réglementaires peuvent être exportés, mis à la consommation aux conditions du jour, abandonnés ou détruits (art. 137 bis et 137 ter). En cas d'accident, un moyen de transport gravement endommagé peut être abandonné franc de frais (art. 123). Si, à l'échéance, les biens ne sont ni réexportés, ni entreposés, ni mis à la consommation sur autorisation, les droits sont immédiatement exigibles, sauf exportation tardive autorisée et sans préjudice des suites contentieuses (CDII, art. 151 bis).",
+    "admin": "La circulaire n° 6348/313 (annexe II) confie l'exportation hors délai en suite d'AT aux directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations, et réserve à l'Administration centrale la régularisation par destruction ou abandon en exonération ainsi que la prorogation au-delà du délai réglementaire.",
+    "donnees": [
+      [
+        "Mode normal",
+        "Réexportation à l'identique dans les délais (CDII, art. 145-2°)"
+      ],
+      [
+        "Pièce d'imputation",
+        "Fiche signée du déclarant et du soumissionnaire (décret, art. 135)"
+      ],
+      [
+        "Décharge",
+        "Bureau de souscription (décret, art. 137)"
+      ],
+      [
+        "Exportation hors délai",
+        "Directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313, annexe II)"
+      ],
+      [
+        "Destruction ou abandon en exonération",
+        "Administration centrale (circ. 6348/313, annexe II)"
+      ],
+      [
+        "Défaut de régularisation",
+        "Droits immédiatement exigibles (CDII, art. 151 bis)"
+      ]
+    ],
+    "cas": "Atlas Forage SARL, société fictive, a placé en AT une foreuse louée pour quatorze mois. Le chantier se termine avec un mois d'avance : elle réexporte la foreuse par Tanger Med et joint la fiche d'imputation à la déclaration d'exportation (décret, art. 135), puis vérifie la décharge au bureau de souscription. Une pièce d'usure cassée et remplacée sur place est détruite sous contrôle. Erreur à éviter : réexporter une autre foreuse du même modèle ; l'exportation doit porter sur le bien identique (CDII, art. 145-2°).",
+    "juris": "",
+    "conseil": "Relevez les numéros de série à l'entrée et faites-les reporter sur la déclaration d'exportation : c'est la preuve d'identité exigée. Prévoyez le sort des pièces remplacées pendant l'usage, qui restent sous le régime. En fin de chantier, comparez le coût d'un rapatriement avec celui d'une mise à la consommation autorisée ou d'un abandon, à demander avant l'échéance.",
+    "faq": [
+      [
+        "Puis-je placer en entrepôt un matériel en AT en attendant un nouveau contrat ?",
+        "Oui, sur autorisation du directeur (CDII, art. 145-3°)."
+      ],
+      [
+        "Que se passe-t-il si le matériel n'est pas réexporté à l'échéance ?",
+        "Les droits deviennent immédiatement exigibles, sauf exportation tardive autorisée, sans préjudice des suites contentieuses (CDII, art. 151 bis)."
+      ],
+      [
+        "Qui autorise l'exportation hors délai ?",
+        "Les directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313 du 06/07/2022, annexe II)."
+      ],
+      [
+        "Que faire d'un véhicule en AT gravement accidenté ?",
+        "L'administration peut en accepter l'abandon franc de frais, au lieu d'exiger sa réexportation ; la même règle vaut pour les pièces de rechange remplacées (décret, art. 123)."
+      ]
+    ],
+    "renvois": [
+      "7-004",
+      "7-020",
+      "7-021",
+      "7-024",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-023",
+    "p": 7,
+    "ch": "7.3",
+    "c": "Admission temporaire en l'état",
+    "t": "Redevance trimestrielle des matériels en admission temporaire : calcul, paiement et dispenses",
+    "enbref": "Les matériels étrangers qui accomplissent des travaux au Maroc sous admission temporaire acquittent une redevance égale, par trimestre, à un dixième des droits et taxes suspendus. Les matériels de production servant à des biens exportés à 75 % au moins, ou à des projets conventionnés, en sont dispensés.",
+    "textes": [
+      "CDII, art. 148 et 151-3°",
+      "Décret n° 2-77-862, art. 134",
+      "Note ADII n° 23605/320 du 23/11/1998",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021"
+    ],
+    "principe": "Par dérogation à l'article 145, l'admission temporaire de matériels accomplissant des travaux sur le territoire donne lieu à une redevance ad valorem liquidée comme les droits de douane (CDII, art. 148-1°). Pour le matériel de catégorie A, elle est fixée à un dixième, par trimestre, du montant cumulé des droits et taxes d'importation ; un arrêté peut réduire ce taux jusqu'au quarantième lorsque l'amortissement comptable dépasse trente mois (décret n° 2-77-862, art. 134-1°). Elle est payée avant l'enlèvement pour le premier trimestre, puis dans les dix premiers jours de chaque trimestre ; tout trimestre commencé est dû en entier, sans remboursement en cas de sortie anticipée, et le total est plafonné au montant des droits et taxes (art. 134-1°). Sont dispensés les matériels de production restant propriété de non-résidents et servant à produire des biens destinés à 75 % au moins à l'exportation, ou à des projets d'investissement conventionnés ou financés par une aide non remboursable (CDII, art. 148-3°), ainsi que les matériels destinés aux hydrocarbures relevant de la loi n° 21-90 (décret, art. 134-2°). En cas de mise à la consommation, la redevance déjà perçue est déduite des droits (CDII, art. 151-3°).",
+    "admin": "La circulaire n° 6348/313 (annexe II) confie aux directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations l'autorisation d'AT, en exonération des redevances, des matériels nécessaires à une production destinée à plus de 75 % à l'exportation. La note n° 23605/320 permet l'exonération pour le matériel soumis à homologation de l'ANRT, sur accord préalable de cette agence fixant la nature, le nombre et la durée des tests.",
+    "donnees": [
+      [
+        "Taux",
+        "1/10 des droits et taxes par trimestre, réductible jusqu'à 1/40 par arrêté (décret, art. 134-1°)"
+      ],
+      [
+        "Échéances",
+        "Avant enlèvement, puis dans les 10 premiers jours de chaque trimestre (décret, art. 134-1°)"
+      ],
+      [
+        "Plafond",
+        "Montant cumulé des droits et taxes (décret, art. 134-1°)"
+      ],
+      [
+        "Dispense export",
+        "Production destinée à 75 % au moins à l'exportation (CDII, art. 148-3°)"
+      ],
+      [
+        "Autorité de la dispense export",
+        "Directeurs provinciaux, préfectoraux, des MEAD et des importations-exportations (circ. 6348/313, annexe II)"
+      ],
+      [
+        "Imputation en cas de mise à la consommation",
+        "Redevance déduite des droits (CDII, art. 151-3°)"
+      ]
+    ],
+    "cas": "Atlas Forage SARL, société fictive, place en AT une foreuse dont les droits et taxes suspendus atteignent 800 000 DH. La redevance trimestrielle est de 80 000 DH, à payer avant l'enlèvement pour le premier trimestre (décret, art. 134-1°). Le chantier dure quatorze mois, soit cinq trimestres commencés : 400 000 DH au total, sous le plafond de 800 000 DH. Erreur à éviter : réexporter au début du cinquième trimestre en espérant payer moins ; tout trimestre commencé est dû en entier, sans remboursement.",
+    "juris": "",
+    "conseil": "Calez la date d'importation et de réexportation sur le découpage trimestriel : quelques jours peuvent coûter un trimestre entier. Si le matériel sert une production majoritairement exportée, documentez le ratio d'exportation avant de demander la dispense. Si un rachat local est envisagé, intégrez la déduction de la redevance déjà payée dans votre calcul.",
+    "faq": [
+      [
+        "La redevance est-elle remboursée si je réexporte avant la fin du trimestre ?",
+        "Non, tout trimestre commencé est dû en entier, sans remboursement en cas de sortie anticipée (décret, art. 134-1°)."
+      ],
+      [
+        "Une ligne de production d'une entreprise exportatrice paie-t-elle la redevance ?",
+        "Non si elle reste propriété de non-résidents et produit des biens destinés à 75 % au moins à l'exportation (CDII, art. 148-3°)."
+      ],
+      [
+        "La redevance payée est-elle perdue si j'achète finalement le matériel ?",
+        "Non, elle est déduite des droits dus lors de la mise à la consommation (CDII, art. 151-3°)."
+      ],
+      [
+        "La redevance est-elle due pour un matériel réexporté au bout de deux semaines dans un nouveau trimestre ?",
+        "Oui : tout trimestre commencé est dû en entier, sans remboursement en cas de sortie anticipée (décret, art. 134-1°)."
+      ]
+    ],
+    "renvois": [
+      "7-020",
+      "7-021",
+      "7-024",
+      "4-031"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-024",
+    "p": 7,
+    "ch": "7.3",
+    "c": "Admission temporaire en l'état",
+    "t": "Mise à la consommation de matériels en admission temporaire : autorisation et calcul des droits",
+    "enbref": "Un bien placé en admission temporaire peut être mis à la consommation sur autorisation : les droits sont alors calculés au tarif et à la valeur du jour de la déclaration d'admission temporaire, avec intérêt de retard s'ils n'étaient pas consignés. Pour le matériel resté plus de trente mois au service d'une production exportée à 75 %, les conditions du jour de la mise à la consommation s'appliquent.",
+    "textes": [
+      "CDII, art. 151",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexes I et II",
+      "Circulaire ADII n° 6325/313 du 18/05/2022",
+      "Note ADII n° 23605/320 du 23/11/1998"
+    ],
+    "principe": "Par dérogation à l'obligation de réexportation, le directeur peut autoriser la mise à la consommation des biens placés en admission temporaire, sous réserve du contrôle du commerce extérieur et des changes, ou leur abandon ou destruction en exonération pour raisons commerciales justifiées (CDII, art. 151-1°). Les droits sont ceux en vigueur à la date d'enregistrement de la déclaration d'admission temporaire, sur la valeur à cette date, majorés de l'intérêt de retard s'ils n'ont pas été consignés (art. 151-2°). Pour le matériel séjournant depuis plus de trente mois et ayant servi à produire des biens destinés à 75 % au moins à l'exportation, ou à des projets conventionnés ou financés par une aide non remboursable, les droits et la valeur sont ceux du jour de la déclaration de mise à la consommation (art. 151-2° bis). La redevance déjà perçue est déduite, l'excédent restant acquis au Trésor (art. 151-3°).",
+    "admin": "La circulaire n° 6348/313 supprime l'autorisation préalable de mise à la consommation en suite d'AT (code 044) : la mainlevée est accordée après contrôle (annexe I) ; la destruction ou l'abandon en exonération relèvent de l'Administration centrale (annexe II). Selon la circulaire n° 6325/313, la mise à la consommation sur la base de la valeur résiduelle reste liquidée manuellement (mode de taxation « Autres »). La note n° 23605/320 autorise la mise à la consommation du matériel homologué par l'ANRT, après attestation d'agrément, aux conditions de l'article 151.",
+    "donnees": [
+      [
+        "Règle générale",
+        "Tarif et valeur du jour de la déclaration d'AT, plus intérêt de retard si non consignés (CDII, art. 151-2°)"
+      ],
+      [
+        "Matériel de plus de 30 mois (export 75 % ou projet conventionné)",
+        "Tarif et valeur du jour de la mise à la consommation (CDII, art. 151-2° bis)"
+      ],
+      [
+        "Redevance déjà payée",
+        "Déduite des droits (CDII, art. 151-3°)"
+      ],
+      [
+        "Autorisation",
+        "Supprimée pour le code 044 ; mainlevée après contrôle (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Liquidation BADR sur valeur résiduelle",
+        "Manuelle, mode « Autres » (circ. 6325/313)"
+      ]
+    ],
+    "cas": "Kénitra Textile SA, société fictive dont 90 % de la production est exportée, utilise depuis trente-six mois une ligne de tricotage restant propriété d'un fabricant turc, placée en AT. Elle décide de la racheter. Le séjour dépassant trente mois au service d'une production exportée à plus de 75 %, les droits sont calculés au tarif et sur la valeur du jour de la mise à la consommation, soit la valeur résiduelle de la ligne (CDII, art. 151-2° bis). Sur la DUM, le mode de taxation « Autres » est retenu (circ. 6325/313). Erreur à éviter : déclarer la valeur d'origine ; elle ne vaut que pour la règle générale.",
+    "juris": "",
+    "conseil": "Pour un matériel de production, comparez à l'avance le coût d'un rachat au-delà de trente mois et avant ce seuil : la différence de base taxable peut être décisive. Conservez les justificatifs du ratio d'exportation sur toute la période. Consignez les droits dès l'importation si un rachat est probable, pour éviter l'intérêt de retard.",
+    "faq": [
+      [
+        "Dois-je demander une autorisation avant de mettre à la consommation un matériel en AT ?",
+        "L'autorisation préalable est supprimée pour le code 044 : la mainlevée est accordée après contrôle (circ. 6348/313, annexe I)."
+      ],
+      [
+        "Sur quelle valeur sont calculés les droits d'un matériel ancien ?",
+        "Sur la valeur du jour de la déclaration d'AT, sauf pour le matériel de plus de trente mois au service d'une production exportée à 75 % au moins ou d'un projet conventionné : valeur et tarif du jour de la mise à la consommation (CDII, art. 151-2° et 2° bis)."
+      ],
+      [
+        "Un matériel en AT depuis trois ans peut-il être racheté sur sa valeur du jour ?",
+        "Oui s'il a servi à produire des biens destinés à 75 % au moins à l'export ou à un projet conventionné : droits et valeur sont alors ceux du jour de la mise à la consommation (CDII, art. 151-2° bis)."
+      ]
+    ],
+    "renvois": [
+      "7-020",
+      "7-022",
+      "7-023",
+      "4-031"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-025",
+    "p": 7,
+    "ch": "7.3",
+    "c": "Admission temporaire en l'état",
+    "t": "Admissions temporaires particulières : commerce triangulaire, échantillons, matériel en bagages, expositions et tournages",
+    "enbref": "Plusieurs variantes de l'admission temporaire obéissent à des conditions propres : commerce triangulaire, échantillons des unités exportatrices, petit matériel apporté par des non-résidents, matériel d'exposition ou de tournage. La plupart ne demandent plus d'autorisation préalable, mais des visas d'autres administrations restent exigibles.",
+    "textes": [
+      "Note ADII n° 23605/320 du 23/11/1998",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe I",
+      "Circulaire ADII n° 6164/313 du 09/02/2021, annexes II et III",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016, annexe 6",
+      "Note ADII n° D2/20/ADII/100 du 04/01/2021",
+      "Note ADII n° 3799/314 du 28/02/2002"
+    ],
+    "principe": "Ces variantes reposent sur les catégories de biens admissibles fixées par décret en application de l'article 147 du CDII et sur les instructions de l'administration. Le commerce triangulaire est ouvert aux personnes inscrites au registre de commerce et au fichier des opérateurs du commerce extérieur, au vu des factures d'achat et de vente, bons de commande ou accréditif ; aucun certificat d'origine n'est délivré à la réexportation (note n° 23605/320). Le petit matériel et l'outillage apportés en bagages par des non-résidents pour des interventions courtes (dépannage, contrôle, mise au point) sont admis par annotation du passeport, pour un mois au plus, sous réserve des autorisations requises (ANRT, Santé, Métrologie légale) (même note). Le personnel étranger des entreprises installées en zone franche bénéficie de l'admission temporaire pour le véhicule importé lors de son installation (loi n° 19-94, art. 25). Le régime est réservé aux salariés de nationalité étrangère recrutés hors du Maroc ; les Marocains binationaux en sont exclus et relèvent du droit commun (note D2/20/ADII/100 du 04/01/2021). Il a été étendu aux dirigeants étrangers non salariés (président, directeur, actionnaire-gérant unique), qui justifient de leur nomination par les statuts ou le dernier procès-verbal d'assemblée générale (note n° 3799/314 du 28/02/2002).",
+    "admin": "La circulaire n° 6348/313 (annexe I) supprime l'autorisation préalable pour : les démonstrations, essais, congrès et rallyes (6 mois pour les expositions, 2 ans pour les essais) ; les échantillons des unités exportatrices (6 mois, code 321) ; le matériel cinématographique et photographique, sur autorisation du Centre cinématographique marocain ; le matériel des journalistes étrangers, sur autorisation du département de la Communication ; les big bags et sacs des sociétés commerciales (code 311), le régime étant de droit pour les industriels ; le petit matériel en bagages, sous réserve des attestations requises. La note D885/21/ADII/100 rappelle que la caution est exigée et le séjour limité à trois mois en commerce triangulaire lorsque la marchandise quitte l'enceinte douanière.",
+    "donnees": [
+      [
+        "Commerce triangulaire hors enceinte",
+        "Caution exigée ; séjour de 3 mois au plus (note D885/21/ADII/100)"
+      ],
+      [
+        "Commerce triangulaire en enceinte",
+        "Dispense de caution ; dépôt simultané des déclarations d'AT et d'export (note 23605/320)"
+      ],
+      [
+        "Petit matériel en bagages de non-résidents",
+        "1 mois au plus ; annotation du passeport (note 23605/320)"
+      ],
+      [
+        "Échantillons des unités exportatrices",
+        "6 mois au plus, code 321 (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Matériel de tournage ou de reportage",
+        "Autorisation du CCM (circ. 6348/313, annexe I)"
+      ],
+      [
+        "Véhicules du personnel étranger des ZFE/ZAI",
+        "Salariés étrangers recrutés hors du Maroc et dirigeants non salariés ; binationaux exclus (notes D2/20 et 3799/314)"
+      ]
+    ],
+    "cas": "Sahara Trading SARL, société fictive de Casablanca, achète à un fournisseur chinois 2 000 panneaux solaires revendus à un client sénégalais. Les panneaux transitent par le port de Casablanca sans quitter l'enceinte : la déclaration d'AT est souscrite en dispense de caution et déposée en même temps que la déclaration d'exportation, au vu des factures et du bon de commande (note n° 23605/320). Erreur à éviter : demander un certificat d'origine marocaine pour la réexportation ; il n'en est pas délivré pour ces opérations.",
+    "juris": "",
+    "conseil": "Pour un tournage ou une exposition, obtenez les visas des autres administrations avant l'arrivée du matériel : la douane ne les remplace pas. Pour l'intervention d'un technicien étranger, faites préparer la liste du petit matériel avec numéros de série. Pour une manifestation récurrente ou un matériel voyageant souvent, examinez le carnet ATA, plus simple à présenter.",
+    "faq": [
+      [
+        "Un technicien étranger peut-il apporter ses outils pour une réparation ?",
+        "Oui, par simple annotation de son passeport, pour un mois au plus, sous réserve des autorisations éventuellement requises (note n° 23605/320 du 23/11/1998)."
+      ],
+      [
+        "Une équipe de tournage a-t-elle besoin d'une autorisation douanière préalable ?",
+        "Non, mais l'autorisation du Centre cinématographique marocain est exigée (circ. 6348/313, annexe I)."
+      ],
+      [
+        "Un cadre franco-marocain d'une société en ZAI peut-il bénéficier de la plaque jaune ?",
+        "Non : les Marocains binationaux relèvent du droit commun applicable aux nationaux (note D2/20)."
+      ]
+    ],
+    "renvois": [
+      "7-020",
+      "7-021",
+      "7-022",
+      "6-020",
+      "5-021"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, données clés, questions fréquentes mis à jour"
+    ]
+  }
+]

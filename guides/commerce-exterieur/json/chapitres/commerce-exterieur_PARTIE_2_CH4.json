@@ -1,0 +1,47 @@
+[
+ {
+  "id": "2-030",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Laboratoires, OEC agréés et accréditation",
+  "t": "Agrément et accréditation : deux notions distinctes",
+  "principe": "L'accréditation est la reconnaissance formelle de la compétence d'un organisme d'évaluation de la conformité, prononcée par le ministère chargé de l'industrie après avis du COMAC (loi 12-06, art. 3 et 45). L'agrément est l'autorisation donnée par l'administration compétente à un OEC pour intervenir dans l'évaluation de la conformité au titre de la loi 24-09 (art. 20). Seul un OEC agréé peut produire les évaluations exigées par une réglementation technique particulière ; un organisme qui exerce sans agrément ou malgré une suspension s'expose aux peines de l'article 51.\nLes conditions de l'agrément sont : être une personne morale, disposer des compétences techniques, matérielles et professionnelles nécessaires, garantir l'indépendance et l'impartialité vis-à-vis des entreprises du secteur (art. 21). Tout refus doit être motivé et notifié dans les 15 jours. La sous-traitance n'est possible qu'à un organisme lui-même agréé pour les prestations concernées (art. 23).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-031",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Laboratoires, OEC agréés et accréditation",
+  "t": "Les OEC ayant demandé le maintien de leur agrément (liste du 3 septembre 2025)",
+  "principe": "| N° | Organisme | Principaux domaines d'agrément | Expiration |\n| MA002 | Laboratoire d'expertise et de contrôle de l'ESITH (ESITH LEC) | Textile et habillement, chaussures, jouets, détergents, hygiène, plastiques au contact alimentaire, cuir, cahiers, vaisselle | 02/09/2029 |\n| MA003 | Laboratoire public d'essais et d'études (LPEE) | Produits électriques, plastiques et caoutchouc, bois, extincteurs, liants hydrauliques, béton, céramique, sidérurgie, robinetterie, articles culinaires | 02/09/2029 |\n| MA004 | TEXAD SARL | Textile, chaussures, hygiène, cuir, vaisselle, stylos, détergents | 02/09/2029 |\n| MA005 | CTIBA | Bois, menuiserie, ameublement, vitrages, peintures | 02/09/2029 |\n| MA006 | CTPC | Plastiques et caoutchouc, cartables, cahiers, stylos, masques, hygiène, peintures, chambres à air, rubans adhésifs, mastics | 02/09/2029 |\n| MA007 | CERIMME | Sidérurgie, produits électriques, gaz, extincteurs, robinetterie, batteries automobiles, briquets | 02/09/2029 |\n| MA009 | CETIEV | Pièces de rechange automobiles, compatibilité électromagnétique, vitrages, casques | 02/09/2029 |\n| MA010 | Centre marocain des techniques du cuir (CMTC) | Textile, chaussures, EPI, jouets, hygiène, cuir | 02/09/2029 |\n| MA011 | Centre technique du textile et de l'habillement (CTTH) | Textile, chaussures, jouets, détergents, hygiène, cartables, cuir, vaisselle, briquets | 02/09/2029 |\n| MA012 | CETEMCO | Vaisselle, liants hydrauliques, béton, articles culinaires, céramique, étanchéité, peintures | 02/09/2029 |\n| MA013 | LABOMETAL | Sidérurgie, articles culinaires, vaisselle, gaz, robinetterie, briquets | 02/09/2029 |\n| MA014 | TTEC (Tanger) | Carreaux et dalles céramiques, appareils sanitaires | 02/09/2029 |\n| MA0016 | ACLAB | 23 domaines, dont textile, vaisselle, couches bébés, détergents, cahiers, stylos, alcool industriel, céramique, amiante, jouets, peintures, filtres, quincaillerie | 06/08/2026 |\n| MA0015 | SGS Maroc | Textile et habillement, chaussures | 13/04/2026 |\n### POINT DE VIGILANCE\nÀ la date de ce guide (octobre 2026), les agréments affichés pour SGS Maroc (13/04/2026) et ACLAB (06/08/2026) ont dépassé leur date d'expiration selon cette liste. Vérifier auprès du ministère leur renouvellement avant de fonder un dossier sur leurs rapports.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-032",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Laboratoires, OEC agréés et accréditation",
+  "t": "Les laboratoires accrédités NM ISO/IEC 17025",
+  "principe": "Le corpus contient les portées d'accréditation publiées par le SEMAC en révision d'avril 2026 :\n| Recueil | Laboratoires | Lignes d'essais ou d'étalonnage extraites |\n| Bâtiment et génie civil | 35 | 2 190 |\n| Chimie, parachimie, agroalimentaire et analyses vétérinaires | 76 | 2 163 |\n| Étalonnage | 23 | 1 251 |\n| Plurisectoriel (bois, métal, électricité, plastiques, caoutchouc, vitrage, stérilisateurs, dosimétrie, radioactivité) | 12 | 367 |\n| Textile et cuir | 8 | 293 |\nChaque fiche indique le numéro de dossier (AL …), l'adresse, le responsable technique, la révision en vigueur et, pour chaque essai, l'objet, la caractéristique mesurée, la norme marocaine ou l'autre référence, et le lieu de réalisation (laboratoire permanent, mobile ou sur site).\n### CONSEIL PRATIQUE\nPour choisir un laboratoire, partir de la norme exigée par la liste NMO ou par la liste des produits contrôlés, puis rechercher cette référence dans les portées d'accréditation (champ « normes_marocaines » de la base JSON). Un rapport émis hors portée d'accréditation n'a pas la même valeur probante.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-033",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Laboratoires, OEC agréés et accréditation",
+  "t": "Les redevances d'accréditation à partir de 2026",
+  "principe": "Un avis du Ministère de l'Industrie et du Commerce, pris en application de l'arrêté conjoint n° 2435-14 du 7 juillet 2014, rend payantes les prestations du SEMAC à compter du 1er janvier 2026 :\n| Prestation | Tarif | Échéance |\n| Instruction d'une demande d'accréditation initiale | 3 000 DH | Après traitement de la demande, avant la notification de la décision de recevabilité |\n| Instruction d'une demande de renouvellement | 3 000 DH | Idem |\n| Instruction d'une demande d'extension (nouveaux domaines) | 1 500 DH | Idem |\n| Redevance annuelle (organismes accrédités ou suspendus) | 6 000 DH | 30 avril 2026 pour l'année 2026 ; ensuite 28 février de chaque année. En cas d'accréditation en cours d'année : 6 000 × M/12 (M = mois entiers restants), à payer avant délivrance de l'attestation |\nLe paiement s'effectue par chèque certifié ou en espèces auprès de la Délégation du ministère à Rabat, sur rendez-vous. Les sommes impayées sont recouvrées selon le code de recouvrement des créances publiques (loi 15-97).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-034",
+  "p": 2,
+  "ch": "2.4",
+  "c": "Laboratoires, OEC agréés et accréditation",
+  "t": "La métrologie légale : les importateurs agréés d'instruments de mesure",
+  "principe": "Les instruments de mesure réglementés (chronotachygraphes, poids, balances, distributeurs de carburant, compteurs, etc.) ne peuvent être importés que par des opérateurs agréés. La liste du 18 mars 2026 recense 106 agréments d'importateurs, avec la province, la société, le numéro d'agrément, la marque d'identification et les dates d'octroi et d'expiration. Les agréments sont généralement accordés pour deux ans.\n### NOTE\nLe fichier source est intitulé « importateurs, installateurs, réparateurs », mais ne contient que la liste des importateurs agréés.",
+  "maj": "2026-10-17"
+ }
+]

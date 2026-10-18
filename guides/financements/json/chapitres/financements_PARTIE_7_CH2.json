@@ -1,0 +1,70 @@
+[
+ {
+  "id": "7-010",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Le business plan et l'étude de faisabilité",
+  "t": "Le plan type",
+  "principe": "| Section | Contenu attendu |\n| 1. Résumé | Projet, montant, emplois, financement, rentabilité, demandes (primes, garanties) en une page |\n| 2. Promoteurs et entreprise | Historique, actionnariat, équipe dirigeante, références |\n| 3. Projet | Objet, produits ou services, capacité, localisation, calendrier |\n| 4. Marché | Taille, croissance, segments, concurrence, prix, part de marché visée, lettres d'intention ou contrats |\n| 5. Étude technique | Procédé, équipements, fournisseurs, bâtiment, utilités (énergie, eau), environnement |\n| 6. Organisation et emplois | Organigramme, emplois par catégorie et par année, masse salariale, formation, part de femmes |\n| 7. Programme d'investissement | Ventilation hors taxes par poste et par année ; montant primable |\n| 8. Plan de financement | Ressources et emplois par année (section 3) |\n| 9. Comptes prévisionnels | Compte de produits et charges, bilan, tableau de flux sur 5 ans au moins (7 à 10 ans pour le tourisme ou l'industrie lourde) |\n| 10. Rentabilité | VAN, TRI, délai de récupération, indice de profitabilité, DSCR |\n| 11. Sensibilité et risques | Scénarios (prix, volumes, coûts, retard, taux), matrice des risques et mesures |\n| 12. Impact | Emplois directs et indirects, intégration locale, exportations, substitution aux importations, environnement |\n| 13. Annexes | Devis, études, lettres, CV, autorisations |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-011",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Le business plan et l'étude de faisabilité",
+  "t": "Les indicateurs de rentabilité",
+  "principe": "Valeur actuelle nette (VAN) : somme des flux nets de trésorerie actualisés au taux r, y compris l'investissement initial. Formule : VAN = Σ Flux(t) ÷ (1 + r)^t. Dans un tableur : =VAN(taux ; flux des années 1 à n) + flux de l'année 0. Le projet crée de la valeur si la VAN est positive.\nTaux de rentabilité interne (TRI) : taux qui annule la VAN. Dans un tableur : =TRI(flux des années 0 à n). Le projet est rentable si le TRI dépasse le coût du capital ; on recommande une marge de 2 à 3 points.\nIndice de profitabilité : 1 + VAN ÷ investissement initial. Supérieur à 1, il indique une création de valeur.\nDélai de récupération : temps nécessaire pour que les flux cumulés (simples ou actualisés) couvrent l'investissement.\nFlux net de trésorerie d'une année = résultat net après impôt + dotations aux amortissements − variation du BFR − investissements de renouvellement + valeur résiduelle (dernière année).\n### Exemple chiffré\nun projet de 100 MDH génère des flux nets de 20, 27, 28, 40 et 60 MDH (la dernière année incluant 20 MDH de valeur résiduelle). Au taux de 10 %, la VAN est de 26,1 MDH, le TRI de 18,1 %, l'indice de profitabilité de 1,26, le délai de récupération simple de 3,6 ans et actualisé de 4,3 ans.\n### Attention\nun modèle de calcul diffusé lors d'une session antérieure annonçait, pour ces mêmes flux, une VAN de 14,5 MDH et un TRI de 15,2 %. Ces valeurs sont fausses ; les valeurs exactes sont 26,1 MDH et 18,1 %. Toujours recalculer avec le tableur.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-012",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Le business plan et l'étude de faisabilité",
+  "t": "Le coût moyen pondéré du capital (CMPC ou WACC)",
+  "principe": "Le taux d'actualisation retenu est le coût moyen pondéré du capital : CMPC = (E ÷ V) × Ke + (D ÷ V) × Kd × (1 − T), où E désigne les fonds propres, D la dette, V = E + D, Ke le coût des fonds propres, Kd le taux de la dette et T le taux de l'IS.\nLe coût des fonds propres s'estime par le modèle d'évaluation des actifs financiers : Ke = Rf + β × prime de risque, où Rf est le taux sans risque (rendement des bons du Trésor à 10 ans, publié par Bank Al-Maghrib) et β le bêta sectoriel.\n### Exemple chiffré\nfonds propres 40 %, dette 60 % à 6,5 %, taux sans risque 4,2 %, bêta 1,30, prime de risque 7 %, IS 20 %. Ke = 4,2 % + 1,30 × 7 % = 13,3 %. Kd après impôt = 6,5 % × (1 − 0,20) = 5,2 %. CMPC = 0,40 × 13,3 % + 0,60 × 5,2 % = 8,44 %. Avec l'ancien taux d'IS de 31 %, on obtenait 8,01 % : le passage à 20 % augmente le coût de la dette après impôt et donc le CMPC.\nLes valeurs de taux sans risque, de prime de risque et de bêta sont des hypothèses à justifier ; les fourchettes citées lors des sessions antérieures (prime de risque de 6 à 8 % pour le Maroc ; bêta de 0,6 à 0,8 pour les services publics, 0,8 à 1,0 pour l'agroalimentaire, 1,0 à 1,3 pour l'industrie manufacturière, 1,2 à 1,5 pour l'automobile et l'aéronautique, 1,3 à 1,8 pour le numérique, 1,1 à 1,4 pour le tourisme) sont indicatives (statut D).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-013",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Le business plan et l'étude de faisabilité",
+  "t": "Les amortissements",
+  "principe": "La base amortissable est le coût d'entrée de l'immobilisation (prix d'achat, transport, droits de douane non récupérables, installation, essais nécessaires à la mise en service, honoraires directement attribuables), diminué de la valeur résiduelle estimée. La TVA récupérable n'en fait pas partie. Le terrain ne s'amortit pas.\nLa dotation linéaire annuelle est égale à la base amortissable divisée par la durée d'utilisation. L'amortissement commence à la mise en service, au prorata temporis la première année.\n### Exemple chiffré\nune ligne de production coûte 10 MDH, plus 0,8 MDH de transport et d'installation et 0,2 MDH d'essais, pour une valeur résiduelle de 0,5 MDH. Base amortissable : 10,5 MDH. Sur 10 ans, la dotation annuelle est de 1,05 MDH ; mise en service le 1er juillet avec clôture au 31 décembre, la première dotation est de 0,525 MDH.\nLe plan d'amortissement doit être établi par catégorie d'actifs (bâtiments, installations techniques, machines, manutention, informatique, logiciels, véhicules), avec des durées justifiées. L'amortissement comptable (CGNC) et l'amortissement fiscal (CGI) peuvent différer ; le rapprochement est fait avec l'expert-comptable. Les amortissements réduisent l'impôt mais ne rendent pas le projet plus rentable : la rentabilité se lit dans les flux de trésorerie.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-014",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Le business plan et l'étude de faisabilité",
+  "t": "Le besoin en fonds de roulement",
+  "principe": "BFR = stocks + créances clients − dettes fournisseurs, exprimés en jours de chiffre d'affaires ou d'achats. La loi n° 69-21 sur les délais de paiement encadre les délais entre entreprises et renforce les sanctions en cas de retard : il faut l'intégrer aux hypothèses. L'augmentation du BFR au démarrage est une sortie de trésorerie à financer (fonds propres, Damane Atayssir, Innov Dev pour les startups).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-015",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Le business plan et l'étude de faisabilité",
+  "t": "La sensibilité",
+  "principe": "Présenter au moins trois scénarios (pessimiste, central, optimiste) en faisant varier le chiffre d'affaires (prix et volumes), les coûts variables, l'investissement, le calendrier (retard de six à douze mois) et le taux d'actualisation. Un tableau à double entrée (variation du chiffre d'affaires × variation des coûts) montre la VAN dans chaque case. Le scénario « primes versées avec un an de retard » doit figurer dans tout dossier qui compte sur une prime.",
+  "faq": [
+   [
+    "Quel taux d'actualisation retenir ?",
+    "Le coût moyen pondéré du capital du projet, calculé avec la structure de financement prévue, le coût de la dette après impôt (IS de 20 % en 2026) et un coût des fonds propres justifié. Présenter une analyse de sensibilité sur ce taux."
+   ],
+   [
+    "Comment calculer les amortissements d'une usine dans le business plan ?",
+    "Établir un plan par catégorie d'actif : base amortissable (coût d'entrée, transport, installation, essais, moins la valeur résiduelle ; hors TVA récupérable), durée d'utilisation justifiée, méthode (linéaire le plus souvent), début à la mise en service au prorata temporis. Le terrain ne s'amortit pas. La dotation est réintégrée dans les flux de trésorerie, car elle n'est pas décaissée."
+   ],
+   [
+    "Faut-il intégrer les primes dans le calcul de la VAN ?",
+    "Oui, à la date réelle de leur versement et non à l'année 0. Présenter aussi la VAN sans prime : un projet qui n'est rentable qu'avec la prime est fragile si celle-ci est retardée ou réduite."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

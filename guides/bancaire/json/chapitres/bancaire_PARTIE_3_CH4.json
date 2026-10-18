@@ -1,0 +1,47 @@
+[
+ {
+  "id": "3-030",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Moyens de paiement et fichiers centraux",
+  "t": "Le relevé d'identité bancaire (décision 321/W/2018)",
+  "principe": "Le RIB comporte 24 chiffres : code établissement (3), code localité (3), référence du compte (16) et clé de contrôle (2) calculée par la méthode du modulo 97. Il figure obligatoirement sur le relevé de compte, le chéquier, la convention de compte et tout document contractuel ; il s'applique aussi aux établissements de paiement.\n### Vérifier un RIB avant un virement important\nConcaténer les 6 chiffres du code interbancaire, les 16 chiffres de la référence et les 2 chiffres de la clé : le nombre de 24 chiffres doit être divisible par 97 (reste nul). Les lettres éventuelles de la référence sont converties selon le code Hollerith (A/J=1, B/K/S=2, … I/R/Z=9). Ce contrôle simple prévient la fraude au changement de coordonnées bancaires.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-031",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Moyens de paiement et fichiers centraux",
+  "t": "Le chèque",
+  "principe": "Les formules sont normalisées (circ. 12/G/2006) : bilingues arabe-français, format 175 × 80 mm, ligne magnétique CMC7, mentions obligatoires de l'art. 239 du code de commerce. Avant de délivrer un premier chéquier, la banque consulte le service central des incidents de paiement (circ. 1/G/10, art. 7). En cas de refus de paiement, la banque tirée délivre au porteur un certificat de refus de paiement (art. 309 C. com. ; circ. 5/G/97) mentionnant notamment les identifiants du tireur, la date de présentation et le motif du rejet.\n| Familles de motifs de rejet (circ. 5/G/97) | Exemples |\n| Irrégularités de forme | Absence de la mention « chèque », du mandat de payer, du nom du tiré ou du tireur ; non-concordance chiffres/lettres ; ratures non approuvées ; signature absente, non conforme ou non accréditée ; deuxième signature manquante |\n| Irrégularités de circulation | Discontinuité des endos, endossement partiel, chèque barré présenté au guichet, chèque prescrit, devise non cotée |\n| Oppositions | Perte, vol, utilisation frauduleuse, falsification, redressement ou liquidation judiciaire du porteur |\n| Situation du compte | Opposition administrative, saisie-arrêt, indisponibilité, compte clôturé |\n| Provision | Défaut ou insuffisance de provision (toujours mentionné en plus des autres motifs le cas échéant) |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-032",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Moyens de paiement et fichiers centraux",
+  "t": "La lettre de change normalisée (LCN)",
+  "principe": "La lettre de change échangée en télécompensation doit être conforme au modèle normalisé (décision 20/G/2007 ; LC 41/DOMC/07) : format 200 × 105 mm, 17 zones (identifiant pré-marqué, tireur, bénéficiaire, dates, montants, cause, acceptation, aval, tiré et sa domiciliation pré-imprimées, signature manuscrite du tireur, timbre, ligne magnétique, ordre de paiement signé par le tiré à sa banque). Les impayés sont centralisés par BAM.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-033",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Moyens de paiement et fichiers centraux",
+  "t": "Les services centraux de BAM (art. 160 L. 103-12)",
+  "principe": "| Service | Contenu | Durée de conservation | Accès / contestation |\n| Incidents de paiement de chèques | Incidents déclarés, injonctions et interdictions judiciaires, infractions | Incidents non régularisés : 10 ans ; régularisés : effacés dès déclaration ; interdictions : 1 à 5 ans ; infractions : 5 ans | Titulaire ou mandataire auprès de BAM ; contestation sous 15 jours |\n| Chèques irréguliers | Oppositions (perte, vol, fraude, falsification), chèques sur comptes clôturés ou indisponibles | Selon le cas, sans limite pour les formules volées ou falsifiées | Diffusion aux entreprises |\n| Effets de commerce impayés | LCN et billets à ordre impayés | Jusqu'au paiement | Demande à la banque ou à BAM, réponse en 5 jours ouvrables ; contestation sous 15 jours ; rectification sous 10 jours francs (circ. 1/W/15) |\n| Avis de prélèvement impayés | Prélèvements rejetés | Jusqu'au paiement | Via les banques |\n| Centralisation des risques (crédit bureau) | Encours et incidents de crédit des entreprises et particuliers ; notation | 5 ans après remboursement | Rapport de solvabilité gratuit sur demande ; contestation sous 15 jours |\n| Comptes bancaires | Recensement de tous les comptes à vue et à terme | — | Usage par BAM |\n### À retenir\nUn incident de paiement non régularisé reste 10 ans au fichier : la régularisation rapide (provision constituée, paiement au bénéficiaire) et sa déclaration par la banque sont essentielles pour qu'il soit effacé. Avant d'accepter un chèque d'un nouveau client pour un montant important, une entreprise peut s'appuyer sur le service de centralisation des chèques irréguliers.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-034",
+  "p": 3,
+  "ch": "3.4",
+  "c": "Moyens de paiement et fichiers centraux",
+  "t": "Paiements électroniques",
+  "principe": "Pour le commerçant, le paiement mobile (m-wallet) offre un encaissement instantané, sans frais pour le payeur et avec un interchange plafonné à 0,5 % (décision 392/W/2018). L'acquisition par carte (TPE, e-commerce, Soft POS) est désormais ouverte à plusieurs établissements de paiement agréés (voir section 6), ce qui permet de mettre en concurrence les commissions commerçant.",
+  "maj": "2026-10-18"
+ }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "3-040",
+    "p": 3,
+    "ch": "3.5",
+    "c": "Procédures simplifiées",
+    "t": "Déclaration simplifiée : opérations éligibles, autorisation et déclaration complémentaire dans les 30 jours",
+    "enbref": "La déclaration simplifiée permet d'enlever la marchandise sur la base d'un document commercial ou d'une inscription en comptabilité matières, à charge de déposer ensuite une déclaration complémentaire sur BADR. Elle n'est ouverte qu'aux opérations énumérées par l'administration et sur autorisation ; la déclaration complémentaire doit être déposée au plus tard 30 jours après la première déclaration simplifiée.",
+    "textes": [
+      "CDII, art. 76 bis-1°, 3° et 5°",
+      "CDII, art. 156-1°",
+      "CDII, art. 285-3°, 287 bis, 299-7° et 299 bis",
+      "Arrêté n° 1319-77 du 31/10/1977, art. 17 duodecies et annexe IX",
+      "Circulaire ADII n° 6037/312 du 17/04/2020",
+      "Circulaire ADII n° 6522/210 du 29/12/2023 (LF 2024)"
+    ],
+    "principe": "Pour tenir compte des spécificités sectorielles, l'article 76 bis du CDII autorise des déclarations provisionnelles, simplifiées ou globales. La déclaration simplifiée omet certaines énonciations ou certains documents. Elle peut prendre la forme d'un document commercial ou d'une inscription dans la comptabilité matières de l'opérateur, mais doit toujours contenir les énonciations nécessaires à l'identification des marchandises (art. 76 bis-3°). Sa forme et ses énonciations peuvent suivre le modèle de l'annexe IX de l'arrêté n° 1319-77 (art. 17 duodecies).\nElle permet l'enlèvement immédiat, à charge de présenter une déclaration complémentaire dans le délai fixé. L'inscription en comptabilité matières vaut acceptation de la déclaration en détail. La déclaration complémentaire forme avec la déclaration simplifiée un acte unique et indivisible, qui prend effet à la date de dépôt de la déclaration simplifiée (art. 76 bis-3°) : c'est donc cette date qui fixe les droits applicables. Le dépôt peut être organisé par une convention lorsque la fréquence des opérations le justifie (art. 76 bis-5°).\nDeux usages sont dispensés de déclaration complémentaire : le transit, que la déclaration simplifiée peut couvrir (art. 156-1°), et, depuis le 01/01/2024, l'acheminement des marchandises des MEAD vers les bureaux d'exportation (circ. n° 6522/210). Sous les régimes suspensifs, la déclaration simplifiée peut également tenir lieu d'acquit à caution (CDII, art. 116-1°).",
+    "admin": "La circulaire n° 6037/312 réserve la facilité à sept catégories d'opérations :\n- enlèvement des envois express non taxables ;\n- avitaillement du secteur de la pêche en matériels, carburants, combustibles et lubrifiants ;\n- avitaillement des navigations maritimes ou aériennes à destination de l'étranger ;\n- avitaillement des unités de surveillance de la marine royale, de la gendarmerie royale, des douanes et de la sûreté nationale ;\n- vente hors droits et taxes aux voyageurs en partance ou en provenance de l'étranger ;\n- vente hors droits et taxes aux diplomates et entités diplomatiques accrédités, sauf véhicules ;\n- avitaillement des ZAI par les prestataires de restauration.\nLes produits soumis à une réglementation particulière en sont exclus. L'autorisation, ponctuelle ou permanente, est accordée par les directeurs préfectoraux ou interprovinciaux et par les directeurs des importations, des exportations et des MEAD, puis prise en charge sur BADR.\n\nSous douane, le document est présenté en deux exemplaires et la mainlevée est accordée après contrôle d'usage ; hors douane, l'opération est inscrite en comptabilité matières. La déclaration complémentaire est enregistrée sur BADR, les documents de la déclaration simplifiée étant joints dans l'onglet « Documents ». Une même déclaration complémentaire peut couvrir plusieurs déclarations simplifiées. Au-delà de 15 opérations par mois, les documents peuvent être remplacés par un état récapitulatif global. Le contrôle suit les règles d'une déclaration en détail ordinaire (circ. n° 6037/312).",
+    "donnees": [
+      [
+        "Délai de la déclaration complémentaire",
+        "30 jours au plus après la première déclaration simplifiée (circ. n° 6037/312)"
+      ],
+      [
+        "Autorité d'octroi",
+        "Directeurs préfectoraux ou interprovinciaux, des importations, des exportations et des MEAD (circ. n° 6037/312)"
+      ],
+      [
+        "État récapitulatif global",
+        "À partir de 15 opérations par mois (circ. n° 6037/312)"
+      ],
+      [
+        "Défaut de déclaration complémentaire",
+        "Contravention de 1re classe (CDII, art. 285-3°) : amende de deux fois les droits et taxes compromis (art. 287 bis)"
+      ],
+      [
+        "Dépôt tardif",
+        "Contravention de 4e classe (CDII, art. 299-7°) : 500 à 2 500 DH (art. 299 bis)"
+      ]
+    ],
+    "cas": "La société fictive Atlas Avitaillement SARL fournit en carburant les chalutiers du port d'Agadir. Elle obtient une autorisation permanente de déclaration simplifiée et inscrit chaque livraison dans sa comptabilité matières. Elle regroupe ses livraisons du mois dans une seule déclaration complémentaire. Sa première livraison d'avril datant du 2 avril, la déclaration complémentaire doit être enregistrée au plus tard le 2 mai, et non à la fin mai. L'erreur fréquente : compter le délai à partir de la dernière livraison du lot.",
+    "conseil": "Faites courir votre échéancier à partir de la première déclaration simplifiée de chaque lot, jamais de la dernière. Si vous dépassez 15 opérations par mois, demandez à remplacer les documents par l'état récapitulatif global : le dossier devient bien plus léger. Pour les opérations en apurement d'un compte de régime économique, vérifiez que la livraison intervient avant l'échéance du compte. Archivez les documents commerciaux qui ont servi de déclaration simplifiée : ils font partie de l'acte unique contrôlable.",
+    "faq": [
+      [
+        "Peut-on utiliser la déclaration simplifiée pour une importation commerciale courante ?",
+        "Non : la circulaire n° 6037/312 en réserve le bénéfice à des catégories d'opérations limitativement énumérées, sur autorisation."
+      ],
+      [
+        "Quelle date retient-on pour les droits applicables ?",
+        "La date de dépôt de la déclaration simplifiée, puisque la déclaration complémentaire forme avec elle un acte unique (CDII, art. 76 bis-3°)."
+      ],
+      [
+        "Que risque-t-on en cas de retard ?",
+        "Un dépôt tardif est une contravention de 4e classe, punie de 500 à 2 500 DH ; l'absence de déclaration complémentaire est une contravention de 1re classe (CDII, art. 285-3°, 299-7° et 299 bis)."
+      ],
+      [
+        "Une seule déclaration complémentaire peut-elle régulariser plusieurs déclarations simplifiées ?",
+        "Oui, une même déclaration complémentaire peut couvrir plusieurs déclarations simplifiées, dans le délai de 30 jours courant à partir de la première (circ. n° 6037/312)."
+      ]
+    ],
+    "renvois": [
+      "3-020",
+      "3-042",
+      "6-001",
+      "6-031",
+      "8-021"
+    ],
+    "juris": "",
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-041",
+    "p": 3,
+    "ch": "3.5",
+    "c": "Procédures simplifiées",
+    "t": "Dédouanement avant arrivée : déroulement sur BADR, circuits de contrôle et enlèvement dès l'arrivée",
+    "enbref": "Pour une importation maritime ou aérienne, presque toutes les formalités peuvent être accomplies avant l'arrivée : contrôle documentaire, liquidation, paiement ou garantie des droits. En circuit vert ou orange, la marchandise peut être enlevée dès son arrivée effective ; en circuit rouge, seule la visite physique reste à faire. Encore faut-il que la déclaration sommaire et le bon à délivrer soient disponibles à temps.",
+    "textes": [
+      "CDII, art. 49, 57, 66-2° et 100",
+      "Arrêté n° 3414-12 du 02/10/2012",
+      "Arrêté n° 1318-77 du 31/10/1977, art. 1er, modifié par l'arrêté n° 1640-22 du 20/06/2022",
+      "Circulaire ADII n° 6369/312 du 26/09/2022",
+      "Circulaire ADII n° 5995/300 du 25/12/2019"
+    ],
+    "principe": "Le dédouanement avant arrivée repose sur une chaîne de formalités, dont chaque maillon conditionne le suivant :\n- le transporteur dépose la déclaration sommaire avant l'arrivée de la marchandise, dans les délais fixés par arrêté (CDII, art. 49 et 57 ; arrêté n° 3414-12) ;\n- le déclarant pré-apure un lot de cette déclaration sommaire, puis enregistre sur BADR la déclaration en détail en cochant la case « Par anticipation » (circ. n° 6369/312) ;\n- le contrôle est initié automatiquement dès l'enregistrement ; le circuit attribué et l'identité de l'inspecteur sont affichés au service et au déclarant (circ. n° 6369/312) ;\n- la mainlevée intervient selon le circuit, puis la marchandise est enlevée à l'arrivée, dans les conditions de l'article 100 du CDII (paiement ou garantie des droits et délivrance de la mainlevée).\nLes effets juridiques de la déclaration anticipée (prise d'effet à l'arrivée, droits applicables, rectification, annulation) sont exposés au n° 3-022. Le présent paragraphe décrit le déroulement pratique de l'opération.\nEn circuit vert, la mainlevée est attribuée automatiquement, sous réserve du paiement ou de la garantie des droits et de l'accomplissement des formalités liées aux réglementations particulières. En circuit orange, elle est délivrée après contrôle documentaire, sous les mêmes réserves. Dans les deux cas, la marchandise peut être enlevée dès son arrivée effective. En circuit rouge, le contrôle documentaire, la liquidation et le paiement ou la garantie sont faits par anticipation ; l'arrivée conditionne seulement la visite physique et les formalités des réglementations particulières, à l'issue desquelles la mainlevée est attribuée (circ. n° 6369/312). Si la déclaration anticipée reste sans suite, par exemple parce que la marchandise n'arrive pas, elle peut être annulée d'office à l'expiration des délais réglementaires (CDII, art. 78 ter ; circ. n° 6369/312).",
+    "admin": "Le service peut toujours réorienter une déclaration vers un circuit de contrôle plus renforcé. Les transporteurs maritimes et aériens doivent respecter les délais de dépôt des déclarations sommaires et délivrer, le cas échéant, les bons à délivrer par anticipation ; à défaut, ils s'exposent aux suites contentieuses (circ. n° 6369/312). Depuis le 03/02/2020, les bons à délivrer des agents maritimes, des commissionnaires de transport et des exploitants de MEAD sont créés à partir des déclarations sommaires et transmis par PortNet ; à terme, la mainlevée sera subordonnée à leur réception par ce canal (circ. n° 5995/300).",
+    "donnees": [
+      [
+        "Opérations concernées",
+        "Importations par voie maritime ou aérienne (circ. n° 6369/312)"
+      ],
+      [
+        "Condition préalable",
+        "Pré-apurement d'un lot de la déclaration sommaire (circ. n° 6369/312)"
+      ],
+      [
+        "Circuits vert et orange",
+        "Enlèvement dès l'arrivée effective (circ. n° 6369/312)"
+      ],
+      [
+        "Circuit rouge",
+        "Visite physique à l'arrivée, autres formalités par anticipation (circ. n° 6369/312)"
+      ],
+      [
+        "Bon à délivrer",
+        "Transmis par PortNet depuis le 03/02/2020 (circ. n° 5995/300)"
+      ]
+    ],
+    "cas": "La société fictive Souss Pièces Auto attend au port de Casablanca un conteneur de plaquettes de frein, annoncé pour le jeudi. Dès le dépôt de la déclaration sommaire par l'agent maritime le lundi, son transitaire pré-apure le lot et enregistre la DUM par anticipation. Le système attribue le circuit rouge : le contrôle documentaire et la liquidation sont réglés avant l'accostage, et la visite a lieu le jeudi. Le produit étant soumis au contrôle normatif, le transitaire a préparé à l'avance le dossier destiné au service de contrôle. L'erreur fréquente : attendre l'arrivée pour régler les droits ou réunir les documents des réglementations particulières, ce qui fait perdre le bénéfice de l'anticipation.",
+    "conseil": "Préparez la garantie ou le paiement électronique avant l'arrivée : en circuit vert, c'est souvent la seule condition qui reste à remplir pour la mainlevée. Vérifiez sur PortNet que le bon à délivrer est bien émis par anticipation. Réunissez dès l'enregistrement les autorisations et certificats des réglementations particulières, puisqu'en circuit rouge leur contrôle se fait à l'arrivée. Demandez à vos transporteurs un engagement sur le délai de dépôt des déclarations sommaires.",
+    "faq": [
+      [
+        "Le circuit attribué à l'enregistrement est-il définitif ?",
+        "Non : le service peut réorienter la déclaration vers un circuit plus renforcé (circ. n° 6369/312)."
+      ],
+      [
+        "Faut-il une autorisation pour dédouaner avant l'arrivée ?",
+        "Non, depuis l'arrêté n° 1640-22 ; il suffit de pré-apurer un lot de la déclaration sommaire (circ. n° 6369/312)."
+      ],
+      [
+        "Qui dépose la déclaration sommaire ?",
+        "Le capitaine ou le transporteur, avant l'arrivée de la marchandise, dans les délais fixés par arrêté (CDII, art. 49 et 57)."
+      ],
+      [
+        "En circuit rouge, puis-je payer les droits avant l'arrivée du navire ?",
+        "Oui : le contrôle documentaire, la liquidation et le paiement ou la garantie se font par anticipation ; seules la visite et les formalités des réglementations particulières attendent l'arrivée (circ. n° 6369/312)."
+      ]
+    ],
+    "renvois": [
+      "3-002",
+      "3-022",
+      "3-030",
+      "3-033",
+      "4-041",
+      "1-022"
+    ],
+    "juris": "",
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-042",
+    "p": 3,
+    "ch": "3.5",
+    "c": "Procédures simplifiées",
+    "t": "Déclaration globale : importations et exportations fractionnées d'un ensemble déclaré sous une position tarifaire unique",
+    "enbref": "La déclaration globale permet de faire entrer ou sortir en plusieurs envois, échelonnés dans le temps, les éléments d'un même ensemble relevant de positions tarifaires distinctes, et de déclarer le tout sous la position unique de l'ensemble. Les éléments restent sous surveillance douanière jusqu'à la mainlevée de l'ensemble, et l'opération doit être régularisée dans le délai fixé par arrêté.",
+    "textes": [
+      "CDII, art. 76 bis-1° et 4°",
+      "Brochure ADII « Le dédouanement en ligne — B@DR »",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II",
+      "Arrêté n° 2624-23 du 25/10/2023 (BO n° 7256 du 14/12/2023)",
+      "Circulaire ADII n° 6771/312 du 02/09/2026",
+      "Note ADII n° D201/2026/ADII/AC/100 du 02/09/2026"
+    ],
+    "principe": "L'article 76 bis du CDII range la déclaration globale parmi les déclarations adaptées aux spécificités sectorielles (1°). Elle couvre les importations ou exportations fractionnées de parties ou d'éléments de marchandises relevant de positions ou sous-positions tarifaires distinctes, qui forment un ensemble devant être déclaré sous une position unique (4°).\nTrois règles en découlent (art. 76 bis-4°) :\n- le classement est celui de l'ensemble, et non celui de chaque élément pris isolément ;\n- les éléments importés ou exportés de façon fractionnée restent sous la surveillance de l'administration jusqu'à la mainlevée de l'ensemble ;\n- la déclaration doit être régularisée dans le délai fixé par arrêté du ministre chargé des finances, soit l'arrêté n° 2624-23 du 25/10/2023 (BO n° 7256 du 14/12/2023) (circ. n° 6771/312).\nLa déclaration globale se distingue des deux autres formes de l'article 76 bis. La déclaration provisionnelle couvre plusieurs opérations portant sur une même espèce de marchandises dont les quantités ne sont pas encore connues (n° 8-021). La déclaration simplifiée omet des énonciations ou des documents (n° 3-040). La déclaration globale, elle, porte sur des éléments différents, qui ne prennent leur sens tarifaire qu'une fois réunis. Elle prolonge, sur le plan de la procédure, la règle de classement des articles démontés ou non montés exposée au n° 2-004.",
+    "admin": "L'ADII a mis en place sur BADR une déclaration globale permettant d'effectuer des opérations d'importation ou d'exportation fractionnées et échelonnées dans le temps, portant sur différents éléments ou parties de marchandises relevant de positions ou sous-positions tarifaires distinctes, l'ensemble étant déclaré à une position tarifaire unique (brochure BADR).\nPour les opérations sous régime économique, l'importation de matériels d'investissement par envois fractionnés est autorisée par les directeurs provinciaux, interprovinciaux, préfectoraux et interpréfectoraux, ou par les directeurs des MEAD et des importations et exportations. Ces mêmes autorités peuvent porter de 3 à 12 mois le délai des importations fractionnées de matériels d'investissement à l'état démonté (circ. n° 6348/313, annexe II).\nLa circulaire n° 6771/312 du 02/09/2026 met en œuvre la déclaration globale à l'importation, avec effet à sa date ; toute disposition contraire est abrogée. La DUM initiale, créée sous la catégorie « Globale » avec le code SH de l'article fini et l'inventaire des éléments en annexe, est enregistrée « en attente d'autorisation » ; son acceptation par le responsable habilité vaut autorisation. Chaque arrivage fait ensuite l'objet d'une DUM partielle, éventuellement déposée dans un autre bureau, qui suit le circuit normal de contrôle et apure la DUM initiale au prorata de sa valeur. Les droits sont liquidés au taux de l'article fini, sur la valeur en douane propre à la fraction importée, et la redevance informatique n'est due qu'une fois pour l'ensemble. Un élément absent de l'inventaire ne peut être couvert par la déclaration globale (circ. n° 6771/312).\nBADR applique trois garde-fous : il bloque toute nouvelle DUM partielle lorsque le cumul des valeurs dépasse 110 % de la DUM initiale, refuse les DUM partielles au-delà de 365 jours après l'autorisation et annule d'office la DUM initiale si aucune DUM partielle n'est enregistrée dans les 60 jours. La mainlevée de la DUM initiale est délivrée automatiquement lorsque la dernière DUM partielle a obtenu la sienne et que la valeur est soldée, avec une tolérance de ±10 % ; les projets inachevés dont les fractions pourraient constituer l'article fini sont soumis au service central de la nomenclature (circ. n° 6771/312). L'autorisation relève des directeurs provinciaux, préfectoraux, des importations, du télé-contrôle, des MEAD et des ZAI, qui peuvent proroger le délai de régularisation de 365 jours d'une année au plus dans les cas justifiés (note D201/2026/ADII/AC/100).",
+    "donnees": [
+      [
+        "Base légale",
+        "CDII, art. 76 bis-4°"
+      ],
+      [
+        "Classement",
+        "Position tarifaire unique de l'ensemble (CDII, art. 76 bis-4°)"
+      ],
+      [
+        "Statut des éléments",
+        "Sous surveillance jusqu'à la mainlevée de l'ensemble (CDII, art. 76 bis-4°)"
+      ],
+      [
+        "Délai de régularisation",
+        "365 jours à compter de l'autorisation, prorogeable d'un an au plus (arrêté n° 2624-23 ; note D201/2026)"
+      ],
+      [
+        "Matériels d'investissement démontés sous régime économique",
+        "Délai pouvant être porté de 3 à 12 mois (circ. n° 6348/313, annexe II)"
+      ],
+      [
+        "Liquidation des DUM partielles",
+        "Taux de l'article fini ; valeur de la fraction importée (circ. n° 6771/312)"
+      ],
+      [
+        "Contrôles automatiques",
+        "Plafond 110 % ; 365 jours ; annulation d'office à 60 jours sans DUM partielle (circ. n° 6771/312)"
+      ],
+      [
+        "Mise en œuvre à l'importation",
+        "Depuis le 02/09/2026 (circ. n° 6771/312)"
+      ]
+    ],
+    "cas": "La société fictive Doukkala Agro achète en Italie une ligne complète de conditionnement de semoule, livrée démontée en six conteneurs sur quatre mois. Son transitaire ouvre une déclaration globale et déclare l'ensemble sous la position de la machine complète, en rattachant chaque envoi à cette déclaration. Le dernier conteneur arrivé, il régularise la déclaration dans le délai fixé. L'erreur à éviter : déclarer chaque conteneur sous la position propre de son contenu (moteurs, convoyeurs, armoires électriques), ce qui fausse le classement et la liquidation de l'ensemble.",
+    "conseil": "Avant le premier envoi, établissez avec le fournisseur une nomenclature de l'ensemble et un plan de livraison numéroté, et faites porter ces références sur chaque facture et chaque liste de colisage. Conservez la traçabilité de chaque élément jusqu'à la mainlevée de l'ensemble : ils restent sous surveillance. Si l'opération relève d'un régime économique, demandez dès le départ l'autorisation d'envois fractionnés et, si le calendrier l'exige, l'allongement du délai. Annexez à la DUM initiale un inventaire exhaustif : tout élément qui n'y figure pas sera exclu de la déclaration globale. Enregistrez la première DUM partielle dans les 60 jours de l'autorisation, et surveillez le cumul des valeurs au regard du plafond de 110 % (circ. n° 6771/312).",
+    "faq": [
+      [
+        "Quelle position tarifaire déclarer ?",
+        "La position unique de l'ensemble, et non celles des éléments livrés séparément (CDII, art. 76 bis-4°)."
+      ],
+      [
+        "En quoi diffère-t-elle d'une déclaration provisionnelle ?",
+        "La provisionnelle porte sur une même espèce de marchandises dont les quantités sont inconnues ; la globale porte sur des éléments différents formant un ensemble (CDII, art. 76 bis-2° et 4°)."
+      ],
+      [
+        "Qui autorise les envois fractionnés de matériels d'investissement sous régime économique ?",
+        "Les directeurs provinciaux, interprovinciaux, préfectoraux et interpréfectoraux, et les directeurs des MEAD et des importations et exportations (circ. n° 6348/313, annexe II)."
+      ],
+      [
+        "Comment sont taxées les fractions importées sous déclaration globale ?",
+        "Au taux de l'article fini, appliqué à la valeur en douane de chaque fraction (circ. n° 6771/312)."
+      ],
+      [
+        "Que se passe-t-il si aucun envoi n'arrive après l'autorisation ?",
+        "La DUM initiale est annulée d'office si aucune DUM partielle n'est enregistrée dans les 60 jours suivant l'autorisation (circ. n° 6771/312)."
+      ]
+    ],
+    "renvois": [
+      "2-004",
+      "3-020",
+      "3-040",
+      "7-051",
+      "8-021"
+    ],
+    "juris": "",
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, conseil pratique, questions fréquentes mis à jour"
+    ]
+  }
+]

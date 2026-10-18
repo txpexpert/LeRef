@@ -1,0 +1,110 @@
+[
+ {
+  "id": "1-540",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèles de lettres — présentation",
+  "principe": "### CONSEIL PRATIQUE\nLes modèles suivants sont des trames à adapter. Ils doivent être envoyés par un moyen donnant date certaine (dépôt contre récépissé, lettre recommandée avec accusé de réception, courrier électronique avec accusé, plateforme électronique).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-541",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 1 — Demande de délivrance d'une décision acquise par silence (loi 55-19, art. 19)",
+  "principe": "[Raison sociale, adresse, RC, ICE]\nÀ Monsieur / Madame [supérieur hiérarchique / président / responsable]\nObjet : demande de délivrance de [intitulé de la décision] — accord tacite (article 19 de la loi n° 55-19)\nRéférence : récépissé n° […] du [date], mention « dossier déposé ».\nMonsieur / Madame,\nNous avons déposé le [date] une demande de [décision], dossier complet attesté par le récépissé visé en référence. Cette décision figure sur la liste réglementaire des décisions pour lesquelles le silence de l'administration vaut accord. Le délai de traitement de [x] jours fixé par le recueil publié a expiré le [date] sans qu'aucune réponse ne nous ait été notifiée.\nEn application de l'article 19 de la loi n° 55-19, nous vous prions de bien vouloir nous délivrer la décision dans le délai de sept jours à compter de la présente demande. À défaut, nous saisirons [l'autorité gouvernementale / le wali / le gouverneur] conformément à l'article 20.\nPièces jointes : copie du récépissé ; copie de la fiche du recueil.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-542",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 2 — Recours administratif contre un refus (loi 55-19, art. 21)",
+  "principe": "Objet : recours contre la décision de refus n° […] du [date] relative à [décision]\nMonsieur le [Ministre / Wali / Gouverneur / Président],\nPar décision notifiée le [date], [administration] a rejeté notre demande de […] déposée le [date]. Nous formons le présent recours dans le délai de trente jours prévu à l'article 21 de la loi n° 55-19.\nCe refus est contestable pour les motifs suivants : [pièce exigée non prévue par le recueil (art. 3) ; demande de complément tardive ou réitérée (art. 10 et 14) ; dépassement du délai (art. 16) ; motivation insuffisante (art. 18 ; loi 03-01, art. 1) ; erreur d'appréciation…].\nNous vous prions de bien vouloir statuer dans le délai de quinze jours et d'ordonner la délivrance de la décision.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-543",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 3 — Demande de communication des motifs (loi 03-01, art. 5)",
+  "principe": "Objet : demande de communication des motifs d'une décision implicite de rejet\nNotre demande du [date] relative à […] est restée sans réponse, ce qui fait naître une décision implicite de rejet. En application de l'article 5 de la loi n° 03-01, nous vous prions de nous communiquer, dans le délai de quinze jours, les motifs de droit et de fait de cette décision. Nous rappelons que ce délai proroge le délai du recours contentieux (art. 6).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-544",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 4 — Demande d'accès à l'information (loi 31-13, art. 14)",
+  "principe": "À Monsieur le Président de [institution / organisme]\nNom et prénom du représentant : […] — N° CNIE : […] — Adresse postale : […] — Adresse électronique : […]\nInformations demandées : [désignation précise : document, période, support souhaité].\nModalité d'accès souhaitée : envoi électronique / consultation sur place.\nCette demande est présentée en application des articles 3, 14 et 15 de la loi n° 31-13 ; nous vous remercions d'y répondre dans le délai de vingt jours ouvrables prévu à l'article 16.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-545",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 5 — Recours gracieux contre un refus de la CRUI (loi 47-18, art. 37)",
+  "principe": "À Monsieur le Wali de la région […], Président de la commission régionale unifiée d'investissement\nObjet : recours gracieux contre la décision de refus du [date], dossier n° […]\nMonsieur le Wali,\nPar décision notifiée le [date], la commission régionale unifiée d'investissement a refusé [objet]. Nous sollicitons, en application de l'article 37 de la loi n° 47-18, le réexamen de ce dossier par la commission, qui doit statuer dans un délai de dix jours. [Exposé des éléments nouveaux, réponses aux motifs du refus, engagements complémentaires.]\nÀ défaut de réponse dans ce délai ou en cas de confirmation du refus, nous saisirons la commission ministérielle de pilotage.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-546",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 6 — Réclamation dans un appel d'offres (décret 2-22-431, art. 163)",
+  "principe": "À Monsieur / Madame le maître d'ouvrage […]\nObjet : réclamation — appel d'offres n° […] du [date] relatif à [objet]\nNous avons l'honneur d'introduire une réclamation en application de l'article 163 du décret n° 2-22-431, au motif que [vice de procédure / clause discriminatoire ou disproportionnée / conflit d'intérêts / contestation des motifs d'écartement notifiés le …]. [Exposé précis des faits et des dispositions méconnues.]\nNous vous prions de bien vouloir nous faire connaître votre réponse dans le délai de cinq jours et, le cas échéant, de redresser l'anomalie relevée. À défaut, nous saisirons [le ministre concerné / le ministre de l'intérieur / le président de l'organe délibérant] et nous réservons la faculté de saisir la commission nationale de la commande publique.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-547",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 7 — Demande de suspension du délai d'une autorisation de lotir (loi 25-90, art. 11 bis)",
+  "principe": "À Monsieur le Président du conseil communal de […]\nObjet : demande de suspension du délai de l'autorisation de lotir n° […] du [date] — article 11 bis de la loi n° 25-90\nLes travaux d'équipement du lotissement […] sont interrompus depuis le [date] du fait de [circonstance extérieure : retard de raccordement par le gestionnaire de réseau, intempéries exceptionnelles, décision administrative…], qui ne nous est pas imputable. Nous sollicitons la soumission de notre demande à la commission prévue par l'article 11 bis et la suspension du délai de l'autorisation pour la durée nécessaire. Pièces justificatives jointes.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-548",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 8 — Demande de convocation de la commission de réception au gouverneur (loi 25-90, art. 24)",
+  "principe": "À Monsieur le Gouverneur de la province / préfecture de […]\nObjet : demande de convocation de la commission de réception provisoire — lotissement […]\nNous avons déclaré l'achèvement des travaux d'équipement le [date], accompagné de l'attestation du coordinateur de chantier. Le président du conseil communal n'a pas convoqué la commission dans le délai de trente jours prévu à l'article 23, malgré notre mise en demeure du [date] (procédure de l'article 76 de la loi organique 113-14). Nous vous prions, en application de l'article 24 de la loi n° 25-90 telle que modifiée par la loi n° 34-21, de bien vouloir convoquer la commission.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-549",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 9 — Réclamation au maître d'ouvrage en cours d'exécution (CCAG-T, art. 81)",
+  "principe": "À Monsieur [le maître d'ouvrage]\nObjet : marché n° […] — [objet] — réclamation au titre de l'article 81 du CCAG-T\nLettre recommandée avec accusé de réception\nNous avons l'honneur de vous présenter une réclamation relative à [ordre de service n° … du … / décompte provisoire n° … / application de pénalités / refus de délai supplémentaire]. Les faits sont les suivants : [exposé chronologique avec références au cahier de chantier et aux attachements]. Nous estimons que [motifs : stipulations du CPS, articles du CCAG-T] et sollicitons [demande chiffrée]. À défaut de réponse dans un délai de trente jours, nous saisirons l'autorité compétente conformément à l'article 81 du CCAG-T. Pièces jointes : […].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-550",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 10 — Mémoire préalable au gouverneur (loi organique 113-14, art. 265 et 267)",
+  "principe": "À Monsieur le Gouverneur de la préfecture / province de […]\nCopie : Monsieur le Président du conseil de la commune de […]\nObjet : mémoire préalable à une action en justice contre la commune de […]\nNous avons l'honneur de vous adresser, en application des articles 265 et suivants de la loi organique n° 113-14 relative aux communes, le présent mémoire exposant l'objet et les motifs de notre réclamation : [décision contestée ou créance réclamée, montant, fondement]. Nous vous prions de bien vouloir nous en délivrer récépissé et d'examiner notre réclamation en vue d'un règlement amiable. À défaut de règlement dans les délais légaux, nous nous réservons de saisir la juridiction compétente.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-551",
+  "p": 1,
+  "ch": "1.42",
+  "c": "Modèles de lettres",
+  "t": "Modèle 11 — Demande d'intervention du gouverneur contre l'abstention du président (loi organique 113-14, art. 76)",
+  "principe": "À Monsieur le Gouverneur de la préfecture / province de […]\nObjet : abstention du président du conseil communal — demande d'application de l'article 76 de la loi organique n° 113-14\nNous avons déposé le [date] une demande de [permis d'habiter / certificat de conformité / convocation de la commission de réception] (accusé de réception n° […]). Les délais prévus par [le décret 2-18-577, art. 50 et 51 / la loi 25-90, art. 23] sont expirés sans décision. Nous vous prions de bien vouloir demander au président d'exercer ses attributions et, à défaut de suite dans un délai de sept jours, de saisir la juridiction des référés afin qu'il soit procédé conformément à l'article 76.",
+  "maj": "2026-10-17"
+ }
+]

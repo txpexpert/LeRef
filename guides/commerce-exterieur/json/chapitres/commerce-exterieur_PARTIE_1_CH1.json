@@ -1,0 +1,41 @@
+[
+ {
+  "id": "1-001",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Le principe de liberté et ses limites",
+  "t": "Une liberté encadrée",
+  "textes": [
+   "Loi n° 13-89 relative au commerce extérieur, art. 1er (dahir n° 1-91-261 du 9 novembre 1992, BO n° 4181 du 16-12-1992, modifiée par les lois 37-93 et 3-96)."
+  ],
+  "principe": "Le droit marocain du commerce extérieur repose sur un principe simple : les importations et les exportations de biens et de services sont libres. La loi n° 13-89 l'énonce dès son article premier, en le limitant aussitôt à ce qu'exigent la sauvegarde de la moralité, de la sécurité et de l'ordre publics, la santé des personnes, la protection de la faune et de la flore, du patrimoine historique, archéologique et artistique, ou la préservation de la position financière extérieure du pays.\nPour mettre en œuvre ces limites, la loi prévoit deux instruments : un contrôle de qualité fondé sur des normes préétablies, et, à titre exceptionnel, des restrictions quantitatives à l'importation comme à l'exportation. Toute la suite du guide découle de cette double logique. Le contrôle de qualité s'est développé en un dispositif complet de conformité des produits (Partie II) ; les restrictions quantitatives se traduisent par les licences d'importation et d'exportation (section 3).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-002",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Le principe de liberté et ses limites",
+  "t": "La protection de la production nationale",
+  "principe": "La loi 13-89 organise aussi la protection de la production nationale. Elle est en principe tarifaire (art. 2) et peut prendre une forme contingentaire pour les productions nouvelles, pendant cinq ans au plus, prorogeables trois ans à titre exceptionnel (art. 3). Pour les produits agricoles (céréales, oléagineux, plantes sucrières, lait, viandes et dérivés), la loi a institué un « équivalent tarifaire » calculé sur la différence entre prix intérieur et prix extérieur (art. 4 à 9).\nLes demandes de protection tarifaire ou contingentaire sont déposées, sur un questionnaire, simultanément auprès du ministère chargé du commerce extérieur et du ministère technique intéressé (décret 2-93-415, art. 13). Le ministère technique transmet son avis motivé sous 30 jours ; la Commission consultative des importations rend le sien dans les 30 jours de sa saisine (art. 15 et 16). Un producteur qui sollicite une protection contingentaire doit démontrer que le produit ne relève pas d'une gamme déjà fabriquée au Maroc et qu'il résulte d'une transformation substantielle (changement de position tarifaire, liste d'ouvraisons ou pourcentage minimum de valorisation locale) (art. 14).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-003",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Le principe de liberté et ses limites",
+  "t": "Une réforme votée mais pas encore en vigueur : la loi n° 91-14",
+  "principe": "La loi n° 91-14 relative au commerce extérieur (dahir n° 1-16-25 du 2 mars 2016, BO n° 6454 du 7 avril 2016) a vocation à remplacer la loi 13-89. Elle n'entre toutefois en vigueur qu'à la date d'entrée en vigueur du texte pris pour son application (art. 34), et la loi 13-89 n'est abrogée qu'à cette même date (art. 32). Le texte de la loi 91-14 ne figure pas dans le corpus ; ces références proviennent du texte publié sur le portail Adala du ministère de la Justice.\n### MISE À JOUR RÉGLEMENTAIRE\nLe corpus ne contient le décret d'application de la loi 91-14 (n° 2-22-30) qu'à l'état d'avant-projet. Tant que ce décret n'est pas publié au BO, la loi 13-89, le décret 2-93-415 et leurs arrêtés restent le droit applicable. Vérifier la situation au BO avant toute opération engageant un délai.\nLe projet de décret 2-22-30 donne néanmoins une image précise du futur régime. Ses apports sont résumés à la section 4.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-004",
+  "p": 1,
+  "ch": "1.1",
+  "c": "Le principe de liberté et ses limites",
+  "t": "Ce que la loi 15-09 a retiré à la loi 13-89",
+  "principe": "Les mesures de sauvegarde de l'article 15 de la loi 13-89 (droit compensateur, droit antidumping, mesures contre l'accroissement massif des importations) ont été abrogées et remplacées par la loi n° 15-09 relative aux mesures de défense commerciale (art. 84 de cette loi). Toute référence à l'article 15, paragraphes 1 à 3, vaut désormais référence à la loi 15-09. La Partie IV leur est consacrée.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-001",
+  "p": 1,
+  "ch": "1.1",
+  "c": "L'architecture de la réglementation des changes",
+  "t": "Les textes fondateurs",
+  "principe": "Le socle institutionnel repose sur le dahir n° 1-58-021 du 22 janvier 1958 relatif à l'Office des Changes. Ce texte crée l'Office comme établissement public doté de la personnalité civile et de l'autonomie financière et lui confie la délivrance, au nom du ministre des Finances, des autorisations prévues par le dahir du 10 septembre 1939 réglementant l'exportation des capitaux, les opérations de change et le commerce de l'or. Il prévoit surtout, en son article 3, que le ministre agrée les banques chargées d'exécuter les opérations autorisées : ce sont les intermédiaires agréés.\nDe cette architecture découle le principe qui gouverne toute la pratique contemporaine : l'Office des Changes fixe les règles et délivre les autorisations particulières ; les banques exécutent et contrôlent au premier niveau. Depuis l'adhésion du Maroc en 1993 à l'article VIII des statuts du FMI (convertibilité des opérations courantes), l'Office a délégué aux banques le pouvoir d'effectuer librement la quasi-totalité des règlements courants. Pour l'opérateur, cela signifie que le premier interlocuteur est presque toujours la banque domiciliataire, et que l'Office n'intervient qu'en cas d'opération non prévue par la réglementation, de dépassement de seuil ou de contentieux.\nLa seconde mission de l'Office — l'élaboration des statistiques des échanges extérieurs, de la balance des paiements et de la position financière extérieure globale — a été consolidée par la loi relative aux déclarations statistiques (loi n° 19-06), qui donne à l'Office des pouvoirs d'enquête et de sanction (voir section 14).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-002",
+  "p": 1,
+  "ch": "1.1",
+  "c": "L'architecture de la réglementation des changes",
+  "t": "La hiérarchie pratique des normes",
+  "principe": "| Niveau | Instrument | Exemples du corpus | Portée pour l'opérateur |\n| 1 | Lois et dahirs | Dahir 1958 ; loi 58-90 (offshore) ; loi 63-14 (MRE) ; loi 19-06 (statistiques) | Créent les droits, obligations et sanctions |\n| 2 | Instruction générale (IGOC) et instructions spécifiques | Instruction régissant l'activité de change de devises (2026) | Code opérationnel de référence ; consolidé périodiquement |\n| 3 | Circulaires ministérielles | Circulaire 2/2026/MEF/OC (LBC des holdings offshore) | Obligations de conformité sectorielles |\n| 4 | Circulaires de l'Office des Changes | 18 circulaires 2013-2026 | Complètent, modifient ou dérogent à l'IGOC |\n| 5 | Notes, lettres, modèles d'annexes | Annexes de comptes rendus, engagements de conformité | Formalisme à respecter à la lettre |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-003",
+  "p": 1,
+  "ch": "1.1",
+  "c": "L'architecture de la réglementation des changes",
+  "t": "Résident et non-résident : la clé de lecture",
+  "principe": "Presque toutes les règles de change dépendent de la qualité de résident ou de non-résident des parties. La loi sur les déclarations statistiques en donne une définition opérationnelle (article 2). Sont résidents :\n- les personnes physiques de nationalité marocaine ayant leur résidence habituelle au Maroc, y compris les fonctionnaires et agents de l'État en poste à l'étranger ;\n- les personnes physiques étrangères domiciliées au Maroc ou y ayant leur résidence au sens de la législation fiscale ;\n- les personnes morales de droit marocain, ainsi que les établissements, agences et succursales au Maroc de personnes morales étrangères ;\n- les personnes installées dans les places financières offshore et les zones franches d'exportation.\n### Conséquence pratique\nUne société installée en zone franche ou une holding offshore est résidente au sens statistique, mais bénéficie d'un régime de change dérogatoire (liberté vis-à-vis des non-résidents, absence d'obligation de rapatriement pour l'offshore). Il faut donc toujours distinguer la qualification statistique et le régime de change applicable.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-004",
+  "p": 1,
+  "ch": "1.1",
+  "c": "L'architecture de la réglementation des changes",
+  "t": "Carte du corpus par processus métier",
+  "principe": "| Processus de l'opérateur | Textes du corpus | Section |\n| Importer et payer un fournisseur étranger | Circ. 14/2014 (codification guichets) ; 4/2014 (paiement anticipé) | 2 |\n| Exporter et rapatrier | Circ. 8/2014 (suppression de l'engagement de change) | 3 |\n| Couvrir un risque de change, de taux ou de matière première | Circ. 1/2018 ; 2/2025 | 4 |\n| Opérer via une succursale étrangère | Circ. 12/2014 | 5 |\n| Bénéficier du statut CFC | Circ. 2/2018 | 6 |\n| Structurer une banque ou une holding offshore | Loi 58-90 ; circ. 2/2026/MEF/OC | 7 |\n| Gérer les dotations et comptes en devises des personnes physiques | Circ. 6/2014 ; 3/2015 | 8 |\n| Gérer des avoirs régularisés (contribution libératoire 2014) | Circ. 2/2016 | 9 |\n| Rentrer au Maroc après une carrière à l'étranger | Loi 63-14 ; circ. 2/2015 ; 1/2022 | 10 |\n| Financer des études à l'étranger | Circ. 1/2019 ; 1/2025 | 11 |\n| Exploiter un point de change | Instruction 2026 ; circ. 3/2025 ; 1/2026 | 12 |\n| Conformité LBC-FT des opérateurs de change | Circ. 9/2013 ; 1/2021 | 13 |\n| Déclarer, subir une enquête, gérer une sanction | Loi 19-06 ; dahir 1958 | 14 |",
+  "maj": "2026-10-17"
+ }
+]

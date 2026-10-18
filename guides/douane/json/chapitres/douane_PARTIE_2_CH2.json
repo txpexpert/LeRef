@@ -1,0 +1,627 @@
+[
+  {
+    "id": "2-020",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Origine non préférentielle : produits entièrement obtenus, transformation complète et certificats d'origine de droit commun",
+    "enbref": "Hors accord préférentiel, une marchandise est originaire du pays où elle a été entièrement obtenue ou, si plusieurs pays interviennent, de celui où elle a subi une transformation complète. Cette origine commande l'application du tarif et des mesures commerciales ; à l'exportation, la douane vise les certificats d'origine de droit commun.",
+    "textes": [
+      "CDII, art. 14, 16, 17, 18 et 19",
+      "Décret n° 2-77-862, art. 1er et 2, annexe I",
+      "Arrêté n° 1310-77 du 31/10/1977, art. 1er et 2",
+      "Circulaire ADII n° 5549/230 du 04/11/2015"
+    ],
+    "principe": "L'origine est, avec l'espèce et la provenance, un élément qualitatif d'assiette apprécié au moment de l'entrée sur le territoire assujetti (CDII, art. 14). L'article 16 du CDII définit l'origine par référence aux marchandises entièrement obtenues dans un pays, y compris les produits de l'aquaculture.\nLorsque des matières d'origine étrangère interviennent, le décret d'application précise la règle : est originaire d'un pays la marchandise qui y a été obtenue à partir de produits étrangers ayant subi une transformation complète leur faisant perdre leur individualité (décret n° 2-77-862, art. 1er-1°). Est complète la transformation qui entraîne une plus-value au moins égale à la valeur d'importation des produits mis en œuvre, ou celle qui figure au tableau de l'annexe I du décret, comme la teinture du fil ou le raffinage du sucre brut (art. 1er-2°). La plus-value est déterminée à partir du prix départ usine, justifié par la facture du transformateur, et de la valeur à l'importation, justifiée par la déclaration d'importation certifiée ; les détaxes à l'exportation sont défalquées (art. 2).\nÀ l'importation, l'administration peut exiger tout document certifiant l'origine, sans être liée par ce document quant à son authenticité ou son exactitude (CDII, art. 17). Il faut distinguer l'origine de la provenance, qui est le pays d'où la marchandise a été transportée directement (art. 19). À l'exportation, la douane vise sur demande les certificats attestant l'origine marocaine (art. 18), établis selon les modèles de l'administration ou ceux des accords commerciaux (arrêté n° 1310-77, art. 1er). Pour les produits de la pêche maritime, le code retient les captures des bateaux immatriculés dans le pays ou battant son pavillon, ainsi que les marchandises obtenues à bord de navires-usines à partir de ces produits ; il range aussi parmi les produits entièrement obtenus les produits extraits du sol ou du sous-sol marin hors des eaux territoriales lorsque le pays y dispose de droits exclusifs d'exploitation, et les rebuts et déchets manufacturiers destinés à la récupération de matières premières (CDII, art. 16-1°). Les règles de détermination de l'origine lorsque des produits d'un autre pays interviennent sont fixées par décret (art. 16-2°).",
+    "admin": "Pour délivrer un certificat, les agents peuvent exiger tout document sur le lieu de fabrication, l'origine des matières, les opérations réalisées et la plus-value obtenue (arrêté n° 1310-77, art. 2). Vers les pays non liés par un accord préférentiel, la douane délivre des certificats dits « CO Rose » si les conditions de l'article 16 du CDII et de l'article 1er du décret sont remplies (circ. n° 5549/230). L'administration peut exiger le document certifiant l'origine y compris pour les marchandises restant à bord de navires en escale (CDII, art. 17). La provenance n'est transférée à un pays intermédiaire que si le transit, l'escale ou le transbordement y excède la durée normale, et la douane vise sur demande les certificats de provenance à l'exportation (art. 19-1° et 2°).",
+    "donnees": [
+      [
+        "Critère de transformation complète",
+        "Plus-value ≥ valeur d'importation des produits mis en œuvre, ou tableau de l'annexe I (décret, art. 1er-2°)"
+      ],
+      [
+        "Base de calcul",
+        "Prix départ usine (décret, art. 2)"
+      ],
+      [
+        "Valeur du document d'origine produit",
+        "Ne lie pas l'administration (CDII, art. 17)"
+      ],
+      [
+        "Certificat de droit commun à l'export",
+        "« CO Rose » (circ. n° 5549/230)"
+      ],
+      [
+        "Provenance",
+        "Pays d'expédition directe ; escale ou transbordement sans effet sauf durée anormale (CDII, art. 19-1°)"
+      ]
+    ],
+    "cas": "La société fictive Oriental Textiles importe de Chine du fil écru d'une valeur de 400 000 DH, le teint au Maroc et l'exporte vers un pays sans accord préférentiel au prix départ usine de 650 000 DH. La plus-value est de 250 000 DH, inférieure à la valeur des intrants. Mais la teinture du fil figure au tableau de l'annexe I du décret : la transformation est complète et le fil teint est d'origine marocaine. La société peut demander un CO Rose, en tenant prêts les justificatifs exigés par l'arrêté n° 1310-77.",
+    "juris": "",
+    "conseil": "Avant de demander un certificat de droit commun, faites le calcul de plus-value sur la base du prix départ usine et vérifiez si l'opération figure à l'annexe I du décret : l'un ou l'autre critère suffit. Conservez la déclaration d'importation des intrants et la facture de vente, ce sont les deux pièces de preuve prévues par l'article 2 du décret.",
+    "faq": [
+      [
+        "Origine et provenance, est-ce la même chose ?",
+        "Non : la provenance est le pays d'où la marchandise a été transportée directement (CDII, art. 19) ; l'origine dépend du lieu d'obtention ou de transformation (art. 16 ; décret, art. 1er)."
+      ],
+      [
+        "Un certificat d'origine étranger lie-t-il la douane marocaine ?",
+        "Non : sa production ne lie pas l'administration quant à son authenticité ou à son exactitude (CDII, art. 17)."
+      ],
+      [
+        "Un transbordement dans un port étranger change-t-il la provenance de la marchandise ?",
+        "Non, sauf si sa durée excède le temps normal de transit ou de transbordement (CDII, art. 19-1°)."
+      ]
+    ],
+    "renvois": [
+      "2-021",
+      "2-026",
+      "2-027",
+      "5-010",
+      "1-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-021",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Origine préférentielle : principes communs aux accords de libre-échange (entièrement obtenus, transformation suffisante, cumul, non-modification)",
+    "enbref": "Pour bénéficier du droit préférentiel d'un accord, la marchandise doit être originaire au sens de cet accord, être transportée sans modification et être couverte par une preuve d'origine valable. Chaque accord a ses propres règles : il faut toujours appliquer celles de l'accord invoqué, à la date de l'opération.",
+    "textes": [
+      "CDII, art. 7",
+      "Circulaire ADII n° 6706/233 du 31/12/2025, annexe I, art. 2 à 16",
+      "Circulaire ADII n° 4977/222 du 30/12/2005, section IV",
+      "Circulaire ADII n° 6063/313 du 23/06/2020"
+    ],
+    "principe": "Les accords préférentiels conclus par le Maroc reposent sur deux catégories de produits originaires : les produits entièrement obtenus dans une partie (minéraux extraits, végétaux récoltés, animaux nés et élevés, produits de la pêche par les navires de la partie, déchets de fabrication…) et les produits obtenus à partir de matières non originaires ayant subi une ouvraison ou transformation suffisante (circ. n° 6706/233, annexe I, art. 2 et 3 ; circ. n° 4977/222, section IV).\nLa transformation suffisante est définie produit par produit par des règles de liste : proportion maximale de matières non originaires, changement de position tarifaire, opération spécifique ou utilisation de matières entièrement obtenues (circ. n° 6706/233, annexe I, note 1). Certaines opérations ne confèrent jamais l'origine : conditionnement, étiquetage, simple mélange, simple assemblage, etc. (art. 6). Le cumul permet de considérer comme originaires des matières provenant d'un autre partenaire appliquant des règles identiques (art. 7 et 8). Enfin, les marchandises ne doivent pas être modifiées lors de leur passage dans un pays tiers, où elles restent sous surveillance douanière (règle de non-modification, art. 14 ; transport direct dans l'accord avec les États-Unis, circ. n° 4977/222).\nCes principes se déclinent différemment selon les accords : critère de valeur de 35 % et absence de certificat pour l'accord avec les États-Unis (2-023), convention pan-euro-méditerranéenne révisée pour l'UE et la Turquie depuis le 01/01/2026, anciennes règles maintenues pour l'AELE et Agadir (2-022, 2-024). Les dispositions douanières d'un accord sont applicables dès leur notification à l'administration lorsqu'il entre en vigueur dès sa signature (CDII, art. 7). Plusieurs règles complètent ce socle dans l'annexe I de la circulaire n° 6706/233. L'unité à considérer est le produit retenu pour le classement dans le SH : un assemblage classé dans une seule position forme une unité, les emballages classés avec le produit en vertu de la RGI 5 forment un tout avec lui, et les accessoires, pièces de rechange et outils livrés avec un matériel et compris dans son prix font partie du produit (art. 9). Un assortiment est originaire si la valeur de ses articles non originaires n'excède pas 15 % de son prix départ usine (art. 10). L'origine de l'énergie, des installations, des machines et outils et des marchandises qui n'entrent pas dans la composition finale n'est pas prise en compte (éléments neutres, art. 11). La séparation comptable des matières fongibles originaires et non originaires est possible sur autorisation préalable, sans pouvoir produire plus de produits « originaires » qu'une séparation physique (art. 12).",
+    "admin": "L'ADII permet de calculer la garantie des marchandises placées en ATPA (codes régimes 22 et 23) sur la base du taux préférentiel, à condition d'indiquer l'accord dans la déclaration et de joindre la preuve d'origine, le contrôle des règles d'origine étant fait dès la déclaration d'ATPA (circ. n° 6063/313). Le principe de territorialité exige que les conditions d'acquisition de l'origine soient remplies sans interruption dans la partie concernée ; une ouvraison réalisée hors de cette partie, sous perfectionnement passif, préserve toutefois l'origine si la valeur ajoutée à l'extérieur n'excède pas 10 % du prix départ usine du produit final (circ. n° 6706/233, annexe I, art. 13). Les produits envoyés à une exposition dans un pays tiers et vendus pendant ou après celle-ci conservent le bénéfice de la préférence sous conditions (art. 15).",
+    "donnees": [
+      [
+        "Deux catégories de produits originaires",
+        "Entièrement obtenus ; transformation suffisante (circ. n° 6706/233, annexe I, art. 2)"
+      ],
+      [
+        "Opérations insuffisantes",
+        "Liste de l'art. 6 de l'annexe I (circ. n° 6706/233)"
+      ],
+      [
+        "Tolérance générale (UE, Turquie)",
+        "15 % du poids net (ch. 2 à 24) ou du prix départ usine (autres) (circ. n° 6706/233, art. 5)"
+      ],
+      [
+        "Accord avec les États-Unis",
+        "Critère de 35 % de valeur ; pas de certificat (circ. n° 4977/222)"
+      ],
+      [
+        "Assortiments",
+        "Non originaires ≤ 15 % du prix départ usine (circ. n° 6706/233, annexe I, art. 10)"
+      ],
+      [
+        "Ouvraison hors de la partie",
+        "Valeur ajoutée extérieure ≤ 10 % du prix départ usine (annexe I, art. 13)"
+      ]
+    ],
+    "cas": "La société fictive Saïss Conserves importe d'Espagne des boîtes métalliques et du concentré de tomate de Chine, puis exporte des conserves vers la France. Pour savoir si ses conserves sont originaires du Maroc, elle doit appliquer la règle de liste du chapitre 20 de l'accord Maroc–UE, et non le critère de droit commun du décret. Les boîtes espagnoles peuvent être cumulées comme originaires de l'UE ; le concentré chinois doit respecter la règle de liste ou la tolérance de 15 %. Le simple conditionnement du concentré en boîtes ne suffirait pas (circ. n° 6706/233, annexe I, art. 6).",
+    "juris": "",
+    "conseil": "Tenez pour chaque produit exporté sous préférence une fiche d'origine : nomenclature des intrants, origine et preuves de chacun, règle de liste applicable, calcul. C'est la pièce qu'on vous demandera en cas de contrôle a posteriori. Vérifiez la règle de l'accord du pays de destination : un même produit peut être originaire pour l'UE et ne pas l'être pour les États-Unis.",
+    "faq": [
+      [
+        "L'origine de droit commun suffit-elle pour obtenir la préférence ?",
+        "Non : il faut satisfaire aux règles d'origine de l'accord invoqué (circ. n° 6706/233 ; circ. n° 4977/222)."
+      ],
+      [
+        "Le transit par un pays tiers fait-il perdre la préférence ?",
+        "Non, si la marchandise reste sous surveillance douanière et n'y subit pas d'autre opération que celles permises (circ. n° 6706/233, annexe I, art. 14)."
+      ],
+      [
+        "L'origine des machines utilisées pour fabriquer le produit compte-t-elle ?",
+        "Non : les installations, machines, outils et l'énergie sont des éléments neutres dont l'origine n'est pas prise en compte (circ. n° 6706/233, annexe I, art. 11)."
+      ]
+    ],
+    "renvois": [
+      "2-020",
+      "2-022",
+      "2-023",
+      "2-024",
+      "2-026",
+      "4-003",
+      "7-010"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-022",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Accord d'association Maroc–Union européenne : règles d'origine de la convention pan-euro-méditerranéenne révisée appliquées depuis le 1er janvier 2026",
+    "enbref": "Depuis le 01/01/2026, l'origine des marchandises échangées avec l'UE suit, à titre provisoire, les règles de la convention régionale pan-euro-méditerranéenne révisée (CRR), jusqu'au 31/12/2027 au plus tard. Elles assouplissent l'origine (tolérance de 15 %, cumul étendu, no-drawback limité aux textiles) et allongent la validité des preuves à 10 mois.",
+    "textes": [
+      "Circulaire ADII n° 6706/233 du 31/12/2025 et son annexe I",
+      "Circulaire ADII n° 6722/233 du 10/02/2026"
+    ],
+    "principe": "Les règles d'origine des accords conclus avec l'UE, l'AELE, la Turquie et les pays d'Agadir avaient été regroupées dans la convention régionale pan-euro-méditerranéenne, révisée et entrée en vigueur le 01/01/2025 pour les pays l'ayant adoptée. En attendant la ratification par le Maroc, une décision du Conseil d'association Maroc–UE prévoit l'application provisoire de ces règles jusqu'au 31/12/2027 ou jusqu'à leur publication au Bulletin officiel. L'annexe I de la circulaire n° 6706/233 s'applique donc aux échanges avec l'UE depuis le 01/01/2026 ; elle remplace les règles de la circulaire n° 4976/222 et abroge la circulaire n° 4978/233.\nLes principaux changements sont les suivants (circ. n° 6706/233, titre I) :\n- tolérance de 15 % du poids net pour les produits des chapitres 2 à 24 et du prix départ usine pour les autres, hors textiles ;\n- calcul possible du prix départ usine et de la valeur des matières non originaires sur une base moyenne, avec autorisation du bureau d'exportation ;\n- cumul étendu à toutes les parties appliquant les règles, sauf pour les chapitres 50 à 63 (cumul bilatéral seulement) ;\n- non-modification au lieu du transport direct, avec fractionnement des envois autorisé dans un pays tiers ;\n- no-drawback limité aux textiles et à l'habillement des chapitres 50 à 63, et inapplicable aux échanges bilatéraux ;\n- suppression des EUR-MED ; validité des preuves portée de 4 à 10 mois ; déclaration à long terme du fournisseur valable deux ans.\nDes preuves peuvent être établies rétroactivement pour les exportations de 2025, avec la mention « REVISED RULES » (titre II). Les conditions de la non-modification sont précisées : seules sont admises dans le pays tiers les opérations de conservation et l'apposition de marques, étiquettes ou scellés exigés par la partie importatrice, sous surveillance douanière ; en cas de doute, l'importateur peut devoir produire connaissements, preuves de marquage des emballages ou certificat de non-manipulation (circ. n° 6706/233, annexe I, art. 14).",
+    "admin": "Pour les exportations de l'UE vers le Maroc, des dérogations contingentées s'appliquent pendant cinq ans à compter du 02/10/2025 : huiles raffinées de soja et de colza (10 000 t/an), d'arachide, de palme et de maïs (2 000 t/an), cigares et cigarettes (500 t/an), avec la mention « Derogation – Appendix B to Protocol 4 » et une gestion « premier venu, premier servi » (titre III). Les preuves de l'UE sans mention « REVISED RULES » sont recevables, cette mention ne s'imposant qu'aux exportations marocaines (circ. n° 6722/233). Pour la première année, le volume des contingents de l'appendice B est calculé au prorata de la période restant à courir, et l'ADII notifie à la Commission européenne l'épuisement de chaque contingent ; au-delà des contingents, les importations restent soumises aux règles de la colonne 5 de l'annexe II (circ. n° 6706/233).",
+    "donnees": [
+      [
+        "Application provisoire",
+        "Du 01/01/2026 au 31/12/2027 au plus tard (circ. n° 6706/233)"
+      ],
+      [
+        "Tolérance",
+        "15 % (circ. n° 6706/233, annexe I, art. 5)"
+      ],
+      [
+        "Validité des preuves",
+        "10 mois (annexe I, art. 23)"
+      ],
+      [
+        "Déclaration d'origine sans agrément",
+        "Envoi ≤ 6 000 EUR (annexe I, art. 18)"
+      ],
+      [
+        "Mention sur les exportations marocaines",
+        "« REVISED RULES » en case 7 (annexe I, art. 20 ; circ. n° 6722/233)"
+      ],
+      [
+        "Justificatifs de non-modification",
+        "Connaissements, marquage, certificat de non-manipulation (annexe I, art. 14)"
+      ]
+    ],
+    "cas": "La société fictive Tanger Auto Parts exporte des faisceaux de câbles vers l'Allemagne avec 40 % de cuivre turc et 20 % de connecteurs chinois. Sous les règles révisées, le cuivre turc est cumulable, la Turquie appliquant les mêmes règles, et le no-drawback ne s'applique plus à ce produit hors textile : la société peut avoir importé les connecteurs en admission temporaire sans perdre l'origine. Elle doit apposer « CUMULATION APPLIED WITH TÜRKIYE » et « REVISED RULES » en case 7 de l'EUR.1 (circ. n° 6706/233). L'erreur serait de continuer à émettre un EUR-MED.",
+    "juris": "",
+    "conseil": "Révisez vos fiches d'origine UE au regard de la nouvelle liste de l'annexe II : certaines règles ont changé, d'autres se sont assouplies. Si vous avez exporté en 2025 sans preuve faute d'origine sous les anciennes règles, examinez la possibilité d'une preuve rétroactive « REVISED RULES ».",
+    "faq": [
+      [
+        "Faut-il encore délivrer des EUR-MED vers l'UE ?",
+        "Non : seuls subsistent l'EUR.1 et la déclaration d'origine (circ. n° 6706/233, titre I)."
+      ],
+      [
+        "Une preuve d'origine européenne sans la mention « REVISED RULES » est-elle valable ?",
+        "Oui : l'UE ayant ratifié la CRR, elle n'est pas tenue de l'apposer (circ. n° 6722/233)."
+      ],
+      [
+        "Puis-je fractionner un envoi dans un pays tiers sans perdre la préférence ?",
+        "Oui, si les marchandises restent sous la surveillance douanière du pays de fractionnement (circ. n° 6706/233, annexe I, art. 14)."
+      ]
+    ],
+    "renvois": [
+      "2-021",
+      "2-024",
+      "2-026",
+      "2-027",
+      "4-003",
+      "7-010",
+      "7-060"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-023",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Accord de libre-échange Maroc–États-Unis : règles d'origine, critère de 35 %, absence de certificat et règles textiles",
+    "enbref": "L'accord Maroc–États-Unis, en vigueur depuis le 01/01/2006, n'exige pas de certificat d'origine : l'importateur qui demande la préférence est réputé certifier l'éligibilité du produit. Un produit transformé est originaire s'il respecte la règle spécifique de l'annexe IX ou, à défaut, s'il est un article nouveau dont la valeur locale atteint au moins 35 %.",
+    "textes": [
+      "Loi n° 28-04 du 28/12/2004 (BO n° 5294 du 24/02/2005)",
+      "Circulaire ADII n° 4977/222 du 30/12/2005, section IV",
+      "Circulaire ADII n° 6705/222 du 31/12/2025"
+    ],
+    "principe": "L'accord, signé le 15/06/2004 et promulgué par la loi n° 28-04, est en vigueur depuis le 01/01/2006 (circ. n° 4977/222). Sont originaires, lorsqu'ils sont importés directement d'une partie à l'autre, les produits entièrement obtenus dans l'une ou les deux parties, et les produits fabriqués avec des intrants tiers qui satisfont aux règles spécifiques des listes 1 et 2 de l'annexe IX. Pour les produits non repris dans ces listes, deux conditions cumulatives s'appliquent : le produit doit être un article du commerce nouveau ou différent (nouveau nom, nouvelles caractéristiques ou nouvel usage), et la valeur des matières produites dans les parties, majorée des coûts directs de transformation, doit représenter au moins 35 % de la valeur estimée du produit : (VMP + CDT) / VEP × 100 ≥ 35 %. Les matières indirectes et les emballages comptent dans le calcul sans être déterminants pour l'origine ; le cumul entre le Maroc et les États-Unis est total ; les opérations insuffisantes ne confèrent pas l'origine.\n\nPour les textiles et vêtements, une règle de minimis tolère 7 % du poids du composant déterminant (hors fils élastomères), et les assortiments ne sont originaires que si les produits non originaires n'excèdent pas 10 % de leur valeur. Un contingent dégressif de 30 millions de m² permettait d'utiliser des intrants tiers, sur présentation d'un certificat d'éligibilité visé par la douane marocaine.\n\nAucun certificat n'est exigé : l'importateur qui demande la préférence est réputé certifier l'éligibilité ; il conserve les informations nécessaires pendant 5 ans (circ. n° 4977/222).",
+    "admin": "Le service n'exige la déclaration d'origine de l'importateur (description, opérations, matières, valeur des matières non originaires) qu'en cas de doute ou si la sélectivité le requiert ; un rejet de la préférence est notifié par écrit dans un délai d'un mois, avec ses motifs de fait et de droit (circ. n° 4977/222). Les contingents agricoles pour 2026 sont gérés selon le principe « premier venu, premier servi » (circ. n° 6705/222).",
+    "donnees": [
+      [
+        "Entrée en vigueur",
+        "01/01/2006 (circ. n° 4977/222)"
+      ],
+      [
+        "Critère de valeur",
+        "(VMP + CDT) / VEP ≥ 35 % (circ. n° 4977/222)"
+      ],
+      [
+        "Preuve de l'origine",
+        "Aucun certificat ; certification par l'importateur (circ. n° 4977/222)"
+      ],
+      [
+        "Conservation des informations",
+        "5 ans (circ. n° 4977/222)"
+      ],
+      [
+        "De minimis textile",
+        "7 % du poids du composant déterminant (circ. n° 4977/222)"
+      ]
+    ],
+    "cas": "La société fictive Casa Machines importe des États-Unis des pompes assemblées à partir de moteurs mexicains. Elle demande la préférence en indiquant l'accord dans la déclaration, sans certificat. Sélectionnée au contrôle, elle doit produire une déclaration d'origine détaillant les matières et le calcul de 35 %. Si son fournisseur américain ne lui a pas transmis ces éléments, elle ne peut justifier l'origine : la préférence est refusée par écrit dans le mois et les droits de droit commun sont dus.",
+    "juris": "",
+    "conseil": "Avant de demander la préférence américaine, obtenez de votre fournisseur un dossier d'origine écrit (règle appliquée, calcul de 35 %, liste des matières) : c'est vous, importateur, qui certifiez l'éligibilité et en répondez. Conservez-le cinq ans. En cas de rejet de la préférence, exploitez le délai et la motivation écrite prévus par la circulaire n° 4977/222 pour répondre point par point, et n'oubliez pas que la voie des commissions consultatives reste ouverte en cas de désaccord (CDII, art. 22 bis et 22 ter).",
+    "faq": [
+      [
+        "Faut-il un EUR.1 ou un certificat pour les produits américains ?",
+        "Non : l'accord ne requiert pas de certificat d'origine ; l'importateur est réputé certifier l'éligibilité (circ. n° 4977/222)."
+      ],
+      [
+        "Que se passe-t-il si la douane rejette la préférence ?",
+        "Elle doit en aviser l'importateur par écrit dans un délai d'un mois, en précisant les éléments de fait et la base juridique (circ. n° 4977/222)."
+      ],
+      [
+        "Le service peut-il exiger systématiquement une déclaration d'origine de l'importateur ?",
+        "Non : il ne la demande qu'en cas de doute ou si la sélectivité le requiert (circ. n° 4977/222)."
+      ]
+    ],
+    "renvois": [
+      "2-021",
+      "2-026",
+      "2-027",
+      "4-003"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : conseil pratique, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-024",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Accords avec l'AELE, la Turquie et les pays de l'accord d'Agadir : règles d'origine applicables et cumul",
+    "enbref": "Depuis le 01/01/2026, les échanges avec la Turquie suivent, comme ceux avec l'UE, les règles provisoires de la convention pan-euro-méditerranéenne révisée. En revanche, pour l'AELE (Suisse, Norvège, Islande, Liechtenstein) et les pays d'Agadir (Tunisie, Égypte, Jordanie), les anciennes règles d'origine restent applicables jusqu'à la modification de leurs protocoles.",
+    "textes": [
+      "Circulaire ADII n° 6706/233 du 31/12/2025",
+      "Circulaire ADII n° 6722/233 du 10/02/2026",
+      "Circulaires ADII n° 4980/233 du 30/12/2005 et 5047/223 du 27/03/2007 (citées)",
+      "Brochure ADII « Exportateur agréé » (2023)",
+      "Circulaire ADII n° 6409/222 du 18/01/2023"
+    ],
+    "principe": "La circulaire n° 6706/233 distingue deux situations. Pour l'accord de libre-échange Maroc–Turquie, une décision du comité mixte prévoit l'application provisoire des règles d'origine de la convention révisée jusqu'au 31/12/2027 ou jusqu'à leur publication au Bulletin officiel : depuis le 01/01/2026, les échanges avec la Turquie suivent donc l'annexe I de la circulaire, comme ceux avec l'UE (tolérance de 15 %, validité des preuves de 10 mois, EUR.1 et déclaration d'origine, suppression des EUR-MED). Le cumul diagonal est maintenu entre le Maroc, l'UE et la Turquie, dès lors que les marchandises ont acquis leur caractère originaire par des règles identiques. Les preuves turques sans la mention « REVISED RULES » sont recevables, la Turquie ayant ratifié la convention révisée (circ. n° 6722/233).\nPour les accords avec les États de l'AELE et avec les pays signataires de l'accord d'Agadir, les règles d'origine des circulaires n° 4980/233 du 30/12/2005 et n° 5047/223 du 27/03/2007, telles que modifiées, sont maintenues en attendant les décisions modifiant leurs protocoles (circ. n° 6706/233).\nLe statut d'exportateur agréé couvre les exportations vers tous ces pays, ainsi que vers le Royaume-Uni (brochure ADII « Exportateur agréé »). Lorsque le cumul est appliqué avec une partie autre que la partie de destination, la preuve d'origine porte la mention « CUMULATION APPLIED WITH » suivie du nom de la ou des parties concernées, et les avis confirmant que les conditions du cumul sont réunies sont publiés au Journal officiel de l'UE et dans une publication officielle au Maroc (circ. n° 6706/233, annexe I, art. 7 et 8). Pour les produits agricoles transformés originaires de l'AELE repris à l'annexe II, liste 1, de l'accord, le droit d'importation ne porte que sur l'élément agricole, la part correspondant à l'élément industriel étant exonérée ; la circulaire n° 6409/222 du 18/01/2023 actualise ces listes en SH 2022 et indique pour chaque position le droit applicable à l'élément agricole et, le cas échéant, le contingent.",
+    "admin": "La brochure de l'ADII, antérieure à la circulaire n° 6706/233, présente encore les preuves EUR-MED et la déclaration sur facture EUR-MED. Depuis le 01/01/2026, ces documents sont supprimés pour les échanges avec l'UE et la Turquie (circ. n° 6706/233) ; leur maintien pour l'AELE et Agadir dépend des circulaires n° 4980/233 et 5047/223.",
+    "donnees": [
+      [
+        "Turquie",
+        "Règles révisées depuis le 01/01/2026, jusqu'au 31/12/2027 au plus tard (circ. n° 6706/233)"
+      ],
+      [
+        "AELE",
+        "Anciennes règles maintenues (circ. n° 4980/233, citée par circ. n° 6706/233)"
+      ],
+      [
+        "Agadir (Tunisie, Égypte, Jordanie)",
+        "Anciennes règles maintenues (circ. n° 5047/223, citée par circ. n° 6706/233)"
+      ],
+      [
+        "Cumul diagonal Maroc–UE–Turquie",
+        "Maintenu sous règles identiques (circ. n° 6706/233)"
+      ],
+      [
+        "Mention en cas de cumul",
+        "« CUMULATION APPLIED WITH… » (circ. n° 6706/233, annexe I, art. 7)"
+      ]
+    ],
+    "cas": "La société fictive Fès Chaussures exporte le même modèle vers l'Italie, la Turquie et la Tunisie. Pour l'Italie et la Turquie, elle applique les règles révisées et établit un EUR.1 portant la mention « REVISED RULES ». Pour la Tunisie, elle doit appliquer les règles de l'accord d'Agadir maintenues par la circulaire n° 5047/223, dont la règle de liste et les preuves peuvent différer. L'erreur serait d'appliquer à tous les marchés la même fiche d'origine et la même preuve.",
+    "juris": "",
+    "conseil": "Tenez une fiche d'origine par accord et non par produit : depuis 2026, UE et Turquie d'un côté, AELE et Agadir de l'autre, ne suivent plus les mêmes règles. Surveillez les circulaires de la série 233 : la modification des protocoles AELE et Agadir alignera ces accords sur les règles révisées.",
+    "faq": [
+      [
+        "Les règles révisées s'appliquent-elles à la Suisse ?",
+        "Pas encore : pour l'AELE, les anciennes règles sont maintenues jusqu'à la modification du protocole (circ. n° 6706/233)."
+      ],
+      [
+        "Une matière turque peut-elle être cumulée dans un produit exporté vers l'UE ?",
+        "Oui, le cumul diagonal étant maintenu entre le Maroc, l'UE et la Turquie sous règles identiques (circ. n° 6706/233)."
+      ],
+      [
+        "Comment est taxé un chocolat originaire de Suisse ?",
+        "Au titre de l'ALE Maroc–AELE, seul l'élément agricole est taxé, au taux indiqué par la liste actualisée de la circulaire n° 6409/222, l'élément industriel étant exonéré."
+      ]
+    ],
+    "renvois": [
+      "2-021",
+      "2-022",
+      "2-026",
+      "2-027"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-025",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Zone de libre-échange continentale africaine (ZLECAf) : certificat d'origine et état des textes disponibles",
+    "enbref": "La douane marocaine délivre par BADR des certificats d'origine dans le cadre de l'accord de la ZLECAf. Les règles d'origine, la liste des produits couverts et les conditions de la préférence relèvent de l'accord et de sa circulaire d'application : aucune préférence ne doit être revendiquée sans les avoir vérifiées.",
+    "textes": [
+      "Brochure ADII « Le dédouanement en ligne — B@DR »",
+      "Arrêté n° 1310-77 du 31/10/1977, art. 1er",
+      "CDII, art. 7 et 18",
+      "Note ADII n° D87/2026/ADII/AC/100 du 09/04/2026",
+      "Circulaire ADII n° 6530/223 du 22/01/2024 (citée par la note D87/2026)"
+    ],
+    "principe": "La brochure de l'ADII consacrée à BADR cite, parmi les certificats d'origine dont la demande et la délivrance sont dématérialisées, « le certificat d'origine dans le cadre de l'accord de la Zone de Libre Échange Continentale Africaine (ZLECAf) », aux côtés des EUR.1, du certificat arabe et du certificat SPC-OCI.\nLe cadre général demeure applicable. À l'exportation, la douane vise les certificats attestant l'origine marocaine (CDII, art. 18), établis selon les modèles prévus par l'accord commercial concerné lorsqu'il en prévoit un (arrêté n° 1310-77, art. 1er), et les agents peuvent exiger toute pièce justifiant l'origine (art. 2). Les dispositions douanières d'un accord entrant en vigueur dès sa signature sont applicables dès leur notification à l'administration (CDII, art. 7). La note n° D87/2026/ADII/AC/100 du 09/04/2026 précise le cadre applicable à l'importation : le bénéfice des préférences tarifaires de l'accord portant création de la ZLECAf, comme celui des préférences accordées par le Maroc aux pays les moins avancés (PMA) d'Afrique, est subordonné à la production d'un certificat d'origine visé par les autorités compétentes du pays d'exportation. Ces régimes sont encadrés notamment par les circulaires n° 6530/223 du 22/01/2024, 4636/200 du 28/06/2000 et 4666/200 du 29/12/2000.",
+    "admin": "La demande de certificat d'origine ZLECAf est déposée dans BADR et traitée par l'agent chargé du contrôle de la déclaration d'exportation ; l'authenticité des certificats délivrés peut être vérifiée en ligne sur le site de l'ADII (brochure BADR). Pour le contrôle de l'authenticité des certificats, l'administration diffuse aux services, par des notes successives, les spécimens des cachets et signatures des autorités habilitées des pays partenaires : la note D87/2026 transmet ceux des autorités douanières éthiopiennes et complète les notes D233/2023, D286/2024, D8/2025 et D70/2025. La conformité du cachet est une condition nécessaire mais non suffisante : le bénéfice de la préférence reste tributaire du respect des autres conditions d'origine (note D87/2026).",
+    "donnees": [
+      [
+        "Délivrance du certificat ZLECAf",
+        "Dématérialisée sur BADR (brochure BADR)"
+      ],
+      [
+        "Modèle du certificat",
+        "Celui prévu par l'accord (arrêté n° 1310-77, art. 1er)"
+      ],
+      [
+        "Condition à l'importation",
+        "Certificat d'origine visé par le pays d'exportation (note D87/2026)"
+      ],
+      [
+        "Contrôle d'authenticité",
+        "Spécimens de cachets et signatures diffusés par note (note D87/2026)"
+      ]
+    ],
+    "cas": "La société fictive Souss Agro veut exporter des conserves vers un pays d'Afrique de l'Ouest et demande un certificat ZLECAf dans BADR. Avant de s'engager sur un prix rendu tenant compte d'un droit réduit, elle doit vérifier auprès de son client que le pays de destination applique effectivement les préférences de l'accord à ce produit, et auprès de la douane la règle d'origine applicable. L'erreur serait de supposer qu'un certificat délivré garantit la préférence à destination.",
+    "juris": "",
+    "conseil": "Pour toute opération ZLECAf, demandez à l'ADII la circulaire d'application et la règle d'origine du produit, et faites confirmer par l'importateur étranger le taux applicable dans son pays. Conservez les justificatifs d'origine comme pour les autres accords.",
+    "faq": [
+      [
+        "Le Maroc délivre-t-il des certificats d'origine ZLECAf ?",
+        "Oui, la demande et la délivrance sont dématérialisées sur BADR (brochure BADR)."
+      ],
+      [
+        "Un certificat ZLECAf dont le cachet est conforme suffit-il pour obtenir la préférence ?",
+        "Non : la conformité du cachet est nécessaire mais non suffisante ; les autres conditions d'origine doivent aussi être remplies (note D87/2026)."
+      ]
+    ],
+    "renvois": [
+      "2-020",
+      "2-021",
+      "2-026",
+      "1-004"
+    ],
+    "maj": "2026-10-18",
+    "verif": "non",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-026",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Preuves de l'origine préférentielle : certificat EUR.1, déclaration d'origine, exportateur agréé et déclaration du fournisseur",
+    "enbref": "Dans les accords pan-euro-méditerranéens, l'origine se prouve par un certificat EUR.1 visé par la douane ou par une déclaration d'origine sur facture, établie par tout exportateur jusqu'à 6 000 EUR et sans limite par l'exportateur agréé. Depuis le 01/01/2026, pour l'UE et la Turquie, la preuve est valable 10 mois.",
+    "textes": [
+      "Circulaire ADII n° 6706/233 du 31/12/2025, annexe I, art. 17 à 31",
+      "Circulaire ADII n° 6722/233 du 10/02/2026",
+      "Brochure ADII « Exportateur agréé » (2023)",
+      "Circulaire ADII n° 4977/222 du 30/12/2005",
+      "Brochure ADII « Le dédouanement en ligne — B@DR »",
+      "Note ADII n° D99/2026/ADII/AC/100 du 21/04/2026"
+    ],
+    "principe": "Sous les règles révisées applicables à l'UE et à la Turquie, deux preuves sont admises : le certificat EUR.1, délivré par la douane du pays d'exportation sur demande écrite de l'exportateur, et la déclaration d'origine établie sur une facture, un bon de livraison ou un autre document commercial (circ. n° 6706/233, annexe I, art. 17). La déclaration d'origine peut être établie par tout exportateur pour un envoi n'excédant pas 6 000 EUR, et sans limite de valeur par un exportateur agréé, titulaire d'un numéro d'autorisation (art. 18 et 19). La preuve est valable 10 mois (art. 23).\n\nUn EUR.1 peut être délivré a posteriori dans un délai de deux ans, avec la mention « ISSUED RETROSPECTIVELY », et un duplicata porte la mention « DUPLICATE » (art. 21 et 22). Pour les produits démontés importés par envois échelonnés, une seule preuve est produite au premier envoi ; les petits envois entre particuliers jusqu'à 500 EUR et les bagages des voyageurs jusqu'à 1 200 EUR en sont dispensés (art. 25 à 27). Les légères discordances n'invalident pas la preuve si le document correspond aux produits (art. 28). En cas de cumul, le fournisseur remet une déclaration, ponctuelle ou à long terme valable deux ans (art. 29). L'exportateur conserve les preuves et justificatifs au moins trois ans (art. 31).\n\nLe statut d'exportateur agréé est réservé aux personnes morales qui exportent fréquemment pour leur compte et offrent les garanties de contrôle ; la demande est adressée au service des règles d'origine de l'ADII et donne lieu à un entretien (brochure « Exportateur agréé »). L'accord avec les États-Unis ne requiert, lui, aucun certificat (circ. n° 4977/222).",
+    "admin": "Les exportations marocaines vers l'UE et la Turquie portent la mention « REVISED RULES » en case 7, et la mention « CUMULATION APPLIED WITH… » en cas de cumul (circ. n° 6706/233). Les demandes d'EUR.1 et d'autres certificats sont dématérialisées sur BADR (brochure BADR). Pour faciliter le contrôle des déclarations d'origine établies par des exportateurs agréés étrangers, la note D99/2026/ADII/AC/100 du 21/04/2026 diffuse le format des numéros d'autorisation de chaque partie : par exemple « GB » suivi d'un numéro à cinq chiffres et des deux derniers chiffres de l'année pour le Royaume-Uni, « EUR » suivi de l'année, du code de la direction régionale et du numéro pour la Türkiye, numéro d'un à cinq chiffres pour la Suisse et le Liechtenstein.",
+    "donnees": [
+      [
+        "Déclaration d'origine sans agrément",
+        "Envoi ≤ 6 000 EUR (circ. n° 6706/233, annexe I, art. 18)"
+      ],
+      [
+        "Validité (UE, Turquie)",
+        "10 mois (annexe I, art. 23)"
+      ],
+      [
+        "EUR.1 a posteriori",
+        "Dans les 2 ans (annexe I, art. 21)"
+      ],
+      [
+        "Déclaration à long terme du fournisseur",
+        "2 ans au plus (annexe I, art. 29)"
+      ],
+      [
+        "Conservation par l'exportateur",
+        "3 ans au moins (annexe I, art. 31)"
+      ],
+      [
+        "Numéro d'exportateur agréé étranger",
+        "Format propre à chaque partie (note D99/2026)"
+      ]
+    ],
+    "cas": "La société fictive Atlas Huiles exporte vers la Belgique des envois de 15 000 EUR et établit elle-même une déclaration d'origine sur facture, sans être exportateur agréé. Au-delà de 6 000 EUR, seule une société agréée peut le faire (annexe I, art. 18) : l'importateur belge se voit refuser la préférence. La société devait demander un EUR.1 pour chaque envoi ou solliciter le statut d'exportateur agréé.",
+    "juris": "",
+    "conseil": "Si vous exportez régulièrement vers la zone pan-euro-méditerranéenne, demandez le statut d'exportateur agréé : il supprime le visa de chaque EUR.1, et les entreprises OEA n'ont aucun document à produire (brochure « Exportateur agréé »). Exigez de vos fournisseurs une déclaration à long terme dès le premier envoi. Pour les machines livrées avec accessoires, pièces de rechange et outils compris dans le prix, une seule preuve d'origine couvre l'ensemble, ces éléments faisant partie intégrante du produit (circ. n° 6706/233, annexe I, art. 9).",
+    "faq": [
+      [
+        "Combien de temps une preuve d'origine UE est-elle valable ?",
+        "10 mois depuis le 01/01/2026 (circ. n° 6706/233, annexe I, art. 23)."
+      ],
+      [
+        "Peut-on obtenir un EUR.1 après l'exportation ?",
+        "Oui, dans les cas prévus et dans un délai de deux ans, avec la mention « ISSUED RETROSPECTIVELY » (annexe I, art. 21)."
+      ]
+    ],
+    "renvois": [
+      "2-021",
+      "2-022",
+      "2-024",
+      "2-027",
+      "1-022",
+      "8-002"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, position de l'administration, données clés, conseil pratique mis à jour"
+    ]
+  },
+  {
+    "id": "2-027",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Contrôle a posteriori de l'origine : vérification des preuves, coopération administrative et conséquences d'un résultat négatif",
+    "enbref": "Après la mainlevée, la douane peut contrôler l'origine déclarée, directement auprès de l'importateur ou en demandant à la douane du pays d'exportation de vérifier la preuve. Sans réponse suffisante dans les délais de l'accord, la préférence est refusée et les droits de droit commun sont réclamés.",
+    "textes": [
+      "CDII, art. 17 et 86 bis",
+      "Circulaire ADII n° 6706/233 du 31/12/2025, annexe I, art. 31 à 36",
+      "Circulaire ADII n° 4977/222 du 30/12/2005, section IV",
+      "Brochure ADII « Exportateur agréé » (2023)",
+      "Note ADII n° D105/2026/ADII/AC/100 du 30/04/2026",
+      "Note ADII n° D129/2026/ADII/AC/100 du 08/06/2026"
+    ],
+    "principe": "Le CDII autorise, après mainlevée, la révision des déclarations, le contrôle des documents commerciaux et la vérification des marchandises encore présentables, auprès du déclarant ou de toute personne intéressée, l'administration rétablissant la situation si des éléments inexacts sont découverts (art. 86 bis). La production d'un document d'origine ne lie pas l'administration quant à son authenticité ou à son exactitude (art. 17).\nDans les accords pan-euro-méditerranéens révisés (UE, Turquie), les preuves d'origine et les déclarations du fournisseur peuvent être contrôlées par sondage ou en cas de doute fondé. La douane du pays d'importation adresse sa demande à celle du pays d'exportation avec les documents ; celle-ci dispose de 10 mois pour répondre. Sans réponse suffisante, la préférence est refusée, sauf circonstances exceptionnelles (circ. n° 6706/233, annexe I, art. 34 et 35). Les différends entre douanes sont soumis au comité d'association, ceux entre l'importateur et la douane relèvent du droit interne ; chaque partie prévoit des sanctions (art. 32 et 36). Exportateurs, fournisseurs et douanes conservent les documents au moins trois ans (art. 31).\nDans l'accord avec les États-Unis, l'importateur conserve les informations pendant 5 ans ; la vérification de l'origine des textiles doit aboutir dans les 12 mois, et un échec peut conduire à exclure de la préférence toutes les marchandises du contrevenant (circ. n° 4977/222). En droit interne, l'action en recouvrement des droits éludés se prescrit par quatre ans à compter du titre de recette, le délai ne courant en cas de fraude qu'à partir du jour de sa découverte (CDII, art. 99 bis et 99 ter) ; tout redressement pour fraude donne lieu à intérêt de retard depuis le titre de recette initial (art. 99 bis-2°-b).",
+    "admin": "L'exportateur agréé s'engage à accepter tout contrôle de l'origine, à présenter les justifications demandées et à n'établir de déclaration que s'il détient, au moment de l'émettre, toutes les preuves du caractère originaire ; il est responsable de l'usage de son autorisation (brochure « Exportateur agréé »). La circulaire n° 4978/233, abrogée, fixait le délai de réponse à 6 mois. Le contrôle documentaire des preuves s'appuie sur les spécimens de cachets diffusés par l'administration. La note D105/2026/ADII/AC/100 du 30/04/2026 transmet ainsi des spécimens de cachets EUR.1 et les adresses de contrôle a posteriori de pays de l'UE, et précise que toute discordance (couleur, diamètre, mentions) justifie une demande de contrôle a posteriori auprès de l'autorité désignée. La note D129/2026/ADII/AC/100 du 08/06/2026 fait de même pour les certificats d'origine GAFTA visés au port de Misrata (Libye), dont le service vérifie la forme ovale du cachet et la concordance de ses mentions.",
+    "donnees": [
+      [
+        "Délai de réponse (UE, Turquie)",
+        "10 mois (circ. n° 6706/233, annexe I, art. 35)"
+      ],
+      [
+        "Conservation (UE, Turquie)",
+        "3 ans au moins (annexe I, art. 31)"
+      ],
+      [
+        "Conservation (États-Unis)",
+        "5 ans par l'importateur (circ. n° 4977/222)"
+      ],
+      [
+        "Vérification textiles (États-Unis)",
+        "Résultat dans les 12 mois (circ. n° 4977/222)"
+      ],
+      [
+        "Fondement interne",
+        "CDII, art. 86 bis"
+      ],
+      [
+        "Recouvrement après refus de préférence",
+        "Prescription de 4 ans ; point de départ reporté à la découverte en cas de fraude (CDII, art. 99 bis et 99 ter)"
+      ],
+      [
+        "Cachet non conforme au spécimen",
+        "Demande de contrôle a posteriori (note D105/2026)"
+      ]
+    ],
+    "cas": "La société fictive Marrakech Déco a importé d'Italie en 2026 des luminaires sous EUR.1. Un an plus tard, la douane marocaine, ayant un doute, demande une vérification à la douane italienne. Celle-ci répond après onze mois sans confirmer l'origine. La préférence est refusée (annexe I, art. 35) et les droits de droit commun sont recouvrés sur le fondement de l'article 86 bis. L'importateur aurait dû exiger de son fournisseur une déclaration d'origine étayée et vérifier son statut d'exportateur agréé.",
+    "juris": "",
+    "conseil": "À l'importation, ne vous contentez pas d'une preuve formellement correcte : exigez du fournisseur l'engagement de répondre aux demandes de vérification. À l'exportation, archivez le dossier d'origine au moins trois ans (cinq pour les États-Unis) : une demande de vérification étrangère peut arriver bien après l'opération.",
+    "faq": [
+      [
+        "La douane peut-elle remettre en cause l'origine après la mainlevée ?",
+        "Oui, par le contrôle a posteriori (CDII, art. 86 bis) et par une demande de vérification au pays d'exportation (circ. n° 6706/233, annexe I, art. 34)."
+      ],
+      [
+        "Quel délai la douane étrangère a-t-elle pour répondre ?",
+        "10 mois dans le cadre des règles révisées UE et Turquie (annexe I, art. 35)."
+      ],
+      [
+        "Que fait le service si le cachet d'un EUR.1 ne correspond pas au spécimen diffusé ?",
+        "Toute discordance justifie une demande de contrôle a posteriori auprès de l'autorité désignée du pays d'exportation (note D105/2026)."
+      ]
+    ],
+    "renvois": [
+      "2-020",
+      "2-021",
+      "2-026",
+      "9-003",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "2-028",
+    "p": 2,
+    "ch": "2.2",
+    "c": "Origine",
+    "t": "Accord d'association Maroc–Royaume-Uni : préférences, règles d'origine et cumul",
+    "enbref": "Depuis le 01/01/2021, l'accord d'association Maroc–Royaume-Uni reprend les préférences de l'accord Maroc–UE. Ses règles d'origine prévoient un cumul bilatéral avec l'UE, la Norvège et l'Islande, et un cumul diagonal avec la Suisse, la Turquie, l'Égypte, la Tunisie et la Jordanie, chacun avec ses propres preuves.",
+    "textes": [
+      "Circulaire ADII n° 6139/222 du 31/12/2020",
+      "Circulaire ADII n° 6705/222 du 31/12/2025",
+      "Brochure ADII « Exportateur agréé » (2023)",
+      "Circulaire ADII n° 6758/233 du 07/07/2026",
+      "Circulaire ADII n° 6147/222 du 18/01/2021"
+    ],
+    "principe": "L'accord, signé à Londres le 26/10/2019, s'applique provisoirement depuis le 01/01/2021 à la suite d'un échange de notes verbales du 24/12/2020. Il reprend, mutatis mutandis, les dispositions de l'accord d'association Maroc–UE telles qu'elles s'appliquaient au Royaume-Uni avant le Brexit ; il est référencé dans BADR sous le code « UK » (circ. n° 6139/222).\nEn matière d'origine, la circulaire n° 6139/222 indique que les conditions du cumul sont remplies avec l'UE, les États de l'AELE, la Turquie, la Tunisie, l'Égypte et la Jordanie. Le cumul avec l'UE, la Norvège ou l'Islande est un cumul bilatéral : les exportations sont couvertes par un EUR.1 ou une déclaration sur facture et ne sont pas soumises au no-drawback. Le cumul avec la Suisse (y compris le Liechtenstein), la Turquie, l'Égypte, la Tunisie ou la Jordanie est un cumul diagonal : les exportations sont couvertes par un EUR-MED ou une déclaration sur facture EUR-MED et la règle du no-drawback s'applique. Les exportateurs agréés au titre de l'accord Maroc–UE établissent ces documents dans les mêmes conditions.\nLes règles d'origine de l'accord Maroc–UE ayant été remplacées au 01/01/2026 par les règles révisées (circ. n° 6706/233), l'incidence de ce changement sur l'accord Maroc–Royaume-Uni doit être vérifiée auprès de l'administration au moment de l'opération, en tenant compte de la décision n° 01/2026 présentée par la circulaire n° 6758/233. La décision n° 01/2026 du conseil d'association, présentée par la circulaire n° 6758/233 du 07/07/2026, a modifié le protocole n° 4 : les produits originaires du Maroc ou du Royaume-Uni peuvent être cumulés avec ceux de l'UE, de l'AELE, de la Turquie et des pays de l'accord d'Agadir (Égypte, Jordanie, Tunisie). Les ouvraisons réalisées au Royaume-Uni, dans l'UE, en Algérie ou en Tunisie sont considérées comme effectuées au Maroc lorsque les produits y subissent une ouvraison allant au-delà des opérations insuffisantes de l'article 7 (cumul total, art. 4-4°), et la règle du transport direct est assouplie (art. 13).",
+    "admin": "Les contingents agricoles de l'accord pour 2026 (annexe I, liste 3) sont communiqués par la circulaire n° 6705/222 du 31/12/2025. Pour les listes de produits annexées à l'accord, le libellé n'a qu'une valeur indicative : le régime préférentiel est déterminé par la portée du code SH ; lorsqu'un « ex » précède le code, il l'est à la fois par le code et par la description (circ. n° 6147/222).",
+    "donnees": [
+      [
+        "Application provisoire",
+        "Depuis le 01/01/2021 (circ. n° 6139/222)"
+      ],
+      [
+        "Code BADR",
+        "« UK » (circ. n° 6139/222)"
+      ],
+      [
+        "Cumul bilatéral",
+        "UE, Norvège, Islande : EUR.1 ou déclaration sur facture (circ. n° 6139/222)"
+      ],
+      [
+        "Cumul diagonal",
+        "Suisse, Turquie, Égypte, Tunisie, Jordanie : EUR-MED, no-drawback (circ. n° 6139/222)"
+      ],
+      [
+        "Cumul élargi (décision 01/2026)",
+        "UE, AELE, Turquie, Égypte, Jordanie, Tunisie ; cumul total UK, UE, Algérie, Tunisie (circ. n° 6758/233)"
+      ]
+    ],
+    "cas": "La société fictive Rabat Textiles exporte vers Londres des chemises confectionnées avec du tissu turc. Il s'agit d'un cumul diagonal : la preuve doit être un EUR-MED ou une déclaration sur facture EUR-MED, et la règle du no-drawback interdit d'avoir importé le tissu en suspension de droits (circ. n° 6139/222). Placer le tissu en ATPA puis revendiquer le cumul serait irrégulier.",
+    "juris": "",
+    "conseil": "Ne transposez pas automatiquement au Royaume-Uni les règles révisées appliquées à l'UE depuis 2026 : vérifiez auprès de l'ADII les règles en vigueur pour l'accord « UK » avant chaque changement de schéma d'approvisionnement. Vérifiez aussi, pour chaque intrant cumulé, que la preuve d'origine du fournisseur porte bien les mentions requises par l'accord sous lequel il a été exporté : c'est elle qui conditionne le cumul à l'exportation vers le Royaume-Uni (circ. n° 6139/222).",
+    "faq": [
+      [
+        "L'accord Maroc–Royaume-Uni reprend-il l'accord Maroc–UE ?",
+        "Oui, mutatis mutandis, tel qu'il s'appliquait avant le Brexit (circ. n° 6139/222)."
+      ],
+      [
+        "Le no-drawback s'applique-t-il vers le Royaume-Uni ?",
+        "Pas en cumul bilatéral (UE, Norvège, Islande) ; oui en cumul diagonal (circ. n° 6139/222)."
+      ],
+      [
+        "Depuis 2026, puis-je cumuler des intrants turcs pour exporter vers le Royaume-Uni ?",
+        "Oui, la décision n° 01/2026 ouvre le cumul avec l'UE, l'AELE, la Turquie et les pays d'Agadir, sous réserve des conditions du protocole n° 4 (circ. n° 6758/233)."
+      ]
+    ],
+    "renvois": [
+      "2-021",
+      "2-022",
+      "2-026",
+      "7-010"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, conseil pratique, questions fréquentes mis à jour"
+    ]
+  }
+]

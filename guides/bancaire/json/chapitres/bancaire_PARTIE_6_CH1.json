@@ -1,0 +1,38 @@
+[
+ {
+  "id": "6-001",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Garantie des dépôts, comptes inactifs et stabilité financière",
+  "t": "Protection et sécurité — présentation",
+  "principe": "Ce qui protège l'argent de l'entreprise et ce qui sanctionne les manquements",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "6-002",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Garantie des dépôts, comptes inactifs et stabilité financière",
+  "t": "Le fonds collectif de garantie des dépôts",
+  "principe": "Les EC agréés pour recevoir des fonds du public adhèrent obligatoirement au fonds collectif de garantie des dépôts (art. 128-130), géré par la Société marocaine de gestion des fonds de garantie des dépôts bancaires (SGFG). Le fonds indemnise les déposants en cas d'indisponibilité de leurs dépôts et peut, à titre préventif, accorder des concours ou prendre des participations dans un établissement en difficulté.\n| Élément | Règle | Référence |\n| Dépôts couverts | Tous dépôts et fonds remboursables, en dirhams ou en devises, collectés au Maroc auprès de résidents et non-résidents | Art. 131 ; circ. 6/W/2018 |\n| Dépôts exclus | Ceux des autres EC, des filiales, des administrateurs et dirigeants, des actionnaires ≥ 5 %, des entités de services d'investissement et de paiement, de la CDG, de BAM, de la TGR, des assurances… | Art. 131 |\n| Plafond | Montant maximum par déposant, personne physique ou morale, fixé par BAM ; un déposant = l'ensemble de ses comptes, quels qu'en soient le nombre, la nature et la devise | Art. 138 ; circ. 7/W/2018, art. 1 |\n| Calcul | Dettes échues du déposant envers la banque déduites ; dépôts en devises convertis au cours du jour de la décision d'indemniser | Circ. 7/W/2018, art. 10-11 |\n| Cotisation des banques | Taux standard ≤ 0,25 % des dépôts (75 % à 150 % selon le profil de risque), payable avant le 31 mars ; cotisation complémentaire des nouveaux adhérents pendant 5 ans | Circ. 6/W/2018 |\n| Banques participatives | Fonds de garantie distinct, hors dépôts d'investissement | Art. 67-69 |\nIndemnisation des déposants\n| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Constat par BAM de l'incapacité durable de restituer les dépôts | BAM | — | Art. 137 |\n| 2 | Transmission par l'établissement des informations sur les déposants (le SI doit permettre de produire à tout moment le montant éligible par déposant) | Établissement | Sans délai | Circ. 6/W/2018, art. 10 ; circ. 7/W/2018, art. 6 |\n| 3 | Information des déposants de l'indisponibilité | Établissement | — | Art. 7 |\n| 4 | Vérification des créances et notification à chaque déposant : créances admises, indemnité, excédent au-delà du plafond, créances exclues, modalités de paiement | Société gestionnaire | Délais fixés par BAM | Art. 8-9 |\n| 5 | Paiement ; le fonds est subrogé dans les droits des déposants indemnisés | Société gestionnaire | — | Art. 138 L. 103-12 |\n| 6 | Pour la part non couverte : créance dans la liquidation, sans obligation de déclaration | Déposant | — | Art. 147 |\n### Conseil pratique\nLa garantie étant plafonnée par déposant et par établissement, une entreprise disposant d'une trésorerie importante a intérêt à diversifier ses banques et à suivre la solidité financière de ses partenaires (états de synthèse publiés, art. 75).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "6-003",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Garantie des dépôts, comptes inactifs et stabilité financière",
+  "t": "Liquidité d'urgence et résolution",
+  "principe": "BAM peut fournir une liquidité d'urgence à un établissement en difficulté temporaire de liquidité ; si sa solvabilité suscite des doutes, l'opération suppose une garantie de l'État, accordée au cas par cas, en dirhams, pour 3 mois maximum renouvelables, moyennant commission et plan de redressement (décret 2-22-925 du 2 novembre 2023 ; instruction du 20 décembre 2024). La réforme du régime de résolution en cours d'examen (section 3) doit compléter ce dispositif.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "6-004",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Garantie des dépôts, comptes inactifs et stabilité financière",
+  "t": "Comptes inactifs et prescription",
+  "principe": "| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Absence de toute opération ou réclamation du titulaire ou de ses ayants droit | Titulaire | 10 ans | Art. 152 |\n| 2 | Avis recommandé au titulaire si l'avoir (capital et intérêts) est ≥ 200 DH | Banque | 6 mois avant l'échéance des 10 ans | Art. 152 ; arrêté 119-17 (ex-arrêté 32-07) |\n| 3 | Clôture et versement des fonds et valeurs à la CDG, qui les détient pour le compte des titulaires | Banque → CDG | À 10 ans | Art. 152 |\n| 4 | Prescription définitive au profit du Trésor | — | 5 ans supplémentaires | Art. 152 |\n### Point de vigilance\nLes comptes dormants de filiales, de sociétés en sommeil ou de successions doivent être recensés : au-delà de 10 ans sans opération, les fonds sont transférés à la CDG, puis définitivement perdus 5 ans plus tard.",
+  "maj": "2026-10-18"
+ }
+]

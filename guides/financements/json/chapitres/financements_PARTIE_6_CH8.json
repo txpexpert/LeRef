@@ -1,0 +1,35 @@
+[
+ {
+  "id": "6-070",
+  "p": 6,
+  "ch": "6.8",
+  "c": "Financement vert et bailleurs de fonds internationaux",
+  "t": "Les lignes vertes distribuées par les banques",
+  "principe": "| Ligne | Bailleurs et banques | Contenu | Statut |\n| SME Green Value Chain (GVC) | BERD et banques marocaines | Crédit ou leasing pour les PME de chaînes de valeur investissant dans des technologies vertes ; assistance technique ; subvention de 10 % du financement éligible versée après réalisation | B |\n| Green Economy Financing Facility (GEFF) | BERD, Union européenne, Fonds vert pour le climat et banques marocaines | Crédits pour les technologies vertes des PME ; assistance d'experts ; subvention de 10 % à 15 % de l'investissement | B ; lignes récentes à Bank of Africa (13 M€), Crédit du Maroc (jusqu'à 65 M€), BCP (statut C) |\n| Cap Bleu | AFD, BEI et Bank of Africa | Ligne de 20 M€ pour l'accès à l'eau, l'optimisation et le traitement des ressources en eau ; jusqu'à 100 % des coûts ; assistance technique | B |\n| Istidama | AFD et Crédit Agricole du Maroc | Ligne de 10 M€ pour les opérateurs agricoles et agro-industriels (efficacité énergétique, énergies renouvelables, ressources) ; jusqu'à 12 ans ; prime de 10 % du crédit ; différé de 1 à 2 ans | B |\n| Green Invest | Tamwilcom et banques | Cofinancement jusqu'à 10 MDH | B (section 10) |\nCes lignes ont une enveloppe et une durée limitées : leur disponibilité doit être confirmée auprès de la banque distributrice. L'Agence marocaine pour l'efficacité énergétique (www.amee.ma) informe sur les projets éligibles.\n### À retenir\nune ligne verte se demande à la banque, pas au bailleur. Le bailleur prête à la banque, qui reprête à l'entreprise, souvent avec une subvention ou une assistance technique financée par un don.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-071",
+  "p": 6,
+  "ch": "6.8",
+  "c": "Financement vert et bailleurs de fonds internationaux",
+  "t": "Les bailleurs de fonds internationaux",
+  "principe": "| Institution | Mode d'intervention pour une entreprise marocaine | Point d'entrée |\n| Banque européenne pour la reconstruction et le développement (BERD) | Lignes via les banques (GEFF, Women in Business, Youth in Business, microentreprises) ; financements directs et prises de participation pour les projets importants | Banque partenaire ; bureau de la BERD à Casablanca |\n| Société financière internationale (SFI, groupe Banque mondiale) | Prêts directs et participations pour les projets de taille significative ; lignes via les banques | Bureau régional |\n| Banque européenne d'investissement (BEI) | Lignes intermédiées (PME, eau, climat), grands projets | Banque partenaire |\n| Agence française de développement (AFD) et Proparco | Lignes intermédiées (Cap Bleu, Istidama, lignes vertes), prêts et garanties pour le secteur privé (Proparco) | Banque partenaire ; bureaux à Rabat et Casablanca |\n| Banque africaine de développement (BAD) | Financements de grands projets et lignes de crédit ; financement de 200 M€ pour l'emploi annoncé en 2026 (statut C) | Bureau pays |\n| KfW et autres agences bilatérales | Lignes de crédit, programmes d'efficacité énergétique et d'eau | Via les banques et les ministères |\n| Banque mondiale | Appui au Fonds Innov Invest, programmes We-Fi | Via Tamwilcom et Maroc PME |\n### Attention\nles conditions des lignes internationales changent à chaque tranche (montants, secteurs, taux, subventions). Aucune ne doit être présentée comme acquise sans confirmation de la banque distributrice.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-072",
+  "p": 6,
+  "ch": "6.8",
+  "c": "Financement vert et bailleurs de fonds internationaux",
+  "t": "Le dossier d'un projet vert",
+  "principe": "Un projet vert se défend par des données mesurables : situation de référence (consommations, émissions, rejets) ; gains attendus quantifiés (kWh, m³, tonnes) ; dimensionnement technique ; devis ; plan de suivi des indicateurs après réalisation. Ce dossier sert à la fois pour Green Invest, les lignes GEFF, la prime « développement durable » de la Charte et le programme Pact'Décarbonation/Eau.",
+  "faq": [
+   [
+    "Comment obtenir la subvention de 10 à 15 % des lignes vertes de la BERD ?",
+    "En finançant l'investissement vert par un crédit ou un leasing d'une banque partenaire de la ligne, après validation technique par les consultants du programme ; la subvention est versée après réalisation et vérification. Il faut d'abord vérifier auprès de la banque que la ligne est ouverte."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

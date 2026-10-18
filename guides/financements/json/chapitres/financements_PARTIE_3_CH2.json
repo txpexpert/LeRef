@@ -1,0 +1,101 @@
+[
+ {
+  "id": "3-020",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Ce qui distingue un cofinancement d'une garantie",
+  "principe": "Dans un cofinancement, Tamwilcom (ou un fonds qu'elle gère) apporte elle-même une partie des ressources, aux côtés de la banque et des fonds propres. La part de Tamwilcom est souvent subordonnée ou assortie de conditions avantageuses (taux réduit, différé, contribution non remboursable). La demande se dépose en général auprès de la banque, ou auprès des sociétés de gestion partenaires pour les produits destinés aux startups.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-021",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Tableau de synthèse",
+  "principe": "| Produit | Nature | Cible | Avantage | Conditions clés | Statut |\n| Cap Access | Dette subordonnée (avec le Fonds Mohammed VI et les banques) | CA de 10 à 500 MDH, au moins 3 ans d'activité, hors procédure collective | Jusqu'à un tiers du financement, entre 1 et 30 MDH ; taux de 5,5 % HT (dossiers accordés en 2025) ; durée = maturité du crédit bancaire + 3 ans, au plus 12 ans | Fonds propres et crédit bancaire ≥ deux tiers ; fonds propres ≥ 2 MDH ; exclusions sectorielles | B |\n| Green Invest | Cofinancement avec les banques | Entreprises de tous secteurs productifs | Participation plafonnée à 10 MDH | Projet d'énergie renouvelable, efficacité énergétique, dépollution et économie des ressources, valorisation des déchets, fabrication d'équipements liés ; constructions ≤ 20 % du coût | B |\n| MDM Invest | Contribution non remboursable + crédit | Marocains du monde créant ou étendant une entreprise | 10 % de l'investissement, plafond 5 MDH | Projet ≥ 1 MDH ; fonds propres ≥ 20 % ; restitution en cas de désinvestissement dans les 5 ans (Kit 2023) | B |\n| MDM Tamwil | Cofinancement | Projets ≥ 2,5 MDH à capital majoritairement MDM | Jusqu'à 40 % de l'investissement, entre 1 et 5 MDH | Fonds propres à convenir avec la banque | B |\n| Ilayki Invest | Cofinancement à taux réduit | Entreprises dirigées par des femmes ou à capital majoritairement féminin | Jusqu'à 40 % du coût, entre 1 et 5 MDH ; 2 % HT ; 7 ans dont 2 de différé | Secteurs listés | B |\n| Innov Risk | Avance remboursable | Projets innovants en création ou démarrage ayant levé des fonds | ≤ 50 % des apports d'investisseurs externes, plafond 2 MDH | Via sociétés de gestion partenaires | B |\n| Innov Dev | Prêt participatif | PME innovantes en croissance ayant levé des fonds (fonds partenaires ou business angels labellisés) | ≤ 50 % des apports externes, plafond 3 MDH | Via sociétés de gestion partenaires | B |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-022",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Cap Access",
+  "principe": "Lancé avec le Fonds Mohammed VI pour l'investissement et les banques, Cap Access apporte une dette subordonnée qui renforce la structure financière sans diluer le capital. Cible : entreprises de droit marocain, hors procédure de redressement ou de liquidation, au chiffre d'affaires de 10 à 500 MDH et justifiant d'au moins trois ans d'activité. Exclusions : promotion immobilière, pêche hauturière, armement, jeux de hasard, tabac et alcool, secteurs controversés, activités purement financières, énergies fossiles et charbon, mines, et les autres exclusions listées. Montage : la part Cap Access représente au plus un tiers du financement, entre 1 et 30 MDH ; fonds propres et crédit bancaire au moins deux tiers ; fonds propres d'au moins 2 MDH. Taux : 5,5 % HT pour les dossiers accordés en 2025 (taux inchangé depuis 2024). Durée : maturité du crédit bancaire plus trois ans, dans la limite de douze ans. Démarche : banque.\n### Exemple chiffré\nun programme de 45 MDH peut être financé par 15 MDH de fonds propres, 15 MDH de crédit bancaire et 15 MDH de Cap Access (un tiers). Si le crédit bancaire est de 7 ans, Cap Access court sur 10 ans : son remboursement intervient après celui de la banque, ce qui allège la trésorerie des premières années.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-023",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Green Invest",
+  "principe": "Cofinancement avec les banques de l'acquisition de biens matériels et immatériels, d'installations techniques et de constructions pour des projets verts. Conditions : entreprise de droit marocain hors redressement ou liquidation, de tous secteurs productifs hors promotion immobilière et pêche hauturière ; projet relevant d'une des catégories énergie renouvelable, efficacité énergétique, dépollution et économie des ressources, valorisation des déchets, fabrication d'équipements liés à ces projets ; constructions limitées à 20 % du coût global. Avantage : participation plafonnée à 10 MDH. Démarche : banque.\nDossier recommandé : demande de crédit et de cofinancement ; audit ou diagnostic énergétique ou environnemental de référence ; étude technique dimensionnant les gains (kWh, m³, tonnes de déchets, tonnes de CO2) ; devis des équipements ; plan de financement montrant la part de construction ; dossier juridique et financier habituel.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-024",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Les produits pour les Marocains du monde",
+  "principe": "MDM Invest. Conditions : projet de création ou d'extension d'au moins 1 MDH ; justification d'un titre de séjour, d'une pièce d'identité étrangère ou d'une carte consulaire valide, ou d'un retour définitif depuis un an au plus avant le dépôt à la banque. Secteurs (Kit 2025) : industrie et services liés, éducation, transport et logistique, énergie, économie verte, digital et technologies de l'information, artisanat, produits du terroir, hébergement et animation touristiques, santé. Avantage : contribution non remboursable de 10 % du montant d'investissement, plafonnée à 5 MDH ; fonds propres d'au moins 20 % ; reliquat en crédit bancaire. Évolution : l'assiette « 10 % de la quote-part des MRE » (2023) est devenue « 10 % du montant d'investissement » (2024-2025) ; la liste de secteurs a été élargie et l'exigence de 20 % de fonds propres ajoutée.\nMDM Tamwil. Cofinancement des projets d'au moins 2,5 MDH dont le capital est majoritairement détenu par des Marocains du monde éligibles : jusqu'à 40 % du montant d'investissement, entre 1 et 5 MDH ; fonds propres à convenir entre la banque et l'entreprise ; reliquat en crédit bancaire.\n### Exemple chiffré\nune Marocaine résidant en France crée une unité de produits du terroir de 6 MDH. MDM Invest apporte 0,6 MDH non remboursable ; elle apporte 1,2 MDH de fonds propres (20 %) ; la banque finance 4,2 MDH. Si elle sollicitait MDM Tamwil, le cofinancement pourrait atteindre 2,4 MDH (40 %), le cumul des deux produits sur un même projet étant à faire confirmer par Tamwilcom.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-025",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Ilayki Invest",
+  "principe": "Cible : entreprises dirigées par des femmes ou à capital majoritairement féminin au dépôt de la demande. Secteurs : industrie et services liés, éducation, transport et logistique, énergie, économie verte, digital, produits du terroir, hôtellerie, animation touristique, santé. Avantage : jusqu'à 40 % du coût du projet, entre 1 et 5 MDH, au taux de 2 % HT, sur sept ans au plus dont deux ans de différé ; fonds propres et crédit bancaire négociés.\n### Exemple chiffré\npour un projet de 4 MDH, Ilayki Invest apporte 1,6 MDH. Pendant les deux ans de différé, seuls les intérêts sont payés (32 000 DH par an). Les cinq années suivantes, la mensualité est d'environ 28 044 DH (336 533 DH par an). Coût total des intérêts : environ 146 665 DH.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-026",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Innov Risk et Innov Dev",
+  "principe": "Innov Risk : avance remboursable pour les projets innovants portés par des entreprises en création ou en démarrage qui ont réussi une levée de fonds auprès d'investisseurs (fonds de capital-risque, business angels) et ont besoin de trésorerie supplémentaire. Montant plafonné à 50 % des apports des investisseurs externes, sans dépasser 2 MDH. Dépenses : prototypage et tests, installations de production, marketing et commercialisation, besoin en fonds de roulement.\nInnov Dev : prêt participatif pour les PME innovantes en croissance ayant levé des fonds auprès de fonds partenaires ou de business angels labellisés. Montant plafonné à 50 % des apports externes, sans dépasser 3 MDH. Dépenses matérielles ou immatérielles : installations, marketing, prospection de nouveaux marchés (notamment export), nouvelles variantes de produits, BFR. Une source de session antérieure mentionne une durée de huit ans au plus avec deux ans de différé (statut D).\nDémarche : sociétés de gestion partenaires de Tamwilcom (fonds Innov Invest : Azur Innovation Fund, Maroc Numeric Fund II, SEAF Morocco Growth Fund).\n### Exemple chiffré\nune startup lève 4 MDH auprès d'un fonds de capital-risque. Elle peut demander jusqu'à 2 MDH en Innov Dev (50 % de 4 MDH, sous le plafond de 3 MDH) ou 2 MDH en Innov Risk (50 % de 4 MDH, au plafond de 2 MDH).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-027",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Le Fonds Innov Invest et les aides d'amorçage",
+  "principe": "Le Fonds Innov Invest, géré par Tamwilcom pour le compte du ministère de l'Économie et des Finances avec l'appui de la Banque mondiale depuis 2016, finance les startups à travers des structures d'accompagnement labellisées et quatre fonds d'amorçage et de capital-risque. Il revendique plus de 700 startups appuyées et plus de 100 MDH de subventions et de prêts (statut C, contenu sponsorisé de septembre 2026).\n| Produit | Nature | Montant | Cible | Statut |\n| Tech Start | Subvention (contribution) | Jusqu'à 400 000 DH selon la communication de Tamwilcom relayée en 2026 ; 200 000 DH selon un Kit d'août 2026 cité en session antérieure | Startups ayant dépassé la preuve de concept, en phase de prototype ou de produit minimum viable | C et D (montant à confirmer) |\n| Tech Boost | Prêt d'honneur | Jusqu'à 750 000 DH selon la communication de 2026 ; 500 000 DH selon la session antérieure | Startups prêtes à mettre un produit sur le marché, orientation deeptech | C et D |\n| Startup Venture Building | Bourse de vie, bourse d'incubation, prêt d'honneur, prêt d'amorçage | Non précisé | Professionnels expérimentés devenant entrepreneurs ; prototypage ; lancement ; croissance | C (programme lancé en décembre 2025 par le ministère de la Transition numérique, plus de 700 MDH mobilisés, 800 startups visées sur 3 ans) |\nDémarche : appels à projets ; candidature par l'intermédiaire d'une structure d'accompagnement partenaire (incubateur, accélérateur) ; plateforme tamwilstartups.ma.\n### Attention\nles montants de Tech Start et Tech Boost divergent selon les sources. Avant toute communication, consulter le règlement de l'appel à projets en cours.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "3-028",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Cofinancements, quasi-fonds propres et financement des startups",
+  "t": "Cofinancements historiques",
+  "principe": "| Produit | Contenu | Dernière apparition | Statut |\n| Ligne française | Cofinancement avec les banques de l'achat de biens et services français et d'études et formations (financées par don) ; entreprises au CA inférieur à 25 M€ et à capital majoritairement marocain ; jusqu'à 30 % de biens d'autres origines dans le contrat ; de 100 000 € à 2 M€ dans la limite de 60 % du financement externe hors don, ou de 100 000 € à 3 M€ et 75 % pour l'agriculture, l'agroalimentaire ou l'export vers l'Afrique | Kit 2023 | H |\n| Renovotel | Cofinancement de la rénovation d'établissements d'hébergement classés d'au moins cinq ans d'exploitation, à jour de leurs obligations ; plafond de 20 MDH par établissement et par période de dix ans | Kit 2023 ; Cap Hospitality semble l'avoir remplacé | H |",
+  "faq": [
+   [
+    "Comment monter un dossier Green Invest ?",
+    "Par la banque. Il faut démontrer que le projet relève d'une catégorie verte (énergie renouvelable, efficacité énergétique, dépollution et économie des ressources, valorisation des déchets, fabrication d'équipements liés), limiter les constructions à 20 % du coût, et joindre un diagnostic de départ, l'étude technique chiffrant les gains, les devis et le plan de financement. La participation de Green Invest est plafonnée à 10 MDH."
+   ],
+   [
+    "Cap Access est-il accessible à une startup ?",
+    "Non. Il faut au moins trois ans d'activité, un chiffre d'affaires de 10 à 500 MDH et au moins 2 MDH de fonds propres."
+   ],
+   [
+    "Existe-t-il des subventions non remboursables ?",
+    "Oui : primes de la Charte (dispositifs principal et TPME), MDM Invest (10 %), Tech Start, aides du Fonds de développement agricole, primes de Go Siyaha, appui INDH, programmes d'accompagnement de Maroc PME (prise en charge de prestations), aides de l'ANAPEC. Toutes sont conditionnelles et la plupart sont versées après réalisation."
+   ],
+   [
+    "Faut-il avoir levé des fonds pour obtenir Innov Dev ?",
+    "Oui. Innov Dev et Innov Risk sont plafonnés à 50 % des apports d'investisseurs externes (fonds partenaires ou business angels labellisés). Sans levée, la startup s'oriente vers Tech Start, Tech Boost et les prêts d'honneur."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

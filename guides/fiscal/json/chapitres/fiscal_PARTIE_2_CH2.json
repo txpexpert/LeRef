@@ -1,0 +1,56 @@
+[
+ {
+  "id": "2-010",
+  "p": 2,
+  "ch": "2.2",
+  "c": "L’identification fiscale : la déclaration d’existence et les premières formalités",
+  "t": "La déclaration d’existence",
+  "principe": "Tout contribuable — imposable à l’IS ou à l’IR au titre de revenus professionnels ou agricoles, ou exonéré — doit souscrire une déclaration d’existence [CGI art. 148-I]. Les assujettis à la TVA doivent également la souscrire au titre de cette taxe [CGI art. 109].\n### DÉCLARATION D’EXISTENCE [CGI ART. 148]\n- Délai : 30 jours au maximum suivant la date de constitution (société de droit marocain), d’installation (entreprise non résidente) ou de début d’activité (personnes physiques et groupements de personnes physiques).\n- Lieu : service local des impôts du siège social, du principal établissement au Maroc ou du domicile fiscal.\n- Forme : imprimé-modèle de l’administration, par lettre recommandée avec accusé de réception ou remise contre récépissé (ou par voie électronique selon les modalités offertes par les téléservices).\n- Contenu pour une société de droit marocain : forme juridique, raison sociale, siège ; liste des établissements et succursales au Maroc et à l’étranger ; téléphone ; activités de chaque établissement ; numéros de registre du commerce, de CNSS et de taxe professionnelle ; identité et adresse des dirigeants ; identité de la personne chargée des formalités ; options éventuelles (IS pour les sociétés de personnes, assujettissement à la TVA).\n- Pièces jointes : statuts et liste des actionnaires fondateurs.\n- Contenu pour une société non résidente : raison sociale et siège, établissements au Maroc, activités, identité de la personne résidente accréditée auprès de l’administration fiscale, option éventuelle pour l’imposition forfaitaire (8 % du montant des marchés de travaux, construction ou montage).\n- Contenu pour une personne physique : identité et domicile fiscal, nature des activités, emplacement des établissements, nature des produits fabriqués ou commercialisés, renseignements utiles à l’assujettissement à la TVA.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-011",
+  "p": 2,
+  "ch": "2.2",
+  "c": "L’identification fiscale : la déclaration d’existence et les premières formalités",
+  "t": "Les identifiants de l’entreprise",
+  "principe": "À l’issue de son identification, l’opérateur dispose de plusieurs numéros qu’il devra faire figurer sur ses factures et déclarations [CGI art. 145-III] :\n| Identifiant | Rôle |\n| Identifiant fiscal (IF) | Numéro attribué par le service local des impôts ; clé de toutes les déclarations et de l’adhésion SIMPL |\n| Identifiant commun de l’entreprise (ICE) | Identifiant unique partagé entre administrations ; obligatoire sur les factures (vendeur et client) et dans l’état des ventes par client joint aux déclarations de résultat |\n| Numéro d’article de taxe professionnelle | Mentionné sur les factures ; base de la taxe professionnelle (loi n° 47-06) |\n| Registre du commerce, CNSS | Mentionnés dans la déclaration d’existence |\n| Code d’accès DGI | Permet l’adhésion aux téléservices SIMPL |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-012",
+  "p": 2,
+  "ch": "2.2",
+  "c": "L’identification fiscale : la déclaration d’existence et les premières formalités",
+  "t": "La déclaration d’identité fiscale (personnes physiques)",
+  "principe": "Les contribuables passibles de l’IR au titre des revenus salariaux, fonciers, de capitaux mobiliers et des « autres revenus et gains », y compris ceux temporairement exonérés, doivent déposer une déclaration d’identité fiscale dans les 30 jours suivant le début de leur activité ou l’acquisition de leur première source de revenu [CGI art. 78]. Depuis la LF 2025, cette obligation vise également les titulaires de la nouvelle catégorie « autres revenus et gains » ; l’infraction est sanctionnée d’une amende de 500 DH [CGI art. 201].",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-013",
+  "p": 2,
+  "ch": "2.2",
+  "c": "L’identification fiscale : la déclaration d’existence et les premières formalités",
+  "t": "L’adresse électronique, désormais incontournable",
+  "principe": "L’administration peut notifier ses actes par procédé électronique à l’adresse électronique communiquée par le contribuable [CGI art. 145-X, 219-II]. Depuis la LF 2025, cette notification produit les mêmes effets juridiques que la notification par lettre recommandée ou par agent ; ce n’est plus un mode « secondaire » (NC 736).\n### COMMUNIQUER SON ADRESSE ÉLECTRONIQUE À LA DGI\n- Télécharger le formulaire ADC450 sur www.tax.gov.ma.\n- Le renseigner (identification, adresse électronique choisie).\n- Le transmettre par la plateforme SIMPL.\n- En cas de changement d’adresse, refaire la même démarche sans délai.\n### ATTENTION\nUne notification électronique reçue sur une boîte non consultée fait courir les délais de réponse (30 jours en procédure de rectification) comme une lettre recommandée. Désignez une adresse surveillée en permanence, idéalement partagée entre le dirigeant et le service comptable.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-014",
+  "p": 2,
+  "ch": "2.2",
+  "c": "L’identification fiscale : la déclaration d’existence et les premières formalités",
+  "t": "Les options à exercer dès la création",
+  "principe": "| Option | Délai et forme | Durée d’engagement | Base |\n| IS pour SNC, SCS, SEP de moins de six associés personnes physiques | Dans la déclaration d’existence ; pour les SEP, imprimé-modèle dans les 4 mois suivant la clôture | Irrévocable | CGI art. 2-II, 148-II |\n| Assujettissement volontaire à la TVA (exportateurs, petits fabricants et prestataires, revendeurs, bailleurs de locaux professionnels) | Demande sur modèle au service local ; effet 30 jours après le dépôt | 3 ans minimum ; irrévocable pour les bailleurs de locaux professionnels | CGI art. 90 |\n| Régime de la déclaration mensuelle de TVA (nouveaux contribuables) | Demande avant le 31 janvier | — | CGI art. 108 |\n| Fait générateur de la TVA selon les débits | Avant le 1er janvier ou dans les 30 jours du début d’activité | — | CGI art. 95 |\n| RNS ou CPU | Voir section 3 | Tant que les seuils sont respectés | CGI art. 44 |\n| Imposition forfaitaire des non-résidents adjudicataires de marchés | Dans la déclaration d’existence | — | CGI art. 16, 148-III |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-015",
+  "p": 2,
+  "ch": "2.2",
+  "c": "L’identification fiscale : la déclaration d’existence et les premières formalités",
+  "t": "Les déclarations de changement",
+  "principe": "Tout changement affectant la vie de l’entreprise doit être déclaré :\n- Cessation totale, fusion, scission, transformation entraînant la sortie du champ de l’IS ou la création d’une personne morale nouvelle : dépôt, dans les 45 jours, de la déclaration du résultat fiscal de la dernière période d’activité (et, le cas échéant, de l’exercice précédent) [CGI art. 150-I].\n- Cessation ou cession d’une entreprise individuelle, apport à une société : déclaration du revenu global et inventaire des biens dans les 45 jours, avec copie certifiée de l’acte de cession [CGI art. 150-I].\n- Liquidation : le liquidateur dépose une déclaration de résultats provisoires pour chaque période de 12 mois, puis la déclaration du résultat final dans les 45 jours suivant la clôture des opérations, en indiquant le lieu de conservation des documents comptables [CGI art. 150-II].\n- Procédures collectives : toute entreprise qui demande l’ouverture d’une procédure de sauvegarde, de redressement ou de liquidation judiciaire doit, avant le dépôt au greffe, souscrire une déclaration électronique auprès de l’administration fiscale ; si la procédure est ouverte à l’initiative d’un tiers, la déclaration doit être faite dans les 30 jours de la publication du jugement au Bulletin officiel. À défaut, la forclusion des créances antérieures est inopposable à l’administration [CGI art. 150-III].\n- Cessation temporaire d’activité (voir encadré).\n### DÉCLARATION DE CESSATION TEMPORAIRE D’ACTIVITÉ [CGI ART. 150 BIS]\n- Qui : entreprises à l’IS, ou à l’IR selon le RNR ou le RNS, ou exonérées.\n- Quand : dans le mois qui suit la date de clôture du dernier exercice d’activité.\n- Durée : deux exercices, renouvelable pour un seul exercice.\n- Contenu : modèle de l’administration indiquant notamment les motifs de la cessation temporaire.\n- Obligations maintenues : continuer à déposer les déclarations d’IS ou d’IR ; pour les assujettis à la TVA, déposer avant la fin janvier de chaque année une déclaration du chiffre d’affaires de l’année précédente.\n- Avantage : exonération du minimum de cotisation minimale (3 000 DH ou 1 500 DH) pour les exercices concernés [CGI art. 144-I-C-3°].\n- Reprise : en cas de reprise d’activité pendant la période, aviser l’administration par lettre d’information dans le mois suivant la reprise et régulariser l’exercice concerné.\n- Risque : la période peut faire l’objet d’une rectification selon la procédure accélérée [CGI art. 221-I].",
+  "maj": "2026-10-17"
+ }
+]

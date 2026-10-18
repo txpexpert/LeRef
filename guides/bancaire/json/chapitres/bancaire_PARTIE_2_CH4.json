@@ -1,0 +1,20 @@
+[
+ {
+  "id": "2-030",
+  "p": 2,
+  "ch": "2.4",
+  "c": "La microfinance (loi n° 50-20)",
+  "t": "Activité et formes",
+  "principe": "La microfinance consiste à fournir des services aux personnes à revenus faibles pour créer ou développer des activités génératrices de revenus : microcrédit, réception de fonds du public et micro-assurance. Le microcrédit peut aussi financer le logement (acquisition, construction, amélioration) et l'accès à l'électricité ou à l'eau potable (art. 1). Les montants maximums sont fixés par voie réglementaire (art. 5).\n|  | Société anonyme (IMF-EC) | Association de microfinance |\n| Statut | Agréée en tant qu'établissement de crédit (banque ou société de financement) | Organisme assimilé, agréé par BAM |\n| Collecte de dépôts | Possible | Interdite |\n| Transferts de fonds | Possibles | Non |\n| Capital minimum | 150 MDH (banque) / 50 MDH (SF) | Sans objet |\n| Ratios | Solvabilité 15 %, T1 12 %, CET1 10 % (circ. 2/W/2023) ; pas de ratio de levier | Règles spécifiques (circ. 3/W/2018) |\n| Distribution de bénéfices | Dividendes versés à l'association de développement mis en réserve pour couvrir les risques (circ. 3/W/2023) | Interdite ; excédents affectés à la microfinance |\n| Ressources spécifiques | — | Dons, subventions, appels à la générosité publique sans autorisation préalable (avec déclaration a posteriori), ressources concessionnelles |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "2-031",
+  "p": 2,
+  "ch": "2.4",
+  "c": "La microfinance (loi n° 50-20)",
+  "t": "Transformation d'une association en société",
+  "principe": "| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Constitution d'une SA dédiée et demande d'agrément comme EC pour l'activité de microfinance | Association | — | Loi 50-20, art. 7 |\n| 2 | Apport de l'activité ou participation au capital de la SA ; l'association devient « association de développement » | Association | — | Art. 7 |\n| 3 | L'association cesse d'exercer elle-même la microfinance et se limite à la formation, au conseil et à l'assistance technique | Association | Dès l'agrément | Art. 8 |\n| 4 | Logement des dividendes reçus dans un compte de réserves ; emploi limité à des actifs de risque souverain/monétaire ou à la souscription de dettes subordonnées de la filiale ; mobilisation immédiate si les ratios de la filiale passent sous les minima | Association de développement | Permanent | Art. 9 ; circ. 3/W/2023 |\nEn cas de retrait d'agrément à sa demande, l'association liquide l'activité selon ses statuts (ou les art. 1065 à 1082 du DOC) et le produit net est attribué à l'État pour des organismes de même objet (art. 13-15). Les associations de microcrédit existantes ont été agréées de plein droit et disposaient de 12 mois pour se mettre en conformité (art. 19). L'arrêté 31-07, antérieur, imposait déjà la communication des documents à BAM et la désignation d'un commissaire aux comptes approuvé par BAM.",
+  "maj": "2026-10-18"
+ }
+]

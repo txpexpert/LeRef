@@ -1,0 +1,48 @@
+[
+ {
+  "id": "4-010",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Le crédit-bail (leasing)",
+  "t": "Le mécanisme",
+  "principe": "Le crédit-bail est une opération par laquelle une société de leasing (ou une banque) acquiert un bien choisi par l'entreprise et le lui loue pour une durée déterminée, moyennant des loyers, avec une option d'achat en fin de contrat pour une valeur résiduelle fixée à l'avance. Il est régi par le Code de commerce (loi n° 15-95) et par la loi n° 103-12 relative aux établissements de crédit. On distingue le crédit-bail mobilier (équipements, matériel roulant, informatique) et le crédit-bail immobilier (locaux professionnels, usines, entrepôts).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-011",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Le crédit-bail (leasing)",
+  "t": "Avantages et contraintes",
+  "principe": "| Avantages | Contraintes |\n| Financement jusqu'à 100 % du bien, sans apport ou avec un premier loyer majoré | Coût global souvent supérieur à celui d'un crédit amortissable |\n| Le bien sert de garantie : moins de sûretés complémentaires | Le bien n'appartient pas à l'entreprise avant la levée d'option |\n| Loyers en principe déductibles du résultat imposable | Résiliation anticipée coûteuse |\n| Garanties Tamwilcom applicables (Damane Express, Damane Istitmar au-delà de 1 MDH) | Durée liée à la durée d'utilisation du bien |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-012",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Le crédit-bail (leasing)",
+  "t": "Articulation avec la Charte",
+  "principe": "Les deux dispositifs de la Charte intègrent la location avec option d'achat dans le montant d'investissement : le dispositif principal retient les bâtiments loués ou en location avec option d'achat dans la limite de sept ans de loyers (arrêté 3-12-23, art. 5) ; le dispositif TPME retient la location et la location avec option d'achat des bâtiments, équipements et machines selon la durée de la convention, et le terrain en location avec option d'achat dans la limite de sept ans. Les véhicules sont exclus du montant primable TPME, y compris en crédit-bail.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-013",
+  "p": 4,
+  "ch": "4.2",
+  "c": "Le crédit-bail (leasing)",
+  "t": "Le dossier de crédit-bail",
+  "principe": "Le dossier est proche du dossier bancaire : demande précisant le bien, le fournisseur et la durée ; facture pro forma ; dossier juridique ; trois derniers bilans ; attestations fiscale et CNSS ; relevés bancaires ; business plan pour une création ; pour le crédit-bail immobilier, titre foncier et expertise du bien.",
+  "faq": [
+   [
+    "Le crédit-bail compte-t-il dans le montant d'investissement de la Charte ?",
+    "Oui, la location avec option d'achat des bâtiments et équipements est prise en compte (sept ans au maximum pour les bâtiments du dispositif principal ; durée de la convention pour le TPME). Les véhicules restent exclus du montant primable TPME."
+   ],
+   [
+    "Peut-on obtenir une garantie Tamwilcom sur un crédit-bail ?",
+    "Oui. Damane Express couvre les crédits-bails d'au plus 1 MDH des très petites entreprises, et Damane Istitmar les crédits-bails supérieurs à 1 MDH des PME. La demande passe par la société de leasing."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "id": "1-290",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Les procédures d'agrément (annexe 2)",
+  "t": "Octroi de l'agrément",
+  "principe": "Le dossier peut être retiré auprès de la DRT/DPT ou de la DRET/DPET du domicile élu, ou téléchargé sur les sites des deux ministères. La procédure se déroule en deux étapes.\n| N° | Étape / action | Acteur / guichet | Délai | Pièces & observations |\n| 1 | Déposer le formulaire TT11 (demande d'agrément) | Bureaux du Gouverneur de la province / préfecture du domicile élu | — | Contre récépissé. Cahier des charges paraphé et signé (« lu et approuvé… », signature légalisée) ; statuts ; PV de nomination du responsable légal ; CIN et casier judiciaire (< 3 mois) des gérants. |\n| 2 | Déposer le formulaire TT21 en 4 exemplaires | DRT / DPT du domicile élu | — | Récépissé TT11 ; cahier des charges signé ; statuts ; PV ; étude économique et financière détaillée ; indicateurs clés sur 4 ans (investissement, fonds propres, emprunts, CA, fonds de roulement, BFR, bénéfice net) ; CIN et casier. |\n| 3 | Avis de la commission locale | DRT/DPT + DRET/DPET | 15 jours après réception du dossier complet | — |\n| 4 | Transmission du dossier avec avis favorable | DRT/DPT → DRDQ | 48 heures après la réunion | — |\n| 5 | Instruction et transmission à la DTRSR | DRDQ | — | — |\n| 6 | Décision de la Commission des transports | Commission / secrétariat DTRSR | 1 mois maximum après réception par la DRDQ | Notification à l'investisseur. |\n| 7 | Retrait de l'« extrait des décisions » | Secrétariat DTRSR | — | Si décision favorable. |\nTableau 24 — Étape 1 : obtention de l'agrément.\n| N° | Étape / action | Acteur / guichet | Délai | Pièces & observations |\n| 1 | Déposer les pièces de démarrage | Services régionaux / provinciaux Transport et Tourisme | — | Certificat RC ; certificat de patente ; attestation d'affiliation CNSS ; liste du personnel (conducteurs et administratifs) déclaré. |\n| 2 | Demander les cartes d'autorisation (« état CT ») | DRET / DPET | — | Nombre de véhicules permettant d'atteindre le parc minimal selon les séries. |\n| 3 | Retrait d'un véhicule | DRET / DPET | À chaque retrait | Demande de retrait. |\nTableau 25 — Étape 2 : mise en exploitation effective.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-291",
+  "p": 1,
+  "ch": "1.30",
+  "c": "Les procédures d'agrément (annexe 2)",
+  "t": "Renouvellement, modification et autorisations supplémentaires",
+  "principe": "| Procédure | Formulaires et guichets | Délai administratif | Pièces principales |\n| Renouvellement | TT12 au Gouverneur + TT22 à la DRT/DPT ; transmission DRDQ sous 10 j | Commission : 2 mois max. | Extrait des décisions ; CDC signé ; RC modèle 7 ; patente ; CNSS ; liste du personnel ; perspectives d'évolution ; CIN et casier |\n| Changement de gérant / nomination d'un cogérant | TT13 au Gouverneur + TT23 à la DRT/DPT ; transmission sous 10 j | Commission : 2 mois max. | Idem + PV d'AG constatant le changement |\n| Transfert du siège vers une autre localité | TT24 à la DRT/DPT, avis formel transmis sous 10 j | Commission : 2 mois max. | Extrait ; CDC ; RC modèle 7 ; patente ; CNSS ; personnel |\n| Autorisations supplémentaires | TT25 à la DTRSR / DRET / DPET ou DRDQ / DRT / DPT | Commission : 1 mois max. | Extrait ; CDC (1re demande) ; RC ; patente (1re demande) ; CNSS ; personnel |\n| Forme juridique, siège dans la même localité, dénomination | Simple déclaration contre récépissé à la DRET/DPET et à la DRT/DPT | Pas de passage en Commission | Copie des inscriptions au RC (modèle 7) |\nTableau 26 — Procédures de la vie de l'agrément.\n### POINT DE VIGILANCE — Le calendrier du renouvellement\nUn agrément délivré le 1er mars 2020 expire le 28 février 2027. La dernière année de validité court du 1er mars 2026 au 28 février 2027 : la demande devait donc être introduite entre le 1er mars 2025 et le 28 février 2026. Mettre en place une alerte au début de la 6e année.",
+  "maj": "2026-10-17"
+ }
+]

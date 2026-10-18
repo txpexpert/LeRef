@@ -1,0 +1,367 @@
+[
+  {
+    "id": "1-001",
+    "p": 1,
+    "ch": "1.1",
+    "c": "Sources du droit douanier",
+    "t": "Code des douanes et impôts indirects (CDII) et décret n° 2-77-862 : socle législatif et réglementaire du droit douanier marocain",
+    "enbref": "Le droit douanier marocain repose sur le Code des douanes et impôts indirects, approuvé par le dahir portant loi n° 1-77-339 du 09/10/1977, et sur son décret d'application n° 2-77-862 du même jour. Le code est modifié chaque année par la loi de finances : avant toute opération, il faut vérifier la version en vigueur à la date de la déclaration.",
+    "textes": [
+      "Dahir portant loi n° 1-77-339 du 09/10/1977 (CDII)",
+      "CDII, art. 1er et 1 bis",
+      "Décret n° 2-77-862 du 09/10/1977, art. 217",
+      "Circulaire ADII n° 6702/210 du 26/12/2025 (LF 2026)",
+      "Circulaire ADII n° 6522/210 du 29/12/2023 (LF 2024)",
+      "Circulaire ADII n° 6270/212 du 03/01/2022"
+    ],
+    "principe": "Le CDII a été approuvé par le dahir portant loi n° 1-77-339 du 25 chaoual 1397 (09/10/1977) ; il a depuis été modifié et complété à de nombreuses reprises (CDII, dahir de promulgation, art. 1er à 4). Il définit les notions de base du droit douanier : territoire douanier et territoire assujetti, zones d'accélération industrielle, importation, mise à la consommation, exportation, marchandises, mainlevée et « lois et règlements douaniers » (art. 1er). Ces lois et règlements s'appliquent sans égard à la qualité ni à la nature des personnes (art. 1 bis). Le CDII renvoie à la voie réglementaire pour ses conditions d'application, notamment pour les régimes économiques. Le décret n° 2-77-862, pris pour son application, organise en détail l'origine, la profession de transitaire, la garantie des droits, les régimes économiques, les franchises et l'avitaillement ; il a pris effet le 31/12/1977, en même temps que le code et ses premiers arrêtés d'application (décret, art. 217). Les impôts indirects relevant de l'administration sont régis par un texte distinct, le dahir n° 1-77-340 relatif aux taxes intérieures de consommation (circ. 6702/210). Le dahir de promulgation fixe l'entrée en vigueur du code au 31/12/1977 (art. 2) et abroge à cette date les textes antérieurs contraires, notamment le dahir du 16/12/1918 sur les douanes, le dahir n° 1-58-052 sur le rayon des douanes, le dahir n° 1-58-010 sur les droits compensateurs et antidumping et le dahir portant loi n° 1-73-178 sur les régimes économiques en douane (art. 3). Le décret, organisé en sept titres, suit la même architecture que le code : principes généraux, action de l'administration, opérations de dédouanement, régimes économiques, régimes particuliers, cession des marchandises abandonnées, dispositions transitoires et finales.",
+    "admin": "Chaque année, une circulaire de la série 210 présente aux services les dispositions douanières de la loi de finances : la circulaire n° 6522/210 regroupe ainsi les amendements au CDII, au tarif, aux TIC et à la TVA de la LF 2024, applicables au 01/01/2024 ; la circulaire n° 6702/210 fait de même pour la LF 2026 (loi n° 50-25), applicable au 01/01/2026. Le décret est lui aussi modifié : la circulaire n° 6270/212 présente le décret n° 2-21-847 du 31/12/2021, qui a abrogé les dispositions relatives au rayon des douanes. Le texte consolidé du code mentionne en page de titre sa révision d'ensemble par la loi n° 02-99, promulguée par le dahir n° 1-00-222 du 05/06/2000 (BO n° 4804 du 15/06/2000) ; le dahir d'approbation a été publié au BO n° 3389 bis du 13/10/1977 et le texte original du code au BO n° 3392 bis du 04/11/1977 (CDII, notes finales).",
+    "donnees": [
+      [
+        "Texte législatif de base",
+        "Dahir portant loi n° 1-77-339 du 09/10/1977 (CDII)"
+      ],
+      [
+        "Texte d'application",
+        "Décret n° 2-77-862 du 09/10/1977"
+      ],
+      [
+        "Entrée en vigueur",
+        "31/12/1977 (décret, art. 217)"
+      ],
+      [
+        "Taxes intérieures de consommation",
+        "Dahir n° 1-77-340 (circ. 6702/210)"
+      ],
+      [
+        "Rythme de modification",
+        "Lois de finances annuelles (circ. 6522/210 ; circ. 6702/210)"
+      ],
+      [
+        "Publication au Bulletin officiel",
+        "Dahir : BO n° 3389 bis du 13/10/1977 ; code : BO n° 3392 bis du 04/11/1977 ; révision : loi n° 02-99, BO n° 4804 du 15/06/2000"
+      ]
+    ],
+    "cas": "Le cabinet fictif Atlas Conseil Douane prépare, en décembre 2025, un avis pour un client qui importera en janvier 2026 des marchandises commandées en novembre. Il vérifie dans la circulaire n° 6702/210 les modifications apportées par la LF 2026 : l'article 13-1° du CDII rend désormais alternatives les deux conditions de la clause transitoire, ce qui permet au client de bénéficier du régime antérieur s'il a ouvert un crédit documentaire avant le 01/01/2026. Erreur à éviter : raisonner sur une version consolidée ancienne du code ; une modification de la loi de finances peut changer la réponse.",
+    "juris": "",
+    "conseil": "Travaillez toujours avec la version du CDII à jour de la dernière loi de finances, et lisez chaque fin d'année la circulaire de présentation des dispositions douanières de la LF. Pour toute question de procédure, cherchez d'abord la règle dans le code, puis ses modalités dans le décret, puis les arrêtés et circulaires d'application. Datez vos analyses : une réponse juste en décembre peut être fausse en janvier. Gardez enfin à l'esprit la règle de computation de l'article 306 du CDII : sauf exception, les délais du code sont francs, et un délai dont le dernier jour est férié est prorogé jusqu'au premier jour ouvrable suivant.",
+    "faq": [
+      [
+        "Le CDII régit-il aussi les taxes intérieures de consommation ?",
+        "Les TIC relèvent d'un texte distinct, le dahir n° 1-77-340, modifié par les lois de finances (circ. 6702/210 du 26/12/2025)."
+      ],
+      [
+        "Comment savoir ce qui a changé au 1er janvier ?",
+        "Par la circulaire annuelle qui présente les dispositions douanières de la loi de finances, par exemple la circulaire n° 6702/210 pour la LF 2026."
+      ],
+      [
+        "Quels textes antérieurs le CDII a-t-il remplacés ?",
+        "Le dahir de promulgation abroge au 31/12/1977 le dahir du 16/12/1918 sur les douanes et plusieurs textes particuliers, dont le dahir n° 1-58-052 sur le rayon des douanes et le dahir portant loi n° 1-73-178 sur les régimes économiques (dahir n° 1-77-339, art. 3)."
+      ]
+    ],
+    "renvois": [
+      "1-002",
+      "1-003",
+      "1-005",
+      "1-010",
+      "4-002"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés, conseil pratique, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "1-002",
+    "p": 1,
+    "ch": "1.1",
+    "c": "Sources du droit douanier",
+    "t": "Arrêtés du ministre chargé des finances : habilitations prévues par le CDII et le décret, et principaux arrêtés d'application",
+    "enbref": "De nombreux éléments techniques du droit douanier sont fixés par arrêté du ministre chargé des finances, sur habilitation du CDII ou du décret : délais, formes des déclarations, listes de marchandises, taux d'intérêt, pièces de dossiers. Ces arrêtés, souvent modifiés, doivent être consultés avec leurs mises à jour.",
+    "textes": [
+      "Décret n° 2-77-862, art. 215, 216 et 216 bis",
+      "CDII, art. 5-3° et 8",
+      "Arrêté n° 1319-77 relatif aux déclarations en douane autres que sommaires",
+      "Arrêté n° 3414-12 du 02/10/2012 (cité par la circ. 5353/312)",
+      "Arrêté n° 840-21 du 01/04/2021 (cité par la circ. 6231/313)",
+      "Arrêté n° 1286-24 du 15/05/2024 (cité par la circ. 6591/313)"
+    ],
+    "principe": "Le décret n° 2-77-862 habilite le ministre chargé des finances à modifier par arrêtés simples de nombreux éléments techniques : délais et taux de remise, taux d'intérêt de retard, taux de majoration, forme de la déclaration des instruments financiers, taxe de magasinage, listes des bureaux ouverts à l'admission et à l'exportation temporaires, montant minimum d'investissement de l'entrepôt industriel franc (décret, art. 216-I). D'autres arrêtés, pris après avis des ministres intéressés, modifient les listes de transformations, les listes de marchandises admises en admission temporaire et au drawback, les taux moyens du drawback ou la nomenclature tarifaire (art. 216-II). Le ministre fixe aussi les commissions consultatives, la proportion de mise à la consommation en suite d'entrepôt industriel franc et le dossier des décisions anticipées (art. 216 bis). Le CDII lui-même renvoie à des arrêtés, par exemple pour la nomenclature sans changement de quotité (art. 5-3°) ou les surtaxes, homologuées par la loi de finances suivante (art. 8). Le décret confie également au ministre la définition, par arrêté, des formules de déclaration et de toute autre formalité prévue par le code et le décret (décret, art. 215). L'article 216 bis lui réserve en outre les délais d'annulation d'office des déclarations restées sans suite (CDII, art. 78 ter), les frais de scellement (art. 40 bis), les conditions d'application des articles 20 à 20 duodecies sur la valeur et les conditions de saisine et de fonctionnement des commissions consultatives des articles 22 bis et 22 ter. Le code lui-même renvoie à l'arrêté pour la création des bureaux et postes de douane et la fixation de leur compétence (art. 28), leurs heures d'ouverture (art. 31-1°) et les conditions de détermination du poids, du volume et du nombre des marchandises (art. 22).",
+    "admin": "Les circulaires informent les services de chaque nouvel arrêté : la circulaire n° 5353/312 présente l'arrêté n° 3414-12 fixant les délais de dépôt de la déclaration sommaire ; la circulaire n° 6231/313 l'arrêté n° 840-21, qui remplace l'arrêté n° 1320-77 en matière de drawback ; la circulaire n° 6591/313 l'arrêté n° 1286-24 étendant le drawback-énergie. La série d'arrêtés de 1977 (n° 1310-77 à 1320-77) couvre notamment les certificats d'origine, le poids des marchandises, les horaires des bureaux, les délais de dépôt et la forme des déclarations. L'arrêté n° 840-21 du 01/04/2021, publié au BO n° 6999 du 28/06/2021, ramène le dossier de drawback à une demande écrite et à deux séries de justificatifs (transfert de propriété, processus de production), dispense le drawback-énergie de certaines pièces et fixe un délai de remboursement de 30 jours ouvrables à compter du dépôt de la demande complète (circ. 6231/313).",
+    "donnees": [
+      [
+        "Habilitation générale",
+        "Arrêtés simples ou après avis ministériel (décret, art. 216 et 216 bis)"
+      ],
+      [
+        "Exemples d'arrêtés de 1977",
+        "N° 1310-77 (certificats d'origine), 1311-77 (poids), 1315-77 (horaires), 1318-77 (délai de dépôt), 1319-77 (déclarations)"
+      ],
+      [
+        "Déclaration sommaire",
+        "Arrêté n° 3414-12 du 02/10/2012 (circ. 5353/312)"
+      ],
+      [
+        "Drawback",
+        "Arrêté n° 840-21 du 01/04/2021, remplaçant l'arrêté n° 1320-77 (circ. 6231/313)"
+      ],
+      [
+        "Surtaxes",
+        "Arrêté homologué par la loi de finances suivante (CDII, art. 8)"
+      ],
+      [
+        "Formules de déclaration",
+        "Arrêté du ministre chargé des finances (décret, art. 215)"
+      ],
+      [
+        "Bureaux, horaires, poids",
+        "Arrêtés prévus par le CDII, art. 22, 28 et 31-1° (arrêtés n° 1311-77 et 1315-77)"
+      ]
+    ],
+    "cas": "Méditerranée Fret SARL, transitaire fictif, prépare pour un client exportateur une demande de remboursement du drawback. Son modèle interne de dossier repose sur l'arrêté n° 1320-77. En consultant la circulaire n° 6231/313, il constate que cet arrêté a été abrogé et remplacé par l'arrêté n° 840-21, qui allège les pièces et fixe un délai de remboursement de 30 jours ouvrables. Erreur à éviter : déposer un dossier selon l'ancien arrêté ; il comporterait des pièces inutiles et ignorerait le délai désormais opposable à l'administration.",
+    "juris": "",
+    "conseil": "Tenez un registre des arrêtés applicables à votre activité, avec leurs modifications successives et la circulaire qui les a présentés. Quand une circulaire cite un arrêté, procurez-vous le texte au Bulletin officiel : la circulaire résume, l'arrêté fait foi. Méfiez-vous des modèles internes anciens, fréquemment fondés sur des arrêtés remplacés.",
+    "faq": [
+      [
+        "Qui fixe les délais de dépôt de la déclaration sommaire ?",
+        "Le ministre chargé des finances, par l'arrêté n° 3414-12 du 02/10/2012 (circ. 5353/312 du 31/12/2012)."
+      ],
+      [
+        "Le ministre peut-il modifier la nomenclature tarifaire ?",
+        "Oui, par voie réglementaire, si la modification n'entraîne pas de changement de quotité (CDII, art. 5-3° ; décret, art. 216-II)."
+      ],
+      [
+        "Le délai de 30 jours ouvrables du drawback court-il à partir du premier dépôt ?",
+        "Il court à compter du dépôt de la demande complète auprès du bureau compétent (arrêté n° 840-21, art. 2 ; circ. 6231/313)."
+      ]
+    ],
+    "renvois": [
+      "1-001",
+      "1-003",
+      "1-005",
+      "2-001",
+      "3-002"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "1-003",
+    "p": 1,
+    "ch": "1.1",
+    "c": "Sources du droit douanier",
+    "t": "Circulaires et notes de l'ADII : rôle, contenu et précautions d'usage pour l'opérateur",
+    "enbref": "Les circulaires et notes de l'ADII informent les services des nouveaux textes et fixent les modalités pratiques de leur application. Elles éclairent la position de l'administration ; pour fonder un droit ou une obligation, il faut toujours remonter au texte législatif ou réglementaire qu'elles appliquent.",
+    "textes": [
+      "Circulaire ADII n° 6164/313 du 09/02/2021",
+      "Circulaire ADII n° 6348/313 du 06/07/2022",
+      "Circulaire ADII n° 6102/410 du 04/11/2020",
+      "Circulaire ADII n° 6702/210 du 26/12/2025",
+      "Circulaire ADII n° 6552/313 du 28/03/2024",
+      "Note ADII n° D885/21/ADII/100 du 09/02/2021"
+    ],
+    "principe": "Le CDII et son décret d'application ne comportent pas de disposition générale sur la valeur juridique des circulaires. Leur rôle se déduit de leur contenu : elles informent « le service » de la publication d'une loi, d'un décret ou d'un arrêté et en précisent l'application (circ. 6702/210 ; circ. 6231/313) ; elles fixent des procédures, codes et modes opératoires sur BADR (circ. 6552/313) ; elles organisent les délégations de compétence entre niveaux de l'administration (circ. 6348/313, annexe II). Les notes, souvent internes, précisent des points de contrôle pour les services (note D885/21/ADII/100). Le CDII impose par ailleurs à l'administration de fournir aux tiers les renseignements relatifs aux lois et règlements douaniers (art. 45 ter-1°) et de publier, au Bulletin officiel ou dans un journal d'annonces légales, les décisions anticipées qu'elle rend (art. 45 ter-2°) : à côté des circulaires adressées aux services, ces informations et décisions constituent la voie par laquelle l'opérateur connaît, et peut opposer, la position de l'administration sur son propre cas.",
+    "admin": "Les circulaires précisent elles-mêmes leur articulation avec les instructions antérieures : la circulaire n° 6164/313 « annule toutes les instructions contraires antérieures » ; la circulaire n° 6348/313 « complète et modifie » la circulaire n° 6164/313 ; la circulaire n° 6102/410 abroge en partie deux circulaires de 2017. Elles se terminent généralement par une invitation à signaler toute difficulté d'application à l'Administration centrale. Certains modes opératoires sont publiés sur le portail www.douane.gov.ma (circ. 6552/313). Certaines circulaires reviennent sur une simplification antérieure à la lumière des difficultés signalées par le terrain : la circulaire n° 6348/313 rétablit ainsi l'autorisation préalable du régime 241 (transformation sous douane, importation fractionnée), supprimée en 2021, dans l'attente d'une déclaration globale dématérialisée, et demande que toute difficulté soit signalée au service central chargé des régimes économiques sous le timbre de la circulaire.",
+    "donnees": [
+      [
+        "Fonction principale",
+        "Information des services et modalités d'application (circ. 6702/210)"
+      ],
+      [
+        "Articulation",
+        "Annulation, modification ou abrogation expresse des instructions antérieures (circ. 6164/313 ; circ. 6348/313 ; circ. 6102/410)"
+      ],
+      [
+        "Publication",
+        "Modes opératoires sur www.douane.gov.ma (circ. 6552/313)"
+      ],
+      [
+        "Portée à l'égard des opérateurs",
+        "Aucune disposition générale du CDII ou du décret"
+      ],
+      [
+        "Renseignements aux tiers",
+        "Obligation de l'administration (CDII, art. 45 ter-1°)"
+      ]
+    ],
+    "cas": "Rif Logistique SARL, société fictive, prévoit d'exporter hors délai des marchandises placées en ATPA. Une note de 2016 désigne le directeur régional, mais la circulaire n° 6348/313 de 2022, qui « complète et modifie » la circulaire n° 6164/313, attribue cette autorisation aux directeurs provinciaux et préfectoraux. La société adresse sa demande au directeur provincial. Erreur à éviter : s'appuyer sur la première instruction trouvée ; seule la plus récente, lue avec les textes qu'elle modifie, donne la procédure applicable.",
+    "juris": "",
+    "conseil": "Pour chaque question, identifiez la circulaire la plus récente sur le sujet et vérifiez les textes qu'elle annule ou modifie. Citez toujours la base légale avec la circulaire : si un litige survient, c'est le texte de loi ou de règlement qui sera discuté. Signalez les difficultés d'application par écrit, en visant le numéro de la circulaire : c'est le canal prévu. Lorsque la question porte sur votre propre opération, préférez à l'interprétation d'une circulaire une décision anticipée (classement, origine, évaluation), qui vous est opposable dans les conditions de l'article 45 ter du CDII.",
+    "faq": [
+      [
+        "Une circulaire peut-elle créer une obligation nouvelle pour l'opérateur ?",
+        "Le CDII ne tranche pas ce point ; les circulaires se présentent comme des textes d'application de lois, décrets ou arrêtés qu'elles citent."
+      ],
+      [
+        "Comment savoir si une circulaire est encore en vigueur ?",
+        "En recherchant les circulaires postérieures qui l'annulent, la modifient ou l'abrogent expressément, comme la circulaire n° 6348/313 pour la n° 6164/313."
+      ]
+    ],
+    "renvois": [
+      "1-001",
+      "1-002",
+      "1-005",
+      "2-060",
+      "9-050"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, position de l'administration, données clés, conseil pratique mis à jour"
+    ]
+  },
+  {
+    "id": "1-004",
+    "p": 1,
+    "ch": "1.1",
+    "c": "Sources du droit douanier",
+    "t": "Conventions internationales en droit douanier marocain : système harmonisé, valeur OMC, accords de libre-échange et règles d'origine",
+    "enbref": "Plusieurs règles centrales du droit douanier marocain viennent de conventions internationales : la nomenclature du système harmonisé, la valeur en douane fondée sur l'article VII du GATT 1994, et les accords de libre-échange avec leurs règles d'origine. Les dispositions douanières d'un accord applicable dès sa signature s'appliquent dès leur notification à l'administration.",
+    "textes": [
+      "CDII, art. 2, 7 et 8",
+      "CDII, art. 20 octies",
+      "Circulaire ADII n° 4977/222 du 30/12/2005",
+      "Circulaire ADII n° 6706/233 du 31/12/2025",
+      "Circulaire ADII n° 5353/312 du 31/12/2012"
+    ],
+    "principe": "Le tarif des droits de douane comprend la nomenclature du système harmonisé du Conseil de coopération douanière, avec ses sous-positions nationales et celles issues d'accords ratifiés (CDII, art. 2). Les dispositions douanières des accords entrant en vigueur dès leur signature s'appliquent dès leur notification à l'administration (art. 7). Des surtaxes peuvent frapper les marchandises d'États qui traitent les produits marocains moins favorablement (art. 8). La valeur en douane, à défaut des autres méthodes, se détermine par des moyens raisonnables compatibles avec l'article VII du GATT 1994 (art. 20 octies). Les règles d'origine du code s'appliquent sous réserve des définitions d'origine issues des accords conclus par le Maroc (CDII, art. 16-1°), et la production d'un document certifiant l'origine ne lie pas l'administration quant à son authenticité ou à son exactitude (art. 17). Les surtaxes de l'article 8 sont abrogées selon la même procédure que celle qui les a instituées (art. 9). La nomenclature visée à l'article 2 renvoie à la convention internationale sur le système harmonisé, faite à Bruxelles le 14/06/1983, et à son protocole d'amendement du 24/06/1986, publiés par le dahir n° 1-92-84 du 10/09/1993 (BO n° 4231 du 01/12/1993) (CDII, notes finales).",
+    "admin": "La circulaire n° 4977/222 présente l'accord de libre-échange Maroc-États-Unis, signé le 15/06/2004, promulgué par la loi n° 28-04 et entré en vigueur le 01/01/2006. La circulaire n° 6706/233 applique à titre provisoire, à compter du 01/01/2026, les règles d'origine de la Convention régionale révisée pan-euro-méditerranéenne aux échanges avec l'UE et la Turquie, sur notification par la Direction générale du commerce des décisions des instances mixtes, en attendant la ratification par le Maroc ; les règles antérieures restent applicables avec l'AELE et les pays d'Agadir. La circulaire n° 5353/312 rattache l'obligation de déclaration sommaire avant arrivée à l'alignement sur les normes de l'Organisation mondiale des douanes.",
+    "donnees": [
+      [
+        "Nomenclature",
+        "Système harmonisé (CDII, art. 2)"
+      ],
+      [
+        "Application des accords",
+        "Dès notification à l'administration (CDII, art. 7)"
+      ],
+      [
+        "Valeur en douane",
+        "Compatible avec l'article VII du GATT 1994 (CDII, art. 20 octies)"
+      ],
+      [
+        "ALE Maroc-États-Unis",
+        "En vigueur depuis le 01/01/2006 ; loi n° 28-04 (circ. 4977/222)"
+      ],
+      [
+        "Règles d'origine UE et Turquie",
+        "CRR appliquée à titre provisoire depuis le 01/01/2026, jusqu'au 31/12/2027 au plus tard (circ. 6706/233)"
+      ],
+      [
+        "Convention SH",
+        "Bruxelles, 14/06/1983 ; dahir n° 1-92-84 du 10/09/1993 (BO n° 4231 du 01/12/1993)"
+      ]
+    ],
+    "cas": "Tanger Textile SA, société fictive, exporte des chemises vers l'Espagne. En janvier 2026, son service export applique encore les règles d'origine de l'ancien protocole Maroc-UE. Or, depuis le 01/01/2026, l'origine des échanges avec l'UE relève des règles de la Convention régionale révisée, appliquées à titre provisoire (circ. 6706/233). Elle met à jour ses calculs d'origine et ses preuves. Erreur à éviter : transposer ce changement aux exportations vers la Tunisie ou la Suisse, pour lesquelles les anciennes règles restent applicables.",
+    "juris": "",
+    "conseil": "Pour chaque marché d'exportation, identifiez l'accord applicable et la version de ses règles d'origine à la date de l'expédition. Suivez les circulaires de la série 222 et 233, qui annoncent les calendriers de démantèlement et les changements de règles. Vérifiez aussi si un accord est appliqué à titre provisoire : sa durée est alors limitée.",
+    "faq": [
+      [
+        "Un accord commercial s'applique-t-il dès sa signature ?",
+        "Si l'accord entre en vigueur dès sa signature, ses dispositions douanières s'appliquent dès leur notification à l'administration (CDII, art. 7)."
+      ],
+      [
+        "Les nouvelles règles d'origine pan-euro-méditerranéennes s'appliquent-elles à tous les partenaires ?",
+        "Non, depuis le 01/01/2026 elles s'appliquent aux échanges avec l'UE et la Turquie ; l'AELE et les pays d'Agadir restent sous les règles antérieures (circ. 6706/233)."
+      ],
+      [
+        "Un certificat d'origine présenté à l'importation s'impose-t-il à l'administration ?",
+        "Non : l'administration peut exiger tout document certifiant l'origine, mais sa production ne lie pas son appréciation sur l'authenticité ou l'exactitude du document (CDII, art. 17)."
+      ]
+    ],
+    "renvois": [
+      "1-005",
+      "2-001",
+      "2-021",
+      "2-022",
+      "2-023",
+      "2-040"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "1-005",
+    "p": 1,
+    "ch": "1.1",
+    "c": "Sources du droit douanier",
+    "t": "Hiérarchie et articulation des sources du droit douanier : loi, loi de finances, décret, arrêté, circulaire et accords internationaux",
+    "enbref": "Le CDII, texte de valeur législative, fixe les règles ; le décret et les arrêtés en précisent l'application sur habilitation ; les circulaires de l'ADII organisent la mise en œuvre par les services. Les lois de finances modifient chaque année le code et le tarif, et le gouvernement ne peut modifier les quotités en urgence que sur habilitation législative.",
+    "textes": [
+      "CDII, art. 5, 7, 8 et 13",
+      "Décret n° 2-77-862, art. 216 et 216 bis",
+      "Circulaire ADII n° 6702/210 du 26/12/2025",
+      "Circulaire ADII n° 6255/210 du 24/12/2021",
+      "Circulaire ADII n° 6398/210 du 29/12/2022"
+    ],
+    "principe": "Le CDII est un dahir portant loi ; il renvoie à la voie réglementaire, décret ou arrêté, pour ses conditions d'application. En cas d'urgence, conformément à l'article 70 de la Constitution, le gouvernement peut modifier ou suspendre les quotités des droits et taxes sur habilitation législative ; la nomenclature peut être modifiée par voie réglementaire si les quotités ne changent pas (CDII, art. 5). Les surtaxes prises par arrêté sont homologuées par la loi de finances suivante (art. 8). Les dispositions douanières d'accords internationaux s'appliquent dès leur notification à l'administration lorsqu'ils entrent en vigueur dès leur signature (art. 7). En cas de changement de texte, la clause transitoire permet, sous conditions, l'application du régime antérieur le plus favorable (art. 13). Le décret n° 2-77-862 délimite les matières que le ministre peut régler par arrêté (décret, art. 216 et 216 bis). Le même mécanisme d'urgence vaut pour les taxes intérieures de consommation : le gouvernement peut en modifier ou suspendre les quotités sur habilitation législative, conformément à l'article 70 de la Constitution (CDII, art. 183). Pour une déclaration donnée, le texte applicable est celui en vigueur à la date d'enregistrement de la déclaration en détail, sauf déclaration anticipée, clause transitoire ou tarif plus favorable (art. 89) ; en cas d'abaissement du taux après l'enregistrement, le déclarant peut demander l'application du tarif plus favorable tant que la mainlevée n'a pas été donnée (art. 90).",
+    "admin": "Les circulaires annuelles de la série 210 montrent l'articulation en pratique : la loi de finances modifie le CDII, le tarif et les TIC (circ. 6702/210) ; elle intègre dans le code des règles dispersées, comme les exonérations à l'investissement regroupées à l'article 164 en 2022 (circ. 6255/210) ; elle transfère au niveau législatif des règles jusque-là réglementaires, entraînant l'abrogation de dispositions du décret, comme pour le seuil de déclarations des transitaires en 2023 (circ. 6398/210).",
+    "donnees": [
+      [
+        "Niveau législatif",
+        "CDII et lois de finances (dahir n° 1-77-339 ; circ. 6702/210)"
+      ],
+      [
+        "Modification d'urgence des quotités",
+        "Gouvernement, sur habilitation législative (CDII, art. 5)"
+      ],
+      [
+        "Niveau réglementaire",
+        "Décret n° 2-77-862 et arrêtés du ministre (décret, art. 216 et 216 bis)"
+      ],
+      [
+        "Accords internationaux",
+        "Applicables dès notification s'ils entrent en vigueur à la signature (CDII, art. 7)"
+      ],
+      [
+        "Changement de texte",
+        "Régime antérieur le plus favorable sous conditions alternatives depuis le 01/01/2026 (CDII, art. 13 ; circ. 6702/210)"
+      ],
+      [
+        "Date du texte applicable",
+        "Enregistrement de la déclaration en détail (CDII, art. 89) ; tarif plus favorable avant mainlevée (art. 90)"
+      ]
+    ],
+    "cas": "Souss Électro SARL, société fictive, a ouvert le 15/12/2025 un crédit documentaire pour des appareils dont le droit d'importation augmente au 01/01/2026. Les appareils arrivent le 10/01/2026. Depuis la LF 2026, une seule des deux conditions de la clause transitoire suffit : le crédit documentaire ouvert avant l'entrée en vigueur permet d'appliquer l'ancien taux, si les appareils sont mis directement à la consommation sans passer par l'entrepôt (CDII, art. 13 ; circ. 6702/210). Erreur à éviter : placer les appareils en entrepôt avant de les déclarer ; la clause ne joue plus.",
+    "juris": "",
+    "conseil": "Face à une règle douanière, remontez la chaîne : quel article du CDII, quel article du décret, quel arrêté, quelle circulaire ? Une réponse fondée sur la seule circulaire est fragile. Pour les changements de taux annoncés par la loi de finances, sécurisez vos opérations en cours avec les justificatifs de la clause transitoire : titre de transport ou crédit documentaire antérieur.",
+    "faq": [
+      [
+        "Le gouvernement peut-il modifier un droit de douane en cours d'année ?",
+        "Oui, en cas d'urgence et sur habilitation législative, conformément à l'article 70 de la Constitution (CDII, art. 5)."
+      ],
+      [
+        "Une hausse de droit s'applique-t-elle à une marchandise déjà commandée ?",
+        "Le régime antérieur plus favorable peut s'appliquer si le titre de transport ou le crédit documentaire est antérieur à l'entrée en vigueur, pour une mise directe à la consommation (CDII, art. 13 ; circ. 6702/210)."
+      ],
+      [
+        "Une baisse de droit intervenue après l'enregistrement de ma déclaration me profite-t-elle ?",
+        "Oui, sur demande, si la mainlevée n'a pas encore été délivrée (CDII, art. 90)."
+      ]
+    ],
+    "renvois": [
+      "1-001",
+      "1-002",
+      "1-003",
+      "1-004",
+      "4-002"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  }
+]

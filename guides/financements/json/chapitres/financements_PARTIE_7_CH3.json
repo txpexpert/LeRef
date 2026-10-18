@@ -1,0 +1,35 @@
+[
+ {
+  "id": "7-020",
+  "p": 7,
+  "ch": "7.3",
+  "c": "Présenter et défendre son dossier",
+  "t": "La note de présentation",
+  "principe": "La note de présentation est la pièce la plus lue. Elle tient en huit à quinze pages et suit ce plan : identité du porteur ; objet du projet ; justification économique ; localisation et foncier ; programme d'investissement ; emplois ; plan de financement ; rentabilité ; impact ; demandes formulées (primes avec calcul, garanties, autorisations) ; calendrier.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-021",
+  "p": 7,
+  "ch": "7.3",
+  "c": "Présenter et défendre son dossier",
+  "t": "Les arguments attendus par le CRI et les commissions",
+  "principe": "| Indicateur | Argument |\n| Emplois stables | Nombre, calendrier, catégories, part de femmes, ratio par MDH, comparaison au seuil du dispositif |\n| Territoire | Implantation en catégorie A ou B, effets sur l'emploi local, recours à des fournisseurs de la région |\n| Intégration locale | Taux calculé selon la formule de l'arrêté 3-12-23, liste des fournisseurs manufacturiers marocains |\n| Durabilité | Eaux non conventionnelles et deux critères sur quatre, avec données mesurables |\n| Viabilité | VAN positive, TRI supérieur au coût du capital avec marge, DSCR supérieur à 1,2 |\n| Financement | Apport justifié, accord de principe bancaire, garantie sollicitée |\n| Faisabilité | Foncier sécurisé, autorisations engagées, fournisseurs identifiés |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-022",
+  "p": 7,
+  "ch": "7.3",
+  "c": "Présenter et défendre son dossier",
+  "t": "Le comité de crédit et le comité d'investissement d'un fonds",
+  "principe": "Pour la banque, mettre en avant la capacité de remboursement (DSCR par année), la qualité des sûretés et de la garantie Tamwilcom, l'apport, l'expérience des promoteurs et la visibilité commerciale (contrats). Pour un fonds, mettre en avant la croissance, la marge, la taille du marché, l'équipe, la gouvernance, la valorisation et les scénarios de sortie.",
+  "faq": [
+   [
+    "Comment préparer le dossier pour la Commission des investissements ?",
+    "Constituer un dossier complet (section 27), une note de présentation centrée sur les critères des primes demandées avec leur calcul et leurs justificatifs, un business plan cohérent avec la déclaration, et un plan de financement montrant l'apport et l'accord de principe bancaire. Anticiper les questions sur les emplois stables, le foncier et le calendrier."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

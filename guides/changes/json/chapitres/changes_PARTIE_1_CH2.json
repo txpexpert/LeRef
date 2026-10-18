@@ -1,0 +1,60 @@
+[
+ {
+  "id": "1-010",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Importer et payer : domiciliation et paiement anticipé",
+  "t": "Importer et payer : domiciliation et paiement anticipé — présentation",
+  "textes": [
+   "Circulaire OC n° 14/2014 du 26 septembre 2014 — codification des guichets",
+   "Circulaire OC n° 04/2014 du 5 février 2014 — règlement par anticipation des importations",
+   "Renvois : IGOC 2013, art. 216, 218 et 261 — [À vérifier dans l'IGOC en vigueur]"
+  ],
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-011",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Importer et payer : domiciliation et paiement anticipé",
+  "t": "Le titre d'importation, pivot du processus",
+  "principe": "Toute importation de biens donnant lieu à paiement s'articule autour du titre d'importation, souscrit par l'importateur et domicilié auprès d'un guichet bancaire. Ce document relie trois mondes : le contrat commercial, le dédouanement (la douane impute le titre lors de la mise à la consommation) et le règlement financier (la banque transfère sur la base du titre domicilié et apuré). Un titre mal renseigné bloque toute la chaîne.\nDepuis la circulaire 14/2014, les guichets ne sont plus identifiés par un numéro « Ne Varietur » attribué par l'Office, mais par la codification de la liste des guichets bancaires de Bank Al-Maghrib (code banque, code localité, code guichet). Cette codification sert aussi à servir les cases « banque » et « guichet » de toutes les formules bancaires et des comptes rendus adressés à l'Office.\n### Mentions obligatoires apposées par le guichet domiciliataire\n- le numéro d'immatriculation du guichet selon la liste BAM ;\n- le numéro de référence du titre, tiré d'une série continue qui ne peut être interrompue avant la fin de l'année ;\n- la date de domiciliation ;\n- la date d'expiration du titre.\n### Erreur fréquente\nUn titre dont la date d'expiration est dépassée au moment du dédouanement ne peut plus être imputé. Anticipez les retards de fabrication ou de transport et demandez à temps la prorogation à votre banque, avant l'échéance.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-012",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Importer et payer : domiciliation et paiement anticipé",
+  "t": "Le paiement anticipé des importations",
+  "principe": "Le principe est le paiement après expédition ou contre documents. La circulaire 4/2014 permet néanmoins aux banques d'effectuer, sans autorisation de l'Office, le règlement par anticipation d'importations de biens dans les limites suivantes :\n| Nature de l'importation | Plafond par opération | Observations |\n| Toute marchandise | 100 000 DH | Valeur totale de l'importation |\n| Marchandises en admission temporaire pour perfectionnement actif « avec paiement » | 200 000 DH | Régime économique en douane |\n| Biens d'équipement (au sens du Système Harmonisé) | 200 000 DH | Classement tarifaire déterminant |\n[À vérifier dans l'IGOC en vigueur] : ces plafonds datent de 2014 ; ils ont pu être relevés par les instructions générales postérieures. Le mécanisme (contrat, domiciliation, engagement, apurement) demeure.\n### Conditions cumulatives\n- Un contrat commercial (ou document en tenant lieu) prévoyant expressément le paiement anticipé ;\n- Un titre d'importation domicilié auprès du guichet chargé du règlement ;\n- Lors de la première opération, la signature d'un engagement de conformité (modèle annexé à la circulaire, signature légalisée) par lequel l'importateur certifie la nature des biens et dégage la banque de toute responsabilité ;\n- Le respect du plafond apprécié sur la valeur totale de l'importation.\n### Interdiction absolue de fractionnement\nIl est strictement interdit de fractionner une importation pour faire passer chaque fraction sous le plafond, et d'anticiper le paiement d'une importation dont la valeur globale dépasse le plafond. Le paiement peut être fait en une ou plusieurs fois, mais dans le respect du contrat et du plafond global.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-013",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Importer et payer : domiciliation et paiement anticipé",
+  "t": "Processus pas à pas",
+  "principe": "| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Négocier et signer le contrat prévoyant l'avance | Importateur | Contrat / facture pro-forma | Avant domiciliation |\n| 2 | Vérifier l'éligibilité (nature du bien, classement SH, valeur totale) | Importateur + déclarant | Fiche tarifaire, pro-forma | — |\n| 3 | Souscrire et domicilier le titre d'importation | Importateur / banque | Titre d'importation, codification BAM | Avant le paiement |\n| 4 | Signer l'engagement de conformité (1re opération) | Importateur | Modèle annexé, signature légalisée | Une fois |\n| 5 | Exécuter le transfert anticipé | Banque | Ordre de transfert | — |\n| 6 | Dédouaner la marchandise ; imputation du titre par la douane | Déclarant / douane | DUM, titre d'importation | Avant expiration du titre |\n| 7 | Remettre le titre imputé à la banque | Importateur | Titre imputé | 1 mois après l'imputation |\n| 8 | En cas de non-réalisation : rapatrier l'avance | Importateur / fournisseur | Avis de rapatriement | Sans délai |\n| 9 | Apurement du dossier ; à défaut transmission à l'OC | Banque | Dossier de domiciliation | À l'expiration du titre |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-014",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Importer et payer : domiciliation et paiement anticipé",
+  "t": "Cas pratique",
+  "cas": "### Cas — Atelier de confection importateur de machines\nUne SARL de confection commande en Turquie deux machines à coudre industrielles (biens d'équipement) pour 180 000 DH ; le fournisseur exige 30 % à la commande. L'avance de 54 000 DH est possible sans autorisation : l'importation globale (180 000 DH) reste sous le plafond de 200 000 DH applicable aux biens d'équipement. L'entreprise domicilie le titre, signe l'engagement de conformité, paie l'avance, puis le solde après expédition.\nSi la commande portait sur trois machines (270 000 DH), aucun paiement anticipé ne serait possible sans autorisation — même limité à 50 000 DH — car c'est la valeur totale qui est appréciée.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-015",
+  "p": 1,
+  "ch": "1.2",
+  "c": "Importer et payer : domiciliation et paiement anticipé",
+  "t": "Fiche réflexe",
+  "principe": "- Contrôlez sur le titre : code guichet BAM, numéro de série, date d'expiration.\n- Paiement anticipé : vérifier la valeur totale, pas le montant de l'acompte.\n- Engagement de conformité légalisé dès la première opération.\n- Titre imputé remis sous 1 mois ; à défaut, dossier non apuré transmis à l'Office.\n- Marchandise non livrée : rapatriement immédiat de l'avance.",
+  "maj": "2026-10-17"
+ }
+]

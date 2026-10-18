@@ -1,0 +1,51 @@
+[
+ {
+  "id": "1-060",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Places financières offshore : banques et sociétés holding",
+  "t": "Places financières offshore : banques et sociétés holding — présentation",
+  "textes": [
+   "Loi n° 58-90 relative aux places financières offshore (dahir 1-91-131 du 26 février 1992)",
+   "Circulaire n° 2/2026/MEF/OC du 23 juillet 2026 — vigilance LBC-FT des holdings offshore"
+  ],
+  "principe": "### Statut du régime fiscal\nLes articles fiscaux de la loi 58-90 renvoient à des lois aujourd'hui codifiées dans le Code général des impôts (IS, TVA, IGR, patentes, taxe urbaine) et ont été profondément réformés par les lois de finances successives, notamment dans le cadre de la mise en conformité avec les standards internationaux. Les avantages ci-dessous ont une valeur historique : vérifiez impérativement le CGI en vigueur.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-061",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Places financières offshore : banques et sociétés holding",
+  "t": "La banque offshore",
+  "principe": "Implantée dans une place offshore (Tanger, et toute place créée par voie réglementaire), la banque offshore reçoit des dépôts en devises convertibles et effectue en devises toutes opérations financières, de crédit, de bourse ou de change. Elle échappe à la loi bancaire de droit commun mais est soumise à un agrément spécifique.\n| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Choisir la loi applicable et rédiger les statuts | Promoteur | Statuts + acte authentique de régularité (ou consultation juridique pour une succursale) | — |\n| 2 | Présenter le dossier au ministère des Finances | Promoteur | Dossier de constitution | — |\n| 3 | Inscription au registre du commerce | Promoteur | Document délivré par le ministère | — |\n| 4 | Demande d'agrément (réservé aux filiales/succursales de banques de notoriété internationale) | Promoteur / MEF / BAM | Avis de BAM | Décision sous 90 jours |\n| 5 | Libérer le capital ou la dotation (≥ 500 000 USD) | Banque | Attestation de libération | 90 jours (prorogeable) |\n| 6 | Payer le droit de licence (25 000 USD) | Banque | Quittance | 30 jours |\n| 7 | Notifier les agences à BAM | Banque | Notification | 30 jours |\nRégime de change : aucune obligation de rapatriement, liberté de change avec les non-résidents, opérations avec les résidents (notamment crédits) soumises à autorisation préalable de l'Office. Les règlements au Maroc passent par des comptes en devises ou en dirhams convertibles ouverts auprès de banques marocaines. Contrôle : ratios prudentiels, auditeurs agréés, reporting trimestriel ; sanctions allant de l'avertissement à une amende de 50 000 USD et au retrait d'agrément.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-062",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Places financières offshore : banques et sociétés holding",
+  "t": "La société holding offshore",
+  "principe": "La holding offshore est une personne morale dont l'objet est exclusivement la gestion d'un portefeuille de valeurs et la prise de participations, avec un capital et des opérations en devises convertibles. Ses actionnaires sont en principe étrangers ; les Marocains peuvent y participer sous réserve de la réglementation des changes. Les opérations sont libres avec les non-résidents et les sociétés offshore ; avec les résidents, elles suivent le droit commun.\n| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Constituer la société (loi choisie) et déposer les statuts au MEF | Fondateurs | Statuts, acte de régularité | — |\n| 2 | S'inscrire au registre du commerce | Holding | Extrait RC | — |\n| 3 | Notifier l'installation à l'Office des Changes | Holding | Statuts, liste des dirigeants et actionnaires | 30 jours après l'inscription au RC |\n| 4 | Notifier toute modification ultérieure | Holding | Pièces modificatives | 30 jours |\n| 5 | Ouvrir des comptes en devises auprès d'une banque marocaine | Holding | Dossier KYC | — |\n| 6 | Mettre en place le dispositif LBC-FT (circ. 2/2026) | Holding | Manuel, cartographie, responsable conformité | Dès la signature de la circulaire |\nLa holding doit faire figurer la mention « société holding offshore » sur ses documents ; ses succursales ne peuvent être établies que dans les places offshore. La violation de l'objet exclusif entraîne la déchéance des avantages fiscaux.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-063",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Places financières offshore : banques et sociétés holding",
+  "t": "La conformité LBC-FT des holdings offshore (circulaire 2/2026/MEF/OC)",
+  "principe": "Par décision du ministre de l'Économie et des Finances du 8 janvier 2026, l'Office des Changes est désigné autorité de supervision des holdings offshore au titre de la loi 43-05 ; un arrêté du 19 janvier 2026 l'habilite à superviser, contrôler et sanctionner. La circulaire 2/2026, entrée en vigueur à sa signature (23 juillet 2026), décline les obligations.\n### Les huit briques du dispositif\n| Brique | Contenu exigé | Articles |\n| 1. Évaluation des risques | Cartographie documentée (activité, transactions, clients, pays) intégrant l'évaluation nationale ; mise à jour ; évaluation préalable de tout nouveau produit (prises de participation, comptes courants d'associés, prêts apparentés, dividendes) ou technologie | 5-6 |\n| 2. Manuel de procédures | Procédures écrites, mises à jour, approuvées par les dirigeants | 3-4 |\n| 3. Responsable conformité | Désigné auprès de l'ANRF et de la CNASNU ; centralise les opérations inhabituelles | 7-8 |\n| 4. Connaissance client et BE | Fiche de renseignements avant l'entrée en relation ; BE = personne détenant ≥ 25 % ou exerçant un contrôle effectif ; consultation du Registre public du bénéficiaire effectif | 10-15 |\n| 5. Sanctions financières ciblées | Filtrage des listes CNASNU, gel immédiat, information de la CNASNU | 16 |\n| 6. Classification et vigilance renforcée | PPE, pays à haut risque, pays GAFI, structures complexes ; autorisation des dirigeants, origine des fonds | 17-22 |\n| 7. Déclarations | Déclaration de soupçon sans délai à l'ANRF ; déclarations systématiques | 23-24 |\n| 8. Conservation | 10 ans (opérations, relation, analyses) ; reconstitution possible ; loi 09-08 | 25-27 |\n### Dossier de connaissance client — pièces\n- Personne physique : nom, prénom, date de naissance, adresse exacte, profession, CNIE (nationaux), nationalité et carte d'immatriculation (étrangers résidents) ou passeport (non-résidents), origine des fonds, objet de la relation.\n- Personne morale : dénomination, forme, activité, siège, RC, identifiant fiscal, dirigeants, associés et actionnaires, bénéficiaires effectifs vérifiés par sources indépendantes.\n- Construction juridique (trust) : acte constitutif, dénomination, identité et adresse des bénéficiaires effectifs.\n### Risque pénal\nInformer un client ou un tiers de l'existence d'une déclaration de soupçon expose aux sanctions de l'article 446 du Code pénal. Les manquements au gel des avoirs et à la communication de documents à la CNASNU sont sanctionnés par l'article 28 de la loi 43-05.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-064",
+  "p": 1,
+  "ch": "1.7",
+  "c": "Places financières offshore : banques et sociétés holding",
+  "t": "Fiche réflexe",
+  "principe": "- Holding : notification OC sous 30 jours du RC et de toute modification.\n- Objet exclusif strict, sous peine de déchéance des avantages.\n- Depuis juillet 2026 : dispositif LBC-FT complet supervisé par l'OC.\n- Régime fiscal : se référer au CGI en vigueur, pas à la loi 58-90 seule.",
+  "maj": "2026-10-17"
+ }
+]

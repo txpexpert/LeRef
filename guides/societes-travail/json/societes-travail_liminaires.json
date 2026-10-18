@@ -1,0 +1,26 @@
+{
+ "titre": "Guide pratique des procédures juridiques",
+ "sous_titre": "Maroc",
+ "edition": "Édition 2026",
+ "mode_emploi": {
+  "introduction": [],
+  "rubriques": [
+   {
+    "rubrique": "Objet et public",
+    "texte": "Ce guide s'adresse aux opérateurs économiques, aux investisseurs marocains et étrangers, ainsi qu'à leurs conseils (juristes d'entreprise, experts-comptables, consultants, centres régionaux d'investissement). Il traduit neuf textes fondamentaux du droit des affaires marocain en processus concrets : qui fait quoi, dans quel délai, avec quelles pièces, sur quelle base légale, et avec quels risques en cas de manquement."
+   },
+   {
+    "rubrique": "Méthode",
+    "texte": "• Chaque loi est traitée en quatre temps : l'essentiel (objet, champ, acteurs), les chiffres et délais clés, les fiches procédures pas à pas, puis les sanctions et les mises à jour. • Chaque fiche procédure indique la base légale, les prérequis et pièces, les étapes avec l'acteur responsable, le délai et l'article de référence, puis les points de vigilance tirés de la pratique. • Les annexes regroupent le calendrier consolidé des délais, la matrice des seuils, la matrice des sanctions, un glossaire et la notice d'exploitation des fichiers JSON livrés avec ce guide."
+   },
+   {
+    "rubrique": "Avertissements",
+    "texte": "À lire avant usage • Ce guide est établi à partir des versions des textes fournies (PDF). Plusieurs de ces versions ne sont pas les dernières consolidées : chaque partie comporte un encadré « Mises à jour à vérifier » qui signale les réformes postérieures connues. Les références d'articles renvoient à la version source ; elles peuvent avoir été renumérotées par une réforme ultérieure. • Le guide a une vocation opérationnelle : il ne remplace ni la lecture du texte publié au Bulletin officiel, ni le conseil d'un avocat, d'un notaire, d'un expert-comptable ou d'un conseil juridique sur un dossier précis. • Les montants (amendes, seuils, capital) sont exprimés en dirhams (MAD) tels qu'ils figurent dans les textes sources."
+   },
+   {
+    "rubrique": "Corpus source",
+    "texte": "Texte — Domaine — Articles extraits · Loi n° 15-95 formant Code de commerce — Droit commercial (commerçant, registre du commerce, fonds de commerce, effets de commerce, contrats commerciaux, difficultés de l'entreprise) — 736 · Loi n° 65-99 relative au Code du travail — Droit du travail (contrat de travail, durée du travail, salaire, santé-sécurité, représentation, conflits, emploi) — 589 · Loi n° 17-95 relative aux sociétés anonymes — Droit des sociétés — société anonyme — 470 · Loi n° 5-96 sur la SNC, la SCS, la SCA, la SARL et la société en participation — Droit des sociétés — SARL, SARL AU, SNC, commandites, société en participation — 131 · Loi n° 86-12 relative aux contrats de partenariat public-privé — Contrats de partenariat public-privé — 29 · Dahir du 12 août 1913 sur l'immatriculation foncière tel que modifié et complété (notamment par la loi n° 14-07) — Régime foncier — immatriculation, titre foncier, inscriptions, oppositions — 122 · Loi n° 43-05 relative à la lutte contre le blanchiment de capitaux (modifiée et complétée par la loi n° 12-18) — LBC/FT — obligations de vigilance, déclaration de soupçon, sanctions — 59 · Loi n° 09-08 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel — Protection des données personnelles — 67 · Loi n° 104-12 relative à la liberté des prix et de la concurrence — Concurrence — liberté des prix, pratiques anticoncurrentielles, concentrations, transparence et pratiques restrictives — 111"
+   }
+  ]
+ }
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-130",
+  "p": 1,
+  "ch": "1.14",
+  "c": "La relation copropriétaire / société de gestion",
+  "t": "Le bail meublé obligatoire",
+  "principe": "Tout acquéreur d'une unité relevant du pourcentage doit la donner en location meublée à la société de gestion (art. 10). Cette obligation est rappelée dans le contrat de vente, et le bail est conclu concomitamment à la vente. Il doit être conforme au contrat type (arrêté 1548-10, modifié par l'arrêté 4587-14). La même obligation s'impose à tout nouvel acquéreur, à titre gratuit ou onéreux (donation, succession, revente — art. 12).\n| Clause du bail type | Contenu (arrêtés 1548-10 / 4587-14) |\n| Préambule | Volonté du bailleur de donner à bail son unité meublée selon le cahier des charges annexé ; référence à la licence de la société de gestion (numéro et date). |\n| Art. 2 — Désignation | Superficies (dont terrasse), rubrique « autres à préciser », mobilier conforme au cahier des charges, parties indivises. |\n| Art. 3 — Durée | Neuf années entières et consécutives à compter de la mise à disposition de l'unité meublée. |\n| Art. 5.1 — Obligations du gestionnaire | Désigner un directeur conformément à la législation sur les établissements touristiques ; entretien et maintenance de l'unité, des locaux et équipements communs. |\n| Art. 6.3 — Paiement | Paiement par virement sur le RIB indiqué ; loyer fixe payable à terme échu ; loyer variable aux échéances convenues. |\n| Art. 6.4 — Révision | Conditions de révision convenues d'un commun accord, pour la partie fixe et la partie variable. |\n| Annexe | Cahier des charges du mobilier établi par la société de gestion. |\nTableau 12 — Clauses structurantes du bail type RIPT.\n### POINT DE VIGILANCE — Le loyer doit comporter une part fixe\nLa loi exige un loyer comportant au moins un montant fixe (art. 10). Un bail exclusivement indexé sur le chiffre d'affaires serait non conforme. La part variable reste facultative.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-131",
+  "p": 1,
+  "ch": "1.14",
+  "c": "La relation copropriétaire / société de gestion",
+  "t": "Le droit de jouissance personnelle (art. 11)",
+  "principe": "Le copropriétaire peut se réserver l'usage personnel de son unité pendant une période fixée d'un commun accord dans le bail, sur la base du programme d'emploi de la résidence établi par la société de gestion, dans la double limite de :\n- deux mois par an au maximum ;\n- dont quinze jours au maximum en haute saison, entendue comme la période où les hébergements commerciaux du lieu atteignent leurs plus hauts taux de remplissage.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-132",
+  "p": 1,
+  "ch": "1.14",
+  "c": "La relation copropriétaire / société de gestion",
+  "t": "Résiliation, défaillance et changement de gestionnaire",
+  "principe": "| Situation | Conséquences | Majorité / délai | Art. |\n| Résiliation d'un bail par le gestionnaire faisant passer le parc géré sous le seuil | Résiliation de plein droit de tous les baux ; fin du mandat de syndic ; mise en jeu de la garantie financière | Automatique | 14 |\n| Idem, pendant les 9 premières années | Information sans délai ; le promoteur désigne un nouveau gestionnaire | Promoteur : 1 mois | 15 |\n| Carence du promoteur | AGE des copropriétaires : désignation d'un nouveau gestionnaire et syndic ; contrat signé par le président de l'AG | 3/4 des voix des présents ou représentés possédant des unités gérées | 15 |\n| Idem, au-delà de 9 ans | Les copropriétaires qui veulent maintenir la RIPT désignent un nouveau gestionnaire | 3/4, sous réserve du respect du seuil | 16 |\n| Manquement contractuel du gestionnaire | AGE : saisine du juge pour résiliation des baux et désignation d'un nouveau gestionnaire | 3/4 | 18 |\n| Échéance du bail | Renouvellement d'un commun accord ; à défaut, reprise de l'unité et des meubles, sans indemnité ; levée de la mention foncière | — | 17 |\n| Moins de 70 % de baux renouvelés à 9 ans | Perte automatique de la qualité de RIPT | — | 17 |\nTableau 13 — Scénarios de fin ou de rupture de la gestion.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-133",
+  "p": 1,
+  "ch": "1.14",
+  "c": "La relation copropriétaire / société de gestion",
+  "t": "La conversion d'une résidence existante (art. 24)",
+  "principe": "Une résidence immobilière à vocation touristique existante, conforme aux normes des établissements touristiques, peut être convertie en RIPT par décision de l'assemblée générale extraordinaire des copropriétaires, valable seulement si le pourcentage de 70 % est atteint. L'AGE confie la gestion à une société de gestion pour au moins neuf ans ; le contrat est conclu par le président de l'AG. La résidence est alors soumise à la loi, à l'exception des obligations propres au promoteur (art. 3, 4, 5, 9, 10 et 15).",
+  "maj": "2026-10-17"
+ }
+]

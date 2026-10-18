@@ -1,0 +1,47 @@
+[
+ {
+  "id": "2-001",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'architecture du dispositif",
+  "t": "Deux lois complémentaires",
+  "principe": "La conformité des produits industriels repose sur deux lois qui se complètent.\nLa loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation (dahir n° 1-10-15 du 11 février 2010, BO n° 5822 du 18-3-2010) organise la production des normes marocaines, leur caractère obligatoire, la certification de conformité et l'accréditation des organismes d'évaluation.\nLa loi n° 24-09 relative à la sécurité des produits et des services (dahir n° 1-11-140 du 17 août 2011, BO n° 5984 du 6-10-2011) impose une obligation générale de sécurité, crée les réglementations techniques particulières, définit les obligations du producteur et de l'importateur et organise la surveillance du marché.\n### NOTE\nLa loi 24-09 ne s'applique pas lorsque des dispositions spéciales existent : produits relevant de la loi 28-07 sur la sécurité sanitaire des aliments et de l'ONSSA, médicaments et dispositifs médicaux, immeubles (art. 2).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-002",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'architecture du dispositif",
+  "t": "Les acteurs",
+  "principe": "| Acteur | Rôle | Base |\n| Institut marocain de normalisation (IMANOR) | Élabore, homologue et édite les normes marocaines (NM) ; délivre la certification et la marque NM | Loi 12-06, art. 6 à 8 et 41 |\n| Conseil supérieur de normalisation, de certification et d'accréditation (CSNCA) | Assiste le gouvernement dans la politique qualité | Loi 12-06, art. 4 et 5 |\n| Ministère chargé de l'industrie, Service marocain d'accréditation (SEMAC) | Prononce l'accréditation après avis du COMAC | Loi 12-06, art. 45 |\n| Comité marocain d'accréditation (COMAC) | Avis technique sur l'accréditation | Loi 12-06, art. 46 à 48 |\n| Administration compétente (Ministère de l'Industrie et du Commerce pour les produits industriels) | Réglementations techniques, agrément des OEC, surveillance du marché | Loi 24-09, art. 9, 20 et 33 |\n| Organismes d'évaluation de la conformité (OEC) agréés | Essais, inspections, certification exigés par les réglementations | Loi 24-09, art. 20 à 26 |\n| Douane | Coordination avec l'administration compétente aux frontières | Loi 24-09, art. 33 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-003",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'architecture du dispositif",
+  "t": "Norme volontaire, norme obligatoire, réglementation technique",
+  "principe": "Une norme marocaine homologuée est en principe d'application volontaire. Elle peut être rendue obligatoire par l'autorité compétente, par un acte publié au BO (loi 12-06, art. 33) : on parle alors de norme marocaine obligatoire (NMO). Le contrôle des produits soumis à NMO relève de la législation applicable (art. 34), c'est-à-dire, pour les produits industriels, de la loi 24-09.\nLa loi 24-09 ajoute un second instrument : la réglementation technique particulière, édictée par voie réglementaire pour un produit ou une catégorie de produits, qui fixe les exigences essentielles de sécurité, les spécifications techniques et les procédures d'évaluation de la conformité (art. 9, II). C'est la logique de la « nouvelle approche » européenne : arrêtés « basse tension », « compatibilité électromagnétique », « jouets », « appareils à gaz », etc.\n### À RETENIR\nUn produit conforme aux normes, nationales ou internationales, dont les références sont publiées au BO est présumé sûr pour les risques qu'elles couvrent ; cette présomption permet de le mettre sur le marché sur la seule base des documents justifiant cette conformité (loi 24-09, art. 7). Le respect d'une réglementation technique particulière crée de même une présomption de conformité aux exigences essentielles (art. 19).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-004",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'architecture du dispositif",
+  "t": "Les marchés publics",
+  "principe": "La loi 12-06 impose l'introduction ou la mention explicite des normes marocaines, ou des normes applicables en vertu d'accords internationaux, dans les clauses et cahiers des charges des marchés de l'État, des collectivités, des établissements et entreprises publics et des délégataires de service public (art. 35). Pour un fournisseur étranger qui vise la commande publique, c'est une exigence de conformité supplémentaire, distincte du contrôle à l'importation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "2-005",
+  "p": 2,
+  "ch": "2.1",
+  "c": "L'architecture du dispositif",
+  "t": "Le cycle de vie d'une norme marocaine",
+  "principe": "Les projets de normes sont élaborés par des commissions de normalisation, puis soumis à une enquête publique d'un à trois mois (loi 12-06, art. 24 à 27). L'homologation est publiée au BO (art. 32). Les normes sont réexaminées au moins tous les cinq ans (art. 39). Des dérogations temporaires aux obligations des articles 33 et 35 peuvent être accordées par voie réglementaire, sur demande de toute partie intéressée (art. 38).\n### CONSEIL PRATIQUE\nLes opérateurs et organisations professionnelles peuvent proposer l'élaboration, la révision ou l'annulation d'une norme marocaine (art. 23 et 39). Lorsqu'une NMO rend un produit importé difficilement conforme, la demande de dérogation de l'article 38 est la voie prévue par la loi.",
+  "maj": "2026-10-17"
+ }
+]

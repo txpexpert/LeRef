@@ -1,0 +1,44 @@
+[
+ {
+  "id": "6-060",
+  "p": 6,
+  "ch": "6.7",
+  "c": "Publics spécifiques : femmes, Marocains du monde, jeunes, monde rural",
+  "t": "Femmes entrepreneures",
+  "principe": "| Dispositif | Avantage | Section |\n| Damane Express | Quotité de 80 % au lieu de 70 % pour les entreprises promues majoritairement par des femmes | 9 |\n| Damane Moubachir | Quotité de 80 % au lieu de 70 % pour le capital majoritairement féminin | 9 |\n| Ilayki Invest | Jusqu'à 40 % du projet, 1 à 5 MDH, à 2 % HT sur 7 ans dont 2 de différé | 10 |\n| Prime genre (dispositif principal) | 3 % du montant primable si la masse salariale féminine atteint 30 % | 5 |\n| Women in Business (BERD et Union européenne) | Lignes de crédit via les banques locales, coaching, formation, mentorat ; PME dirigées par des femmes, moins de 250 salariés, CA inférieur à 50 M€, bilan inférieur à 43 M€ ; hors secteurs exclus | 26 |\n| We-Fi E-Commerce (ministère de l'Industrie, Maroc PME, Banque mondiale) | Accompagnement au commerce en ligne pour les entreprises détenues ou gérées par des femmes | – |\n| She Industriel 2025-2026 (AFEM et ministère de l'Industrie) | Formation, appui financier, portefeuille de plus de 180 projets de substitution aux importations, suivi après création ; femmes marocaines ou résidant au Maroc, sans condition de diplôme | – |\n| Export Morocco Now Women | Accompagnement export de 50 entités dans trois régions | 23 |\nProgrammes historiques (Kit 2023) : Industry'ELLE (LaStartupStation et ONUDI, jeunes femmes de moins de 30 ans de formation STEM) et Min Ajliki 3.0 (APEFE et Coopération belge).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-061",
+  "p": 6,
+  "ch": "6.7",
+  "c": "Publics spécifiques : femmes, Marocains du monde, jeunes, monde rural",
+  "t": "Marocains du monde",
+  "principe": "MDM Invest et MDM Tamwil (section 10) ; guichet de l'AMDIE dédié à la diaspora (diaspora@amdie.gov.ma). Les primes de la Charte sont ouvertes aux Marocains du monde dans les mêmes conditions que les résidents, l'investisseur étant la personne morale de droit marocain qui porte le projet.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-062",
+  "p": 6,
+  "ch": "6.7",
+  "c": "Publics spécifiques : femmes, Marocains du monde, jeunes, monde rural",
+  "t": "Jeunes",
+  "principe": "INDH entreprenariat des jeunes (18 à 45 ans), programme Intelaka (jeunes porteurs), Machrou3i (Casablanca-Settat), Youth in Business (BERD), structures d'accompagnement (section 19).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-063",
+  "p": 6,
+  "ch": "6.7",
+  "c": "Publics spécifiques : femmes, Marocains du monde, jeunes, monde rural",
+  "t": "Monde rural",
+  "principe": "Intelak Al Moustatmir Al Qarawi (taux de 1,75 % selon le Kit 2023), FDA (section 22), INDH, microfinance, programmes de l'Agence de développement social et de l'Office du développement de la coopération pour les coopératives.",
+  "faq": [
+   [
+    "Une entreprise dont la gérante est une femme mais dont le capital est majoritairement masculin a-t-elle droit à Ilayki Invest ?",
+    "Ilayki Invest vise les entreprises « dirigées par des femmes ou à capital majoritairement féminin » : la direction féminine suffit selon le libellé du Kit. Damane Express vise les entreprises « promues majoritairement » par des femmes et Damane Moubachir le capital majoritairement féminin : les critères diffèrent d'un produit à l'autre et doivent être vérifiés produit par produit."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

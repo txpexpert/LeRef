@@ -1,0 +1,34 @@
+[
+ {
+  "id": "1-070",
+  "p": 1,
+  "ch": "1.8",
+  "c": "Dotations voyages et comptes en devises des personnes physiques",
+  "t": "Dotations voyages et comptes en devises des personnes physiques — présentation",
+  "textes": [
+   "Circulaire OC n° 6/2014 du 24 mars 2014",
+   "Circulaire OC n° 3/2015 du 30 décembre 2015 — gestion des dotations",
+   "Montants des dotations : [À vérifier dans l'IGOC en vigueur]"
+  ],
+  "principe": "Cette section intéresse le dirigeant, le professionnel libéral et le salarié qui voyage pour affaires, ainsi que les entreprises qui organisent ces déplacements. Les dotations annuelles (voyages touristiques, voyages d'affaires des professions libérales) peuvent être servies en billets, sur carte internationale ou logées dans un compte dédié.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-071",
+  "p": 1,
+  "ch": "1.8",
+  "c": "Dotations voyages et comptes en devises des personnes physiques",
+  "t": "Le compte en devises ou en dirhams convertibles « dotations »",
+  "principe": "- La banque peut créditer le compte à concurrence de 100 % de la dotation touristique et/ou de 100 % de la dotation voyages d'affaires des professions libérales.\n- Depuis la circulaire 6/2014, le dispositif s'étend aux comptes en dirhams convertibles, qui fonctionnent dans les mêmes conditions.\n- Le titulaire peut cumuler dans un même compte les dotations touristiques de son conjoint et de ses enfants mineurs.\n- Le total crédité ne peut excéder la somme des plafonds annuels des bénéficiaires (titulaire, conjoint, enfants mineurs).\n| Bénéficiaire rattaché | Pièces à remettre |\n| Enfants mineurs | Copies des passeports individuels en cours de validité |\n| Conjoint marocain | Copies du passeport et de la CNI en cours de validité |\n| Conjoint étranger résident | Copies du passeport et de la carte d'immatriculation en cours de validité |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-072",
+  "p": 1,
+  "ch": "1.8",
+  "c": "Dotations voyages et comptes en devises des personnes physiques",
+  "t": "Le suivi centralisé des dotations",
+  "principe": "Depuis le 1er janvier 2016 (circulaire 3/2015), chaque octroi de dotation est enregistré dans un système centralisé, sur la base du numéro de CNI (Marocains résidents et MRE), de la carte d'immatriculation (étrangers résidents) ou du passeport (mineurs sans CNI). Le plafond s'apprécie par année civile et tous canaux confondus : billets, carte, compte. Le reliquat au 31 décembre des comptes « dotations » est saisi le premier jour ouvrable de l'année suivante. Pour les sociétés de change, ce système a été remplacé le 15 juin 2026 par la Plateforme unique (section 12).\n### Conséquence pratique\nUne dotation consommée en billets auprès d'un bureau de change réduit d'autant ce qui peut être chargé sur carte auprès de la banque : le contrôle est croisé. Planifiez les voyages de l'année avant d'alimenter le compte.\n| # | Étape | Acteur | Pièces / support | Délai |\n| 1 | Ouvrir le compte devises ou DH convertibles | Titulaire / banque | Pièces d'identité | — |\n| 2 | Rattacher conjoint et enfants mineurs | Titulaire | Passeports, CNI ou cartes d'immatriculation | — |\n| 3 | Alimenter par les dotations dans la limite cumulée | Banque | Enregistrement dans le système | Année civile |\n| 4 | Utiliser (carte internationale, virements) | Titulaire | — | — |\n| 5 | Saisie du reliquat au 31/12 | Banque | — | 1er jour ouvrable N+1 |",
+  "maj": "2026-10-17"
+ }
+]

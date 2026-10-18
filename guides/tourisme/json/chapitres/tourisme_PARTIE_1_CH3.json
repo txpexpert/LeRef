@@ -1,0 +1,29 @@
+[
+ {
+  "id": "1-020",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La logique commune des régimes d'autorisation",
+  "t": "Cinq invariants",
+  "principe": "Au-delà de leurs différences, les régimes étudiés partagent une même grammaire. La maîtriser permet de comprendre rapidement tout nouveau texte du secteur.\n- Un titre administratif préalable : autorisation d'exploitation (hébergement), licence (agent de voyages, société de gestion), agrément (guide, société de guides, transporteur). L'exercice sans titre est toujours une infraction pénale.\n- Des conditions tenant à la personne : forme de société commerciale de droit marocain, absence de liquidation judiciaire, honorabilité du dirigeant (casier judiciaire), qualifications professionnelles.\n- Des garanties de solvabilité et d'assurance : cautionnement (agents de voyages, sociétés de gestion), assurances incendie/vol/responsabilité civile (hébergement), responsabilité civile professionnelle (agents de voyages, transporteurs).\n- Des obligations d'information continue : tout changement affectant les éléments ayant servi à l'autorisation (dirigeant, adresse, capital, dénomination) doit être notifié dans un délai court (de 7 à 60 jours selon les régimes).\n- Une gradation des sanctions : avertissement, blâme, retrait provisoire, retrait définitif, puis sanctions pénales, avec doublement en cas de récidive.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-021",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La logique commune des régimes d'autorisation",
+  "t": "Typologie des titres",
+  "principe": "| Titre | Métier | Autorité | Durée | Transmissibilité |\n| Autorisation d'exploitation | Hébergement, restaurant, autres formes | Gouverneur (décret 2-23-441) | 5 ans renouvelables (décret) | Attachée à l'établissement et à l'exploitant |\n| Classement provisoire / d'exploitation | Hébergement | Commission régionale de classement | Durée fixée par voie réglementaire | Attaché à l'établissement |\n| Licence provisoire / définitive | Société de gestion RIPT | Ministère du Tourisme | Provisoire : 6 mois max. | Changements à notifier sous 30 jours |\n| Licence organisateur-distributeur / distributeur | Agent de voyages | Ministère du Tourisme | Non limitée par la loi | Cession : information sous 30 j ; décès : transfert sous 1 an |\n| Agrément individuel + carte + badge | Guide de tourisme | Ministère du Tourisme | Jusqu'à 60 ans, prolongeable | Strictement personnel et incessible |\n| Agrément de société de guides | Société de guides | Ministère du Tourisme | Sur cahier des charges | Incessible (sanction pénale) |\n| Agrément de transport + cartes d'autorisation | Transporteur touristique | Commission des transports | 7 ans renouvelables | Interdiction de location des autorisations |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-022",
+  "p": 1,
+  "ch": "1.3",
+  "c": "La logique commune des régimes d'autorisation",
+  "t": "Les écueils procéduraux récurrents",
+  "principe": "- Confondre classement et autorisation : en hébergement, le classement provisoire est une condition de l'autorisation d'exploitation, mais ne la remplace pas ; et ni l'un ni l'autre ne dispense des autres autorisations (hygiène, protection civile, débit de boissons, urbanisme — art. 11 loi 80-14).\n- Oublier les délais de notification : la vacance du poste de directeur d'hôtel doit être notifiée en une semaine ; celle du gérant d'une agence en 30 jours ; un changement d'adresse du transporteur en 60 jours.\n- Négliger la mise en exploitation : une licence d'agent de voyages non exploitée dans les 6 mois peut être suspendue ou retirée.\n- Sous-estimer la responsabilité en chaîne : l'agent de voyages répond de plein droit de l'exécution des prestations par ses sous-traitants (hôtels, transporteurs, guides).\n- Recourir à des prestataires non titrés : l'agent de voyages qui utilise un guide non agréé, ou qui « apporte son assistance » à un opérateur sans licence, s'expose lui-même à des sanctions.\nLoi n° 80-14 relative aux établissements touristiques et aux autres formes d'hébergement touristique, et ses textes d'application.",
+  "maj": "2026-10-17"
+ }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "9-030",
+    "p": 9,
+    "ch": "9.4",
+    "c": "Transaction",
+    "t": "Transaction douanière : moment, compétence, ratification, objet et limites (droits et taxes non transigibles)",
+    "enbref": "L'administration peut transiger avec l'auteur d'une infraction avant ou après jugement définitif. La transaction peut réduire ou supprimer amendes et confiscations, mais jamais les droits et taxes exigibles, sauf abandon des marchandises. Elle ne devient définitive qu'après ratification par le ministre chargé des finances ou le directeur de l'administration.",
+    "textes": [
+      "CDII, art. 249, 273, 274, 275, 276 et 277",
+      "Circulaire ADII n° 6522/210 du 29/12/2023 (LF 2024, art. 275)"
+    ],
+    "principe": "L'administration est autorisée à transiger avec les personnes poursuivies pour infraction douanière, avant ou après jugement définitif (CDII, art. 273). La transaction est donc possible à tout stade : dès la constatation, en cours d'instance, ou même après condamnation.\n\nCompétence et ratification : la transaction ne devient définitive qu'après ratification du ministre chargé des finances ou du directeur de l'administration ; elle lie alors irrévocablement les parties, sans recours possible (art. 274). Elle est constatée par écrit, en autant d'originaux que de parties ayant un intérêt distinct (art. 276).\n\nObjet (art. 275) :\n- la transaction peut porter sur des remises partielles ou totales des amendes, confiscations et autres sommes dues ;\n- elle ne peut jamais porter sur les droits et taxes normalement exigibles ;\n- exception : si elle comporte l'abandon des marchandises litigieuses au profit de l'administration, les droits et taxes ne sont pas dus.\n\nDepuis la LF 2024, les droits et taxes exigibles sont assis sur les marchandises effectivement saisies, sauf fraude constatée en contrôle a posteriori (art. 86 bis) ou dans le cadre de la surveillance des régimes particuliers (art. 166 ter) ; la règle facilite la transaction sur des marchandises déclarées sur aveux mais non appréhendées (circ. n° 6522/210).\n\nLes frais de justice éventuels ne peuvent pas être mis à la charge de l'administration (art. 277).",
+    "admin": "Les contraventions ne pouvant être poursuivies que sur l'initiative de l'administration (art. 249-b), celle-ci maîtrise le choix entre poursuite et transaction. La LF 2024 a assoupli l'article 275 pour améliorer le recouvrement sur les marchandises non saisies (circ. n° 6522/210). La gestion des affaires contentieuses s'inscrit dans le projet stratégique du contentieux 2024-2028 et s'appuie sur la plateforme Daam ; les montants transigés sur les droits compromis sont suivis dans l'onglet « Droit et Taxe Compromis » de BADR (note n° D200/2026).",
+    "donnees": [
+      [
+        "Moment",
+        "Avant ou après jugement définitif (art. 273)"
+      ],
+      [
+        "Ratification",
+        "Ministre des finances ou directeur de l'administration (art. 274)"
+      ],
+      [
+        "Objet transigible",
+        "Amendes, confiscations, autres sommes (art. 275)"
+      ],
+      [
+        "Non transigible",
+        "Droits et taxes exigibles, sauf abandon (art. 275)"
+      ],
+      [
+        "Assiette depuis LF 2024",
+        "Marchandises effectivement saisies, sauf fraude (circ. n° 6522/210)"
+      ]
+    ],
+    "cas": "La société fictive Rabat Textile est poursuivie pour une fausse déclaration d'espèce éludant 80 000 DH de droits ; l'amende encourue est d'une fois et demie ces droits. Elle sollicite une transaction. L'administration peut réduire l'amende, mais les 80 000 DH de droits restent dus en totalité. La société signe l'accord, qui n'engage définitivement l'administration qu'après ratification. L'erreur fréquente : négocier sur les droits eux-mêmes, ou considérer l'accord comme acquis avant la ratification.",
+    "juris": "",
+    "conseil": "Demandez la transaction le plus tôt possible, avant l'audience : elle évite les frais et l'aléa judiciaire. Présentez un dossier écrit (bonne foi, régularisation spontanée, antécédents) et proposez un échéancier pour les droits. Pour des marchandises de faible valeur, comparez le coût des droits et celui de l'abandon, qui éteint la dette fiscale.",
+    "faq": [
+      [
+        "Peut-on transiger après une condamnation ?",
+        "Oui, la transaction est possible avant ou après jugement définitif (CDII, art. 273)."
+      ],
+      [
+        "Les droits de douane peuvent-ils être réduits par transaction ?",
+        "Non, sauf abandon des marchandises au profit de l'administration ; seules les amendes, confiscations et autres sommes peuvent être remises (CDII, art. 275)."
+      ]
+    ],
+    "renvois": [
+      "9-031",
+      "9-023",
+      "9-012",
+      "9-021",
+      "9-003",
+      "9-040"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : position de l'administration mis à jour"
+    ]
+  },
+  {
+    "id": "9-031",
+    "p": 9,
+    "ch": "9.4",
+    "c": "Transaction",
+    "t": "Effets de la transaction douanière : extinction des poursuites, irrévocabilité, emprisonnement maintenu après jugement et récidive",
+    "enbref": "Conclue avant jugement définitif, la transaction éteint l'action publique et l'action de l'administration ; conclue après, elle laisse subsister l'emprisonnement. Une fois ratifiée, elle lie irrévocablement les parties. Elle compte pour la récidive, et les sommes transigées non payées restent recouvrables, y compris contre la succession.",
+    "textes": [
+      "CDII, art. 217, 257 ter, 265, 273, 274, 276 et 278"
+    ],
+    "principe": "Les effets de la transaction dépendent de son moment (CDII, art. 273) :\n- avant jugement définitif : elle éteint l'action publique et l'action de l'administration ;\n- après jugement définitif : elle laisse subsister l'emprisonnement et la mesure de sûreté personnelle visée à l'article 220-1°.\n\nUne fois ratifiée, la transaction lie irrévocablement les parties, sans recours (art. 274), et éteint l'action publique et administrative à leur égard (art. 276). Elle ne vaut qu'entre les parties contractantes : à l'égard des co-auteurs qui n'ont pas transigé, l'amende est prononcée pour son montant intégral, sans déduction, mais le recouvrement effectif se fait sous déduction de la part transigée (art. 217).\n\nLorsque la transaction comporte l'abandon des marchandises, celles-ci deviennent propriété de l'administration, qui les cède dans les conditions réglementaires, droits et taxes compris, ou les détruit si elles sont impropres (art. 278).\n\nLa transaction n'efface pas le passé contentieux : une nouvelle infraction commise dans les trois ans d'une transaction, hors contravention de quatrième classe, est punie d'une amende du double du maximum encouru ; l'aggravation ne s'applique pas aux professionnels du dédouanement, sauf faute personnelle et intentionnelle (art. 257 ter). En cas de décès de l'auteur avant paiement des sommes d'une transaction acceptée, le recouvrement peut être poursuivi contre la succession (art. 265).",
+    "admin": "Les contraventions n'étant poursuivies que sur l'initiative de l'administration (CDII, art. 249-b), le choix de transiger lui appartient. Le code précise que la transaction ratifiée lie irrévocablement les parties (art. 274) et que ses effets se limitent aux seuls signataires (art. 217), ce qui justifie d'associer à l'acte toutes les personnes poursuivies.",
+    "donnees": [
+      [
+        "Avant jugement définitif",
+        "Extinction de l'action publique et administrative (art. 273)"
+      ],
+      [
+        "Après jugement définitif",
+        "Emprisonnement maintenu (art. 273)"
+      ],
+      [
+        "Force",
+        "Irrévocable après ratification (art. 274)"
+      ],
+      [
+        "Co-auteurs non transigeants",
+        "Amende intégrale, recouvrement sous déduction (art. 217)"
+      ],
+      [
+        "Récidive",
+        "3 ans après la transaction (art. 257 ter)"
+      ]
+    ],
+    "cas": "La société fictive Oujda Trading et son transporteur sont poursuivis pour une même importation sans déclaration. La société transige avant l'audience : l'action est éteinte à son égard. Le transporteur, qui n'a pas transigé, est condamné à l'amende intégrale, mais l'administration ne recouvre que le solde, sous déduction de la part transigée. Deux ans plus tard, une nouvelle infraction de la société est sanctionnée par une amende doublée. L'erreur fréquente : croire que la transaction d'un co-auteur libère les autres.",
+    "juris": "",
+    "conseil": "Avant de signer, vérifiez que toutes les personnes poursuivies que vous souhaitez couvrir (société, dirigeant, transporteur) sont parties à la transaction. Conservez un original signé et la preuve de la ratification. Pendant les trois années suivantes, renforcez votre contrôle interne, car la récidive double le maximum de l'amende.",
+    "faq": [
+      [
+        "Une transaction après condamnation évite-t-elle la prison ?",
+        "Non, conclue après jugement définitif, elle laisse subsister l'emprisonnement (CDII, art. 273)."
+      ],
+      [
+        "Peut-on contester une transaction déjà ratifiée ?",
+        "Non, la transaction ratifiée lie irrévocablement les parties, sans recours possible (CDII, art. 274)."
+      ]
+    ],
+    "renvois": [
+      "9-030",
+      "9-023",
+      "9-013",
+      "9-040",
+      "9-041"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : position de l'administration mis à jour"
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "7-060",
+    "p": 7,
+    "ch": "7.7",
+    "c": "Drawback",
+    "t": "Drawback : principe du remboursement forfaitaire des droits et conditions d'éligibilité",
+    "enbref": "Le drawback rembourse forfaitairement, selon des taux moyens, le droit d'importation et les taxes intérieures de consommation acquittés sur des marchandises étrangères incorporées ou consommées dans des produits exportés ou cédés sous ATPA ou entrepôt industriel franc. Seules les marchandises désignées par décret y ouvrent droit.",
+    "textes": [
+      "CDII, art. 114-3° et 159",
+      "Décret n° 2-77-862, art. 173 et 175",
+      "Circulaire ADII n° 6231/313 du 17/09/2021"
+    ],
+    "principe": "Contrairement aux régimes suspensifs, le drawback ne suspend rien : il rembourse, sur une base forfaitaire, certains droits perçus à l'importation de matières étrangères entrant dans la fabrication de marchandises exportées (CDII, art. 114-3°). Il joue en suite d'exportation ou de cession en ATPA et porte sur le droit d'importation et les taxes intérieures de consommation ayant frappé les marchandises, ou les produits contenus dans les marchandises exportées ou consommés au cours de leur production (art. 159-1°). Les marchandises éligibles sont désignées par décret, et certaines destinations peuvent être exclues (art. 159-2° et 3°). Le décret renvoie à son annexe III pour la liste des marchandises éligibles et à son annexe IV bis pour les taux moyens de remboursement applicables aux marchandises fabriquées au Maroc (décret n° 2-77-862, art. 173). Lorsqu'une marchandise exportée avec drawback revient au Maroc, sa réimportation en franchise est subordonnée au remboursement du drawback perçu ou à la renonciation à celui-ci (art. 175).",
+    "admin": "La circulaire n° 6231/313 présente le drawback comme le remboursement des droits d'importation acquittés sur des marchandises utilisées dans la fabrication de produits exportés ou cédés sous ATPA ou entrepôt industriel franc. Elle informe de la publication de l'arrêté n° 840-21 du 01/04/2021, qui remplace l'arrêté n° 1320-77 du 31/10/1977 et allège le dossier de remboursement.",
+    "donnees": [
+      [
+        "Droits remboursés",
+        "Droit d'importation et TIC (CDII, art. 159-1°)"
+      ],
+      [
+        "Fait générateur",
+        "Exportation ou cession sous ATPA (CDII, art. 159-1°) ou sous EIF (circ. 6231/313)"
+      ],
+      [
+        "Marchandises éligibles",
+        "Annexe III du décret (décret, art. 173-1°)"
+      ],
+      [
+        "Taux de remboursement",
+        "Taux moyens de l'annexe IV bis (décret, art. 173-2°)"
+      ],
+      [
+        "Retour des produits",
+        "Franchise subordonnée au reversement du drawback (décret, art. 175)"
+      ]
+    ],
+    "cas": "Fès Confection SA, société fictive, achète localement un tissu importé par un négociant qui en a acquitté les droits, et l'utilise pour fabriquer des chemises exportées vers l'Espagne. Si ce tissu figure parmi les marchandises éligibles, elle peut demander le drawback sur la base du taux moyen fixé pour son produit, en justifiant le transfert de propriété entre le négociant importateur et elle-même (circ. 6231/313). Un lot de chemises lui revient ensuite pour défaut : sa réimportation en franchise suppose de reverser le drawback perçu (décret, art. 175). Erreur à éviter : demander le drawback pour des intrants importés sous ATPA ; aucun droit n'ayant été acquitté, il n'y a rien à rembourser.",
+    "juris": "",
+    "conseil": "Le drawback n'a d'intérêt que pour des intrants dédouanés en droit commun : comparez son rendement avec celui de l'ATPA, qui évite toute avance de droits. Vérifiez d'abord que l'intrant figure à l'annexe III du décret et qu'un taux moyen existe pour votre produit. Conservez dès l'achat la chaîne de factures jusqu'à l'importateur.",
+    "faq": [
+      [
+        "Quels droits le drawback rembourse-t-il ?",
+        "Le droit d'importation et, le cas échéant, les taxes intérieures de consommation, sur une base forfaitaire de taux moyens (CDII, art. 159 ; décret, art. 173)."
+      ],
+      [
+        "Puis-je bénéficier du drawback si je n'ai pas importé moi-même les intrants ?",
+        "Oui, à condition de justifier le transfert de propriété entre l'importateur et le demandeur (arrêté n° 840-21, art. 1er, cité par la circ. 6231/313)."
+      ],
+      [
+        "Le drawback est-il cumulable avec l'ATPA pour les mêmes intrants ?",
+        "Non : le drawback rembourse des droits effectivement acquittés sur des intrants dédouanés, alors que l'ATPA les suspend ; il joue notamment en suite de cession sous ATPA (CDII, art. 114-3° et 159-1°)."
+      ]
+    ],
+    "renvois": [
+      "7-001",
+      "7-010",
+      "7-061",
+      "7-062",
+      "4-043"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-061",
+    "p": 7,
+    "ch": "7.7",
+    "c": "Drawback",
+    "t": "Drawback : calcul par taux moyens, dossier de remboursement trimestriel et délais",
+    "enbref": "Le montant du drawback résulte des taux moyens fixés par décret, et non des droits réellement payés. La demande se dépose par trimestre au bureau de Casa-Port, ou via le Bureau d'Ordre Digital, dans les deux ans de l'exportation ; l'administration doit rembourser dans les 30 jours ouvrables suivant le dépôt d'un dossier complet.",
+    "textes": [
+      "CDII, art. 160, 161, 162 et 163",
+      "Décret n° 2-77-862, art. 173-2°",
+      "Circulaire ADII n° 6231/313 du 17/09/2021",
+      "Arrêté n° 840-21 du 01/04/2021 (cité par la circ. 6231/313)"
+    ],
+    "principe": "Les taux moyens de remboursement sont fixés par décret après consultation des industries intéressées ; le décret précise leur date d'application et ils sont révisés dans les mêmes formes si leurs éléments de calcul changent (CDII, art. 160 ; décret n° 2-77-862, art. 173-2°). La liquidation a lieu trimestriellement, sur un dossier dont les pièces, délais et conditions sont fixés par arrêté (CDII, art. 161). Aucun remboursement n'est possible pour une exportation antérieure de plus de deux ans à la date de la demande (art. 162). La composition des produits exportés peut être déterminée par le laboratoire désigné, avec possibilité de nouvelles analyses (art. 163).",
+    "admin": "Selon la circulaire n° 6231/313, l'arrêté n° 840-21 limite le dossier à une demande écrite et deux pièces, et fixe un délai légal de remboursement de 30 jours ouvrables à compter du dépôt de la demande complète. Les dossiers se déposent au bureau de Casa-Port, ou à Casa-Port et Casablanca-MEAD pour le drawback-énergie du textile, ou sur la plateforme « Bureau d'Ordre Digital ».",
+    "donnees": [
+      [
+        "Base de calcul",
+        "Taux moyens fixés par décret (CDII, art. 160)"
+      ],
+      [
+        "Rythme des demandes",
+        "Trimestriel (CDII, art. 161 ; circ. 6231/313)"
+      ],
+      [
+        "Prescription",
+        "Exportations de moins de 2 ans à la date de la demande (CDII, art. 162)"
+      ],
+      [
+        "Délai de remboursement",
+        "30 jours ouvrables après dépôt du dossier complet (arrêté n° 840-21, art. 2 ; circ. 6231/313)"
+      ],
+      [
+        "Bureau de dépôt",
+        "Casa-Port, ou Bureau d'Ordre Digital (circ. 6231/313)"
+      ]
+    ],
+    "cas": "Atlas Céramique SARL, société fictive, a exporté au premier trimestre 2026 des carreaux fabriqués avec des émaux importés et dédouanés. En avril 2026, elle dépose sur le Bureau d'Ordre Digital une demande trimestrielle unique : références des déclarations d'exportation, nature et quantités exportées, références des déclarations d'importation des émaux, et description du processus de fabrication (circ. 6231/313). Le dossier étant complet, le remboursement, calculé au taux moyen applicable à son produit, doit intervenir sous 30 jours ouvrables. Erreur à éviter : regrouper des exportations de 2023 dans une demande déposée en 2026 ; au-delà de deux ans, elles ne sont plus remboursables (CDII, art. 162).",
+    "juris": "",
+    "conseil": "Pièces du dossier de remboursement (arrêté n° 840-21, cité par la circ. 6231/313) :\n- demande écrite listant les déclarations d'exportation ou de cession sous ATPA ou EIF ;\n- nature et quantité des marchandises exportées ou cédées ;\n- références des déclarations de mise à la consommation ou quittances des droits et TIC ;\n- justificatifs du transfert de propriété entre l'importateur et le demandeur ;\n- description du processus de production.\nDéposez chaque trimestre sans attendre : le délai de deux ans court à partir de chaque exportation.",
+    "faq": [
+      [
+        "Le drawback correspond-il aux droits que j'ai réellement payés ?",
+        "Non, il est calculé sur des taux moyens fixés par décret, après consultation des industries concernées (CDII, art. 160)."
+      ],
+      [
+        "Dans quel délai la douane doit-elle rembourser ?",
+        "Dans les 30 jours ouvrables suivant le dépôt d'une demande complète (arrêté n° 840-21, art. 2, cité par la circ. 6231/313)."
+      ],
+      [
+        "Puis-je demander le drawback pour une exportation ancienne ?",
+        "Non au-delà de deux ans à la date de la demande (CDII, art. 162)."
+      ],
+      [
+        "Puis-je demander le drawback pour une exportation réalisée il y a trois ans ?",
+        "Non : aucun remboursement n'est possible pour une exportation antérieure de plus de deux ans à la date de la demande (CDII, art. 162)."
+      ]
+    ],
+    "renvois": [
+      "7-060",
+      "7-062",
+      "4-043",
+      "3-020"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "7-062",
+    "p": 7,
+    "ch": "7.7",
+    "c": "Drawback",
+    "t": "Drawback-énergie : remboursement sur coefficients de consommation énergétique, produits éligibles et gestion sur BADR",
+    "enbref": "Le drawback-énergie rembourse les droits et taxes sur les produits énergétiques consommés pour fabriquer certains produits exportés, sur la base de coefficients de consommation fixés avec les professionnels. Le dossier est allégé, et les demandes portant sur des exportations faites depuis le 01/01/2024 se gèrent sur BADR, après domiciliation préalable pour un premier bénéfice.",
+    "textes": [
+      "Circulaire ADII n° 6231/313 du 17/09/2021",
+      "Circulaire ADII n° 6552/313 du 28/03/2024",
+      "Circulaire ADII n° 6591/313 du 16/08/2024",
+      "Arrêté n° 1286-24 du 15/05/2024 (cité par la circ. 6591/313)",
+      "Circulaire ADII n° 6348/313 du 06/07/2022, annexe II"
+    ],
+    "principe": "Le drawback-énergie est une modalité du drawback de l'article 159 du CDII, qui couvre les produits consommés au cours de la production des marchandises exportées. Son remboursement repose sur des coefficients de consommation énergétique fixés de concert avec les associations professionnelles et les départements ministériels concernés (circ. 6231/313). La liste des produits exportés éligibles est fixée par arrêté du ministre des finances : l'arrêté n° 1286-24 du 15/05/2024 l'a étendue à la fibre d'acier, à compter du 01/07/2024 (circ. 6591/313).",
+    "admin": "La circulaire n° 6231/313 dispense les dossiers de drawback-énergie des références de paiement des droits et des justificatifs de transfert de propriété, puisque le remboursement repose sur des coefficients. La circulaire n° 6552/313 intègre la gestion de ces dossiers à BADR pour les déclarations d'exportation ou de cession souscrites à compter du 01/01/2024 : le déclarant crée et suit son dossier, en indiquant pour le textile la nature des transformations ; un premier bénéficiaire dépose d'abord une demande de domiciliation auprès du service central des régimes économiques. La circulaire n° 6591/313 publie les coefficients de la fibre d'acier. La circulaire n° 6348/313 (annexe II) réserve à l'Administration centrale la domiciliation des dossiers de drawback-énergie du textile-habillement.",
+    "donnees": [
+      [
+        "Base de remboursement",
+        "Coefficients de consommation énergétique (circ. 6231/313)"
+      ],
+      [
+        "Gestion sur BADR",
+        "Déclarations souscrites depuis le 01/01/2024 (circ. 6552/313 du 28/03/2024)"
+      ],
+      [
+        "Premier bénéfice",
+        "Domiciliation préalable auprès du service central des RED (circ. 6552/313)"
+      ],
+      [
+        "Bureaux",
+        "Casa-Port et Casa-MEAD (textile), Casa-Port (autres industries) (circ. 6552/313)"
+      ],
+      [
+        "Fibre d'acier",
+        "Éligible depuis le 01/07/2024 ; électricité 1 375,8 kWh par tonne (processus ferraille) (circ. 6591/313)"
+      ]
+    ],
+    "cas": "Sidi Kacem Fibres SARL, société fictive, produit de la fibre d'acier à partir de ferraille et en exporte 500 tonnes au troisième trimestre 2026. Bénéficiant du drawback-énergie pour la première fois, elle dépose d'abord sa demande de domiciliation auprès du service central, puis crée son dossier trimestriel sur BADR. Le remboursement est calculé sur les coefficients de la circulaire n° 6591/313, dont 1 375,8 kWh d'électricité par tonne, soit 687 900 kWh pour 500 tonnes. Erreur à éviter : appliquer les coefficients du processus « à partir de la billette », plus bas, si l'usine part de la ferraille, ou l'inverse ; le coefficient suit le processus réel.",
+    "juris": "",
+    "conseil": "Documentez le processus de fabrication réellement utilisé, car il détermine les coefficients applicables. Pour les exportations antérieures au 01/01/2024, les dossiers restent gérés hors BADR : ne les mélangez pas avec les nouvelles déclarations. Vérifiez chaque année la publication d'éventuels arrêtés étendant la liste des produits éligibles à votre secteur.",
+    "faq": [
+      [
+        "Dois-je prouver le paiement des droits sur l'énergie consommée ?",
+        "Non, ces références ne sont pas exigées pour le drawback-énergie, calculé sur des coefficients de consommation (circ. 6231/313 du 17/09/2021)."
+      ],
+      [
+        "Comment demander le drawback-énergie pour la première fois ?",
+        "Par une demande de domiciliation auprès du service central des régimes économiques, avant de déposer les dossiers sur BADR (circ. 6552/313 du 28/03/2024)."
+      ],
+      [
+        "Quels justificatifs ne sont pas exigés pour le drawback-énergie ?",
+        "Les références de paiement des droits et les justificatifs du transfert de propriété, le remboursement reposant sur des coefficients de consommation énergétique (circ. n° 6231/313)."
+      ]
+    ],
+    "renvois": [
+      "7-060",
+      "7-061",
+      "4-020"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : questions fréquentes mis à jour"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "id": "7-001",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Le dossier type et les listes de pièces",
+  "t": "Le socle commun",
+  "principe": "Une même pièce sert à plusieurs guichets. Il est efficace de constituer dès le départ un dossier socle, tenu à jour, dont on extrait ce que chaque guichet demande. La plateforme des CRI permet d'ailleurs de ne déposer qu'une copie d'un document requis par plusieurs procédures.\n| N° | Pièce | Émetteur | Validité usuelle | Exigée par |\n| S1 | Statuts à jour | Société | – | CRI, banque, Tamwilcom, Finéa, fonds |\n| S2 | Certificat d'immatriculation au registre du commerce (modèle J) | Tribunal de commerce (registre du commerce) | Moins de 6 mois (TPME) ; moins de 3 mois pour certaines banques | Tous |\n| S3 | Attestation d'identifiant fiscal et ICE | DGI | – | Tous |\n| S4 | Dernier procès-verbal de l'organe délibérant (approbation du projet, pouvoirs) | Société | – | CRI, banque |\n| S5 | Pièces d'identité du représentant légal et des associés | – | En cours de validité | Tous |\n| S6 | Attestation de régularité fiscale | DGI | Moins de 6 mois | CRI, banque, marchés publics, programmes |\n| S7 | Attestation de régularité CNSS | CNSS | Moins de 6 mois | CRI, banque, programmes |\n| S8 | États financiers des trois derniers exercices (bilan, CPC, ESG, ETIC, liasse fiscale) | Société, expert-comptable | Derniers exercices clos | Tous |\n| S9 | Rapport du commissaire aux comptes | Commissaire aux comptes | Dernier exercice | Majorations Tamwilcom, Cap Access, bourse |\n| S10 | Relevés bancaires (6 à 12 mois) | Banque | Récents | Banque, microfinance |\n| S11 | Titre foncier, promesse de vente ou contrat de location du terrain | Conservation foncière, notaire, bailleur | – | CRI (pièce g TPME), banque |\n| S12 | Plan de situation, plan cadastral (coordonnées Lambert), note de renseignements urbanistiques | Agence urbaine, ANCFCC, géomètre | Récente | CRI, permis |\n| S13 | Note de présentation du projet | Promoteur | – | Tous |\n| S14 | Business plan et plan de financement | Promoteur, conseil | – | Tous |\n| S15 | Devis et factures pro forma | Fournisseurs | Moins de 3 à 6 mois | Banque, CRI, programmes |\n| S16 | Tableau des emplois par catégorie et par année, masse salariale (dont féminine) | Promoteur | – | CRI |\n| S17 | Justificatif de l'apport (capital libéré, comptes courants bloqués) | Banque, société | – | Banque, TPME (10 %) |\n| S18 | Récépissé de l'étude ou notice d'impact environnemental | Administration de l'environnement | – | CRI (projets assujettis) |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-002",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Le dossier type et les listes de pièces",
+  "t": "La matrice pièces × dispositifs",
+  "principe": "| Pièce | Dispositif principal | Dispositif TPME | Crédit garanti Tamwilcom | Cofinancement Tamwilcom | Finéa | Fonds | FDA |\n| Statuts, modèle J, IF, ICE | Oui | Oui (a, b) | Oui | Oui | Oui | Oui | Pour les sociétés |\n| PV de l'organe délibérant | Oui | Oui (a) | Selon la banque | Oui | Oui | Oui | – |\n| Attestations fiscale et CNSS | Oui | Oui (c, d), moins de 6 mois | Selon la banque | Oui | Oui | – | Selon le cas |\n| États financiers | 3 exercices | 3 exercices ou états établis (e) | 3 exercices | 3 exercices | Oui | Oui | – |\n| Déclaration ou note de projet | Oui | Modèle CRI (f) | Oui | Oui | Plan de charge | Pitch, business plan | Demande d'approbation préalable |\n| Foncier | Oui | Oui (g) | Si hypothèque | Selon le projet | – | – | Justificatif d'exploitation |\n| Pièce d'identité | Oui | Oui (h) | Oui | Oui | Oui | Oui | Oui |\n| Business plan | Oui | Mode de financement dans la déclaration | Oui | Oui | – | Oui | Selon le projet |\n| Justificatifs de critères | Genre, métiers d'avenir, durable, intégration locale | Activité prioritaire | Profil (femme, création, exportateur) | Profil (MDM, femme, vert) | Marché | Levée | Devis, factures |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-003",
+  "p": 7,
+  "ch": "7.1",
+  "c": "Le dossier type et les listes de pièces",
+  "t": "Les erreurs qui font rejeter ou retarder un dossier",
+  "principe": "- Attestations fiscale, CNSS ou modèle J de plus de six mois au dépôt.\n- Incohérence entre le montant de la note de projet, le business plan, la déclaration et les devis.\n- Ratio d'emplois calculé sur le montant primable au lieu du montant total (ou l'inverse selon le dispositif) ; emplois non « stables » (contrats de moins de 18 mois, salariés non marocains, emplois déjà aidés).\n- Branche d'activité non éligible dans la région (dispositif TPME).\n- Activité déclarée au registre du commerce sans rapport avec le projet.\n- Foncier non sécurisé : ni titre ni promesse.\n- Apport non justifié par des relevés.\n- Prime inscrite comme ressource de l'année 0.\n- Absence de justificatifs pour les primes de 3 % (genre, durable, intégration locale).\n- Dépenses intragroupe incluses dans le montant primable TPME.\n- Véhicules inclus dans le montant primable TPME.\n- Signature du dossier par une personne sans pouvoir.",
+  "faq": [
+   [
+    "Quelles pièces justificatives sont demandées sur la plateforme CRI ?",
+    "Pour le dispositif TPME, les huit pièces de l'arrêté 3.53.25 : statuts et dernier procès-verbal ; modèle J de moins de six mois ; attestations fiscale et CNSS de moins de six mois ; états financiers ; déclaration du projet selon le modèle de la plateforme ; contrat ou promesse relatif au terrain ; pièce d'identité du représentant légal. Pour le dispositif principal et les autres procédures, la plateforme affiche la liste propre à chaque procédure ; le socle du tableau 27.1 couvre l'essentiel."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

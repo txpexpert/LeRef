@@ -1,0 +1,29 @@
+[
+ {
+  "id": "9-040",
+  "p": 9,
+  "ch": "9.5",
+  "c": "Financer : hypothèque, nantissement, privilèges",
+  "t": "L'hypothèque conventionnelle",
+  "principe": "- Droit réel accessoire sur un bien immatriculé ou en voie d'immatriculation (art. 165) ; indivisible (art. 166) ; elle s'étend aux annexes, installations et améliorations postérieures et à tout ce qui s'unit au bien par accession (art. 167) : les constructions que vous élevez sur le terrain hypothéqué sont couvertes.\n- Conclue par écrit et valable seulement si inscrite au titre foncier (art. 174). L'acte mentionne : identité des parties ; désignation de l'immeuble (nom, site, surface, contenance, numéro du titre foncier ou de la réquisition) ; montant de la créance et durée de remboursement (art. 175). Le donneur doit être propriétaire et apte à disposer (art. 176).\n- Crédit ouvert ou compte courant : possible si le montant maximum est fixé dans l'acte (art. 179) ; l'hypothèque prend rang à sa date d'inscription, quelles que soient les dates des tirages (art. 180).\n- Interdit : hypothéquer un immeuble à acquérir ultérieurement (art. 183). Une promesse ou une construction non encore acquise ne peut donc pas servir de garantie avant son acquisition.\n- Prénotation différée (courts emprunts) : l'inscription peut être différée 90 jours maximum sans perte de rang, par dépôt de l'acte et du duplicata du titre foncier avec demande de prénotation et interdiction de toute inscription consentie par le propriétaire pendant ces 90 jours ; à défaut d'inscription définitive dans le délai, la prénotation est radiée d'office (art. 184 à 186).\n- Hypothèque forcée : peut être conférée par décision de justice au vendeur, à l'échangiste et au copartageant lorsque le prix ou la soulte n'a pas été garanti par une hypothèque conventionnelle ; le président du tribunal peut ordonner une prénotation en urgence ; le jugement prend rang à la date de la prénotation (art. 171 à 173).\n- Pendant le crédit : le propriétaire garde l'usage, l'exploitation et la libre disposition de l'immeuble sans affecter les droits du créancier (art. 187 et 188) ; il garantit l'intégrité de l'immeuble ; en cas de perte ou de vice par sa faute, le créancier peut exiger le remboursement immédiat ou une garantie suffisante (art. 189 et 190). En cas de perte, vice ou expropriation, le droit du créancier se reporte sur les fonds qui en tiennent lieu (assurance, indemnité) (art. 191).\n- Clauses nulles : celle qui permettrait au créancier de devenir propriétaire en cas de non-remboursement (art. 194) ; celle prévoyant la vente hors des procédures légales, sauf accord des parties après l'échéance (art. 195).\n- Droit de suite et purge : le créancier suit l'immeuble en quelque main qu'il passe (art. 199). Le détenteur (acquéreur inscrit non engagé par la dette) peut se substituer au débiteur, purger l'immeuble en payant la créance et ses accessoires, ou le délaisser (art. 200 à 204).\n- Extinction : paiement, mainlevée, perte totale du bien, confusion, ou vente forcée (art. 212 et 213).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "9-041",
+  "p": 9,
+  "ch": "9.5",
+  "c": "Financer : hypothèque, nantissement, privilèges",
+  "t": "La vente forcée (titre IV)",
+  "principe": "1. Le créancier muni d'un certificat spécial d'inscription d'hypothèque délivré par le conservateur peut demander la vente forcée aux enchères ; ce certificat a force de titre exécutoire (art. 214).\n2. Mise en demeure de payer ou de délaisser, adressée par un chargé d'exécution au débiteur et au détenteur : délai de 15 jours (art. 215). Elle est portée sur le titre foncier et tient lieu de saisie immobilière (art. 216).\n3. Plusieurs immeubles pour une même créance : vente successive, avec autorisation du président du tribunal (art. 217).\n4. Le saisi peut demander la mainlevée en référé si la procédure n'est pas poursuivie (art. 218).\n5. Sommation de prendre connaissance du cahier des charges dans les 8 jours de son dépôt (art. 219).\n6. L'inscription du procès-verbal d'adjudication transfère la propriété et purge les privilèges et hypothèques ; les créanciers n'ont plus d'action que sur le prix (art. 220). Aucune surenchère après une vente à l'amiable (art. 221).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "9-042",
+  "p": 9,
+  "ch": "9.5",
+  "c": "Financer : hypothèque, nantissement, privilèges",
+  "t": "Nantissement et privilèges",
+  "principe": "Le nantissement immobilier est constitué par acte authentique, à durée déterminée, avec possession constatée sous peine de nullité si l'immeuble n'est pas immatriculé (art. 145 à 147) ; pour les immeubles immatriculés, il suit le régime de l'hypothèque (art. 145). Parmi les privilèges, seuls les frais de justice et les droits du Trésor (à défaut de mobilier) grèvent les immeubles du débiteur (art. 144) ; ils produisent leurs effets même sans inscription (art. 143).\nPour le promoteur et la banque. (1) Prévoir l'hypothèque sur le terrain avant les travaux ; (2) fixer le plafond dans l'acte pour les crédits par tranches ; (3) ne pas compter sur une garantie portant sur des lots non encore acquis ou des logements futurs (art. 183) ; (4) coordonner avec la caution bancaire de la VEFA (partie X).",
+  "maj": "2026-10-18"
+ }
+]

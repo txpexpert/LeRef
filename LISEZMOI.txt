@@ -1,0 +1,50 @@
+PLATEFORME DE GUIDES PRATIQUES — MAQUETTE HTML
+Version de démonstration — octobre 2026
+
+OUVRIR
+Décompressez le dossier puis double-cliquez sur index.html.
+Fonctionne hors ligne, sans serveur (polices Google si connexion disponible).
+
+CHANGER DE POINT DE VUE
+La barre jaune en haut de chaque page permet de voir le site en tant que :
+- Visiteur : sommaire visible, paragraphes verrouillés sauf l'accès libre (7-001)
+- Abonné (Karim Alami, Transit Atlas SARL) : lecture complète, filigranes, compte client
+- Administrateur : paiements, clients, surveillance, montages, identification des copies
+
+PAGES (23)
+Public       index, tarifs, assistant (Assistant IA), guide (sommaire), parcours, connexion, inscription, legal
+Lecture      lecture (?id=7-005 montre le gabarit complet), recherche, texte (texte source)
+Compte       compte, favoris, abonnement, factures, facture, membres
+Admin        admin, admin-paiements, admin-clients, admin-surveillance,
+             admin-montages, admin-filigrane
+
+À ESSAYER
+- Abonnement > « Recevoir la facture proforma » : une proforma numérotée est émise
+- Administration > Paiements : saisir une référence de virement et valider
+- Administration > Identifier une copie > « Coller un exemple » puis « Analyser »
+- Lecture : copier un passage puis le coller ailleurs (la source est ajoutée)
+- Inscription avec une adresse en gov.ma : refusée
+- Utilisateurs : ajouter des collaborateurs jusqu'à la limite de la formule
+
+CONTENU
+Le plan complet (9 parties, 45 chapitres) et les 171 paragraphes de l'édition 2026.
+Logigrammes et modèles d'actes : voir le site (npm run dev), dans Annexes.
+Le paragraphe 7-005 est complété (en bref, données clés, cas pratique, FAQ) pour
+montrer le gabarit enrichi. Entreprises, personnes, montants et virements sont fictifs.
+
+DIFFÉRENCE AVEC LE SITE RÉEL
+Ici, les protections sont simulées dans le navigateur. Sur le site réel (Next.js +
+Supabase), elles sont appliquées par le serveur : le contenu n'est jamais envoyé
+à un visiteur non autorisé.
+
+
+AJOUTS (octobre 2026)
+- Page d'accueil : les 12 couvertures affichent
+  édition, nombre de paragraphes, de chapitres et de pages PDF. Données dans assets/data-couvertures.js.
+  Le PDF est désactivé pour le moment (interrupteur PDF_ACTIF dans le script de génération ; à activer avec l'option d'achat).
+- Liste déroulante « Choisir votre thème » : un lien par thème vers guides/<theme>/index.html.
+- guides/<theme>/ : une page HTML par fichier JSON (chapitres/, liminaires, logigrammes, modeles,
+  parcours) + le JSON source dans guides/<theme>/json/. 12 thèmes, 463 pages.
+- Menu : nouvelle page « Assistant IA » (barre de recherche + bouton Soumettre).
+  Aucun appel à un modèle : la réponse indique que l'assistant n'est pas encore activé.
+- Attention : les pages guides/ affichent tout le contenu sans contrôle d'accès (maquette locale).

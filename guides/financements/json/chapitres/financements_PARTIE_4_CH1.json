@@ -1,0 +1,70 @@
+[
+ {
+  "id": "4-001",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Le crédit bancaire",
+  "t": "Les familles de crédits",
+  "principe": "| Crédit | Objet | Durée usuelle | Remboursement | Sûretés habituelles |\n| Crédit d'investissement à moyen terme | Équipements, aménagements | 2 à 7 ans | Échéances constantes ou dégressives, différé possible | Nantissement du matériel, caution, garantie Tamwilcom |\n| Crédit d'investissement à long terme | Bâtiments, gros programmes | Au-delà de 7 ans | Idem, différé pendant la construction | Hypothèque, garantie Tamwilcom |\n| Crédit immobilier professionnel | Acquisition ou construction de locaux | 10 à 15 ans | Échéances constantes | Hypothèque de premier rang |\n| Crédit relais | Préfinancer une ressource certaine (prime, cession d'actif, augmentation de capital, remboursement de TVA) | Quelques mois à 2 ans | In fine, à l'encaissement | Délégation de la ressource attendue (par exemple, de la prime) |\n| Facilité de caisse, découvert | Décalages de trésorerie | Court terme, renouvelable | Fluctuant | Caution, Damane Atayssir ou Damane Express |\n| Escompte, mobilisation de créances | Financer les créances clients | Durée de la créance | À l'échéance de la créance | Cession des effets ou des créances |\n| Affacturage | Cession du poste clients à un factor | Selon contrat | Par le recouvrement des créances | Cession des créances |\n| Préfinancement et crédits à l'export | Fabriquer et livrer une commande à l'export | Durée de la commande | À l'encaissement | Domiciliation, assurance-crédit |\n| Crédit documentaire, garanties bancaires | Importations, marchés | Selon l'opération | – | Provision ou ligne d'engagement |\n| Cautions de marché | Soumission, bonne exécution, restitution d'avance, retenue de garantie | Durée du marché | – | Ligne d'engagement, Damane Tasdir pour l'étranger |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-002",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Le crédit bancaire",
+  "t": "Comment la banque décide",
+  "principe": "Le chargé d'affaires présente le dossier à un comité de crédit qui apprécie quatre éléments : la qualité du promoteur (expérience, moralité, apport, engagement personnel) ; la viabilité du projet (marché, rentabilité, flux de trésorerie) ; la structure financière (fonds propres, endettement) ; les garanties (sûretés réelles, cautions, garantie Tamwilcom). Le dossier est aussi consulté au Credit Bureau (incidents de paiement, encours). Un incident non régularisé bloque presque toujours la décision.\n### À retenir\nla garantie Tamwilcom ne se substitue pas à la viabilité du projet. Elle permet à une banque de financer un projet viable mais insuffisamment garanti ; elle ne fait pas accepter un projet non rentable.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-003",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Le crédit bancaire",
+  "t": "Les sûretés",
+  "principe": "| Sûreté | Objet | Formalités |\n| Hypothèque | Immeuble immatriculé | Acte notarié ou adoulaire, inscription à la conservation foncière |\n| Nantissement du fonds de commerce | Fonds de commerce de l'emprunteur | Inscription au registre du commerce |\n| Nantissement du matériel et de l'outillage | Équipements financés | Inscription au registre tenu au tribunal de commerce ; mention du privilège du vendeur ou du prêteur |\n| Gage, nantissement de titres ou de créances | Stocks, actions, comptes, marchés | Selon le bien, avec dépossession ou inscription au registre national électronique des sûretés mobilières |\n| Caution personnelle | Engagement du dirigeant ou des associés | Acte de cautionnement |\n| Délégation d'assurance | Assurance décès-invalidité, multirisque | Avenant de délégation |\n| Domiciliation | Recettes du projet, d'un marché ou d'une prime | Lettre de domiciliation irrévocable |\nLa loi de finances 2026 a fixé à 200 DH le droit d'enregistrement des cautions, hypothèques et nantissements de fonds de commerce consentis en garantie de crédits (statut C).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-004",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Le crédit bancaire",
+  "t": "Le coût du crédit",
+  "principe": "Le coût d'un crédit comprend le taux d'intérêt (fixe ou variable, indexé ou non), les frais de dossier, la commission de garantie Tamwilcom répercutée, les assurances et les frais de constitution des sûretés. Les taux pratiqués dépendent du taux directeur de Bank Al-Maghrib, du risque de l'emprunteur, de la durée et des garanties. Les fourchettes citées dans les échanges de travail antérieurs (environ 4 à 5 % pour une grande entreprise notée, 5 à 7 % pour une PME solide, 7 à 9 % pour un projet risqué) sont indicatives et de statut D ; seule l'offre écrite de la banque engage.\nLe programme Intelaka fait exception : taux plafonné à 2 % (1,75 % en milieu rural selon le Kit 2023), refinancé par Bank Al-Maghrib à 1,25 % (statut C).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-005",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Le crédit bancaire",
+  "t": "Le dossier bancaire",
+  "principe": "| Bloc | Pièces |\n| Demande | Lettre de demande précisant l'objet, le montant, la durée, le différé souhaité, les garanties proposées et le produit Tamwilcom visé |\n| Entreprise | Statuts à jour, modèle J, identifiant fiscal, ICE, procès-verbaux, pouvoirs, pièces d'identité des dirigeants et associés |\n| Situation | Attestations fiscale et CNSS ; relevés bancaires des six à douze derniers mois ; état des engagements bancaires existants |\n| Comptes | Trois derniers bilans et comptes de produits et charges (liasse fiscale), rapport du commissaire aux comptes s'il y en a un, situation intermédiaire de l'exercice en cours |\n| Projet | Note de présentation, étude de marché, business plan à cinq ans (comptes prévisionnels, plan de financement, plan de trésorerie mensuel la première année), sensibilité |\n| Investissement | Devis, factures pro forma, contrats de construction, plans |\n| Foncier | Titre foncier ou promesse de vente, contrat de bail |\n| Autorisations | Permis de construire, autorisations sectorielles, convention d'investissement ou accusé de dépôt au CRI |\n| Apport | Justificatifs de libération du capital, des comptes courants bloqués |\n| Garanties | Liste des sûretés proposées, évaluations des biens |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-006",
+  "p": 4,
+  "ch": "4.1",
+  "c": "Le crédit bancaire",
+  "t": "La présentation au comité de crédit",
+  "principe": "La note de crédit que prépare le chargé d'affaires suit en général ce plan, que le promoteur a intérêt à anticiper : présentation de la relation ; présentation de l'entreprise et des promoteurs ; objet et montant du financement ; analyse du marché ; analyse financière historique ; prévisions et capacité de remboursement (DSCR) ; structure du financement et garanties ; risques et mesures d'atténuation ; avis et conditions proposées. Un dossier remis sous cette forme raccourcit l'instruction.",
+  "faq": [
+   [
+    "Combien de temps une banque met-elle à répondre ?",
+    "Aucun délai réglementaire. Un crédit garanti Damane Express ou Intelaka se traite généralement en quelques semaines ; un crédit d'investissement de plusieurs millions avec hypothèque et garantie Damane Istitmar prend plusieurs semaines à plusieurs mois, selon la complétude du dossier et la constitution des sûretés."
+   ],
+   [
+    "Peut-on obtenir un crédit relais adossé à la prime de la Charte ?",
+    "C'est une pratique bancaire courante : la banque finance la prime attendue sur présentation de la convention signée, avec domiciliation du versement de la prime à son profit. Les conditions dépendent de la banque."
+   ],
+   [
+    "Quelles banques proposent les produits de cofinancement Tamwilcom ?",
+    "Les produits de Tamwilcom sont distribués par les banques commerciales conventionnées ; la liste exacte par produit est publiée par Tamwilcom. Pour la finance participative, les banques et fenêtres participatives (notamment Bank Al Yousr, Al Akhdar Bank et Umnia Bank, principales partenaires de Daama Tamwil en 2024)."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

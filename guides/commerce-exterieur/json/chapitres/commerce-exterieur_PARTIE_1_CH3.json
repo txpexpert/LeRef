@@ -1,0 +1,38 @@
+[
+ {
+  "id": "1-020",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Restrictions quantitatives et marchandises soumises à licence",
+  "t": "Deux listes, deux époques",
+  "principe": "Le corpus contient deux listes de marchandises soumises à licence :\n- l'arrêté n° 1308-94 du 19 avril 1994, dans sa version consolidée, qui fixe la liste I (licence d'importation) et la liste II (licence d'exportation) ;\n- la liste publiée par la Direction générale du commerce (DGC) des « marchandises pour lesquelles une licence d'importation est exigée », non datée, qui reflète l'état actuel des restrictions à l'importation.\n### NOTE\nLes deux exemplaires de la liste DGC fournis sont strictement identiques (même empreinte numérique) ; un seul a été conservé dans la base JSON.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-021",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Restrictions quantitatives et marchandises soumises à licence",
+  "t": "Ce que contient la liste DGC (214 lignes, 232 positions tarifaires)",
+  "principe": "La liste DGC regroupe des catégories très hétérogènes. Pour l'opérateur, elles se rangent en sept familles :\n| Famille | Exemples tirés de la liste | Logique de la restriction |\n| Substances appauvrissant la couche d'ozone et gaz fluorés | CFC, HCFC, HFC (HFC-23, HFC-32, HFC-134a…), HFO-1234yf, halons, bromure de méthyle et pesticides qui en contiennent | Engagements environnementaux internationaux |\n| Précurseurs d'armes chimiques et toxines | Dérivés sulfurés et phosphonés, chlorovinylarsines, saxitoxine, ricine | Sécurité et non-prolifération |\n| Explosifs et articles dangereux | Poudres et explosifs, pyrotechnie, capsules de protoxyde d'azote, amiante | Sécurité publique et santé |\n| Produits usagés ou de récupération | Friperie, pneumatiques rechapés ou usagés, châssis usagés, roues à pneus rechapés, déchets plastiques, papiers à recycler | Protection de la santé, de l'environnement et de la production locale |\n| Métaux et déchets métalliques | Déchets de fonte, fer, cuivre, aluminium, plomb, zinc et métaux rares ; billettes d'acier ; fil machine | Approvisionnement et contrôle des filières |\n| Matières plastiques | Polyéthylène, films en polyéthylène imprimés ou non | Politique de lutte contre les sacs plastiques |\n| Biens de sécurité et divers | Couteaux à lame d'une certaine longueur, matraques, armes blanches, arbalètes, drones, bateaux pneumatiques semi-rigides, moteurs hors-bord, masques de protection, thermomètres à mercure, réfrigérateurs et compresseurs contenant certains gaz | Ordre public, sécurité maritime, santé |\n### CONSEIL PRATIQUE\nLa mention « EX » devant un code SH signifie que seule une partie de la position est visée. Avant de conclure qu'un produit est libre à l'importation, vérifier la désignation exacte de la ligne, pas seulement le code.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-022",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Restrictions quantitatives et marchandises soumises à licence",
+  "t": "L'arrêté 1308-94 : un texte à manier avec précaution",
+  "principe": "L'arrêté 1308-94 fixe en annexe I la liste des marchandises soumises à licence d'importation et en annexe II celle des marchandises d'origine marocaine soumises à licence d'exportation (art. 1er et 2). La base JSON en reprend 178 lignes pour la liste I et 179 lignes pour la liste II. Pour certains produits agricoles et pétroliers, la licence n'était exigible que jusqu'à des dates aujourd'hui dépassées (1995-1996).\n### POINT DE VIGILANCE\nLa liste I de l'arrêté 1308-94 a été modifiée à de nombreuses reprises. Pour l'importation, la liste DGC est la référence opérationnelle ; l'arrêté reste utile pour la liste II des exportations soumises à licence (bulbes de safran, plants d'arganier, céréales et farines, sucres, déchets métalliques, objets d'antiquité de plus de 100 ans, collections, etc.).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "1-023",
+  "p": 1,
+  "ch": "1.3",
+  "c": "Restrictions quantitatives et marchandises soumises à licence",
+  "t": "La déclaration préalable d'importation",
+  "principe": "À titre conservatoire, l'administration peut soumettre à déclaration préalable les importations qui causent ou menacent de causer un préjudice à la production nationale, pour neuf mois au plus, renouvelables une fois (loi 13-89, art. 15). Les déclarations sont instruites en 10 jours au maximum, portés à 20 jours en cas d'avis préalable du ministère intéressé (décret 2-93-415, art. 28). Dans le cadre d'une enquête de défense commerciale, le décret 2-12-645 prévoit un mécanisme comparable de « surveillance des importations » avec visa préalable de l'engagement d'importation (voir 13.3).",
+  "maj": "2026-10-17"
+ }
+]

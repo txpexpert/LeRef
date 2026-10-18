@@ -1,0 +1,20 @@
+[
+ {
+  "id": "8-010",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Articuler la loi 55-19 avec les procédures de ce livre",
+  "t": "Articuler la loi 55-19 avec les procédures de ce livre — présentation",
+  "principe": "| Procédure | Règle spéciale | Ce que la loi 55-19 y ajoute |\n| Permis de construire | Commission : 15 jours ouvrables (grands projets) ; silence de 2 mois = permis tacite (loi 12-90, art. 48, version d'origine) | Plafond de 60 jours (30 en investissement) ; récépissé « dossier déposé » ; une seule demande de complément ; le permis tacite se lit avec la liste réglementaire : obtenir l'acte ou l'attestation du gouverneur avant d'ouvrir le chantier |\n| Autorisation de lotir | Silence valant accord lorsque l'affectation est conforme aux documents d'urbanisme, dans les délais et modalités des textes en vigueur, notamment la loi 55-19 ; délais interrompus par chaque demande de l'administration (loi 25-90, art. 8 modifié) | Les délais exacts se lisent dans le recueil de la décision, pas dans la seule loi 25-90 : ne retenez pas le « 3 mois » de la version d'origine sans le vérifier |\n| Morcellement | 30 jours : autorisation réputée accordée (loi 34-21, art. 59) | Même méthode : demander l'acte ou l'attestation |\n| Permis d'habiter, certificat de conformité | 1 mois après déclaration ; substitution du gouverneur | Recours de l'art. 21 possible en parallèle |\n| CRUI | 30 jours + 30 jours ; recours en 10 jours | Régime spécial prioritaire (art. 22 de la loi 55-19) |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "8-011",
+  "p": 8,
+  "ch": "8.2",
+  "c": "Articuler la loi 55-19 avec les procédures de ce livre",
+  "t": "Protocole du promoteur (valable pour toute démarche)",
+  "principe": "1. Avant le dépôt : télécharger la fiche du recueil de la décision (pièces, délai, effet du silence, recours) ; ne remettre que ce qui y figure.\n2. Au dépôt : exiger le récépissé avec la mention « dossier déposé » ; si « en cours de dépôt », exiger la liste complète des pièces manquantes dans le récépissé.\n3. Suivi : ouvrir une fiche de suivi (date de dépôt, délai maximal, échéance, effet du silence, autorité de recours) ; noter la demande unique de complément et la reprise du délai.\n4. À l'échéance : si la décision est dans la liste du silence valant accord, demander la délivrance (délai de 7 jours), puis l'attestation du wali ou gouverneur pour une décision communale ; sinon, former le recours de 30 jours.\n5. En cas de refus : exiger la motivation (loi 03-01) et envisager, selon le cas, la substitution (loi organique 113-14, art. 76), le mémoire préalable ou le recours spécial de la CRUI.\n### Vigilance\nLe « Guide urbanistique » de l'auteur contient un modèle de lettre de demande de délivrance d'une décision acquise par silence (loi 55-19, art. 19) : utilisez-le plutôt qu'une rédaction improvisée.\nLa liste réglementaire des décisions soumises au silence valant accord et celle des décisions d'investissement à délai de 30 jours ne figurent dans aucun des deux documents : elles se consultent sur le portail national et les textes d'application.",
+  "maj": "2026-10-18"
+ }
+]

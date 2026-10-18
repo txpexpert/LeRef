@@ -1,0 +1,39 @@
+[
+ {
+  "id": "4-020",
+  "p": 4,
+  "ch": "4.3",
+  "c": "La finance participative",
+  "t": "Le cadre",
+  "principe": "La finance participative est encadrée par la loi n° 103-12 relative aux établissements de crédit, qui autorise depuis 2017 des banques participatives et des fenêtres participatives de banques conventionnelles, sous le contrôle de Bank Al-Maghrib et l'avis conforme du Conseil supérieur des oulémas. Les produits excluent l'intérêt ; la rémunération repose sur une marge, un loyer ou un partage des résultats.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-021",
+  "p": 4,
+  "ch": "4.3",
+  "c": "La finance participative",
+  "t": "Les produits utiles à l'investisseur",
+  "principe": "| Produit | Principe | Usage en entreprise |\n| Mourabaha | La banque achète le bien et le revend à l'entreprise avec une marge connue, payable à terme | Équipements, matières premières, immobilier professionnel (instrument le plus utilisé) |\n| Ijara (et ijara mountahia bi tamlik) | La banque achète le bien et le loue ; transfert de propriété possible en fin de contrat | Équivalent participatif du crédit-bail |\n| Moucharaka | La banque et l'entreprise apportent ensemble le capital d'un projet et partagent profits et pertes | Financement de projets, renforcement des fonds propres |\n| Moudaraba | La banque apporte le capital, l'entrepreneur son savoir-faire ; profits partagés, pertes supportées par le bailleur de fonds sauf faute | Projets à forte compétence du promoteur |\n| Salam | Paiement comptant d'une marchandise livrée à terme | Préfinancement de production, notamment agricole |\n| Istisna'a | Commande d'un bien à fabriquer, payé selon l'avancement | Construction, fabrication sur commande |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "4-022",
+  "p": 4,
+  "ch": "4.3",
+  "c": "La finance participative",
+  "t": "Garanties et cofinancements",
+  "principe": "Les financements participatifs bénéficient des garanties Damane Moubachir (jusqu'à 1 MDH, 70 % ou 80 %) et Damane Dayn (au-delà de 1 MDH, 60 % ou 70 %) de la fenêtre Daama Tamwil de Tamwilcom (section 9). Le financement collaboratif de catégorie « prêt » sans intérêt et « investissement » constitue un canal complémentaire compatible (section 18).",
+  "faq": [
+   [
+    "Une PME peut-elle financer un équipement sans intérêt ?",
+    "Oui, par une mourabaha d'équipement ou une ijara auprès d'une banque ou fenêtre participative : la banque achète le bien et le revend avec une marge, ou le loue. La garantie Damane Moubachir ou Damane Dayn peut couvrir le financement."
+   ],
+   [
+    "Les produits participatifs sont-ils compatibles avec les primes de la Charte ?",
+    "Oui. La Charte ne dépend pas du mode de financement. Le mode de financement est simplement déclaré dans le dossier (pièce f de l'arrêté 3.53.25 pour le TPME)."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

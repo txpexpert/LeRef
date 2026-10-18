@@ -1,0 +1,233 @@
+[
+  {
+    "id": "3-001",
+    "p": 3,
+    "ch": "3.1",
+    "c": "Conduite en douane",
+    "t": "Conduite des marchandises importées au bureau de douane : voies terrestres, maritimes et aériennes",
+    "enbref": "Toute marchandise qui entre au Maroc doit être conduite au bureau de douane par la voie autorisée : le chemin direct vers le premier bureau par la route, un port doté d'un bureau par la mer, un aérodrome international par les airs. La marchandise doit ensuite être présentée à toute réquisition des agents. S'écarter de ces voies ou ne pas présenter la marchandise expose à des poursuites pour contrebande ou pour non-présentation.",
+    "textes": [
+      "CDII, art. 48, 53, 54, 55, 59 bis et 60",
+      "CDII, art. 282-1° et 285-5°",
+      "Circulaire ADII n° 5934/300 (conduite au bureau d'arrivée, MEAD)"
+    ],
+    "principe": "Le CDII organise la conduite en douane selon le mode de transport.\nPar voie terrestre, les marchandises doivent franchir la frontière par les postes frontières et être conduites par le chemin direct au premier bureau de douane ; la liste de ces bureaux et chemins est fixée par arrêté (CDII, art. 53). Le transporteur est muni d'une feuille de route, qui vaut déclaration sommaire ; la feuille de route est remise dès l'arrivée et aussitôt enregistrée, sauf déclaration en détail immédiate ; les marchandises qui arrivent après la fermeture du bureau sont déposées sans frais dans ses dépendances (art. 54).\nPar voie maritime, les navires ne peuvent accoster que dans les ports pourvus d'un bureau de douane (art. 48). Par voie aérienne, les aéronefs ne peuvent atterrir que sur les aérodromes internationaux (art. 55). Les formalités de manifeste, de déclaration sommaire et de déchargement sont exposées aux paragraphes 3-002 et 3-003.\nQuel que soit le mode de transport, les marchandises placées sous déclaration sommaire doivent être présentées aux agents à leur réquisition (art. 59 bis). Les marchandises destinées à l'exportation sont, elles aussi, conduites au bureau de douane pour y être déclarées (art. 60).\nLe non-respect de ces obligations est lourdement sanctionné. L'importation ou l'exportation hors des bureaux, ou le débarquement hors de l'enceinte portuaire, constituent des faits de contrebande (art. 282-1°). Le défaut de présentation de marchandises prises en charge par une déclaration sommaire est réprimé par l'article 285-5°. Le régime des sanctions est exposé dans la partie 9. Avant le passage en douane, les marchandises ne peuvent être introduites dans des bâtiments ni dépasser le bureau sans permis (art. 53-2°). L'accostage hors d'un port doté d'un bureau n'est admis que sur dérogation du directeur ou en cas de force majeure dûment justifiée et signalée sans délai (art. 48), et l'atterrissage hors d'un aérodrome international qu'en cas de force majeure ou de sauvetage (art. 55). À côté de la contrebande, le code réprime comme contraventions de quatrième classe, punies de 500 à 2 500 dirhams, les manquements aux règles de conduite et de remise de la feuille de route des articles 53-1°, 53-2° et 54-1° (art. 299-4° et 299 bis).",
+    "admin": "La circulaire n° 5934/300 précise que la conduite des marchandises du bureau d'arrivée jusqu'au magasin et aire de dédouanement (MEAD) s'effectue sous la responsabilité de l'exploitant de ce magasin.",
+    "donnees": [
+      [
+        "Voie terrestre",
+        "Chemin direct vers le premier bureau ; feuille de route (CDII, art. 53 et 54)"
+      ],
+      [
+        "Voie maritime",
+        "Accostage seulement dans un port doté d'un bureau (CDII, art. 48)"
+      ],
+      [
+        "Voie aérienne",
+        "Atterrissage sur un aérodrome international (CDII, art. 55)"
+      ],
+      [
+        "Arrivée après fermeture",
+        "Dépôt sans frais des marchandises dans les dépendances du bureau (CDII, art. 54-3°)"
+      ],
+      [
+        "Sanction",
+        "Contrebande (CDII, art. 282-1°) ; non-présentation (art. 285-5°)"
+      ],
+      [
+        "Manquements à la conduite terrestre",
+        "Contravention de 4e classe : 500 à 2 500 DH (CDII, art. 299-4° et 299 bis)"
+      ]
+    ],
+    "cas": "La société fictive Oriental Logistique achemine par camion, depuis l'Espagne via Tanger Med, un lot de pièces détachées destiné à Fès. Le chauffeur, pressé, envisage de livrer directement un client à Tétouan avant de passer en douane. La bonne démarche : déposer la feuille de route au bureau d'entrée, puis laisser le camion conduit au MEAD sous la responsabilité de l'exploitant. Le détour prévu ferait sortir la marchandise du chemin direct et l'exposerait à une poursuite pour contrebande (art. 282-1°).",
+    "juris": "",
+    "conseil": "Donnez à vos chauffeurs et à vos transporteurs une consigne écrite : aucun arrêt commercial avant la présentation au bureau. Vérifiez que la feuille de route reprend exactement le nombre de colis et le poids du titre de transport : c'est elle qui vaut déclaration sommaire. En cas d'arrivée de nuit, faites déposer les marchandises dans les dépendances du bureau, comme le prévoit l'article 54-3°, et remettez la feuille de route dès l'ouverture ; conservez la preuve du dépôt.",
+    "faq": [
+      [
+        "La feuille de route du transport routier remplace-t-elle la déclaration sommaire ?",
+        "Oui, elle vaut déclaration sommaire (CDII, art. 54)."
+      ],
+      [
+        "Que faire si le camion arrive après la fermeture du bureau ?",
+        "La feuille de route est déposée sans frais et la marchandise reste sous surveillance jusqu'à l'ouverture (CDII, art. 54)."
+      ],
+      [
+        "Qui répond de la marchandise entre le bureau d'arrivée et le MEAD ?",
+        "L'exploitant du MEAD, sous la responsabilité duquel la conduite s'effectue (circ. n° 5934/300)."
+      ],
+      [
+        "Un navire peut-il accoster dans un port sans bureau de douane en cas d'avarie ?",
+        "Oui en cas de force majeure dûment justifiée et signalée sans délai, ou sur dérogation du directeur (CDII, art. 48)."
+      ]
+    ],
+    "renvois": [
+      "3-002",
+      "3-003",
+      "1-021",
+      "1-022",
+      "3-010",
+      "3-020",
+      "9-011",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, conseil pratique, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-002",
+    "p": 3,
+    "ch": "3.1",
+    "c": "Conduite en douane",
+    "t": "Manifeste et déclaration sommaire à l'arrivée : contenu, délais de dépôt électronique et rectification",
+    "enbref": "Le transporteur maritime ou aérien dépose une déclaration sommaire par voie électronique avant l'arrivée : au moins 24 heures avant pour un navire, au moins 4 heures avant pour un aéronef. Elle doit mentionner notamment le destinataire et la position SH à quatre chiffres. Un dépôt tardif ou une mention omise est passible d'une pénalité.",
+    "textes": [
+      "CDII, art. 46, 49, 56, 57 et 59 ter",
+      "CDII, art. 281-5° et 6°",
+      "Arrêté n° 3414-12 du 02/10/2012 (BO n° 6100 du 15/11/2012)",
+      "Arrêté n° 3413-12 modifiant l'arrêté n° 1035-03",
+      "Circulaires ADII n° 5353/312 et 5354/312 du 31/12/2012, n° 5382/312 du 26/04/2013, n° 5933/310 du 09/05/2019",
+      "Note ADII n° D7106/16/ADII/100 du 26/07/2016"
+    ],
+    "principe": "Le capitaine d'un navire et le pilote d'un aéronef doivent disposer d'un manifeste qu'ils signent (CDII, art. 46 et 56). Sur cette base, une déclaration sommaire est déposée avant l'arrivée ; elle prend effet à l'accostage, une déclaration est établie par affréteur, et un navire sans marchandises porte la mention « néant » ou « sur lest » (art. 49). La déclaration sommaire aérienne obéit à des règles comparables (art. 57).\nLa loi de finances n° 22-12 a modifié les articles 49-1° et 57-1° pour imposer un dépôt anticipé (circ. n° 5353/312). L'arrêté n° 3414-12 fixe les délais :\n- maritime : au moins 24 heures avant l'arrivée, ou au départ du dernier port si le voyage dure moins de 24 heures ;\n- aérien : au moins 4 heures avant l'arrivée, ou au décollage si le vol dure moins de 4 heures.\nEn cas de panne du système, le dépôt se fait sur papier. Ces règles s'appliquent depuis le 04/02/2013 (circ. n° 5353/312).\nL'arrêté n° 3413-12, modifiant l'arrêté n° 1035-03, ajoute deux mentions obligatoires : le destinataire et la position du système harmonisé à quatre chiffres (circ. n° 5354/312). Sa rectification obéit aux conditions fixées par arrêté (CDII, art. 59 ter).\nLes infractions aux articles 46-1° et 56 sont des délits de deuxième classe (CDII, art. 281-5° et 6°). Le retard de dépôt et l'omission des nouvelles mentions sont passibles de pénalités (circ. n° 5353/312 et 5354/312). La déclaration sommaire maritime est constituée de la partie du manifeste relative aux marchandises à débarquer, avec, le cas échéant, des documents annexes et une traduction authentique ; elle est annulée si le navire n'a pas accosté dans le délai fixé (art. 49-1° et 2°). L'échelle des sanctions est graduée : les manquements à la forme de la déclaration sommaire (art. 49-3°) ou aux règles de l'article 57-2° sont des contraventions de deuxième classe punies de 3 000 à 30 000 dirhams (art. 294-5° et 294 bis), tandis que les manquements aux articles 49-1° et 57-1° et 3° relèvent de la quatrième classe, punie de 500 à 2 500 dirhams (art. 299-4° et 299 bis).",
+    "admin": "La déclaration sommaire est déposée par échange de données informatisé, sans dépôt physique (note D7106/16). Le destinataire déclaré est le consignee tel qu'il figure au titre de transport ; le poids global est admis ; le code 9999 est utilisable à défaut de position SH connue ; la déclaration peut être modifiée automatiquement jusqu'à 24 heures après l'escale, puis sur demande (circ. n° 5382/312, application au 12/06/2013). L'ajout de lignes, notamment au MEAD d'un OEA sécurité-sûreté, est admis sans suite contentieuse sur justificatifs probants et avant toute constatation (circ. n° 5933/310).",
+    "donnees": [
+      [
+        "Délai maritime",
+        "24 h au moins avant l'arrivée (arrêté n° 3414-12 ; circ. n° 5353/312)"
+      ],
+      [
+        "Délai aérien",
+        "4 h au moins avant l'arrivée (arrêté n° 3414-12 ; circ. n° 5353/312)"
+      ],
+      [
+        "Mentions ajoutées",
+        "Destinataire et SH4 (arrêté n° 3413-12 ; circ. n° 5354/312)"
+      ],
+      [
+        "Modification automatique",
+        "Jusqu'à 24 h après l'escale (circ. n° 5382/312)"
+      ],
+      [
+        "Mode de dépôt",
+        "EDI, sans dépôt physique (note D7106/16)"
+      ],
+      [
+        "Sanctions graduées",
+        "2e classe (art. 49-3°, 57-2°) : 3 000 à 30 000 DH ; 4e classe (art. 49-1°, 57-1° et 3°) : 500 à 2 500 DH (CDII, art. 294 bis et 299 bis)"
+      ]
+    ],
+    "cas": "La compagnie fictive Atlas Feeder Lines exploite une ligne Algésiras–Casablanca d'environ dix heures. Le voyage durant moins de 24 heures, sa déclaration sommaire doit être déposée au plus tard au départ d'Algésiras. Son agent la transmet d'habitude à l'arrivée, sans SH4 pour les groupages. La bonne démarche : transmettre la déclaration au départ, avec le consignee du connaissement et, à défaut de SH connue, le code 9999, puis corriger dans les 24 heures suivant l'escale.",
+    "juris": "",
+    "conseil": "Exigez de vos chargeurs le consignee exact et la position SH4 avant l'embarquement. Pour les traversées courtes, paramétrez le dépôt au départ. Une ligne oubliée s'ajoute avant toute constatation, avec justificatifs : après, la régularisation sans suite contentieuse n'est plus possible.",
+    "faq": [
+      [
+        "Quel est le délai de dépôt pour un vol de 3 heures ?",
+        "Le vol durant moins de 4 heures, la déclaration est déposée au décollage (arrêté n° 3414-12 ; circ. n° 5353/312)."
+      ],
+      [
+        "Que faire si la position SH de la marchandise n'est pas connue ?",
+        "Le code 9999 peut être utilisé (circ. n° 5382/312)."
+      ],
+      [
+        "Une déclaration sommaire déposée pour un navire qui n'a finalement pas accosté reste-t-elle valable ?",
+        "Non : elle ne produit effet qu'à l'accostage et est annulée si le navire n'a pas accosté dans le délai fixé (CDII, art. 49-1°)."
+      ]
+    ],
+    "renvois": [
+      "3-001",
+      "3-003",
+      "3-011",
+      "3-022",
+      "6-001",
+      "9-011"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-003",
+    "p": 3,
+    "ch": "3.1",
+    "c": "Conduite en douane",
+    "t": "Débarquement et déchargement des marchandises : enceinte portuaire, autorisation écrite et présence des agents",
+    "enbref": "Les marchandises ne peuvent être déchargées que dans l'enceinte du port, avec une autorisation écrite de la douane, en présence des agents et aux heures fixées. Les provisions de bord sont déclarées dans les 24 heures, et les jets en cours de vol sont interdits. Un déchargement hors de ces conditions peut être poursuivi comme contrebande.",
+    "textes": [
+      "CDII, art. 50, 51, 52, 58, 59 et 60-2°",
+      "CDII, art. 111, 112 et 113",
+      "CDII, art. 282-1°",
+      "Circulaire ADII n° 5933/310 du 09/05/2019"
+    ],
+    "principe": "Le déchargement est la phase où la marchandise passe matériellement sous le contrôle de la douane. Le CDII l'encadre strictement.\nÀ l'arrivée d'un navire, les provisions de bord sont déclarées dans les 24 heures (CDII, art. 50) ; le journal de bord est présenté aux agents (art. 51). Les marchandises ne peuvent être déchargées que dans l'enceinte portuaire, sur autorisation écrite des agents, en leur présence et aux heures fixées (art. 52). Pour les aéronefs, tout jet de marchandises en cours de vol est interdit (art. 58 ; voir aussi art. 59).\nÀ l'exportation, l'embarquement obéit à une logique symétrique : la marchandise est déclarée au bureau (art. 60-2°), et le manifeste de sortie est visé ne varietur par le service (art. 111 à 113).\nLe débarquement hors de l'enceinte portuaire, ou hors des bureaux, constitue un fait de contrebande (CDII, art. 282-1°). Le déchargement hors de l'enceinte portuaire n'est possible que sur dérogation du directeur (art. 52), et les règles de déchargement et de transbordement de l'article 52-2° s'appliquent aussi au transport aérien (art. 59). L'interdiction des jets de marchandises en cours de route cède seulement devant les nécessités de la sécurité de l'aéronef (art. 58). Avant de quitter un port marocain, le capitaine soumet au visa ne varietur la partie du manifeste relative aux marchandises embarquées, avec les connaissements si demandé, et en remet copie (art. 112) ; sauf autorisation du directeur, un aéronef quittant le territoire doit décoller d'un aéroport ouvert au trafic international (art. 113-1°).",
+    "admin": "La circulaire n° 5933/310 admet que des lignes soient ajoutées à la déclaration sommaire après déchargement, notamment au MEAD d'un opérateur économique agréé sécurité-sûreté, sans suite contentieuse, à condition de produire des justificatifs probants et d'agir avant toute constatation par le service. Elle permet de régulariser un écart entre la marchandise déchargée et la déclaration sommaire.",
+    "donnees": [
+      [
+        "Lieu de déchargement",
+        "Enceinte portuaire (CDII, art. 52)"
+      ],
+      [
+        "Autorisation",
+        "Écrite, en présence des agents, aux heures fixées (CDII, art. 52)"
+      ],
+      [
+        "Provisions de bord",
+        "Déclaration dans les 24 h (CDII, art. 50)"
+      ],
+      [
+        "Aéronefs",
+        "Jets interdits (CDII, art. 58)"
+      ],
+      [
+        "Sanction",
+        "Contrebande (CDII, art. 282-1°)"
+      ],
+      [
+        "Départ des aéronefs",
+        "Aéroport ouvert au trafic international, sauf autorisation du directeur (CDII, art. 113-1°)"
+      ]
+    ],
+    "cas": "Le navire fictif Doukkala Star arrive à Casablanca un samedi soir avec 300 conteneurs. L'agent maritime veut décharger immédiatement pour libérer le quai. La bonne démarche : obtenir l'autorisation écrite des agents et décharger aux heures fixées, en leur présence. Au déchargement, deux conteneurs non repris sur la déclaration sommaire apparaissent : l'agent les ajoute sur justificatifs (connaissements, liste de colisage) avant toute constatation, ce qui évite une suite contentieuse.",
+    "juris": "",
+    "conseil": "Programmez les opérations de nuit et de week-end avec le service à l'avance : sans autorisation écrite, aucun déchargement. Rapprochez le plan de déchargement de la déclaration sommaire dès l'accostage : un écart détecté par vous et régularisé avant constatation n'a pas de suite contentieuse ; détecté par le service, il ouvre un contentieux. Déclarez les provisions de bord dans les 24 heures, même en l'absence d'opération commerciale.",
+    "faq": [
+      [
+        "Peut-on décharger hors des heures d'ouverture du bureau ?",
+        "Seulement sur autorisation écrite et en présence des agents (CDII, art. 52)."
+      ],
+      [
+        "Dans quel délai déclarer les provisions de bord ?",
+        "Dans les 24 heures de l'arrivée (CDII, art. 50)."
+      ],
+      [
+        "Un colis non manifesté découvert au déchargement est-il forcément une infraction ?",
+        "Non, s'il est ajouté sur justificatifs probants avant toute constatation (circ. n° 5933/310)."
+      ],
+      [
+        "Le commandant d'un aéronef peut-il larguer du fret en vol ?",
+        "Seulement si la sécurité de l'aéronef l'exige ; sinon les jets et déchargements en cours de route sont interdits (CDII, art. 58)."
+      ]
+    ],
+    "renvois": [
+      "3-001",
+      "3-002",
+      "3-010",
+      "3-011",
+      "8-002",
+      "9-011",
+      "9-012"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  }
+]

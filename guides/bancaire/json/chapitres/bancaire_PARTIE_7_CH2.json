@@ -1,0 +1,38 @@
+[
+ {
+  "id": "7-010",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Annexe B — Check-lists documentaires",
+  "t": "Ouverture d'un compte de société",
+  "principe": "- Statuts à jour certifiés ; extrait du RC de moins de 3 mois (ou publicité légale) ; ICE ; identifiant fiscal ; taxe professionnelle.\n- PV de nomination des dirigeants et administrateurs ; pouvoirs des signataires.\n- Pièces d'identité des dirigeants, mandataires et bénéficiaires effectifs (> 25 %).\n- Derniers états de synthèse (ou certificat négatif et projet de statuts pour une société en formation).\n- Justificatif d'adresse du siège ; description de l'activité et des flux attendus ; origine des fonds.\n- Traductions assermentées pour les documents non rédigés en arabe, français ou anglais ; certification conforme pour les documents étrangers.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "7-011",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Annexe B — Check-lists documentaires",
+  "t": "Demande de crédit d'entreprise",
+  "principe": "- États de synthèse des derniers exercices, cachetés et signés à chaque page ; rapport des CAC ou attestation d'un professionnel ; PV d'AG ; récépissé de dépôt au greffe.\n- Business plan, plan de financement, prévisionnels de trésorerie ; devis et factures proforma des investissements.\n- Rapport de solvabilité (crédit bureau) ; situation incidents chèques et LCN.\n- Pour un groupe ≥ 500 MDH de dette bancaire : périmètre, comptes consolidés, état d'endettement, dette privée et intentions d'émission.\n- Éléments d'éligibilité : CA HT, secteur, RC (programmes BAM) ; dossier de garantie Tamwilcom le cas échéant.\n- Documentation des sûretés proposées (titres de propriété, évaluations récentes pour les hypothèques ≥ 1 MDH).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "7-012",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Annexe B — Check-lists documentaires",
+  "t": "Dossier d'agrément d'un établissement",
+  "principe": "- Demande selon modèle type signée ; statuts ou projet ; pacte d'actionnaires.\n- Fiches et questionnaires des apporteurs de capitaux (≥ 5 %) et bénéficiaires effectifs ; comptes 3 ans des personnes morales ; casiers judiciaires.\n- Business plan à 5 ans avec indicateurs prudentiels ; étude de marché ; moyens humains, techniques et informatiques ; externalisations ; agents.\n- Gouvernance : organes, comités, administrateurs indépendants, conflits d'intérêts, organigramme.\n- Notes : gestion des risques et scénarios de crise ; LBC/FT ; données personnelles ; contrôle interne ; commissaires aux comptes.\n- Dirigeants : déclaration sur l'honneur, CV, lettre au Wali, pièce d'identité, casier judiciaire, questionnaire.\n- Si établissement étranger : avis de l'autorité d'origine ; informations sur la surveillance consolidée.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "7-013",
+  "p": 7,
+  "ch": "7.2",
+  "c": "Annexe B — Check-lists documentaires",
+  "t": "Mise en place d'une couverture de change",
+  "principe": "- Contrat commercial ou financier sous-jacent, factures, échéancier de règlement.\n- Convention-cadre ISDA, FBF ou EMIR signée.\n- Pour les matières premières : ouverture du compte en devises dédié ; documentation des appels de marge.\n- Justificatifs exigés par la réglementation des changes de l'Office des Changes.",
+  "maj": "2026-10-18"
+ }
+]

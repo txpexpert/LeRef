@@ -1,0 +1,65 @@
+[
+ {
+  "id": "3-020",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "Garanties, impayés et classement des créances — présentation",
+  "principe": "Comprendre comment la banque classe et provisionne une créance permet à l'entreprise d'anticiper les conséquences d'un retard de paiement, de négocier une restructuration au bon moment et de choisir les garanties les plus efficaces.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-021",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "Les trois classes de créances (circulaire 19/G/2002 modifiée)",
+  "principe": "| Classe | Définition | Conséquence pour l'entreprise |\n| Saines | Règlement normal à l'échéance ; contrepartie sans motif d'inquiétude | Relation normale |\n| Irrégulières (art. 4 bis, modificatif 2004) | Critères de souffrance réunis mais créance intégralement couverte par une garantie à 100 % (dépôt de garantie, garantie de l'État ou de la CCG/Tamwilcom, nantissement de titres d'État ou de dépôts à terme) | Pas de provision ; suivi rapproché |\n| En souffrance | Risque de non-recouvrement total ou partiel ; trois sous-catégories | Provisionnement, déclaration au crédit bureau, durcissement de la relation |\n| Sous-catégorie | Critères principaux | Provision minimale |\n| Pré-douteuses | Échéance impayée > 90 jours (amortissable, in fine, loyers de crédit-bail) ; situation financière non évaluable faute d'information ; risque indépendant de tout impayé (déséquilibre financier persistant, baisse significative du CA, endettement excessif, décès ou litige entre associés, difficultés sectorielles) | 20 % |\n| Douteuses | Impayé > 180 jours ; compte à vue sans mouvement créditeur réel couvrant au moins les agios et une partie significative du solde pendant 180 jours ; contrepartie en redressement judiciaire ; recouvrement incertain | 50 % |\n| Compromises | Impayé > 360 jours (ou 9 mensualités impayées) ; compte à vue sans mouvement réel pendant 360 jours ; perte de 75 % (SA) ou du tiers (autres sociétés) de la situation nette sans AGE ; action en justice de la banque ou contestation judiciaire par le client ; cessation d'activité, liquidation ; déchéance du terme ou résiliation de leasing ; crédit restructuré impayé 180 jours | 100 % (au cas par cas) |\nFigure 3 — Taux minimaux de provisionnement par catégorie de créances en souffrance\n### L'effet de contagion\nLe classement d'une créance en souffrance (ou irrégulière) entraîne le transfert dans la même catégorie de l'ensemble des créances détenues sur la même contrepartie, sauf pour les particuliers (art. 11). La banque doit en outre examiner l'impact sur les autres entités d'un même groupe (art. 33). Un incident sur une petite ligne peut ainsi geler tout l'encours d'une entreprise, voire de son groupe.\nLes critères sont des minimums : la banque doit déclasser plus tôt si elle dispose d'autres informations, et BAM peut l'y contraindre (art. 32, 35).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-022",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "Valeur des garanties pour la banque",
+  "principe": "Les garanties ne réduisent pas le classement (art. 12), mais elles réduisent l'assiette de provisionnement selon des quotités (art. 15). Choisir une garantie à quotité élevée améliore l'acceptabilité du crédit et ses conditions.\n| Quotité | Garanties | Dégressivité |\n| 100 % | Dépôts de garantie ; garanties de l'État ou de la CCG/Tamwilcom ; garanties des fonds marocains assimilés à l'État ; nantissement de titres d'État ; nantissement de dépôts à terme, bons de caisse ou titres émis par la banque elle-même | Aucune |\n| 80 % | Garanties d'EC de premier ordre, d'assureurs-crédit, d'autres fonds de garantie marocains, de banques multilatérales de développement ; nantissement de titres de ces émetteurs | Ramenée à 25 % après 2 ans (titres) puis 0 % après 5 ans |\n| 50 % | Hypothèques (immeubles, aéronefs, navires) de 1er rang (ou 2e derrière l'État) ; attestations de droits constatés sur marchés publics ; nantissement de véhicules neufs | Hypothèques : 25 % après 5 ans, 0 % après 10 ans ; droits constatés : 25 % après 2 ans, 0 % après 5 ans ; véhicules : 0 % après 3 ans |\nLes garanties personnelles doivent être à première demande et incontestables ; les hypothèques ≥ 1 MDH ne sont prises en compte que sur la base d'une évaluation récente par la banque ou un expert qualifié (art. 16-20). Les provisions sur créances restructurées ne peuvent être reprises qu'après 6 mois sans impayé à compter de la première échéance du nouvel échéancier (art. 23).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-023",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "La réforme de 2025 (circulaire 1/W/2025, applicable au 1er janvier 2027)",
+  "principe": "- Création d'une classe intermédiaire de créances sensibles, repérées avant le défaut selon des critères qualitatifs et quantitatifs, avec provisionnement minimal propre (déploiement sur 10 ans).\n- Élargissement du défaut : dépassements persistants des lignes autorisées au-delà de 90, 180 ou 360 jours ; projets immobiliers achevés depuis 2 ans dont la commercialisation stagne depuis un an ; projets à l'arrêt depuis plus d'un an ; titres de créance dont les coupons sont impayés 90 ou 180 jours.\n- Créances restructurées : définition liée aux difficultés financières du débiteur, étude de viabilité obligatoire avant restructuration, classement selon le nombre de restructurations (déploiement sur 3 ans).\n### Conséquences pratiques pour les entreprises\n- Régulariser rapidement tout dépassement d'autorisation de facilité de caisse ou de découvert : il deviendra un critère de déclassement.\n- Négocier les restructurations en amont avec un plan d'affaires crédible : la banque devra documenter une étude de viabilité.\n- Pour les promoteurs immobiliers : suivre le taux de commercialisation, qui deviendra un indicateur de défaut.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-024",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "Dation en paiement et vente à réméré (directive 4/W/2021)",
+  "principe": "Un débiteur peut céder un actif (immobilier ou financier) en paiement de sa dette (dation) ou le céder en se réservant de le racheter dans un délai maximum de 3 ans (réméré). Pour la banque, l'actif entre à la plus faible valeur entre valeur de marché et valeur brute de la créance augmentée des frais ; la perte éventuelle est constatée, un gain n'est pas comptabilisé. Les actifs immobiliers reçus en extinction de créances ≥ 20 MDH font l'objet de deux expertises indépendantes (évaluateurs inscrits sur la liste OPCI), la plus faible étant retenue, puis d'une évaluation au moins annuelle. Le régime s'applique aussi aux biens acquis par adjudication.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-025",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "Mainlevée des sûretés après remboursement (directive 4/W/2019)",
+  "principe": "| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Remboursement intégral du crédit et acquittement des frais de mainlevée | Client | — | Art. 2 |\n| 2 | Délivrance systématique de la mainlevée de toutes les garanties, sauf demande écrite du client de les maintenir | Banque | Déclenchement automatique par le SI | Art. 1, 5 |\n| 3 | Mise à disposition de la mainlevée et information du client | Banque | 30 jours ouvrables maximum après remboursement total | Art. 2-3, 6 |\n| 4 | En cas de retard : réclamation à la banque, puis CMMB ou BAM | Client | Voir section 17 | Art. 157-159 L. 103-12 |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-026",
+  "p": 3,
+  "ch": "3.3",
+  "c": "Garanties, impayés et classement des créances",
+  "t": "Le recouvrement amiable : code éthique",
+  "principe": "Le code éthique du recouvrement pré-judiciaire (GPBM, APSF, BAM) s'applique aux créances sur personnes physiques, y compris celles exerçant une activité économique, pour leurs besoins non professionnels, ainsi qu'aux mandataires et cessionnaires de créances. Il impose notamment :\n- des contacts uniquement du lundi au vendredi, de 8 h à 19 h, hors jours fériés ;\n- l'interdiction de démarcher la caution ou les ayants droit au stade pré-judiciaire ;\n- l'identification claire de l'agent, l'interdiction des fausses qualités et des écrits d'intimidation, la remise d'une quittance pour tout paiement ;\n- la recherche d'un arrangement réaliste tenant compte de la capacité financière ;\n- la mise à jour de la déclaration au crédit bureau après régularisation ;\n- la possibilité de réclamer auprès de la banque, du CMMB ou de BAM.\n### Projet de loi n° 02-26 (cession des créances en souffrance)\nLe projet, finalisé en 2025, permettra aux banques de céder leurs créances non performantes sans le consentement du débiteur, par notification en courrier recommandé, avec transfert de plein droit des sûretés. Le cessionnaire restera tenu par la protection du consommateur (loi 31-08) et par la protection des données. L'entreprise débitrice devra donc vérifier l'identité de son nouveau créancier et le bon transfert de son dossier.",
+  "maj": "2026-10-18"
+ }
+]

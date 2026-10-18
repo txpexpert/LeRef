@@ -1,0 +1,11 @@
+[
+ {
+  "id": "5-030",
+  "p": 5,
+  "ch": "5.4",
+  "c": "Remarque sur le code des assurances",
+  "t": "Remarque sur le code des assurances",
+  "principe": "Le corpus comprend la loi n° 17-99 portant code des assurances, dans une version consolidée (339 articles). Son livre premier ne concerne que les assurances terrestres et exclut expressément les assurances maritimes ; il ne contient pas de disposition propre à l'importation. Il intéresse l'opérateur pour les contrats de responsabilité civile, d'assurance des véhicules de transport et d'assurance des biens. Il est conservé dans la base JSON pour les recherches, sans être développé ici.",
+  "maj": "2026-10-17"
+ }
+]

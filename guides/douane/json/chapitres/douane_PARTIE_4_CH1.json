@@ -1,0 +1,230 @@
+[
+  {
+    "id": "4-001",
+    "p": 4,
+    "ch": "4.1",
+    "c": "Droit d'importation",
+    "t": "Assiette du droit d'importation : valeur en douane, éléments qualitatifs et quantitatifs et moment de leur appréciation",
+    "enbref": "Le droit d'importation est en principe ad valorem : il se calcule sur la valeur en douane, au taux de la position tarifaire de la marchandise. L'espèce, l'origine, la valeur et les quantités s'apprécient au moment de l'entrée sur le territoire assujetti. Une erreur sur l'un de ces éléments fausse directement le montant dû.",
+    "textes": [
+      "CDII, art. 2, 3, 4, 14, 15, 16, 19, 20, 20 ter, 22 et 86",
+      "Circulaire ADII n° 5714/211 du 20/10/2017",
+      "Note ADII n° D251/2025/ADII/AC/100 du 24/10/2025"
+    ],
+    "principe": "Le tarif des droits de douane comprend la nomenclature du système harmonisé, avec ses sous-positions nationales, et les quotités des droits applicables (CDII, art. 2). Sauf disposition contraire, les marchandises importées sont passibles des droits inscrits au tarif, indépendamment des autres droits et taxes (art. 3). Sauf disposition légale contraire, les droits sont assis sur la valeur, c'est-à-dire ad valorem (art. 4).\nLe CDII distingue deux catégories d'éléments d'assiette (art. 14-1°) :\n- éléments qualitatifs : espèce, origine, provenance et destination ;\n- éléments quantitatifs : valeur, poids, longueur, surface, volume et nombre.\nL'espèce est la dénomination attribuée par le tarif ; les marchandises non nommément désignées sont classées par décision de l'administration (art. 15). La valeur en douane est en principe la valeur transactionnelle, c'est-à-dire le prix effectivement payé ou à payer, ajusté des éléments limitativement énumérés comme le transport et l'assurance jusqu'à l'entrée sur le territoire (art. 20 et 20 ter). Les conditions de détermination du poids et des autres quantités sont fixées par le ministre (art. 22).\nÀ l'importation, ces éléments s'apprécient au moment de l'entrée sur le territoire assujetti, sous réserve de la clause transitoire et des cas de destruction ou de perte avant mainlevée ; une dépréciation par avarie survenue avant l'entrée est prise en compte si le redevable l'établit (art. 14-2°). Les droits sont ensuite appliqués d'après les résultats de la vérification ou, à défaut, d'après la déclaration (art. 86). À l'exportation, les éléments d'assiette s'apprécient au moment de la sortie et sont présumés inchangés depuis la visite, sauf preuve d'une dépréciation survenue après celle-ci (art. 14-3°). Les marchandises avariées peuvent être séparées pour être réexportées ou taxées selon leur nouvel état (art. 14-2°).",
+    "admin": "Le tarif combine parfois l'assiette ad valorem et des tranches de valeur. Pour le blé tendre, la circulaire n° 5714/211 applique un taux de 30 % à la tranche de valeur inférieure ou égale à 1 000 DH par tonne, et 2,5 % au-delà. Les règles de classement, d'origine et de valeur sont détaillées dans la partie 2 du présent ouvrage. Faute de justifier qu'un déficit est survenu avant l'arrivée sur le territoire assujetti, le manquant constaté reste taxable ; pour uniformiser la pratique des bureaux, il est taxé sur la valeur déclarée par le redevable (note D251/2025/ADII/AC/100 du 24/10/2025).",
+    "donnees": [
+      [
+        "Base de calcul",
+        "Ad valorem, sauf disposition contraire (CDII, art. 4)"
+      ],
+      [
+        "Éléments qualitatifs",
+        "Espèce, origine, provenance, destination (CDII, art. 14-1°)"
+      ],
+      [
+        "Éléments quantitatifs",
+        "Valeur, poids, longueur, surface, volume, nombre (CDII, art. 14-1°)"
+      ],
+      [
+        "Moment d'appréciation",
+        "Entrée sur le territoire assujetti (CDII, art. 14-2°)"
+      ],
+      [
+        "Valeur",
+        "Prix effectivement payé ou à payer, ajusté (CDII, art. 20 et 20 ter)"
+      ],
+      [
+        "Moment d'appréciation à l'export",
+        "Sortie du territoire ; présomption d'identité depuis la visite (CDII, art. 14-3°)"
+      ]
+    ],
+    "cas": "La société fictive Chaouia Équipements importe des pompes facturées 400 000 DH départ usine en Italie, transport et assurance payés en sus pour 30 000 DH. La valeur en douane est de 430 000 DH, puisque le transport et l'assurance jusqu'à l'entrée sur le territoire s'ajoutent au prix. Une partie du lot ayant été endommagée en mer, l'importateur fait constater l'avarie avant la vérification pour en obtenir la prise en compte. L'erreur fréquente : déclarer la seule valeur facturée départ usine.",
+    "juris": "",
+    "conseil": "Vérifiez l'Incoterm de chaque facture avant de déclarer : il conditionne les frais à ajouter à la valeur. Faites constater toute avarie dès le déchargement, avec un rapport d'expertise, faute de quoi elle ne sera pas déduite. Pour les positions taxées par tranche de valeur, contrôlez la valeur à la tonne avant de liquider.",
+    "faq": [
+      [
+        "Le droit d'importation est-il toujours calculé sur la valeur ?",
+        "En principe oui, sauf disposition légale contraire (CDII, art. 4)."
+      ],
+      [
+        "À quelle date s'apprécie l'état de la marchandise ?",
+        "À son entrée sur le territoire assujetti ; une avarie antérieure est prise en compte si le redevable l'établit (CDII, art. 14-2°)."
+      ],
+      [
+        "Une marchandise arrivée endommagée est-elle taxée sur sa valeur saine ?",
+        "Non si le redevable établit que l'avarie est antérieure à l'entrée sur le territoire : la dépréciation est alors prise en compte, et les marchandises avariées peuvent être séparées pour être réexportées ou taxées selon leur nouvel état (CDII, art. 14-2°)."
+      ]
+    ],
+    "renvois": [
+      "4-002",
+      "4-003",
+      "2-001",
+      "2-020",
+      "2-040",
+      "3-031",
+      "4-010"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "4-002",
+    "p": 4,
+    "ch": "4.1",
+    "c": "Droit d'importation",
+    "t": "Taux du droit d'importation et lois de finances : modification des quotités, date d'application et clause transitoire",
+    "enbref": "Les quotités du droit d'importation sont fixées au tarif et modifiées chaque année par la loi de finances, ou par décret en cas d'urgence. Le taux applicable est celui en vigueur à l'enregistrement de la déclaration. Depuis le 01/01/2026, une seule des deux conditions de la clause transitoire suffit pour conserver l'ancien régime plus favorable : un titre de transport antérieur ou un crédit documentaire antérieur.",
+    "textes": [
+      "CDII, art. 2-2°, 5, 7, 8, 9, 13, 89 et 90",
+      "Loi de finances n° 50-25 pour 2026, art. 4 (dahir n° 1-25-67 du 10/12/2025)",
+      "Circulaires ADII n° 6702/210 du 26/12/2025, n° 6619/210 (LF 2025) et n° 6522/210 du 29/12/2023 (LF 2024)",
+      "Circulaires ADII n° 5596/211 du 15/06/2016 et n° 5672/211 du 17/05/2017",
+      "Circulaires ADII n° 6739/211 du 26/05/2026 et n° 6761/211 du 27/07/2026 (blé tendre)",
+      "Circulaire ADII n° 6762/211 du 27/07/2026 (viandes rouges)"
+    ],
+    "principe": "Les quotités des droits font partie du tarif (CDII, art. 2-2°). En cas d'urgence, le gouvernement peut, sur habilitation législative, modifier ou suspendre les quotités et autres droits ; la nomenclature peut être modifiée par voie réglementaire si les quotités ne changent pas (art. 5). Les dispositions douanières des accords internationaux entrant en vigueur dès leur signature s'appliquent dès leur notification à l'administration (art. 7). Des surtaxes peuvent frapper les marchandises d'États qui traitent moins favorablement les produits marocains (art. 8 et 9).\n\nLe taux applicable est celui en vigueur à la date d'enregistrement de la déclaration en détail, sauf déclaration anticipée, clause transitoire ou tarif plus favorable (art. 89). Si le taux baisse après l'enregistrement, le déclarant obtient sur demande le tarif plus favorable, à condition que la mainlevée n'ait pas encore été donnée (art. 90).\n\nLa clause transitoire permet de bénéficier du régime antérieur plus favorable. Depuis la loi de finances 2026, une seule des deux conditions suffit (art. 13-1° ; circ. n° 6702/210) :\n- un titre de transport créé avant l'entrée en vigueur du nouveau texte et établissant une destination directe et exclusive vers le territoire assujetti ;\n- un crédit documentaire irrévocable et confirmé ouvert avant cette date.\nSeules les marchandises mises directement à la consommation, sans passage en entrepôt, en bénéficient (art. 13-2°).",
+    "admin": "Chaque loi de finances fait l'objet d'une circulaire de l'ADII qui détaille les positions modifiées, avec effet au 1er janvier. Exemples LF 2026 : safran de 40 % à 60 %, téléphones portables de 17,5 % à 2,5 %, pare-brises de 2,5 % à 17,5 % ; suspension du droit d'importation sur les bovins (contingent de 300 000 têtes) et les camélidés (10 000 têtes) du 01/01 au 31/12/2026 (circ. n° 6702/210). Des décrets ont aussi modifié des quotités en cours d'année, comme pour le blé tendre en 2016 et 2017, sans préjudice de la clause transitoire (circ. n° 5596/211 et 5672/211). L'année 2026 illustre l'usage de la procédure d'urgence en cours d'année. Pour le blé tendre et ses dérivés (positions 1001.99.00.19 et 1001.99.00.90), la perception du droit d'importation, rétablie du 01/06 au 31/07/2026 (circ. n° 6739/211 du 26/05/2026), a été prorogée jusqu'au 31/08/2026 par le décret n° 2.26.583 du 23/07/2026, la suspension prenant effet au 01/09/2026 (circ. n° 6761/211 du 27/07/2026). Le décret n° 2.26.584 du 23/07/2026 suspend, du 27/07 au 31/12/2026, le droit d'importation sur les ovins vivants et les viandes bovines, ovines, caprines et camelines, et fixe à 30 % celui des abats (circ. n° 6762/211 du 27/07/2026).",
+    "donnees": [
+      [
+        "Date du taux",
+        "Enregistrement de la déclaration (CDII, art. 89)"
+      ],
+      [
+        "Tarif plus favorable",
+        "Sur demande, avant mainlevée (CDII, art. 90)"
+      ],
+      [
+        "Clause transitoire",
+        "Une condition sur deux suffit depuis le 01/01/2026 (CDII, art. 13-1° ; circ. n° 6702/210)"
+      ],
+      [
+        "Exclusion",
+        "Marchandises passées par l'entrepôt (CDII, art. 13-2°)"
+      ],
+      [
+        "Modification d'urgence",
+        "Par le gouvernement sur habilitation (CDII, art. 5)"
+      ],
+      [
+        "Blé tendre 2026",
+        "Droit perçu jusqu'au 31/08/2026, suspendu à compter du 01/09/2026 (circ. n° 6761/211)"
+      ],
+      [
+        "Ovins et viandes rouges",
+        "Droit suspendu du 27/07 au 31/12/2026 ; abats à 30 % (circ. n° 6762/211)"
+      ]
+    ],
+    "cas": "La société fictive Zagora Épices importe du safran expédié d'Iran par conteneur, connaissement émis le 20 décembre 2025 à destination directe de Casablanca, sans crédit documentaire. Le navire arrive le 10 janvier 2026, après la hausse du droit de 40 % à 60 %. Le connaissement antérieur suffit désormais à lui seul pour conserver le taux de 40 %, à condition de dédouaner directement pour la consommation. L'erreur à éviter : placer d'abord le lot en entrepôt, ce qui fait perdre la clause transitoire.",
+    "juris": "",
+    "conseil": "Lisez la circulaire de loi de finances dès sa publication, fin décembre, et identifiez vos positions concernées. Pour une hausse annoncée, conservez les connaissements et lettres de crédit datés d'avant le 1er janvier. Pour une baisse, n'oubliez pas de demander le tarif plus favorable avant la mainlevée.",
+    "faq": [
+      [
+        "Faut-il un crédit documentaire pour bénéficier de la clause transitoire ?",
+        "Non, depuis la LF 2026, un titre de transport antérieur suffit, et inversement (CDII, art. 13-1° ; circ. n° 6702/210)."
+      ],
+      [
+        "Le droit peut-il changer en cours d'année ?",
+        "Oui, par décret en cas d'urgence, sur habilitation législative (CDII, art. 5)."
+      ],
+      [
+        "Quel droit appliquer à une déclaration de blé tendre enregistrée le 31/08/2026 ?",
+        "Le droit de droit commun, encore perçu jusqu'au 31/08/2026 inclus ; la suspension ne vaut que pour les déclarations enregistrées à compter du 01/09/2026 (circ. n° 6761/211)."
+      ]
+    ],
+    "renvois": [
+      "4-001",
+      "4-003",
+      "3-022",
+      "3-032",
+      "4-032",
+      "5-010"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "4-003",
+    "p": 4,
+    "ch": "4.1",
+    "c": "Droit d'importation",
+    "t": "Application des préférences tarifaires à l'importation : preuve d'origine, transport direct, contingents et refus du traitement préférentiel",
+    "enbref": "Le taux préférentiel d'un accord ne s'applique que si la marchandise est originaire, transportée sans modification dans un pays tiers, et couverte par une preuve d'origine valable jointe à la déclaration avant signature. Pour les contingents tarifaires, il faut aussi une demande de franchise douanière via PortNet. À défaut, le droit commun s'applique.",
+    "textes": [
+      "CDII, art. 7, 16-1°, 17 et 19",
+      "Circulaire ADII n° 6706/233 du 31/12/2025 (règles d'origine, annexe I)",
+      "Circulaires ADII n° 6528/312 du 15/01/2024, n° 6035/200 du 09/04/2020, n° 5549/230 du 04/11/2015 et n° 4977/222 du 30/12/2005",
+      "Circulaire ADII n° 6777/222 du 29/09/2026"
+    ],
+    "principe": "Les règles d'origine du CDII s'appliquent sous réserve des définitions d'origine issues des accords conclus par le Maroc (CDII, art. 16-1°). À l'importation, l'administration peut exiger tout document certifiant l'origine, sans que sa production lie son appréciation quant à son authenticité ou son exactitude (art. 17). La provenance est le pays d'où la marchandise a été transportée directement ; un transit ou une escale ne change la provenance que s'il excède la durée normale (art. 19-1°).\n\nPour les échanges couverts par les règles d'origine de substitution entrées en vigueur en 2026 (circ. n° 6706/233, annexe I), les conditions sont les suivantes :\n- preuve d'origine : certificat EUR.1, ou déclaration d'origine établie par un exportateur agréé ou, pour un envoi de 6 000 EUR au plus, par tout exportateur (art. 17 et 18) ;\n- validité : 10 mois à compter de la délivrance (art. 23) ;\n- non-modification : aucune transformation en transit dans un pays tiers, sauf conservation ou marquage sous surveillance douanière (art. 14) ;\n- délivrance a posteriori : EUR.1 portant la mention « ISSUED RETROSPECTIVELY », dans un délai de 2 ans (art. 21) ;\n- dispense : petits envois entre particuliers jusqu'à 500 EUR et bagages jusqu'à 1 200 EUR, sans caractère commercial (art. 27).\n\nLa preuve d'origine conventionnelle est un document annexe, à joindre sur BADR avant la signature de la déclaration (circ. n° 6528/312).",
+    "admin": "Les demandes de franchise douanière au titre des contingents tarifaires et des accords préférentiels concernés sont traitées via PortNet depuis le 08/04/2020 (circ. n° 6035/200). Les cases 3 (destinataire) et 10 (factures) des EUR.1 et EUR-MED doivent concorder avec la DUM et la facture ; les certificats de la Ligue arabe appuyés de factures établies dans un pays tiers ne sont pas recevables (circ. n° 5549/230). Dans l'accord Maroc–États-Unis, le refus du traitement préférentiel est notifié par écrit dans un délai d'un mois, et l'importateur conserve les justificatifs cinq ans (circ. n° 4977/222). Les contingents préférentiels sont actualisés périodiquement : pour l'accord agricole Maroc–UE, la circulaire n° 6777/222 du 29/09/2026 communique les taux de la liste 3 applicables du 01/10/2026 au 30/09/2027, produits non libéralisés bénéficiant de réductions dans la limite de contingents et soumis au droit commun au-delà ; le libellé des produits n'a qu'une valeur indicative, le régime étant déterminé par la portée du code SH, et par la description lorsque le code est précédé de « ex ». Une préférence tarifaire n'écarte pas les droits de défense commerciale : le droit antidumping sur les tôles laminées à froid d'Égypte s'applique même aux produits qui bénéficient de l'accord d'Agadir ou de la ZALE (circ. n° 6753/211).",
+    "donnees": [
+      [
+        "Validité de la preuve",
+        "10 mois (circ. n° 6706/233, annexe I, art. 23)"
+      ],
+      [
+        "Déclaration d'origine sans agrément",
+        "Envoi de 6 000 EUR au plus (circ. n° 6706/233, art. 18)"
+      ],
+      [
+        "EUR.1 a posteriori",
+        "Dans les 2 ans (circ. n° 6706/233, art. 21)"
+      ],
+      [
+        "Moment de production",
+        "Avant signature de la DUM (circ. n° 6528/312)"
+      ],
+      [
+        "Contingents",
+        "Demande de franchise via PortNet (circ. n° 6035/200)"
+      ],
+      [
+        "Contingents UE (liste 3)",
+        "Du 01/10/2026 au 30/09/2027 (circ. n° 6777/222)"
+      ]
+    ],
+    "cas": "La société fictive Souss Textile importe d'Espagne des tissus pour 25 000 EUR, transitant par un entrepôt au Portugal où ils sont réétiquetés sous surveillance douanière. Le fournisseur, non agréé, ne peut pas établir de déclaration sur facture au-delà de 6 000 EUR : il fournit un EUR.1. Le transitaire vérifie la concordance des cases 3 et 10 avec la DUM et charge le certificat avant signature. L'erreur fréquente : signer la DUM en attendant le certificat.",
+    "juris": "",
+    "conseil": "Exigez la preuve d'origine avant l'expédition et contrôlez-la dès réception : date de délivrance, mentions de la case 7, concordance avec la facture. Pour un transit dans un pays tiers, demandez au transporteur un document prouvant la surveillance douanière. Si la preuve manque à l'arrivée, déclarez au droit commun et demandez un EUR.1 a posteriori pour régulariser.",
+    "faq": [
+      [
+        "Combien de temps une preuve d'origine est-elle valable ?",
+        "10 mois à compter de sa délivrance (circ. n° 6706/233, annexe I, art. 23)."
+      ],
+      [
+        "Peut-on joindre la preuve d'origine après la signature ?",
+        "Non, c'est un document annexe à joindre avant la signature (circ. n° 6528/312)."
+      ],
+      [
+        "La préférence d'un accord de libre-échange dispense-t-elle du droit antidumping ?",
+        "Non : le droit antidumping s'ajoute au droit d'importation et s'applique même aux produits bénéficiant d'un régime préférentiel (circ. n° 6753/211)."
+      ]
+    ],
+    "renvois": [
+      "4-001",
+      "4-002",
+      "2-020",
+      "2-021",
+      "2-022",
+      "2-023",
+      "2-024",
+      "3-021",
+      "3-024"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "id": "3-010",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Monter et négocier un dossier de crédit",
+  "t": "Les pièces financières exigées selon la taille de l'entreprise (directive 1/G/2005)",
+  "principe": "| Profil de l'emprunteur | Pièces minimales |\n| SA et SCA (quel que soit le CA) ; SARL, SNC, SCS dont le CA > 50 MDH HT | États de synthèse annuels ; rapport du ou des CAC ; PV de l'AG ayant statué sur les comptes ; récépissé de dépôt des comptes et du rapport au greffe du tribunal de commerce |\n| Sociétés faisant appel public à l'épargne | En plus : états semestriels avec rapport de revue limitée ; comptes consolidés aux normes internationales pour les sociétés cotées du 1er compartiment ayant un périmètre de consolidation |\n| SARL, SNC, SCS dont le CA ≤ 50 MDH et l'encours ≤ 2 MDH auprès de l'établissement | États de synthèse ; attestation de régularité et sincérité par un professionnel habilité (si recours à un professionnel) ; récépissé de dépôt au greffe ; PV de l'AG |\n| Autres personnes morales (y compris établissements publics) avec encours ≥ 2 MDH | États de synthèse ou documents en tenant lieu ; rapport du CAC/auditeur ou attestation d'un professionnel ; PV de l'organe ayant statué |\n| Personnes physiques professionnelles avec encours ≥ 2 MDH | États de synthèse ou documents en tenant lieu ; attestation d'un professionnel habilité le cas échéant |\n| Groupes dont la dette bancaire totale ≥ 500 MDH (directive 2/W/16) | Liste des sociétés du groupe et du périmètre ; comptes consolidés et rapport des CAC ; état de l'endettement bancaire du groupe ; encours de dette privée émise ; attestation sur l'honneur des émissions prévues sur 12 mois ; mise à jour annuelle avant fin juin |\nChaque page du bilan et du CPC doit porter le cachet et la signature du dirigeant et le cachet du CAC ou du professionnel ayant tenu la comptabilité (art. 6). Avant tout concours, la banque consulte le service de centralisation des risques (crédit bureau) et verse le rapport de solvabilité au dossier (circ. 1/G/10, art. 2).",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-011",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Monter et négocier un dossier de crédit",
+  "t": "Vos droits pendant l'instruction (directive 3/W/2022)",
+  "principe": "Ce que la banque doit faire pour une entreprise qui demande un crédit\n| N° | Étape / action | Acteur | Délai / échéance | Référence |\n| 1 | Remettre une notice explicative des types de crédit adaptés, informer sur les mécanismes publics de garantie et d'accompagnement auxquels l'entreprise est éligible, les sûretés envisageables et le délai maximum estimatif de traitement | Banque | Au moment de la demande | Art. 1-2 |\n| 2 | Communiquer un document type par catégorie de crédit (nature, caractéristiques, engagements) | Banque | Par tout moyen | Art. 2 |\n| 3 | En cas d'accord : remettre sur demande le projet de contrat, précisant conditions et délais de déblocage et le tableau d'amortissement prévisionnel | Banque | Sur simple demande | Art. 3 |\n| 4 | En cas de refus : communiquer verbalement les motifs du rejet à l'entreprise qui le demande | Banque | Sur demande | Art. 4 |\n| 5 | Renseigner l'entreprise sur sa note interne et les mesures pour l'améliorer | Banque | — | Art. 5 ; circ. 4/W/2014, art. 55 |\n| 6 | Tenir un registre des refus (motifs, décideur, note) et mesurer les délais de réponse et de déblocage | Banque | Permanent | Art. 6-7 |\n### Optimiser son dossier\n- Obtenir au préalable son propre rapport de solvabilité auprès du crédit bureau et le corriger si nécessaire (contestation sous 15 jours suivant réception, par formulaire spécial avec justificatifs — circ. 1/G/10, art. 3 et 5).\n- Vérifier sa situation auprès du service des incidents de paiement de chèques et des effets impayés (LCN).\n- Demander systématiquement l'éligibilité aux garanties Tamwilcom et aux programmes de refinancement BAM (section 19).\n- Demander la note interne attribuée et les leviers d'amélioration ; en cas de refus, demander les motifs.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-012",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Monter et négocier un dossier de crédit",
+  "t": "Le coût du crédit : taux, TEG et plafonds",
+  "principe": "### Liberté des taux et encadrement\n- Les taux des crédits sont librement négociés (arrêté 947-10 ; circ. 4/G/10) ; le dahir de 1913 sur le taux légal et l'usure ne s'applique pas aux opérations des EC (art. 153 L. 103-12).\n- Crédits d'une durée ≤ 1 an : taux obligatoirement fixe.\n- Taux variables : révision une fois par an à une date convenue (première révision dans les 3 mois suivant la date anniversaire), sur la base de la variation annuelle du taux moyen pondéré du marché interbancaire au jour le jour du dernier semestre ; pour les anciens contrats, possibilité de conserver l'indexation sur les bons du Trésor (52 semaines, 5 ans, 10-15 ans selon la durée).\n- Le contrat doit mentionner l'option de passage taux variable ↔ taux fixe, exerçable une seule fois.\n- Le taux maximum des intérêts conventionnels (TMIC) : le TEG, hors frais de dossier à concurrence de 150 DH HT, ne peut dépasser le TMIC en vigueur à la signature ; le TMIC est révisé chaque 1er avril et publié par BAM (arrêté 2250-06 ; circ. 19/G/2006).\n### Le taux effectif global (TEG)\nLe TEG est un taux annuel, à terme échu, exprimé avec deux décimales, incluant les intérêts, les frais de dossier, les rémunérations des intermédiaires et toutes commissions liées à l'octroi (circ. 19/G/2006). Il doit figurer dans tous les documents contractuels (sauf crédit-bail), l'offre et le contrat indiquant en outre le coût de l'assurance en montant et en pourcentage. Pour un découvert, le TEG est calculé par la méthode des nombres (hypothèse de 3 mois si la durée est inconnue) ; pour l'escompte, il tient compte du délai entre crédit du compte et encaissement effectif.\n### Rémunération de la trésorerie de l'entreprise\n| Support | Règles (arrêté 1130-94 ; circ. 2/G/11) |\n| Compte à vue en dirhams | Non rémunéré |\n| Compte en dirhams convertibles | Rémunération libre |\n| Compte à terme (dirhams, convertibles ou devises) | Durée ≥ 1 mois ; un compte par dépôt ; taux libre ; intérêts annuels si > 1 an ; pas de retrait anticipé, mais avance garantie au taux du dépôt + 2 points |\n| Bon de caisse | En dirhams, nominatif, unité de 5 000 DH, durée ≥ 1 mois ; pas de remboursement anticipé ; avance, escompte ou rachat au taux du bon + 2 points |\n| Compte sur carnet | Réservé aux personnes physiques ; un seul par personne ; plafond 400 000 DH ; taux minimum = moyenne des BT 52 semaines du semestre précédent − 50 pb |",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-013",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Monter et négocier un dossier de crédit",
+  "t": "Spécificités des sociétés de financement (directive 1/G/11)",
+  "principe": "Pour le crédit à la consommation, le crédit automobile ou le leasing, la société de financement constitue un dossier comprenant : copie authentifiée de la pièce d'identité (duplication par l'agent en présence du client), justificatif de résidence, originaux des attestations de travail et de salaire, rapport du crédit bureau et situation au regard des incidents de paiement, 3 derniers relevés bancaires authentifiés, devis ou facture proforma pour un crédit affecté, fiche signalétique (employeur : RC, IF, CNSS). Le crédit est versé par virement ou chèque barré non endossable, au bénéficiaire ou directement au fournisseur. Seules les demandes déposées par le client lui-même sont instruites.",
+  "maj": "2026-10-18"
+ },
+ {
+  "id": "3-014",
+  "p": 3,
+  "ch": "3.2",
+  "c": "Monter et négocier un dossier de crédit",
+  "t": "Le crédit aux particuliers et aux consommateurs (loi n° 31-08)",
+  "principe": "| Règle | Crédit à la consommation | Crédit immobilier |\n| Formalisme | Offre préalable remise gratuitement en double exemplaire (et à la caution) ; conditions maintenues au moins 7 jours | Offre préalable écrite |\n| Délai de réflexion / rétractation | Faculté de rétractation de 7 jours par formulaire détachable ; aucun versement au prêteur pendant ce délai | L'emprunteur et la caution ne peuvent accepter l'offre que 10 jours après sa réception |\n| Sanction du défaut d'offre | Déchéance du droit aux intérêts : remboursement du seul capital | Sanctions pénales et civiles |\n| Assurance | Notice remise ; liberté de choisir un assureur équivalent si l'assurance est obligatoire | Idem |\n| Défaillance | Indemnité ≤ 4 % des échéances échues impayées si le prêteur n'exige pas le remboursement immédiat ; ≤ 2 % des échéances reportées en cas de report | Règles spécifiques d'indemnité |\n| Remboursement anticipé | Possible ; seuls les frais légaux peuvent être mis à la charge de l'emprunteur | Indemnité encadrée par la loi |\n| Crédit affecté | Interdépendance entre le contrat de vente et le contrat de crédit | Condition suspensive d'obtention du prêt : restitution intégrale des sommes versées si elle n'est pas réalisée |\nCes protections bénéficient au consommateur (personne physique agissant à des fins non professionnelles). L'entrepreneur qui emprunte pour son activité relève du droit commun bancaire et des directives de BAM, mais bénéficie du code éthique du recouvrement s'il est une personne physique (section 14).",
+  "maj": "2026-10-18"
+ }
+]

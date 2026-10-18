@@ -1,0 +1,57 @@
+[
+ {
+  "id": "7-030",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Le dépôt au CRI, la convention et le versement des primes",
+  "t": "Le dépôt électronique pas à pas",
+  "principe": "- Créer le compte de l'entreprise sur la plateforme du CRI (raison sociale, forme juridique, ICE, identifiant fiscal, adresse, secteur, représentant légal, coordonnées).\n- Créer le projet : intitulé, localisation (région, province ou préfecture, commune), secteur et branche, montant total, calendrier d'investissement et emplois prévus sur cinq ans.\n- Remplir le questionnaire de cadrage : statut de l'investisseur, description, maturité du projet.\n- Sélectionner les procédures et avantages demandés : convention d'investissement, primes, avantages douaniers et fiscaux, actes administratifs, foncier public.\n- Compléter les informations générales : descriptif, étude de marché, note sur les emplois, planning d'investissement.\n- Téléverser les pièces (format PDF ; taille limitée par fichier). Un même document requis par plusieurs procédures ne se dépose qu'une fois.\n- Vérifier la cohérence : montant primable, primes, emplois, planning et justificatifs.\n- Visualiser l'ensemble, corriger, puis confirmer et valider la soumission définitive.\n- Recevoir le message de validation : numéro de dossier, conseiller CRI affecté, délai d'évaluation.\n### À retenir\nconserver une capture de la soumission et l'accusé de dépôt. Les délais courent en général à compter d'un dossier déclaré complet : demander par écrit la date de complétude.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-031",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Le dépôt au CRI, la convention et le versement des primes",
+  "t": "L'instruction et la décision",
+  "principe": "Le CRI vérifie la complétude, l'éligibilité, calcule le montant primable et les primes, prépare le projet de convention et le soumet à la CRUI (projets de moins de 250 MDH et dispositif TPME) ou au circuit national (250 MDH et plus). Selon la réforme de 2024, la CRUI statue en 20 jours, l'acte étant délivré dans les 10 jours suivants (statut C). En cas de demande de compléments, le dossier est suspendu jusqu'à la réponse. Pour le dispositif TPME, les dossiers éligibles sont classés par date de réception dans la limite des crédits.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-032",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Le dépôt au CRI, la convention et le versement des primes",
+  "t": "La convention d'investissement",
+  "principe": "La convention fixe les engagements réciproques. Avant de signer, l'investisseur vérifie :\n| Clause | Point de contrôle |\n| Programme d'investissement | Montant total et montant primable conformes au calcul ; ventilation par poste et par année réaliste |\n| Emplois | Nombre d'emplois stables, échéancier, mode de preuve (CNSS) |\n| Primes | Taux, montants, tranches, conditions de déblocage |\n| Délai | 3 ans (TPME) ou 5 ans (principal) ; conditions de prorogation par avenant |\n| Contrôle | Rapports à produire, visites, pièces à conserver |\n| Manquement | Restitution totale ou partielle, intérêts éventuels, résiliation |\n| Avenants | Changement de lieu, de montant, d'activité, de calendrier |\n| Litiges | Conciliation, juridiction |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-033",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Le dépôt au CRI, la convention et le versement des primes",
+  "t": "La demande de versement",
+  "principe": "| Dispositif | Jalon | Pièces habituelles |\n| TPME, primes territoriale et prioritaire, 1re tranche (50 %) | Investissement réalisé d'au moins 50 % du montant convenu | Factures acquittées, preuves de paiement, procès-verbaux de réception, état récapitulatif des dépenses certifié, photos |\n| TPME, solde | Exécution de toutes les obligations | Idem pour la totalité, attestation d'achèvement, preuves d'entrée en exploitation |\n| TPME, prime emplois | Emplois créés | Déclarations de salaires CNSS, contrats de travail d'au moins 18 mois, liste nominative |\n| Principal | Tranches prévues par la convention | Selon la convention ; justificatifs de dépenses et d'emplois |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "7-034",
+  "p": 7,
+  "ch": "7.4",
+  "c": "Le dépôt au CRI, la convention et le versement des primes",
+  "t": "Le suivi et la restitution",
+  "principe": "Le CRI suit l'exécution des conventions et établit des rapports semestriels pour le dispositif TPME. L'investisseur doit conserver toutes les pièces justificatives et maintenir les emplois. En cas de manquement, les primes reçues doivent être restituées (décret 2-23-1, art. 5 ; décret 2.25.342, art. 6). Il est prudent de demander un avenant dès qu'un écart apparaît (retard, changement de montant ou d'emplois), plutôt que d'attendre le contrôle final.",
+  "faq": [
+   [
+    "Comment valider le dossier sur la plateforme CRI ?",
+    "Après avoir renseigné l'entreprise, le projet, le questionnaire, les procédures demandées et téléversé toutes les pièces, l'investisseur visualise l'ensemble, corrige si nécessaire puis confirme la soumission définitive. Un message indique le conseiller CRI affecté et le délai d'évaluation."
+   ],
+   [
+    "Que faire si le projet prend du retard ?",
+    "Demander un avenant à la convention avant l'expiration du délai (3 ans pour le TPME, 5 ans pour le principal), en justifiant la cause (force majeure, retard d'autorisation). Sans avenant, le manquement expose à la restitution des primes."
+   ]
+  ],
+  "maj": "2026-10-17"
+ }
+]

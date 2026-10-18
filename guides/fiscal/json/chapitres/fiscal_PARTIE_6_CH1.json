@@ -1,0 +1,56 @@
+[
+ {
+  "id": "6-001",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Le contrôle fiscal : de l’avis de vérification à l’imposition",
+  "t": "Les formes de notification",
+  "principe": "Tout le contentieux fiscal repose sur des délais qui courent à compter d’une notification [CGI art. 219]. Celle-ci est valablement faite :\n- à l’adresse indiquée par le contribuable dans ses déclarations, actes ou correspondances ;\n- par lettre recommandée avec accusé de réception, ou par remise en main propre (agents assermentés de la DGI, agents du greffe, huissiers de justice, voie administrative) sous pli fermé, constatée par un certificat de remise ;\n- à la personne, au domicile (parents, employés, personnes habitant ou travaillant avec le destinataire), ou pour une société entre les mains de l’associé principal, du représentant légal, d’un employé ou de toute personne travaillant avec elle ;\n- en cas de refus de réception : notification acquise 10 jours après le refus ;\n- en cas de retour du pli (non réclamé, changement d’adresse, adresse inconnue ou incomplète, locaux fermés) : notification acquise 10 jours après la constatation de l’échec ;\n- par procédé électronique à l’adresse communiquée par le contribuable, avec les mêmes effets juridiques.\n### ATTENTION\nTenez votre adresse à jour auprès de l’administration et organisez la réception du courrier recommandé et électronique. Un pli « non réclamé » ou un courriel non lu ne suspend aucun délai.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-002",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Le contrôle fiscal : de l’avis de vérification à l’imposition",
+  "t": "Les procédures de contrôle",
+  "principe": "| Procédure | Objet | Base |\n| Contrôle sur pièces / demande d’explications | Analyse des déclarations ; demande détaillée d’explications ; régularisation possible par déclaration rectificative sous 30 jours | Art. 221 bis-III |\n| Déclaration rectificative pour erreurs matérielles | Invitation à rectifier sous 30 jours ; à défaut, taxation d’office | Art. 221 bis-I |\n| Dépassement des seuils RNS, CPU, auto-entrepreneur | Invitation à déposer des déclarations rectificatives sous 30 jours | Art. 221 bis-II |\n| Vérification de comptabilité | Contrôle sur place de la sincérité des écritures et déclarations | Art. 212 |\n| Examen de l’ensemble de la situation fiscale (personnes physiques) | Cohérence entre revenus, dépenses et avoirs liquides ; durée maximale de 6 mois | Art. 216 |\n| Contrôle des prix et déclarations estimatives (actes) | Rectification des prix déclarés dans les actes et conventions | Art. 220 |\n| Rectification des profits fonciers | Procédure spécifique | Art. 224 |\n| Droit de communication | Demande d’informations auprès des tiers, des administrations, et à l’international | Art. 214 |",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-003",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Le contrôle fiscal : de l’avis de vérification à l’imposition",
+  "t": "La vérification de comptabilité",
+  "principe": "### DÉROULEMENT D’UNE VÉRIFICATION [CGI ART. 212]\n- Avis de vérification notifié au moins 15 jours avant la date du contrôle, accompagné de la charte du contribuable ; il précise la période, les impôts et, le cas échéant, les postes ou opérations visés (vérification générale ou ponctuelle).\n- Démarrage dans les 5 jours ouvrables suivant la date fixée ; procès-verbal d’ouverture signé par les deux parties, copie remise au contribuable.\n- Lieu : domicile fiscal, siège social ou principal établissement ; présentation des documents comptables ; contrôle de l’existence physique des actifs.\n- Comptabilité informatisée : le contrôle s’étend aux données, traitements et documentation des systèmes.\n- Prix de transfert : la documentation doit être remise électroniquement au début du contrôle (entreprises de CA ou actif ≥ 50 MDH).\n- Durée maximale sur place : 3 mois si le CA de chaque exercice vérifié ≤ 50 MDH HT ; 6 mois si le CA de l’un des exercices > 50 MDH. Ne sont pas décomptées les suspensions liées au défaut de présentation des documents et à l’échange international de renseignements (180 jours maximum, contribuable informé sous 15 jours).\n- Échange oral et contradictoire avant la clôture sur les rectifications envisagées.\n- Notification des redressements dans les 3 mois suivant la fin du contrôle (procédure normale ou accélérée).\n### DÉFAUT DE PRÉSENTATION DES DOCUMENTS [CGI ART. 229, 191-I]\n- Lettre d’invitation à se conformer sous 15 jours.\n- À défaut : notification de l’amende (2 000 DH ; 500 à 2 000 DH en IR) et nouveau délai de 15 jours pour présenter les documents ou justifier l’absence de comptabilité.\n- À défaut : imposition d’office sans notification préalable, avec astreinte de 100 DH par jour (plafond 1 000 DH) ; contestation possible seulement par réclamation (art. 235).",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-004",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Le contrôle fiscal : de l’avis de vérification à l’imposition",
+  "t": "La procédure normale de rectification [CGI art. 220]",
+  "principe": "| Étape | Délai | Point d’attention |\n| 1re lettre de notification (motifs, nature, montant détaillé des redressements) | Dans les 3 mois suivant la fin du contrôle | Analyser chaque chef de redressement ; distinguer questions de fait et de droit |\n| Réponse du contribuable | 30 jours à compter de la réception | À défaut, imposition émise et contestable seulement par réclamation |\n| 2e lettre de notification (rejet motivé total ou partiel, base retenue) | 60 jours au maximum après la réponse | Indique la commission compétente |\n| Recours devant la CLT, la CRRF ou la CNRF | 30 jours à compter de la réception de la 2e lettre | À défaut, la base devient définitive |\n| Décision de la commission | — | Recours judiciaire ouvert aux deux parties sous 60 jours [art. 242] |\nÉmission immédiate des impositions [art. 220-VI] : défaut de réponse ou de recours ; accord partiel ou total écrit ; décision de commission ; points sur lesquels la commission s’est déclarée incompétente ; redressements non contestés ; et, sur les bases de la 2e lettre, lorsque intervient en cours de procédure une cession, cessation, procédure collective ou transformation.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-005",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Le contrôle fiscal : de l’avis de vérification à l’imposition",
+  "t": "La procédure accélérée [CGI art. 221]",
+  "principe": "Elle s’applique notamment : à la dernière période d’activité en cas de cession d’actifs, de cessation totale ou partielle, de procédure de sauvegarde, de redressement ou de liquidation, ou de transformation excluant de l’IS ou créant une personne morale nouvelle ; aux contribuables qui quittent le Maroc et aux ayants droit des contribuables décédés ; aux cessions de valeurs mobilières ; aux retenues des employeurs qui cessent leur activité ; aux périodes de cessation temporaire. Les délais sont les mêmes (30 jours, 60 jours, 30 jours) mais l’impôt est émis dès la 2e notification, sans attendre la décision de la commission.",
+  "maj": "2026-10-17"
+ },
+ {
+  "id": "6-006",
+  "p": 6,
+  "ch": "6.1",
+  "c": "Le contrôle fiscal : de l’avis de vérification à l’imposition",
+  "t": "La taxation d’office pour défaut de déclaration [CGI art. 228]",
+  "principe": "Lorsque le contribuable ne dépose pas dans les délais une déclaration (résultat fiscal, revenu global, CPU, profits fonciers, valeurs mobilières, TVA, actes, rémunérations de tiers, etc.), dépose une déclaration incomplète, ou ne verse pas les retenues à la source dont il est responsable :\n- il est invité, par lettre notifiée, à régulariser dans un délai de 30 jours ;\n- à défaut, l’administration lui notifie les bases évaluées sur lesquelles il sera imposé d’office ;\n- l’imposition est émise avec la majoration de 20 % de l’article 184, et ne peut être contestée que par voie de réclamation.\nEntreprises inactives [art. 228 bis] : les entreprises sans aucune déclaration ni paiement ni activité pendant les trois derniers exercices sont invitées à souscrire la déclaration de cessation sous 30 jours ; à défaut, elles sont inscrites au registre des entreprises inactives et la taxation d’office est suspendue — mais les factures émises en leur nom ne sont pas déductibles chez leurs clients [art. 146].",
+  "maj": "2026-10-17"
+ }
+]

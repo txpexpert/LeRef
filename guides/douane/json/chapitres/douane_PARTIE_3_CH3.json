@@ -1,0 +1,354 @@
+[
+  {
+    "id": "3-020",
+    "p": 3,
+    "ch": "3.3",
+    "c": "Déclaration en détail",
+    "t": "Dépôt de la déclaration en détail (DUM) sur BADR : signature électronique, enregistrement et responsabilité du signataire",
+    "enbref": "La déclaration en détail et ses documents sont déposés exclusivement par voie électronique sur BADR. C'est la signature électronique qui vaut dépôt et enregistrement : à partir de cette date et de cette heure, le signataire répond de l'exactitude des énonciations et de l'authenticité des documents joints. Une déclaration créée mais non signée dans les 60 jours est supprimée d'office.",
+    "textes": [
+      "CDII, art. 65, 66-1°, 74 et 203 bis",
+      "Arrêté du ministre de l'économie et des finances n° 913-15 du 06/03/2015",
+      "Arrêté n° 1319-77 du 31/10/1977, art. 1er et 6",
+      "Circulaires ADII n° 5746/312 du 29/12/2017 et n° 6662/312 du 24/06/2025",
+      "Circulaire ADII n° 6255/210 du 24/12/2021",
+      "Circulaire ADII n° 5877/312 du 19/11/2018"
+    ],
+    "principe": "Toute marchandise importée ou présentée à l'exportation fait l'objet d'une déclaration en détail qui lui assigne un régime douanier, même lorsqu'elle est exonérée de droits (CDII, art. 65). La déclaration est déposée dans un bureau ouvert à l'opération (art. 66-1°). Elle est l'acte par lequel une personne manifeste la volonté d'assigner un régime à la marchandise ; elle peut être électronique, et forme avec ses annexes un document unique et indivisible (art. 74 ; circ. n° 6255/210).\nLe dépôt des déclarations en détail et des documents annexés s'effectue par procédé électronique ou informatique, sauf dérogation par arrêté ; les déclarations sont signées conformément à la loi n° 43-20 relative aux services de confiance pour les transactions électroniques (CDII, art. 203 bis). Les énonciations correspondent aux cases de la formule réglementaire, dont les modalités d'utilisation sont fixées par instruction du directeur (arrêté n° 1319-77, art. 1er et 6).\nÉtapes sur BADR (circ. n° 5746/312) :\n- création de la déclaration, qui reçoit une référence d'identification ;\n- chargement des documents annexes ;\n- signature électronique, qui vaut dépôt et enregistrement, avec confirmation adressée au signataire ;\n- prise en charge par le service (« initier contrôle »), qui déclenche la sélectivité. Lorsque plusieurs espèces de marchandises figurent sur une même déclaration, chacune est réputée faire l'objet d'une déclaration indépendante (CDII, art. 75). Le déclarant qui ne dispose pas des éléments nécessaires peut être autorisé à examiner les marchandises et à prélever des échantillons avant de déclarer, moyennant une déclaration provisoire qui ne dispense pas de la déclaration en détail ; toute manipulation modifiant la présentation des marchandises est alors interdite (art. 76). Les déclarations recevables sont enregistrées immédiatement ; sont irrecevables celles déposées hors délai, sauf dérogation, ou qui ne respectent pas les conditions de forme fixées par arrêté (art. 77).",
+    "admin": "Depuis le 18/01/2018, la signature et le dépôt électroniques sont étendus à tous les régimes ; la date et l'heure de signature constituent la date d'enregistrement, et engagent la responsabilité du signataire (circ. n° 5746/312). Une déclaration créée et non signée dans les 60 jours est supprimée d'office. Sont dispensées du dépôt électronique les déclarations conventionnelles (ATA, TIR, postale), occasionnelles et certaines déclarations du titre IV de l'arrêté n° 1319-77. En cas d'interruption du système, la procédure manuelle sur papier s'applique, puis la déclaration est déposée électroniquement (circ. n° 5746/312). Le dépôt vaut engagement du signataire sur l'authenticité des documents annexés (arrêté n° 913-15, art. 3 ; circ. n° 6662/312). La dématérialisation a été étendue aux déclarations de mise à la consommation en suite de régimes économiques et en provenance des zones franches : depuis le 22/11/2018, elles ne donnent plus lieu à dépôt physique pour les codes régimes 040, 044, 046, 047, 048, 050, 094, 097 et 430, les pièces destinées à la Cour des comptes étant éditées à partir de BADR (circ. n° 5877/312).",
+    "donnees": [
+      [
+        "Mode de dépôt",
+        "Électronique, sauf dérogation (CDII, art. 203 bis)"
+      ],
+      [
+        "Date d'enregistrement",
+        "Date et heure de la signature électronique (circ. n° 5746/312)"
+      ],
+      [
+        "Déclaration non signée",
+        "Supprimée d'office après 60 jours (circ. n° 5746/312)"
+      ],
+      [
+        "Dispenses",
+        "ATA, TIR, postale, occasionnelle (circ. n° 5746/312)"
+      ],
+      [
+        "Déclaration provisoire",
+        "Examen et prélèvement d'échantillons avant déclaration (CDII, art. 76)"
+      ],
+      [
+        "MAC en suite de RED et de zones franches",
+        "Plus de dépôt physique depuis le 22/11/2018 (circ. n° 5877/312)"
+      ]
+    ],
+    "cas": "La société fictive Atlas Pièces Auto importe des plaquettes de frein. Son transitaire crée la déclaration le 3 mai, charge la facture et le connaissement, mais attend l'avis de son client sur la position tarifaire et ne signe que le 5 mai à 16 h 40. C'est cette date et cette heure qui comptent comme dépôt. L'erreur à éviter : croire que la création de la DUM suffit. Une déclaration non signée n'est pas déposée, et elle disparaît au bout de 60 jours.",
+    "juris": "",
+    "conseil": "Avant de signer, relisez chaque article de la déclaration avec la facture : après la signature, toute correction passe par une demande de rectification. Vérifiez la validité du certificat électronique de chaque signataire de votre cabinet. En cas de panne de BADR, conservez la preuve de la procédure manuelle utilisée.",
+    "faq": [
+      [
+        "Quelle date retient l'administration comme date de dépôt ?",
+        "La date et l'heure de la signature électronique sur BADR (circ. n° 5746/312)."
+      ],
+      [
+        "Une marchandise exonérée doit-elle être déclarée ?",
+        "Oui, l'exemption de droits ne dispense pas de la déclaration en détail (CDII, art. 65-2°)."
+      ],
+      [
+        "Puis-je voir la marchandise avant de la déclarer ?",
+        "Oui, sur autorisation, en déposant une déclaration provisoire, sans manipuler la présentation des marchandises (CDII, art. 76)."
+      ]
+    ],
+    "renvois": [
+      "3-021",
+      "3-022",
+      "3-023",
+      "3-024",
+      "3-030",
+      "1-030"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-021",
+    "p": 3,
+    "ch": "3.3",
+    "c": "Déclaration en détail",
+    "t": "Documents à joindre à la déclaration en détail : documents annexes, documents exigibles, délai de 30 jours et sanction",
+    "enbref": "Les documents annexes (titre de transport, facture, documents techniques, preuve d'origine, bon de franchise) doivent être chargés sur BADR avant la signature de la déclaration. Les documents exigibles au titre des réglementations particulières peuvent l'être après, dans un délai de 30 jours. Le défaut d'annexer les documents exigés est une contravention de 3e classe.",
+    "textes": [
+      "Arrêté n° 1319-77 du 31/10/1977, art. 8 et 9",
+      "CDII, art. 74-2° et 297 bis",
+      "Circulaires ADII n° 6528/312 du 15/01/2024, n° 5746/312 du 29/12/2017, n° 6639/312 du 18/02/2025 et n° 6662/312 du 24/06/2025",
+      "Circulaire ADII n° 6755/311 du 02/07/2026"
+    ],
+    "principe": "Doivent être joints à la déclaration en détail, à l'importation comme à l'exportation, les factures et tous autres documents exigés pour l'application des droits et taxes, des régimes douaniers et des législations auxquelles la douane prête son concours, notamment le contrôle du commerce extérieur et des changes (arrêté n° 1319-77, art. 8). Le déclarant peut produire des notes de détail par colis (art. 9). La déclaration et ses annexes forment un document unique et indivisible (CDII, art. 74-2°).\nLa loi de finances 2024 a créé une contravention de 3e classe pour défaut d'annexer à la déclaration les documents exigés (CDII, art. 297 bis ; circ. n° 6528/312). Elle est punie d'une amende de 10 000 à 50 000 DH (CDII, art. 297-8° et 297 bis).\nDocuments annexes, à joindre avant la signature (circ. n° 6528/312) :\n- titres de transport ou de propriété ;\n- documents commerciaux : factures, facture-colisage, lettre de cession, note de fret, assurance ;\n- documents techniques ;\n- documents ouvrant droit à un avantage fiscal ou préférentiel : bon de franchise, preuve d'origine conventionnelle, DFD.\nDocuments exigibles, à joindre après la signature, dans un délai de 30 jours :\n- autorisations sectorielles, certificats sanitaires et autres documents des réglementations particulières. Les documents commerciaux annexés peuvent être déposés et transmis de façon sécurisée par une plateforme électronique agréée (CDII, art. 76 ter), et les registres et documents des opérations doivent être conservés quatre ans (art. 42-2°).",
+    "admin": "Une tolérance peut être accordée au-delà de 30 jours dans des cas justifiés, notamment quand le retard vient de l'organisme émetteur ; le chargement n'est pas requis lorsque l'organisme transmet directement le document à la douane par échange de données (circ. n° 6528/312). Pour les factures volumineuses, une facture récapitulative peut être déposée sur autorisation (circ. n° 5746/312). Le déclarant vérifie l'authenticité de chaque document, notamment par son code QR, sous peine d'engager sa responsabilité personnelle (circ. n° 6662/312). La conservation des originaux partagés entre plusieurs opérations incombe au propriétaire de la marchandise, à qui le transitaire les remet contre décharge (circ. n° 6639/312). Pour plusieurs organismes partenaires, les autorisations et résultats de contrôle sont désormais transmis électroniquement à l'ADII : AMMPS (autorisations de mise sur le marché, visas sanitaires et autorisations spécifiques d'importation de médicaments), direction de l'Épidémiologie (pesticides de santé publique), département de la Communication (livres et périodiques), Centre cinématographique marocain (films) et BMDA (supports et équipements soumis à la rémunération pour copie privée). L'enlèvement est subordonné à la réception électronique du document, les autorisations sur papier restant admises à titre transitoire (circ. n° 6755/311 du 02/07/2026).",
+    "donnees": [
+      [
+        "Documents annexes",
+        "Avant signature (circ. n° 6528/312)"
+      ],
+      [
+        "Documents exigibles",
+        "30 jours après signature (circ. n° 6528/312)"
+      ],
+      [
+        "Sanction",
+        "Contravention de 3e classe (CDII, art. 297 bis)"
+      ],
+      [
+        "Authenticité",
+        "Vérification obligatoire, code QR (circ. n° 6662/312)"
+      ],
+      [
+        "Documents transmis par l'organisme",
+        "Enlèvement à réception électronique ; papier admis à titre transitoire (circ. n° 6755/311)"
+      ]
+    ],
+    "cas": "La société fictive Fès Agro Import dédouane des semences sous accord préférentiel. Son transitaire charge avant la signature la facture, le connaissement, la fiche technique et le certificat EUR.1 ; il charge le certificat phytosanitaire, délivré quatre jours plus tard, dans le délai de 30 jours. L'erreur fréquente : signer sans la preuve d'origine en comptant la joindre ensuite. C'est un document annexe : son absence à la signature constitue la contravention.",
+    "juris": "",
+    "conseil": "Établissez pour chaque produit une liste de contrôle en deux colonnes, annexes et exigibles, et bloquez la signature tant que la première n'est pas complète. Scannez la preuve d'origine et la facture recto-verso. Vérifiez le code QR des certificats avant de les charger, et faites signer par votre client la décharge de remise des originaux.",
+    "faq": [
+      [
+        "Peut-on joindre le certificat sanitaire après la signature ?",
+        "Oui, c'est un document exigible, à produire dans les 30 jours de la signature (circ. n° 6528/312)."
+      ],
+      [
+        "La preuve d'origine est-elle un document annexe ?",
+        "Oui, elle doit être jointe avant la signature (circ. n° 6528/312)."
+      ],
+      [
+        "Qui conserve les originaux ?",
+        "Le signataire, et pour les documents partagés, le propriétaire de la marchandise (circ. n° 6639/312)."
+      ],
+      [
+        "Dois-je charger l'autorisation AMMPS sur BADR ?",
+        "Non lorsque l'AMMPS la transmet électroniquement à la douane : l'enlèvement est alors subordonné à sa réception électronique (circ. n° 6755/311 ; circ. n° 6528/312)."
+      ]
+    ],
+    "renvois": [
+      "3-020",
+      "3-024",
+      "2-022",
+      "5-021",
+      "9-012",
+      "1-032"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-022",
+    "p": 3,
+    "ch": "3.3",
+    "c": "Déclaration en détail",
+    "t": "Déclaration en détail par anticipation : conditions de dépôt, prise d'effet à l'arrivée, droits applicables, rectification et annulation",
+    "enbref": "La déclaration en détail peut être enregistrée avant l'arrivée de la marchandise, sans autorisation préalable, si celle-ci est déjà reprise dans une déclaration sommaire. Juridiquement, elle ne prend effet qu'à l'arrivée : les droits applicables sont ceux de cette date, avec le tarif le plus favorable sur demande. Elle se rectifie librement tant que la marchandise n'est pas arrivée.",
+    "textes": [
+      "CDII, art. 66-2°, 79 et 90",
+      "Arrêté n° 1318-77 du 31/10/1977, art. 1er, modifié par l'arrêté n° 1640-22 du 20/06/2022",
+      "Circulaire ADII n° 6369/312 du 26/09/2022"
+    ],
+    "principe": "La déclaration en détail peut être déposée avant l'arrivée des marchandises, dans les conditions fixées par arrêté (CDII, art. 66-2°), à condition que celles-ci aient été préalablement prises en charge par une déclaration sommaire (arrêté n° 1318-77, art. 1er). L'arrêté n° 1640-22 a généralisé ce dépôt sans autorisation préalable ; pour les importations maritimes et aériennes, il suppose le pré-apurement d'un lot de la déclaration sommaire et l'enregistrement sur BADR avec la mention « Par anticipation » (circ. n° 6369/312).\nLa déclaration anticipée ne prend effet qu'au jour de l'arrivée des marchandises, sous réserve de sa conformité à l'article 74, y compris pour la mainlevée (CDII, art. 79). Les droits et taxes applicables sont donc ceux en vigueur à l'arrivée, c'est-à-dire, par mer, à la date d'accostage, sans préjudice de la clause transitoire de l'article 13. Si les taux baissent entre l'enregistrement et l'arrivée, le déclarant peut demander le tarif le plus favorable (CDII, art. 89 et 90 ; circ. n° 6369/312).\nLe déroulement pratique de l'opération (initiation du contrôle, circuits, enlèvement à l'arrivée) est décrit au n° 3-041. Depuis la LF 2026, les deux conditions de la clause transitoire sont alternatives : un titre de transport établissant une destination directe vers le Maroc ou un crédit documentaire irrévocable et confirmé, antérieurs au nouveau texte, suffisent à obtenir le régime antérieur plus favorable, pour une mise directe à la consommation (CDII, art. 13 ; circ. n° 6702/210).",
+    "admin": "Avant l'arrivée de la marchandise, la déclaration anticipée peut être rectifiée sans suite contentieuse ; après l'arrivée, seulement aux conditions de l'article 78-2° du CDII. Elle peut être annulée à la demande du déclarant dans les conditions de l'article 78 bis, ou d'office lorsqu'elle est restée sans suite pendant 60 jours, en application de l'article 78 ter (circ. n° 6369/312).",
+    "donnees": [
+      [
+        "Condition",
+        "Prise en charge par déclaration sommaire (arrêté n° 1318-77, art. 1er)"
+      ],
+      [
+        "Autorisation préalable",
+        "Supprimée par l'arrêté n° 1640-22 (circ. n° 6369/312)"
+      ],
+      [
+        "Prise d'effet",
+        "Jour d'arrivée des marchandises (CDII, art. 79)"
+      ],
+      [
+        "Droits applicables",
+        "Ceux de l'arrivée ; tarif le plus favorable sur demande (CDII, art. 90)"
+      ],
+      [
+        "Annulation d'office",
+        "Sans suite pendant 60 jours (CDII, art. 78 ter ; circ. n° 6369/312)"
+      ]
+    ],
+    "cas": "La société fictive Oasis Électroménager dépose le 28 décembre, par anticipation, la déclaration d'un lot de réfrigérateurs dont le navire accoste le 3 janvier. La loi de finances ayant abaissé le droit applicable au 1er janvier, son transitaire demande expressément le tarif le plus favorable : c'est le taux du 3 janvier qui s'applique. Une erreur de quantité découverte le 30 décembre est corrigée sans suite contentieuse, la marchandise n'étant pas encore arrivée. L'erreur fréquente : croire que la date d'enregistrement fixe les droits, comme pour une déclaration ordinaire.",
+    "juris": "",
+    "conseil": "Utilisez la période qui précède l'arrivée pour fiabiliser la déclaration : la rectification y est libre. Autour du 1er janvier, comparez les taux de l'ancienne et de la nouvelle loi de finances et demandez par écrit le tarif le plus favorable. Surveillez les déclarations dont le navire est retardé : au-delà de 60 jours sans suite, elles sont annulées d'office.",
+    "faq": [
+      [
+        "Faut-il une autorisation pour déclarer par anticipation ?",
+        "Non, depuis l'arrêté n° 1640-22, sous réserve du pré-apurement de la déclaration sommaire (circ. n° 6369/312)."
+      ],
+      [
+        "Quel taux s'applique si le droit change avant l'arrivée ?",
+        "Le taux à la date d'arrivée, ou le plus favorable sur demande (CDII, art. 79 et 90)."
+      ],
+      [
+        "Jusqu'à quand puis-je corriger librement ma déclaration ?",
+        "Tant que la marchandise n'est pas arrivée sur le territoire assujetti ; ensuite, aux conditions de l'article 78-2° (circ. n° 6369/312)."
+      ],
+      [
+        "Une déclaration anticipée enregistrée en décembre est-elle taxée au taux de décembre ?",
+        "Non : elle ne prend effet qu'à l'arrivée des marchandises, dont les droits en vigueur s'appliquent, sous réserve de la clause transitoire et du tarif plus favorable (CDII, art. 79, 89 et 90)."
+      ]
+    ],
+    "renvois": [
+      "3-002",
+      "3-020",
+      "3-023",
+      "3-041",
+      "4-002"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "04/10/2026 — Recentrage sur le régime juridique de la déclaration anticipée ; le déroulement opérationnel est transféré au n° 3-041",
+      "18/10/2026 — Version enrichie : principe, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-023",
+    "p": 3,
+    "ch": "3.3",
+    "c": "Déclaration en détail",
+    "t": "Rectification et annulation de la déclaration en détail : avant mainlevée, révélation volontaire et cas d'annulation",
+    "enbref": "Une déclaration enregistrée ne peut en principe plus être modifiée. Avant mainlevée, et tant que le service n'a annoncé ni vérification ni inexactitude, elle peut être rectifiée sans pénalité sur autorisation. Après mainlevée, la révélation volontaire dans les 30 jours peut dispenser des pénalités. L'annulation n'est possible que dans les cas énumérés par l'article 78 bis.",
+    "textes": [
+      "CDII, art. 78, 78 bis et 78 ter",
+      "Décret n° 2-77-862, art. 74 et 74 bis",
+      "Circulaires ADII n° 5746/312 du 29/12/2017 et n° 6369/312 du 26/09/2022"
+    ],
+    "principe": "Après enregistrement, la déclaration ne peut plus être modifiée et son exactitude s'apprécie d'après ce qui a été déclaré (CDII, art. 78-1°). Avant mainlevée, tant que l'administration n'a pas signalé son intention de vérifier ni constaté d'inexactitude, le déclarant peut la rectifier sans pénalité sur autorisation (art. 78-2°). Le déclarant qui révèle volontairement des inexactitudes dans les 30 jours suivant la mainlevée peut être dispensé de tout ou partie des pénalités pécuniaires, sauf s'il a déjà été informé d'un contrôle ou d'une enquête (art. 78-3°).\nPour cette dispense, la demande indique le propriétaire, la déclaration en cause, les énonciations rectifiées, les motifs de l'erreur et les justificatifs, et ne porte que sur les marchandises déclarées (décret n° 2-77-862, art. 74). Elle est accordée après vérification sans infraction, si l'erreur était décelable lors de la déclaration et si les marchandises sont encore sous douane ou intactes et identifiables chez l'importateur (art. 74 bis).\nL'annulation est interdite après enregistrement, sauf autorisation sur demande dans les cas énumérés, notamment : marchandises non exportées, non conformes aux règles sanitaires, à la commande ou détruites avant mainlevée, erreur de régime, double emploi, déclaration sans incidence fiscale ou marchandise non débarquée (art. 78 bis). L'annulation éteint les effets de la déclaration, hors suites contentieuses. Les déclarations restées sans suite à l'expiration des délais peuvent être annulées d'office (art. 78 ter). Parmi les seize cas d'annulation de l'article 78 bis figurent aussi les marchandises retournées à l'expéditeur par la poste, les cessions sous régime suspensif qui n'ont pu aboutir, avec l'accord du cédant et du cessionnaire et sans certificat de décharge, le passage d'un régime suspensif à un autre, et les déclarations sous régime économique pour lesquelles la caution n'a pas été produite ; le directeur général peut modifier cette liste (art. 78 bis-2°). En cas de rectification ou d'annulation, les droits et taxes indûment perçus sont restitués, sous réserve de la prescription quadriennale (art. 95 bis et 99 quinquies).",
+    "admin": "Les demandes de rectification se font en ligne sur BADR, la modification ou l'annulation restant soumise aux conditions légales (circ. n° 5746/312). Pour une déclaration anticipée, la rectification est libre avant l'arrivée de la marchandise, et l'annulation d'office intervient sans suite dans les 60 jours (circ. n° 6369/312).",
+    "donnees": [
+      [
+        "Rectification sans pénalité",
+        "Avant mainlevée, sur autorisation (CDII, art. 78-2°)"
+      ],
+      [
+        "Révélation volontaire",
+        "30 jours après mainlevée (CDII, art. 78-3°)"
+      ],
+      [
+        "Annulation",
+        "Cas limitatifs (CDII, art. 78 bis)"
+      ],
+      [
+        "Annulation d'office",
+        "Déclarations sans suite (CDII, art. 78 ter)"
+      ],
+      [
+        "Restitution après rectification ou annulation",
+        "Droits indûment perçus restitués ; prescription de 4 ans (CDII, art. 95 bis et 99 quinquies)"
+      ]
+    ],
+    "cas": "La société fictive Meknès Textile constate, deux semaines après la mainlevée, que son transitaire a déclaré 1 200 mètres de tissu au lieu de 1 500. Aucun contrôle ne lui a été notifié. Elle dépose une demande de rectification avec la facture et la liste de colisage, les rouleaux étant encore intacts et identifiables dans son entrepôt. L'erreur à éviter : attendre la fin du mois et dépasser le délai de 30 jours.",
+    "juris": "",
+    "conseil": "Rapprochez chaque mainlevée de la facture et du bon de réception dans la semaine qui suit. Ne déballez ni ne transformez la marchandise tant qu'une rectification est en cours : elle doit rester identifiable. Pour une annulation, citez dans la demande le cas précis de l'article 78 bis invoqué.",
+    "faq": [
+      [
+        "Peut-on corriger une DUM après la mainlevée ?",
+        "Oui, par révélation volontaire dans les 30 jours, avec dispense possible des pénalités (CDII, art. 78-3°)."
+      ],
+      [
+        "Une erreur de régime permet-elle l'annulation ?",
+        "Oui, dans les cas prévus, par exemple une marchandise déclarée pour la consommation mais destinée à un régime économique, avant mainlevée (CDII, art. 78 bis)."
+      ],
+      [
+        "L'annulation d'une déclaration entraîne-t-elle le remboursement des droits payés ?",
+        "Oui, les droits indûment perçus sont restitués, la demande devant être faite dans les quatre ans suivant la quittance (CDII, art. 95 bis et 99 quinquies)."
+      ]
+    ],
+    "renvois": [
+      "3-020",
+      "3-022",
+      "3-030",
+      "3-034",
+      "9-012",
+      "9-030"
+    ],
+    "maj": "2026-10-18",
+    "verif": "oui",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : principe, données clés, questions fréquentes mis à jour"
+    ]
+  },
+  {
+    "id": "3-024",
+    "p": 3,
+    "ch": "3.3",
+    "c": "Déclaration en détail",
+    "t": "Guichet unique PortNet et dédouanement : mandats, inscription des opérateurs, bon à délivrer, contrôles et franchises",
+    "enbref": "PortNet est le guichet unique national du commerce extérieur relié à BADR. Plusieurs formalités y passent obligatoirement : l'inscription des opérateurs, les mandats donnés aux transitaires, l'émission des bons à délivrer, les demandes de franchise et l'échange des résultats des contrôles techniques. Un mandat inactif pendant un an est annulé automatiquement.",
+    "textes": [
+      "Circulaires ADII n° 6102/410 du 04/11/2020, n° 6421/411 du 15/02/2023, n° 5995/300 du 25/12/2019, n° 6035/200 du 09/04/2020 et n° 6636/312 du 10/02/2025",
+      "Brochure ADII « Le dédouanement en ligne — B@DR »",
+      "Circulaire ADII n° 6755/311 du 02/07/2026"
+    ],
+    "principe": "Le guichet unique PortNet n'est visé ni par le CDII ni par son décret d'application. Les circulaires de l'ADII en font toutefois le point d'entrée obligatoire de plusieurs formalités liées au dédouanement.\nFormalités passant par PortNet :\n- inscription des opérateurs dans BADR et modification de leurs données, depuis le 10/11/2020, sauf opérateurs sans registre de commerce (circ. n° 6102/410) ;\n- attribution, modification et annulation des mandats donnés aux transitaires, depuis le 01/03/2023 ; annulation automatique après un an sans signature de déclaration (circ. n° 6421/411) ;\n- bons à délivrer créés à partir des déclarations sommaires et des états de dépotage, transmis via PortNet depuis le 03/02/2020 (circ. n° 5995/300) ;\n- demandes de franchise douanière au titre des contingents tarifaires et des accords préférentiels, depuis le 08/04/2020 (circ. n° 6035/200) ;\n- échange des résultats des contrôles techniques (Industrie, ONSSA, etc.), transmis automatiquement à la douane dès l'enregistrement de la DUM (brochure B@DR).",
+    "admin": "La circulaire n° 5995/300 prévoit qu'à terme la mainlevée sera subordonnée à la réception du bon à délivrer via PortNet ; la première étape exclut Tanger Med et le titre de transport reste annexé à la DUM. Pour la DS MEAD, l'émission des bons à délivrer est automatique sur PortNet (circ. n° 6636/312). Les demandes de franchise non disponibles sur PortNet restent scannées et jointes à la DUM sur BADR (circ. n° 6035/200). L'échange électronique des résultats de contrôle s'étend progressivement à d'autres organismes, notamment l'AMMPS, le Centre cinématographique marocain et le BMDA (circ. n° 6755/311 du 02/07/2026) ; les difficultés peuvent être signalées via l'outil d'assistance DAAM.",
+    "donnees": [
+      [
+        "Inscription des opérateurs",
+        "Via PortNet depuis le 10/11/2020 (circ. n° 6102/410)"
+      ],
+      [
+        "Mandats des transitaires",
+        "Via PortNet depuis le 01/03/2023 (circ. n° 6421/411)"
+      ],
+      [
+        "Mandat inactif",
+        "Annulé après un an sans signature (circ. n° 6421/411)"
+      ],
+      [
+        "Bon à délivrer",
+        "Via PortNet depuis le 03/02/2020 (circ. n° 5995/300)"
+      ],
+      [
+        "Demande de franchise",
+        "Via PortNet depuis le 08/04/2020 (circ. n° 6035/200)"
+      ]
+    ],
+    "cas": "La société fictive Kénitra Bio Export change de transitaire. Elle attribue le nouveau mandat sur PortNet et annule l'ancien. Son ancien transitaire, inactif pour elle depuis quatorze mois, avait de toute façon perdu le mandat automatiquement. L'erreur fréquente : envoyer une procuration papier au bureau de douane, qui n'est plus admise pour un opérateur doté d'un registre de commerce.",
+    "juris": "",
+    "conseil": "Vérifiez sur PortNet, avant chaque nouvelle relation, que le mandat est actif et couvre le bon opérateur. Mettez à jour l'adresse électronique utilisée pour le paiement multicanal. Avant de déposer la DUM d'un conteneur maritime, assurez-vous que le bon à délivrer a bien été émis par l'agent maritime.",
+    "faq": [
+      [
+        "Comment donner mandat à un transitaire ?",
+        "Exclusivement via PortNet, pour les opérateurs disposant d'un registre de commerce (circ. n° 6421/411)."
+      ],
+      [
+        "Le bon à délivrer doit-il encore être joint à la DUM ?",
+        "Il est transmis via PortNet ; le titre de transport reste annexé à la DUM jusqu'à nouvel ordre (circ. n° 5995/300)."
+      ]
+    ],
+    "renvois": [
+      "1-032",
+      "3-020",
+      "3-021",
+      "3-013",
+      "4-003",
+      "5-021"
+    ],
+    "maj": "2026-10-18",
+    "verif": "partiel",
+    "mod": true,
+    "hist": [
+      "18/10/2026 — Version enrichie : textes applicables, principe, position de l'administration mis à jour"
+    ]
+  }
+]
